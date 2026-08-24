@@ -17,7 +17,7 @@ Justin
      │
      ├─ Sloan — Content & Education Lead    Edify brand: YouTube, classes, referrals, repurposing
      │    └─ youtube-scriptwriter, class-host-prepper, referral-ritual-drafter,
-     │       video-repurposer, venue-partner-researcher
+     │       video-repurposer, venue-partner-researcher, story-capture-specialist
      │
      └─ Ed — Marketing Compliance Lead   checkpoint before anything publishes
           └─ marketing-preflight-checker, testimonial-endorsement-checker,
