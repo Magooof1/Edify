@@ -113,7 +113,12 @@ in roughly the order they'd earn their keep:
 - **Client Service & Implementation** — rollover tracking, account-opening checklists,
   service-request tracking for the Trulip execution side.
 - **Growth & Pipeline** — prospect pipeline tracking, 401k plan-sponsor (institutional)
-  outreach, the new ACA/Medicare line launching this fall.
+  outreach, the new ACA/Medicare line launching this fall. **Decided:** the copy for a
+  "stay-warm" nurture cadence (for people who took the free Financial House Analysis and
+  haven't become clients) is Sloan's to draft now, on request — it's content, squarely
+  her lane. The tracking/pipeline mechanics (who got what, when, follow-up cadence,
+  moving people through stages) wait for this director to exist for real, so the whole
+  pipeline has one owner instead of being split and re-homed later.
 - **Market & Policy Research** — watching SECURE Act/RMD/tax changes, rate environment,
   Medicare/ACA enrollment windows, competitor activity.
 
