@@ -43,6 +43,19 @@ report on them as if they were separable channels.
   (friends, family, Facebook) points to format/competitor crowding — more advisors
   in the Cincinnati area have adopted the same "free college retirement class"
   format, splitting the same prospect pool across more competitors.
+- **Dollar pipeline, confirmed (2026-08-25) — this is the key reframe.** Justin
+  reports roughly **$7M, possibly $10M, currently in pipeline sourced from the
+  classes** (actively being worked; no action needed on it). Against a ~$22M book
+  that's 30-45% of current AUM in play from the supposedly "saturating" channel.
+  This directly answers Taleb's first diagnostic question: dollar output has NOT
+  collapsed alongside attendance. Practical consequence: declining attendance looks
+  closer to a vanity metric than a business problem — fewer attendees, but high
+  quality and elite conversion. This argues against abandoning the class format and
+  for fixing top-of-funnel volume instead.
+- Cost-per-unit erosion (derived from figures above, 2026-08-25): historical mail
+  produced units at ~$500-1,000 each ($10K / 10-20 units); the most recent mailer
+  produced them at ~$3,333 each ($10K / 3 units) — a 3-6x increase in cost to buy
+  one attending household.
 - Strategic implication (diagnosis only, not a decision — flagged for Taleb's
   analysis): looks like a top-of-funnel/format-crowding problem, not a demand or
   skill problem. Edify's original growth plan already names unions, credit unions,
@@ -112,6 +125,17 @@ as something he "needs to use," not open-ended discretionary budget.
       priorities change; the compliance path (needs both the rebating check AND
       outside counsel's promoter read) is already documented above and in
       compliance-precedents.md if this comes back up.
+
+## Referrals (confirmed 2026-08-25)
+- Volume: a few per quarter that convert to actual business — a real, working lane,
+  not a dormant one.
+- **But: referral-sourced clients are meaningfully smaller than class-sourced
+  clients.** Justin's words: "not the client size that the classes bring."
+- Practical consequence: referrals are worth strengthening (they're free and don't
+  depend on a crowded venue), but they are not a like-for-like replacement for the
+  class channel on a dollar basis. Don't model them as one.
+- Justin's own read: "There is opportunity here" — i.e., under-developed rather than
+  maxed out.
 
 ## Strategic context (2026-08-25)
 - New tactical ideas (e.g., a YouTube channel) are paused while Justin builds an
