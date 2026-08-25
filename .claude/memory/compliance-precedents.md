@@ -38,6 +38,38 @@ content):**
 5. **Any "no pitch" promise to attendees** needs to be a real enforced operating rule,
    not just script language. Breaking it is a trust problem on top of a compliance one.
 
+**Refinement (2026-08-25, same day, follow-up question from Justin) — sharpens checklist
+items 1 and 2 into an operational rule:**
+
+Ed clarified that items 1 (anti-rebating) and 2 (promoter) above are **independent
+checks, not two symptoms of the same problem** — they can apply separately, together, or
+not at all, depending on the specifics of a given event:
+
+1. **Promoter/endorsement concern (checklist item 2) requires TWO elements together:**
+   (a) a client introducing prospective clients (people new to the advisor's business) to
+   (b) an event/thing of value the advisor is funding. Remove either element and the
+   promoter question doesn't apply. A client-and-family-only event, with no one new being
+   introduced, does NOT trigger this concern on its own.
+2. **Anti-rebating check (checklist item 1) is completely independent of guest list or
+   prospect presence.** It applies purely based on whether the specific client receiving
+   something of value has insurance/annuity business with Trulip. A pure client-only
+   event still needs this check on its own terms — the absence of any prospects does not
+   exempt it.
+3. **Edge case worth remembering:** even a family-only/client-only event can raise the
+   same promoter mechanic if a client actively promotes the advisor to a non-client
+   attendee (an introduction, an encouraged follow-up) rather than the attendee just
+   passively being present. A single unplanned instance is low risk. It becomes a real
+   concern if it becomes a repeated pattern — i.e., if client events routinely and
+   predictably produce new prospects being followed up on, that starts to look like an
+   undisclosed referral arrangement regardless of what the event is called.
+
+**Practical routing takeaway:** when a client-facing gift/event idea comes in, ask two
+questions up front — they route independently, not as alternatives to each other:
+- Does this event involve a client introducing people who aren't yet clients? If yes,
+  flag for the promoter/outside-counsel check.
+- Does any invited client have insurance/annuity business with Trulip? If yes, flag for
+  the OH/KY rebating check — regardless of the answer to the first question.
+
 **Status (as of 2026-08-25):** Both events paused. Open items:
 - Justin to confirm current OH/KY rebating dollar caps via his insurance compliance
   resource against the actual cost of each gift.
