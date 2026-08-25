@@ -95,14 +95,23 @@ as something he "needs to use," not open-ended discretionary budget.
 - **Practical implication (flagged, not decided):** this rules out spending the $7K
   on a YouTube channel or any general digital lead-gen investment — neither is a
   public-workshop, networking-event, or client-appreciation cost.
-- **Two candidate uses raised, neither decided:**
-  (a) A client-appreciation event — lower-risk than a new-audience bet since it
-      targets existing clients; could feed the existing referral-ritual-drafter
-      specialist.
-  (b) A networking event aimed at building one specific gated relationship (e.g., a
-      union benefits committee or an employer HR contact) rather than a cold pitch —
-      ties to Taleb's earlier point that gated relationships, not venue category,
-      are what resists competitor copying.
+- **Two candidate uses raised — decided (2026-08-25):**
+  (a) **Multigenerational family photo shoot — approved by Justin, scheduled for next
+      spring** (not the fall pilot Sloan originally proposed). Compliance path: needs
+      only the per-client anti-rebating check (does the specific client have
+      insurance/annuity business with Trulip) — no promoter/counsel question, since
+      it's client-and-family-only with no new prospects introduced. Invite drafts
+      already written by Sloan (personal call + confirmation text, correcting the
+      mass-email failure from the prior attempt); pending Ed's photo-consent process
+      before send. Open logistics: photographer, location, selection rationale for
+      who's invited (needs to be non-discriminatory, not tied to AUM/production).
+  (b) **Retirement celebration + coworker invite — paused by Justin (2026-08-25),
+      not cancelled.** Justin understands and accepts the compliance issue (promoter/
+      outside-counsel question from the coworker-introduces-prospects structure) and
+      is choosing not to pursue it further for now rather than resolve it. Revisit if
+      priorities change; the compliance path (needs both the rebating check AND
+      outside counsel's promoter read) is already documented above and in
+      compliance-precedents.md if this comes back up.
 
 ## Strategic context (2026-08-25)
 - New tactical ideas (e.g., a YouTube channel) are paused while Justin builds an
