@@ -31,9 +31,13 @@ business/marketing-channel knowledge only.
   historically produced 10-20 buying units (households) per campaign, averaging
   ~$1.5M in AUM generated. This is the historical/typical range, not a per-campaign
   guarantee.
-- Return on the specific $10K mailer above (leads/appointments/clients/AUM produced,
-  and whether it hit the historical range) is still unknown — open question, not yet
-  a fact. Do not assume performance either way.
+- Return on the specific $10K mailer, confirmed (2026-08-25): produced 3 buying units
+  — well below the historical 10-20 unit range (roughly a 70%+ shortfall from even the
+  low end). Of the 3 units: 1 is still in progress (not yet closed); 1 has generated
+  ~$6,000 in revenue so far (Justin's word was "revenue," not AUM — this is a
+  different metric than the ~$1.5M AUM average used for the historical baseline above;
+  do not treat the $6K figure as comparable to, or use it to estimate, an AUM
+  equivalent); the third unit's status/outcome is not yet known.
 
 ## Strategic context (2026-08-25)
 - New tactical ideas (e.g., a YouTube channel) are paused while Justin builds an
@@ -42,9 +46,26 @@ business/marketing-channel knowledge only.
   cross-referencing if a future request revisits "why aren't we doing X yet."
 
 ## Open questions (unconfirmed, flagged for Justin/Isla, not Vannevar's call)
-- What did the specific $10K mailer actually produce, and did it fall within the
-  10-20 buying units / ~$1.5M AUM historical range?
+- What is the status/outcome of the third buying unit from the $10K mailer (currently
+  unknown)?
+- What is a rough AUM figure for what the $10K mailer produced (closed + in-progress
+  units combined), so it can be compared to the historical ~$1.5M AUM baseline on the
+  same metric, rather than mixing the confirmed ~$6K revenue figure with an AUM
+  number?
 
 Resolved (2026-08-25): why the college-class channel is saturating — see
 "Saturation cause" under In-person college classes above. Format/competitor
 crowding, not demand or execution/skill.
+
+Resolved (2026-08-25): what did the specific $10K mailer actually produce — see
+"Return on the specific $10K mailer" under Direct mail above. It fell well short of
+the historical range (3 units vs. 10-20).
+
+## Strategic implication — flagged for Taleb/Isla, not a conclusion (2026-08-25)
+This specific mailer significantly underperformed its own historical baseline (3
+units vs. a 10-20 unit range). That weakens rather than supports the earlier idea of
+committing the remaining $7,000 budget back into mail without further diagnosis. It
+raises the open possibility that the mail channel may be softening at the same time
+as the college-class channel (see saturation note above), rather than standing apart
+from it as a proven fallback. Not a determination Vannevar is making — flagged for
+Taleb's/Isla's analysis before any budget decision.
