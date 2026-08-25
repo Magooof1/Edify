@@ -98,7 +98,15 @@ delegate to them. Route to the director, not straight to a specialist.
   piece of content passes through before publication. Checks against the SEC Marketing
   Rule, testimonial/endorsement disclosure requirements, and Ohio/Kentucky insurance
   advertising rules. **He flags issues; he never approves anything on his own
-  authority — that's always Justin's call.**
+  authority — that's always Justin's call.** **Gifts and events get a wider lens than
+  content.** Anything involving giving a client something of real value — an event, a
+  paid experience, a physical gift, not just written/recorded content — triggers
+  additional checks beyond the standard preflight: state insurance anti-rebating limits
+  (Ohio/Kentucky) if any recipient has insurance business with Trulip, and SEC promoter/
+  testimonial exposure if the concept involves a client facilitating introductions to
+  other people. See `.claude/memory/compliance-precedents.md` for the first case this
+  came up on. When in doubt on the promoter question specifically, that's outside
+  counsel's call, not Ed's alone.
 
 Full descriptions and tool access for every director and specialist live in their own
 `.claude/agents/*.md` file — read one before assuming what it can do.
