@@ -3,6 +3,18 @@
 Lead-generation channel performance and marketing budget facts. Not client data —
 business/marketing-channel knowledge only.
 
+## Standing marketing budget policy (2026-08-25, confirmed — Justin's decision)
+Replaces ad-hoc, year-to-year budget-setting. This is the default going forward, not
+a one-time call:
+- One mailer per spring, as a fixed baseline cost.
+- The remainder of the year's marketing budget goes toward experimentation/pivoting
+  into new channels — not more mail.
+- Next year's total marketing budget = **10 basis points (0.10%) of that year's
+  end-of-year AUM**.
+- Flexibility note (explicit): the "one mailer per spring" piece is not a permanent,
+  unconditional rule — it stays open to revision once the still-pending 2-year
+  dollar-pipeline data comes in. Don't treat it as locked.
+
 ## Correction (2026-08-25, important — structural)
 Direct mail and in-person classes are **not** two separate/independent lead-gen
 channels. They are **one funnel**: class-based lead generation, filled via a mix of
@@ -42,7 +54,9 @@ report on them as if they were separable channels.
 - Function: invitation mechanism to drive attendance at the class-based funnel above,
   used alongside institutional/catalog promotion — not an independent lead source.
 - Most recent mailer: $10,000 spent.
-- Remaining 2026 direct-mail/marketing budget: $7,000.
+- Remaining 2026 budget of $7,000: **not** ordinary flexible direct-mail/marketing
+  cash — see "The remaining $7,000 (2026) — perk/allowance, not discretionary
+  budget" below for the corrected framing and rules governing this specific pool.
 - Historical/typical performance, confirmed (2026-08-25): historically produced
   10-20 buying units (households) per campaign, averaging ~$1.5M in AUM generated.
   This is the historical/typical range, not a per-campaign guarantee.
@@ -64,6 +78,31 @@ report on them as if they were separable channels.
   relationship plus a commission deal; if it doesn't, the $10K produced only ~$6K in
   one-time commission revenue against a $1.5M historical AUM baseline. Record the
   range, don't collapse it to a verdict.
+
+### The remaining $7,000 (2026) — perk/allowance, not discretionary budget
+**Correction (2026-08-25):** earlier framing in this file treated the remaining
+$7,000 as ordinary flexible marketing dollars. That was wrong. It's a marketing
+perk/allowance (pattern matches an FMO or carrier co-op marketing fund; exact source
+not specified by Justin) with real use-it-or-lose-it pressure — Justin describes it
+as something he "needs to use," not open-ended discretionary budget.
+- **Allowed uses, per the perk's actual rules:** public workshops and networking
+  events, including the cost of mailers, folders, and room rentals for those events.
+  Client appreciation events are also confirmed as an allowed use.
+- **Explicitly NOT allowed:** website design, or internet lead-generation systems —
+  unless the internet lead gen directly drives attendance to a specific public event
+  (e.g., a paid ad promoting one specific workshop would likely qualify; a general
+  ongoing lead-gen funnel would not).
+- **Practical implication (flagged, not decided):** this rules out spending the $7K
+  on a YouTube channel or any general digital lead-gen investment — neither is a
+  public-workshop, networking-event, or client-appreciation cost.
+- **Two candidate uses raised, neither decided:**
+  (a) A client-appreciation event — lower-risk than a new-audience bet since it
+      targets existing clients; could feed the existing referral-ritual-drafter
+      specialist.
+  (b) A networking event aimed at building one specific gated relationship (e.g., a
+      union benefits committee or an employer HR contact) rather than a cold pitch —
+      ties to Taleb's earlier point that gated relationships, not venue category,
+      are what resists competitor copying.
 
 ## Strategic context (2026-08-25)
 - New tactical ideas (e.g., a YouTube channel) are paused while Justin builds an
@@ -94,6 +133,14 @@ This specific mailer significantly underperformed its own historical baseline (3
 units vs. a 10-20 unit range), and — per the correction above — that underperformance
 is one measurement of the same saturation showing up as declining class attendance,
 not a separate signal. That weakens rather than supports the earlier idea of
-committing the remaining $7,000 budget back into mail without further diagnosis. Not
+committing the remaining $7,000 back into mail without further diagnosis. Not
 a determination Vannevar is making — flagged for Taleb's/Isla's analysis before any
-budget decision.
+decision.
+
+**Correction note (2026-08-25):** the "$7,000 back into mail" framing above predates
+the clarification that this $7K is a restricted-use perk/allowance, not general
+marketing budget — see "The remaining $7,000 (2026) — perk/allowance, not
+discretionary budget" above. A mailer remains an allowed use only as a cost *within*
+a qualifying public workshop or networking event, not as a standalone spend. The
+underlying saturation caution still applies to any workshop/mailer combination
+funded from this pool.
