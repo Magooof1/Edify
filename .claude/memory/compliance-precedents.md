@@ -137,5 +137,26 @@ correction is new content and needs its own pass when it exists.
 - A second read on the final self-scoring mechanism itself, once drafted — sound in
   concept, but a lawyer's eyes before volume.
 
-**Status (as of 2026-09-12):** box defined; Sloan's draft (`drafts/mirror-card-v1.md`)
-routed to Ed for copy review against this box. Not mailed. Not approved.
+**Copy review (2026-09-12, same day) — Ed on Sloan's v1:** not a clean pass, nothing
+structural with the concept. Three copy items, all applied in `drafts/mirror-card-v2.md`:
+(1) Q5 "limiting" → "designed to limit" — same outcome-vs-design rule as "downside
+protection"; (2) "most people who fill this out end up with two boxes checked" — cut,
+unsubstantiated (no one has filled it out); (3) the correction-reading line — off the
+base card, not for tone but because content written for a correction is separate
+content needing its own pass regardless of how well it's written. Clean passes: the
+self-scoring instructions, Justin's first-person close (adviser's own voice, not a
+testimonial), plain-language labels (compliance attaches to what's described, not
+named). Three items for Justin, not copy: (a) "no pitch" is now a printed, mailed
+representation — the first meeting must genuinely stay no-pitch with product
+conversation in a separate later meeting, or the card is a misleading ad; (b) the
+full two-hat disclosure block likely doesn't fit a 5x7 — format decision before print;
+(c) QR destination still undefined — own clearance, own log entry.
+
+**Reusable rule from this review:** a general-population claim on a piece ("most people
+find...") is still a factual claim needing substantiation even when it isn't about the
+reader — "most people" doesn't launder an unsupported statistic.
+
+**Status (as of 2026-09-12):** v2 built with Ed's copy fixes applied. Not mailed. Not
+approved. Open: three Justin decisions above; two outside-counsel items (CPA handoff;
+second legal read on the mechanism before volume); disclosure block still to be
+drafted by Ed once format is decided.
