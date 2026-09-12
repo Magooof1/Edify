@@ -161,6 +161,29 @@ report on them as if they were separable channels.
     invert initiation — reader sends the card back (text a photo / reply), Justin
     calls them. Has its own compliance shape (outbound calling, collecting responses,
     recordkeeping). Under evaluation on the correction variant first.
+  - **Correction-triggered variant built (2026-09-12, Sloan) —
+    `drafts/mirror-card-correction-v1.md`, with Ed for review.** Same five questions
+    verbatim from v2 (deliberate — reuses cleared language, keeps Ed's review a
+    diff). Channel: EMAIL, not mail (speed); SMS only as "check your email" and only
+    where there's documented consent to text. CTA: the FIT-kit inversion — text a
+    photo or answers, immediate auto-confirmation, callback within two business
+    days; direct booking as alternate. Trigger rule: S&P 500 close, 15% drawdown
+    from trailing 52-week high, fires once per episode (no re-trigger until within
+    5% of prior high and 15%+ down again), Justin decides same-day/next-day, send
+    within 48 hours. **The real constraint is bandwidth, not ask size:** the piece
+    fires in exactly the week existing clients are also calling; a missed callback
+    to someone scared enough to reach out is worse than no promise — widen the
+    window before sending if the office can't honor it that week. New compliance
+    surface: CAN-SPAM, TCPA (SMS), inbound-text recordkeeping, the callback promise
+    as a printed representation.
+  - **Sloan's read on the FB data — adopted:** the FB failure is under-instrumented.
+    Can't distinguish "the ask was too big" from "nobody followed up" — completely
+    different fixes. FB traffic is cold; the correction list is warm — not comparable
+    populations. Do NOT conclude "big CTAs don't work" from it, and do NOT change the
+    base card's CTA off the FB result alone. The inversion is right for the correction
+    piece on its own merits (warm list, scared reader, smaller first step), not as a
+    reaction to FB. The FB post-mortem questions (what CTA, was contact captured, did
+    anyone call back) are now MORE important, not less — they decide the base card.
   - **Decisions (2026-09-12):** "no pitch" confirmed as an operating rule for the
     first meeting. Bigger card approved; Ed drafting disclosure block + format.
     Correction-triggered variant greenlit as a separate piece; Sloan building. QR
