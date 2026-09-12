@@ -148,6 +148,14 @@ report on them as if they were separable channels.
     question. NOTE (Isla): a mailer that bypasses the workshop is almost certainly
     not $7K-perk-eligible under "mailers as a cost of driving people to a public
     event" — this is a next-year, own-budget test.
+  - **DECISION (2026-09-12): Justin greenlit BUILDING the mirror — not executing
+    yet.** Drafts only; no mailing, no mail house, no spend. Sloan drafting the
+    card; Ed defining the compliance box in parallel, then reviewing Sloan's
+    actual draft. Justin wants to see it built before deciding to send.
+  - **Referral-size question — settled by Justin (2026-09-12):** correction-time
+    referrals are more *frequent*; he can't give a dollar figure and doesn't think
+    one is necessary. His frame: "just like retirement is a triggering event for
+    people, the markets are too." Don't chase the dollar comparison further.
   - **Market corrections are the naturally occurring mirror (2026-09-12, Justin's
     observation).** Justin gets more referrals when a big correction happens. Read:
     the market delivers the Blue-realization to everyone with Red — including
