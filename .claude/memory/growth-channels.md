@@ -37,6 +37,23 @@ report on them as if they were separable channels.
 - Conversion rate is NOT the problem — confirmed (2026-08-25) it's the highest it's
   ever been: ~90% of class attendees now book a follow-up meeting. Example: a class
   last year with only 2 attendees is on track to close a $5M client.
+- **Conversion mechanism, confirmed from Justin's own eval forms (2026-09-12) — the
+  most important fact in this file for anyone drafting content.** The class ends with
+  an evaluation form that has a checkbox per bucket ("what do you want to learn more
+  about"). Justin reports everyone checks Blue. The converting moment is NOT the
+  income gap and NOT fear of loss on its own — it's the realization that Blue (managed
+  growth with downside protection) exists as a category and they don't have it. Fear
+  of loss in Red right before retirement opens the door; discovering the missing
+  bucket is what they walk out wanting. Implications: (1) lead all content with the
+  missing category ("most people have never heard of the middle bucket"), not with
+  loss or with the free plan — the plan is the delivery mechanism, Blue is the
+  desire; (2) this is also the compliance-safer framing — a category-existence claim,
+  not a loss or protection claim; (3) referral ritual candidate: "Do you have Blue?"
+  — the referrer asks a question the prospect can't answer, which reproduces the
+  class's moment without fear, without describing Justin, and without a pitch.
+- Open test (2026-09-12): pull eval forms from the last 2 years. Do the people who
+  did NOT check Blue map to the ~10% who don't book a meeting? If yes, the eval form
+  is a validated conversion predictor and Blue-recognition is proven as the mechanism.
 - Saturation cause, reasonably diagnosed (2026-08-25): NOT specific to NKU or to
   Justin's own execution. Two other independent advisors Justin works alongside
   (separate businesses) report the same attendance decline. Informal research
