@@ -77,3 +77,65 @@ questions up front — they route independently, not as alternatives to each oth
   disclosure requirements.
 
 Not resolved as of this logging.
+
+---
+
+## 2026-09-12 — The "mirror": a mailed, self-scored five-question check (pre-production box)
+
+**What happened:** Justin greenlit building — not mailing — a two-minute self-check card
+intended to deliver the Blue-realization to delegators who never attend a class. Ed
+defined the compliance box before Sloan's draft landed, so the copy review runs against
+real limits. This is a mass-mailed, unsupervised diagnostic with no advisor in the room
+to caveat it verbally — a different risk profile than anything reviewed before.
+
+**Hard walls:**
+1. **The card never asserts a fact about the specific reader.** "You have unprotected
+   money" is dead — diagnosing a stranger from five checkboxes is both individualized
+   advice and an unsubstantiated claim. "People who answer yes to 1 and 2 and no to 5
+   typically have this pattern" is alive — the reader does the matching. Test every
+   sentence: does it say *"you have"* or *"this pattern looks like"*? This is broader
+   than the "your money is at risk" phrase already banned — it's the entire scoring
+   mechanism.
+2. **Two hats, both disclosed.** RIA registration disclosure AND insurance producer
+   disclosure (OH/KY). The insurance side triggers the moment the Green bucket is
+   *described* (principal-protected, low growth) — even if the word "annuity" never
+   appears. No dodging it by avoiding the word.
+3. **Annuity guarantee language** ties to the issuing carrier's claims-paying ability,
+   never to Trulip or Justin.
+4. **No "would have protected you," no urgency framing — ever.** Correction included.
+5. **The QR destination is its own advertisement.** Whatever the code points to needs
+   its own clearance and its own recordkeeping entry. The card is two pieces of
+   content, not one.
+6. **Recordkeeping (Rule 204-2):** final card as mailed (dated), list source/selection
+   criteria/count (confirm no behavioral selects on the DRA pull), substantiation for
+   any factual claim, QR destination logged separately. If distributed via a COI,
+   Trulip keeps its own record of what was given to whom and when.
+
+**Drafting preferences (not walls):**
+- Naming the buckets is fine — descriptive framework, same as conservative/moderate/
+  aggressive. (Sloan chose NOT to use Green/Blue/Red on the card anyway — see
+  growth-channels.md — because the names are unexplained jargon outside the class.)
+- Keep Portfolio Medics off the mailer. Category level only; naming the program pulls
+  in performance-disclosure machinery for no gain at the mail stage.
+- "Downside protection" for Blue describes what the strategy is *designed to do*,
+  never what it guarantees. Those strategies have caps, costs, and real downside.
+- "Educational only — not individualized advice; your situation may differ" — not
+  textually mandated by a single rule, but treat as near-mandatory given how close
+  the scoring mechanism sits to the line.
+
+**Correction-time deployment:** timing itself is not a violation — an evergreen card
+doesn't become non-compliant because of when it lands. But pre-clearing the base card
+only pre-clears the base card. Any cover note, insert, or added line written for a
+correction is new content and needs its own pass when it exists.
+
+**Needs outside counsel, explicitly:**
+- The CPA/attorney systematic-handoff question — same promoter analysis as the
+  retirement celebration (see 2026-08-25 above), and this one is systematic by design.
+  Unmodified card, no compensation, no active vouching = distribution, lower risk.
+  Any compensation or vouching = promoter/endorsement, disclosure + possibly a written
+  agreement.
+- A second read on the final self-scoring mechanism itself, once drafted — sound in
+  concept, but a lawyer's eyes before volume.
+
+**Status (as of 2026-09-12):** box defined; Sloan's draft (`drafts/mirror-card-v1.md`)
+routed to Ed for copy review against this box. Not mailed. Not approved.
