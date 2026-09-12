@@ -176,6 +176,37 @@ report on them as if they were separable channels.
     window before sending if the office can't honor it that week. New compliance
     surface: CAN-SPAM, TCPA (SMS), inbound-text recordkeeping, the callback promise
     as a printed representation.
+  - **FB quiz POST-MORTEM (2026-09-12, Justin showed the actual Squarespace page —
+    "5 Questions Every Smart Retiree Asks Themselves"):** CONCLUSION: the quiz did
+    not test the mirror's assumption. It was a different product. Findings from the
+    page itself: (1) all five questions are about the reader's ADVISOR (fees,
+    responsiveness, fiduciary status, planning scope, management frequency), not
+    about the reader's own money — the realization it produces is "my advisor may be
+    mediocre," not "I don't have Blue"; (2) it presupposes the reader has an advisor
+    — aimed at advisor-switchers, a slow, inertial decision, and Justin's best
+    clients (401k orphans, union members, CD savers) often don't have one; (3) the
+    result is a score (e.g. 9/20), not a picture — a grade, not a nameable absence;
+    (4) it TEACHES — every question has "What Some Advisors Do Differently" copy, a
+    class disguised as a quiz, exactly what delegators won't sit through; (5) FOUR
+    asks instead of one — score → video → "Start the Mini-Course (no email
+    required)" → "Are you sure your advisor isn't leaving gaps?" → PDF gated on
+    email. "No email required" means most hits were never captured — nothing to
+    follow up on. Justin tried PDF, meeting, video CTAs — zero booked. (6) The
+    "Financial House Snapshot" rendered verdicts about the reader ("Protection:
+    Strong," "Taxes: Moderate") not derived from the questions — the exact thing
+    Ed's box now prohibits. (7) Headline register ("what your advisor doesn't
+    mention could cost you," "are you sure your advisor isn't leaving gaps") is the
+    undifferentiated fear-of-advisor framing every competitor uses.
+    IMPLICATIONS: "realization ≠ booking" was NEVER established — what was
+    established is "advisor-dissatisfaction score with four CTAs ≠ booking." Sloan's
+    call not to change the base card's CTA off the FB result is confirmed. The
+    mirror's mechanism (own-money picture → one CTA → calendar) is still untested
+    online, which reopens the cheapest test: the mirror itself as a Squarespace
+    landing page behind a small FB spend (hundreds of dollars, not $7K) — five
+    bucket questions, three boxes, one button, nothing else. FB traffic is colder
+    than the DRA list, so it's a floor not a forecast, but it tests the mechanism
+    before mail runs. Justin's decision. Also: Justin builds his own Squarespace
+    pages — the QR destination for the mirror can be a page he controls.
   - **Sloan's read on the FB data — adopted:** the FB failure is under-instrumented.
     Can't distinguish "the ask was too big" from "nobody followed up" — completely
     different fixes. FB traffic is cold; the correction list is warm — not comparable
