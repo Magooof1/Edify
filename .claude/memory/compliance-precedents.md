@@ -274,10 +274,44 @@ producer identification to travel with the ad unit itself for short-form paid so
 are now part of the recordkeeping set — first paid/targeted piece this workforce has
 reviewed.
 
-**Status (as of 2026-09-12):** base card v2 has copy fixes, disclosure block, and
-format. Correction variant v2 has copy fixes. Landing page + FB ad with Sloan; web box
-defined; Ed reviews her actual page and ad next. Nothing mailed, sent, or launched.
-Nothing approved. Open before print: six facts from Justin (last name for print,
+**Landing page + FB ad — Ed's copy review (2026-09-12, same day) of Sloan's
+`drafts/mirror-landing-page-v1.md`:** not a clean pass; nothing structural. Sloan's two
+verbatim adaptations ("bring your answers — on this screen, on a printed card, or just
+in your head"; "this page is that picture") — clean. "Learn More" button — clean.
+Scoring step built as static text with no tally — correct; the box's interactivity ban
+is on scoring only, the five questions may be tappable or not as a production choice.
+
+**All three ad variants failed on the same two points:** (1) they name bucket
+descriptions ("can't lose value," "a plan for the downside") that carry
+claims-paying-ability and design-vs-outcome obligations a 30-word ad can't qualify —
+fix: describe generically, push specifics to the page; (2) the "most people..."
+unsubstantiated general-population claim — **now cut from three consecutive pieces
+(card v1, correction v1, all three ads). Treated as a STANDING rule; written into
+sloan.md so it stops recurring.** Also: none named Trulip/Edify in the ad unit — add
+as the conservative default while the producer-ID question sits with counsel.
+
+**Placement call made:** short notice beneath the hook before the questions; second
+short notice at the CTA button, oriented to the action ("books a free educational
+conversation, not a solicitation"); full block at the bottom **always rendered, not a
+click-to-expand accordion** — same logic as not shrinking print type. The bottom block
+must be fully self-contained (cold FB traffic never saw the card). Both "CONFIRM EXACT
+CURRENT WORDING" markers carry over unresolved.
+
+**Squarespace popup — a compliance angle beyond test integrity:** a default popup
+capturing an email before the visitor has seen any disclosure is collecting contact
+data ahead of disclosure — a sequencing problem. Disable it.
+
+**Booking page — restated as a build spec:** retention/export-capable tool; a
+state-of-residence confirmation step (REQUIRED — backstop for Meta targeting leakage);
+pointer-style no-pitch/service-area line; transactional-only confirmations; UTM/
+attribution wired before spend so bookings can be attributed ad vs. mail.
+
+**Status (as of 2026-09-12):** base card v2, correction v2, landing page v1 all built
+and reviewed. Ad rewrites + two disclosure-notice lines with Sloan. Open for Justin:
+RIA footprint (OH/KY-only?), Meta Special Ad Category check, booking-page build,
+popup off, six placeholder facts. Outside counsel: RIA registration phrasing, OH/KY
+producer-ad citation, producer ID in the ad unit, plus the earlier items. Nothing
+mailed, sent, or launched. Nothing approved. Open before print: six facts from Justin (last name for print,
 OH license #, KY license #, NPN if used, exact legal name of any separate agency/FMO
 entity, whether a CRD belongs on a consumer piece); outside counsel on the two marked
 phrasings, the CPA handoff, and a second read on the self-scoring mechanism; the
