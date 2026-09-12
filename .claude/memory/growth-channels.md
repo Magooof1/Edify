@@ -107,6 +107,55 @@ report on them as if they were separable channels.
   who current referrers know? Structural note: the $7K perk can only reach
   seminar-goers by its own rules; the delegator question is a next-year question
   funded from Justin's own 10bps budget.
+- **Taleb on the delegator problem (2026-09-12) — the sharpest analysis of the
+  session.** The structural pattern for delivering a diagnostic realization to
+  people who refuse education (anchor case: mailed FIT test kits nearly doubled
+  colorectal screening completion vs. colonoscopy invitations, and beat phone
+  outreach — the diagnostic got delivered through a channel matching how refusers
+  behave, with the in-person step triggered only after a positive result). Three
+  properties: (a) rides on a touchpoint the person is already inside of; (b)
+  delivered by whoever already has standing there; (c) near-zero cost, concrete
+  result — shows, doesn't teach.
+  - **"Do you have Blue?" — KILLED.** Reproduces the classroom moment while
+    skipping the classroom mechanism (the 40 minutes that installs the frame).
+    Outside that context it's a blank stare (friend has to teach = delegator tunes
+    out) or a canned branded phrase (the MLM-script smell delegators avoid). A
+    peer has no standing to drop a diagnostic. Also more compliance-exposed: a
+    scripted line handed systematically to referrers edges toward an undisclosed
+    referral arrangement per Ed's precedent. Do not revive without new evidence.
+  - **Referral-size puzzle — third explanation, more likely than either prior
+    one:** homophily of channel-origin trait. Justin's client base was selected by
+    willingness-to-be-taught (a personality trait, not wealth); people refer
+    people like themselves; referrers don't reach for delegator friends when "my
+    guy is great" gets said. Right-sized network, wrong trait sampled. Free test:
+    change only the referral ask for one quarter, track AUM per referred client
+    vs. baseline. Prerequisite: CRM must already tag referral source + AUM.
+  - **The mirror (2-min self-check) — right shape, currently homeless.** Weakness
+    isn't compliance (solvable drafting) or psychology; it's distribution — where
+    does a delegator who attends nothing encounter it? Unanswered.
+  - **Third form (conventional, honest about it): COI delivery.** Hand the mirror
+    to a CPA/estate attorney to send during their own client appointment —
+    satisfies (a) and (b). This is centers-of-influence, the oldest RIA playbook
+    (~14% of new advisor clients industry-wide, 6-18 month build). Artifact is
+    new; channel is not. Sequence second, after the mirror proves itself on paper.
+  - **THE BET — mail the mirror, not the invitation.** Use the mail channel Justin
+    already owns and trusts; change the offer, not the channel. Five checkboxes,
+    self-scored, QR to book a meeting, skipping the seminar step for the
+    population that drops out there. Metric: meetings-booked-per-piece, NOT
+    attendance. Test: mirror card vs. invite card, similar lists, one cycle.
+    Reframes the mail-erosion read: if the invitation was filtering for
+    seminar-goers all along, the list may be fine — it was asked the wrong
+    question. NOTE (Isla): a mailer that bypasses the workshop is almost certainly
+    not $7K-perk-eligible under "mailers as a cost of driving people to a public
+    event" — this is a next-year, own-budget test.
+  - **Gates before anything real:** (1) how the mail list is sourced — if it's a
+    "seminar responder" vendor list, delegators were never on it and the test
+    sinks first; (2) CRM tagging of referral source + AUM; (3) Ed's read on
+    mirror wording under the Marketing Rule's individualized-advice line; (4) a
+    definition of "delegator" grounded in wealth, personality, or life event (recent
+    widowhood/retirement/health scare) — changes which touchpoint carries it; (5)
+    whether Cincinnati/NKY already has an entrenched CPA-referral RIA ecosystem;
+    (6) whether Justin has bandwidth for a COI program at all.
 - **Original hypothesis — "be the fifth seminar" (2026-09-12), superseded by the
   verdict above:** seminar shoppers
   ("plate-lickers," conventionally avoided) may be Justin's best audience — worried
