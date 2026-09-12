@@ -306,8 +306,17 @@ state-of-residence confirmation step (REQUIRED — backstop for Meta targeting l
 pointer-style no-pitch/service-area line; transactional-only confirmations; UTM/
 attribution wired before spend so bookings can be attributed ad vs. mail.
 
-**Status (as of 2026-09-12):** base card v2, correction v2, landing page v1 all built
-and reviewed. Ad rewrites + two disclosure-notice lines with Sloan. Open for Justin:
+**Landing page v2 — Ed's final pass (2026-09-12): CLEAN.** All three ad variants pass;
+the two disclosure notices satisfy the layered-disclosure wall; "always rendered — no
+accordion" spec is unambiguous; Justin's first-person close carries to the web
+unchanged (a signed opinion, not a checkable claim — the distinction turns on the
+sentence, not the medium). Sloan self-caught "Most Retirement Plans Are Missing One
+Piece" as the same construction as "most people" with a different noun — Ed confirmed
+the rule is about the grammatical shape of the claim, not the word. The standing rule
+in sloan.md is working.
+
+**Status (as of 2026-09-12):** base card v2, correction v2, landing page v2 — all
+built, all copy-clear. No further copy work pending. Open for Justin:
 RIA footprint (OH/KY-only?), Meta Special Ad Category check, booking-page build,
 popup off, six placeholder facts. Outside counsel: RIA registration phrasing, OH/KY
 producer-ad citation, producer ID in the ad unit, plus the earlier items. Nothing
