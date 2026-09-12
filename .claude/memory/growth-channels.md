@@ -148,9 +148,29 @@ report on them as if they were separable channels.
     question. NOTE (Isla): a mailer that bypasses the workshop is almost certainly
     not $7K-perk-eligible under "mailers as a cost of driving people to a public
     event" — this is a next-year, own-budget test.
-  - **Gates before anything real:** (1) how the mail list is sourced — if it's a
-    "seminar responder" vendor list, delegators were never on it and the test
-    sinks first; (2) CRM tagging of referral source + AUM; (3) Ed's read on
+  - **Market corrections are the naturally occurring mirror (2026-09-12, Justin's
+    observation).** Justin gets more referrals when a big correction happens. Read:
+    the market delivers the Blue-realization to everyone with Red — including
+    delegators who'd never attend anything — via their own statements. Referrals
+    that arrive during a correction carry the realization already installed. Two
+    implications: (a) the referral-size puzzle may resolve here — if
+    correction-time referrals are bigger than calm-time ones, that's the
+    trait-homophily explanation confirmed from another angle (same referrers,
+    delegator friends now self-diagnosed); worth checking against memory of the
+    last real drawdown. (b) TIMING, NOT TACTICS: the mirror, referral ritual, and
+    stay-warm cadence should be event-triggered by a market drop, not
+    calendar-driven. Readiness is the strategy — have the material built and
+    Ed-cleared BEFORE a correction, not drafted during one. COMPLIANCE — thinnest
+    line in the business: "Blue would have protected you" = performance claim,
+    dead; "call before it gets worse" = fear-mongering, dead; "here's what the
+    three buckets mean in a week like this" = educational, survivable. Ed must
+    pre-clear correction-time material.
+  - **Gates before anything real:** (1) how the mail list is sourced — **CLEARED
+    (2026-09-12):** Justin pulls the list himself from a data provider (DRA),
+    designs his own piece, uses a mail house — demographic, not a seminar-vendor
+    responder file. Delegators are on it; the mirror test is real. One check on
+    the next pull: confirm no behavioral selects (e.g., "responded to financial
+    offers") were applied; (2) CRM tagging of referral source + AUM; (3) Ed's read on
     mirror wording under the Marketing Rule's individualized-advice line; (4) a
     definition of "delegator" grounded in wealth, personality, or life event (recent
     widowhood/retirement/health scare) — changes which touchpoint carries it; (5)
