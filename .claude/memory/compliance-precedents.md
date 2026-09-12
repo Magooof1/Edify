@@ -156,7 +156,32 @@ full two-hat disclosure block likely doesn't fit a 5x7 — format decision befor
 find...") is still a factual claim needing substantiation even when it isn't about the
 reader — "most people" doesn't launder an unsupported statistic.
 
-**Status (as of 2026-09-12):** v2 built with Ed's copy fixes applied. Not mailed. Not
-approved. Open: three Justin decisions above; two outside-counsel items (CPA handoff;
-second legal read on the mechanism before volume); disclosure block still to be
-drafted by Ed once format is decided.
+**Disclosure block + format (2026-09-12, same day) — Ed, written directly into
+`drafts/mirror-card-v2.md`:** full two-hat block drafted — RIA registration, Edify as
+educational arm + not-individualized-advice, OH and KY producer disclosure,
+claims-paying-ability language tied to Q1/"can't lose value," jurisdiction/
+no-solicitation line. Two phrasings marked CONFIRM EXACT CURRENT WORDING for outside
+counsel rather than guessed: the line paired with RIA registration ("does not imply a
+certain level of skill or training") and any OH/KY producer-advertisement language.
+**Format resolved:** one 8.5x11 sheet, bi-fold to 8.5x5.5, four panels — cover, five
+questions, scoring/CTA/close, and a fourth panel that is disclosures ONLY. Reasoning:
+the block runs ~300-350 words; at 8pt+ for a 55+ audience that's 2.5-3.5
+column-inches, and disclosure text is the last thing that should get shrunk. Tri-fold
+rejected (cramps the question layout); insert rejected (can separate from the card,
+complicates "as mailed" recordkeeping).
+
+**Reusable rule from this pass — "no pitch" recordkeeping:** Justin's commitment alone
+is not sufficient. A printed factual claim about how the first meeting runs needs a
+substantiating record under Rule 204-2: (a) a dated internal policy note in Trulip's
+own compliance file / written supervisory procedures — NOT this repo's memory system,
+which is workforce memory, not the firm's compliance record; (b) a line in whatever
+script or agenda governs the first meeting, so it's operational. The recordkeeping
+entry for the card should reference where the policy note lives.
+
+**Status (as of 2026-09-12):** v2 has copy fixes, disclosure block, and format. Not
+mailed. Not approved. Open before print: six facts from Justin (last name for print,
+OH license #, KY license #, NPN if used, exact legal name of any separate agency/FMO
+entity, whether a CRD belongs on a consumer piece); outside counsel on the two marked
+phrasings, the CPA handoff, and a second read on the self-scoring mechanism; the
+internal "no pitch" write-up; the QR destination (hard wall). Correction-triggered
+variant in progress with Sloan — gets its own Ed pass.
