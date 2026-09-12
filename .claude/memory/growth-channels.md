@@ -60,7 +60,30 @@ report on them as if they were separable channels.
   pattern above is the base; this is the illustration. Candidate hook for
   story-capture-specialist (anonymized, consent-checked): "four seminars, never
   heard of it."
-- **Hypothesis for Taleb — "be the fifth seminar" (2026-09-12):** seminar shoppers
+- **Taleb's verdict on "be the fifth seminar" (2026-09-12) — do not fund as scoped.**
+  He split it in two: the underlying discovery (Blue-as-missing-category converts;
+  the moat is the frame, not the product) is real and worth building on. The
+  packaging (target seminar shoppers with an "already been to a seminar?" hook) is
+  an unvalidated second bet on n=1. Key problems: (1) the hook selects on a
+  behavior (attendance frequency) while conversion is predicted by a cognitive
+  event (Blue recognition) — chronic plate-lickers and serious-unresolved attendees
+  look identical from the mailbox; (2) "most seminars never mention this" is a
+  comparative claim that won't survive Ed, and what's left after stripping it is
+  close to the existing value proposition, just cleaner — not new; (3) the
+  three-bucket frame is NOT proprietary (bucket strategies have been in financial
+  media for 10+ years) — the edge is local and temporary, a couple of mail cycles
+  once a competitor notices; (4) volume, not message, may be the real bottleneck —
+  a better hook improves conversion of whoever shows up, doesn't fill the room;
+  (5) positioning risk (Sloan's call): "second-opinion seminar" framing casts
+  Justin as the leftovers option. His fix: keep the harvest logic, drop "already
+  been" from the copy entirely, lead with the gap in the retiree's own plan.
+  **Free test he'd run first:** add "Is this your first retirement seminar, or have
+  you attended others?" to the eval form; cross-tab against Blue-checked over a
+  couple of classes. Only if repeat attendees convert meaningfully better would he
+  upgrade this to "worth a real mailer test." Hard line regardless: the internal
+  Blue-checkbox correlation must never become marketing copy implying an outcome.
+- **Original hypothesis — "be the fifth seminar" (2026-09-12), superseded by the
+  verdict above:** seminar shoppers
   ("plate-lickers," conventionally avoided) may be Justin's best audience — worried
   enough to attend repeatedly, pre-warmed by competitor fear, and failed by
   fear-without-resolution. Strategic bet: stop competing for the first touch;
