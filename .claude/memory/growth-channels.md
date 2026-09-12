@@ -207,6 +207,26 @@ report on them as if they were separable channels.
     than the DRA list, so it's a floor not a forecast, but it tests the mechanism
     before mail runs. Justin's decision. Also: Justin builds his own Squarespace
     pages — the QR destination for the mirror can be a page he controls.
+  - **CORRECTION to the post-mortem (2026-09-12, same day):** Justin isn't sure the
+    page he showed is the version that actually ran — there were several quiz
+    versions ("Fb learn more > Quiz," "Quiz 2") and he can't recall which went live,
+    to what audience, with what CTA. The post-mortem findings above are valid as an
+    analysis of THAT page and as an anti-pattern list, but the conclusion narrows:
+    **the FB data tells us nothing either way about the mirror's mechanism.** Not
+    "it tested the wrong thing" — "we can't tell what it tested." Lesson worth
+    keeping: had the original test been logged (creative, audience, CTA, spend,
+    result), it would be usable data now. This is what Rule 204-2 recordkeeping is
+    for beyond compliance.
+  - **DECISION (2026-09-12): test the mirror through Facebook FIRST, before mail.**
+    Sloan adapting base card v2 into a landing page (five questions verbatim, three
+    boxes, ONE button to the calendar — no video, no course, no PDF, no email gate,
+    no teaching text, no score) plus 2-3 FB ad variants in the missing-category
+    register. Ed defining web/ad-specific compliance additions in parallel, then
+    reviewing both. Metric: meetings booked per dollar — not clicks, not
+    completions. Targeting to mirror the DRA list demographics (age, income,
+    Cincinnati/NKY zips) so the result is a floor for the mail version, not a
+    different population. The same landing page becomes the QR destination for the
+    mailed card. Own budget, not the perk.
   - **Sloan's read on the FB data — adopted:** the FB failure is under-instrumented.
     Can't distinguish "the ask was too big" from "nobody followed up" — completely
     different fixes. FB traffic is cold; the correction list is warm — not comparable
