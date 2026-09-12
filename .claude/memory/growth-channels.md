@@ -148,6 +148,23 @@ report on them as if they were separable channels.
     question. NOTE (Isla): a mailer that bypasses the workshop is almost certainly
     not $7K-perk-eligible under "mailers as a cost of driving people to a public
     event" — this is a next-year, own-budget test.
+  - **FB quiz data point (2026-09-12, Justin's side note — directly tests the
+    mirror's core assumption):** Justin previously ran a Facebook ad that included a
+    quiz. It got "a lot of hits." It did not convert to appointments. Details not yet
+    known: what the quiz was, what the CTA was, whether contact info was captured,
+    whether there was follow-up, whether "hits" means clicks/starts/completions, or
+    whether anyone booked at all. Read: the diagnostic engages; the ask-for-a-meeting
+    fails. Realization ≠ booking. Three candidate causes — wrong audience (FB
+    targeting vs. DRA list), CTA too big a jump (initiate-a-meeting), or no follow-up
+    mechanism (hit, result, gone). The mail version fixes audience; whether it fixes
+    the CTA depends on which cause it was. Candidate fix from the FIT-kit pattern:
+    invert initiation — reader sends the card back (text a photo / reply), Justin
+    calls them. Has its own compliance shape (outbound calling, collecting responses,
+    recordkeeping). Under evaluation on the correction variant first.
+  - **Decisions (2026-09-12):** "no pitch" confirmed as an operating rule for the
+    first meeting. Bigger card approved; Ed drafting disclosure block + format.
+    Correction-triggered variant greenlit as a separate piece; Sloan building. QR
+    destination undecided. Mockup test deferred. CPA handoff deferred.
   - **DECISION (2026-09-12): Justin greenlit BUILDING the mirror — not executing
     yet.** Drafts only; no mailing, no mail house, no spend. Sloan drafting the
     card; Ed defining the compliance box in parallel, then reviewing Sloan's
