@@ -178,8 +178,51 @@ which is workforce memory, not the firm's compliance record; (b) a line in whate
 script or agenda governs the first meeting, so it's operational. The recordkeeping
 entry for the card should reference where the policy note lives.
 
-**Status (as of 2026-09-12):** v2 has copy fixes, disclosure block, and format. Not
-mailed. Not approved. Open before print: six facts from Justin (last name for print,
+**Correction-triggered variant — Ed's review (2026-09-12, same day) of Sloan's
+`drafts/mirror-card-correction-v1.md`:** structurally sound; four copy fixes routed
+back to Sloan. Findings with precedent value:
+
+- **A standing, automated, drawdown-triggered send rule is a different fact pattern
+  from a one-off correction-timed send.** The earlier "timing itself isn't a
+  violation" call covered a single instance. A documented, repeatable "send when the
+  S&P drops 15%" policy for annuity-adjacent content sits near what OH/KY (and the
+  NAIC suitability framework both have adopted) watch for — sales activity that
+  appears to exploit market volatility, even with careful content. **Outside counsel
+  or Justin's insurance compliance resource, explicitly.** Not resolved by Ed.
+- **Reassurance is also a claim.** "One week, by itself, doesn't mean anything" is a
+  generalization about market behavior, not about the reader. The Marketing Rule
+  doesn't only scrutinize scary claims — a confident calming generalization is the
+  same category of unsubstantiated statement. Reframe as what the piece is/isn't
+  trying to do, never as what a market move means.
+- **Inbound texted answers are business communications under Rule 204-2** even
+  without account numbers or balances — retain the inbound, the auto-confirmation,
+  and a record of the callback. **The texting number must sit on an archiving-capable
+  business platform; a personal cell doesn't satisfy this.** New infrastructure, not
+  a documentation habit.
+- **TCPA:** transactional consent (scheduling, confirmations) is not marketing
+  consent. Marketing SMS needs prior express written consent. A sign-in-sheet phone
+  number is neither. SMS blocked until consent basis is confirmed per segment.
+- **CAN-SPAM:** ad-identification requirement depends on each segment's actual
+  opt-in history (intake checkbox ≠ sign-in sheet) — factual answer per segment.
+  Opt-out must actually function (suppression list, monitored, honored within 10
+  business days, functional 30+ days post-send).
+- **Printed promises on this piece needing substantiating records, same as "no
+  pitch":** the two-business-day callback (policy note + triage process, especially
+  for the week the trigger fires and existing clients are also calling); "no pitch"
+  extended explicitly to the phone callback; auto-confirmation kept strictly
+  transactional; each trigger firing logged (S&P close, drawdown %, decision, send
+  time).
+- **Segment versions are separate advertisements** for recordkeeping — log each.
+- **Webmail clipping** (Gmail etc.) can silently defeat a disclosure block placed
+  below the clip point — test rendered length before send.
+- Judgment call for Justin: Q4's reference years (2022/2020/2008) next to a live
+  drawdown — not a clear violation, but closer to inviting a comparison than on the
+  mailed card.
+- Same two-hat disclosure block applies unchanged; "this card" → "this email."
+
+**Status (as of 2026-09-12):** base card v2 has copy fixes, disclosure block, and
+format. Correction variant v1 reviewed; copy fixes with Sloan for v2. Email track can
+continue review; SMS track blocked on consent. Neither piece mailed. Neither approved. Open before print: six facts from Justin (last name for print,
 OH license #, KY license #, NPN if used, exact legal name of any separate agency/FMO
 entity, whether a CRD belongs on a consumer piece); outside counsel on the two marked
 phrasings, the CPA handoff, and a second read on the self-scoring mechanism; the
