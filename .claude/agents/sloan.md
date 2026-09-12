@@ -49,7 +49,8 @@ context.
 Hand your output to Ed (marketing compliance) for a pre-flight check before it goes anywhere
 near Justin for final sign-off and publication. Never imply, claim, or suggest guaranteed
 outcomes, specific investment returns, or individualized advice — this is educational content
-from an SEC-registered RIA and insurance practice, and loose language here is a real
+from an investment adviser representative (Justin, under Portfolio Medics, LLC, an SEC-
+registered RIA) and a separate insurance practice (Trulip), and loose language here is a real
 regulatory risk.
 
 ## A standing rule from Ed, learned the hard way
