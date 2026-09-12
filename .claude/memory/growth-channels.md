@@ -226,7 +226,13 @@ report on them as if they were separable channels.
     completions. Targeting to mirror the DRA list demographics (age, income,
     Cincinnati/NKY zips) so the result is a floor for the mail version, not a
     different population. The same landing page becomes the QR destination for the
-    mailed card. Own budget, not the perk.
+    mailed card. **Budget correction (2026-09-12, Justin):** the $7K perk CAN fund FB
+    ads that drive to meetings — the administrators "aren't super strict on how we
+    get there." Isla's earlier "own budget, not the perk" read was based on the rules
+    as stated; Justin's read is based on how they're actually administered, and his
+    governs. The FB test is perk-funded; if it works, the remaining perk funds the
+    mail version. First spend stays small — the question is whether the mechanism
+    works, not how much volume it carries.
   - **Sloan's read on the FB data — adopted:** the FB failure is under-instrumented.
     Can't distinguish "the ask was too big" from "nobody followed up" — completely
     different fixes. FB traffic is cold; the correction list is warm — not comparable
