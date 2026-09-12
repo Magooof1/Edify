@@ -82,6 +82,31 @@ report on them as if they were separable channels.
   couple of classes. Only if repeat attendees convert meaningfully better would he
   upgrade this to "worth a real mailer test." Hard line regardless: the internal
   Blue-checkbox correlation must never become marketing copy implying an outcome.
+- **Justin's pushback on "fifth seminar" (2026-09-12) — the funnel math kills it as
+  a growth strategy even if the mechanism is real.** A 10K mailer historically
+  produced 10-20 households (~0.2-0.3% of the drop); the last one produced 3. If
+  roughly a third of attendees are repeat-seminar-goers, that's 1-2 people per
+  mailer who fit the profile — the same 1-2 clients per $10K he gets now. Better
+  conversion of a tiny group doesn't grow the group. Justin adopted the free
+  eval-form checkbox anyway (first-time vs. repeat attendee) — worth knowing, but
+  not a growth lever.
+- **The delegator boundary (2026-09-12, Justin's insight — the reframe of the
+  session):** every strategy discussed so far (classes, mailers, online class,
+  fifth seminar) only reaches people willing to sit in a room to be taught. That
+  population is small, self-selected, and being split by competitors. The people
+  who won't come — "don't want to know how the steak is made" — are likely a larger
+  and wealthier group, because that's what delegators say, and delegators are the
+  ones who hire advisors. They still need the Blue realization (nobody hires you
+  to fix a problem they don't know they have), but they need it delivered without
+  a class. Two candidate forms: (a) the four-word referral "Do you have Blue?" —
+  a realization delivered by a trusted friend, zero education required; (b) a
+  two-minute self-check "mirror" showing someone their own money is Green and Red
+  with nothing in the middle — Ed constraint: must stay general, never "your
+  money is at risk" (individualized-advice line). Open question: are current
+  referrals smaller because the referral carries no realization, or because of
+  who current referrers know? Structural note: the $7K perk can only reach
+  seminar-goers by its own rules; the delegator question is a next-year question
+  funded from Justin's own 10bps budget.
 - **Original hypothesis — "be the fifth seminar" (2026-09-12), superseded by the
   verdict above:** seminar shoppers
   ("plate-lickers," conventionally avoided) may be Justin's best audience — worried
