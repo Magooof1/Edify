@@ -68,9 +68,21 @@ report on them as if they were separable channels.
   been to a seminar? there's one bucket most never mention"). Compliance note: any
   "most seminars don't cover this" framing is a comparative claim — must stay
   general and substantiated, never implying what specific competitors teach.
-- Open test (2026-09-12): pull eval forms from the last 2 years. Do the people who
-  did NOT check Blue map to the ~10% who don't book a meeting? If yes, the eval form
-  is a validated conversion predictor and Blue-recognition is proven as the mechanism.
+- **Test resolved (2026-09-12): CONFIRMED.** Justin reviewed a substantial set of
+  eval forms. Non-converters did not check Blue — they checked Red or taxes instead.
+  The eval form is a validated conversion predictor and Blue-recognition is the
+  proven mechanism, on Justin's own data.
+- Read on the non-converters (2026-09-12): they left in the frame they arrived in —
+  Red and taxes are the pre-existing worries every near-retiree walks in with. The
+  split is discovery vs. confirmation, not understanding vs. caring: converters
+  discovered a category they lacked; non-converters had known worries confirmed.
+  Likely two sub-groups: (a) people the Blue story doesn't fit (DIY "better Red"
+  types, all-Green savers with no Red to convert) — the form correctly filtering
+  them out; (b) people with the gap who didn't make the self-application leap —
+  fixable. Cheapest intervention: the form is handed over while the person is still
+  in the room — a Red-checked/Blue-blank eval is the frame failing in real time and
+  can be addressed on the spot. Still open: actually talking to a few non-converters
+  to learn the "why" from them directly.
 - Saturation cause, reasonably diagnosed (2026-08-25): NOT specific to NKU or to
   Justin's own execution. Two other independent advisors Justin works alongside
   (separate businesses) report the same attendance decline. Informal research
