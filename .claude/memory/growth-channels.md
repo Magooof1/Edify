@@ -51,6 +51,23 @@ report on them as if they were separable channels.
   not a loss or protection claim; (3) referral ritual candidate: "Do you have Blue?"
   — the referrer asks a question the prospect can't answer, which reproduces the
   class's moment without fear, without describing Justin, and without a pitch.
+- **Competitive evidence (2026-09-12, one client, anonymized):** a client reported
+  attending four other retirement seminars before Justin's and never hearing about
+  Blue at any of them. Read: competitors almost certainly sell Blue-shaped products
+  (managed/hedged portfolios, buffered products, indexed annuities) but present them
+  as products to buy, not as a missing bucket in the prospect's own picture. The
+  moat is the three-bucket frame, not the product. Single anecdote — the eval-form
+  pattern above is the base; this is the illustration. Candidate hook for
+  story-capture-specialist (anonymized, consent-checked): "four seminars, never
+  heard of it."
+- **Hypothesis for Taleb — "be the fifth seminar" (2026-09-12):** seminar shoppers
+  ("plate-lickers," conventionally avoided) may be Justin's best audience — worried
+  enough to attend repeatedly, pre-warmed by competitor fear, and failed by
+  fear-without-resolution. Strategic bet: stop competing for the first touch;
+  position the mailer/ads as the follow-up that names the missing bucket ("already
+  been to a seminar? there's one bucket most never mention"). Compliance note: any
+  "most seminars don't cover this" framing is a comparative claim — must stay
+  general and substantiated, never implying what specific competitors teach.
 - Open test (2026-09-12): pull eval forms from the last 2 years. Do the people who
   did NOT check Blue map to the ~10% who don't book a meeting? If yes, the eval form
   is a validated conversion predictor and Blue-recognition is proven as the mechanism.
