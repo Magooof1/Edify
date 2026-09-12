@@ -220,9 +220,64 @@ back to Sloan. Findings with precedent value:
   mailed card.
 - Same two-hat disclosure block applies unchanged; "this card" → "this email."
 
+**Web / paid-social box (2026-09-12, same day) — Ed, for the mirror as a FB-ad landing
+page (also the mailed card's QR destination).** Everything in the print box carries
+over unchanged. New for web:
+
+Hard walls:
+1. **Layered disclosure.** A scrolling page doesn't guarantee the reader reaches the
+   bottom the way a folded card guarantees the panel is in hand. Short notice near
+   the top (dual RIA + insurance registration, educational-only) and again
+   immediately adjacent to the booking button, each pointing to the full block at
+   the bottom. Bottom-only placement is not sufficient on web.
+2. **No interactive tap-and-auto-check scoring.** If the page executes the mapping
+   and renders "you have X" for a specific visitor, that's the page determining a
+   result about one person — a different register from the reader doing it by hand,
+   even with identical logic. Safest: the static self-scoring key as text, no
+   interactivity — carries the print clearance directly. Any interactive version
+   must never phrase output as a diagnosis, must not store per-visitor answers
+   without separate consent, and needs its own review once built.
+3. **Ad copy that carries any bucket/product-adjacent claim needs its own qualifier
+   in the ad.** An unqualified claim in a 30-word ad cannot be corrected solely on
+   the landing page.
+4. **Geofencing to licensed jurisdictions (OH/KY) at the targeting level.** The "not
+   an offer in any jurisdiction where not licensed" sentence does not cure actual
+   delivery outside OH/KY. Targeting does the work; add a state-of-residence check
+   at booking since Meta location targeting is estimated and leaks.
+5. **No-pitch and service-area restated briefly at the booking stage** — they don't
+   lapse between landing page and calendar.
+
+Drafting preferences: keep FB ad copy free of bucket/product language entirely (hook +
+CTA only) so the landing page carries the disclosure load; check the page has no
+mail-audience-only language ("the card you received") since FB visitors arrive cold;
+booking-page restatement can be pointer-style. Name Trulip/Edify in the ad unit.
+
+Operational: archive the landing page **as published** (dated snapshot, not URL — a
+webpage can be edited post-launch); log targeting parameters, spend, flight dates, Ad
+Library listing, and the actual audience-definition screen; Trulip's 204-2 file must
+stand alone — Meta's retention isn't calibrated to five years; scheduling tool must be
+retention/export-capable (a personal Calendly doesn't satisfy, same standard as the
+texting platform); confirm Meta's current financial-services ad policy (advertiser
+verification, disclosure, targeting restrictions) at submission time; automated
+booking confirmations stay strictly transactional (TCPA).
+
+Heads-up (not a ruling): Meta has restricted granular age/income targeting for
+financial-services ads — the audience Sloan wants may not be available.
+
+Reusable rule: a general-population claim in six words of ad copy ("most people who
+take this discover...") is still an unsubstantiated claim — same test as a paragraph.
+
+Outside counsel / factual for Justin: (a) whether OH/KY insurance-ad rules require
+producer identification to travel with the ad unit itself for short-form paid social;
+(b) whether Trulip's RIA registration/notice-filing footprint is OH/KY-only or broader
+— determines geofence tightness. **Note for future paid pieces:** targeting parameters
+are now part of the recordkeeping set — first paid/targeted piece this workforce has
+reviewed.
+
 **Status (as of 2026-09-12):** base card v2 has copy fixes, disclosure block, and
-format. Correction variant v1 reviewed; copy fixes with Sloan for v2. Email track can
-continue review; SMS track blocked on consent. Neither piece mailed. Neither approved. Open before print: six facts from Justin (last name for print,
+format. Correction variant v2 has copy fixes. Landing page + FB ad with Sloan; web box
+defined; Ed reviews her actual page and ad next. Nothing mailed, sent, or launched.
+Nothing approved. Open before print: six facts from Justin (last name for print,
 OH license #, KY license #, NPN if used, exact legal name of any separate agency/FMO
 entity, whether a CRD belongs on a consumer piece); outside counsel on the two marked
 phrasings, the CPA handoff, and a second read on the self-scoring mechanism; the
