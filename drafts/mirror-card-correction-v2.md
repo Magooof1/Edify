@@ -11,6 +11,22 @@ the concept, channel, CTA structure, trigger rule, or segmentation changed.
 
 ---
 
+## v2.1 — entity/registration correction, 2026-09-12
+Justin corrected a factual error running through every disclosure block drafted so
+far: Trulip Retirement Planning is **not** an SEC-registered investment adviser.
+Justin is an investment adviser representative (IAR) of **Portfolio Medics, LLC**,
+the actual SEC-registered adviser; Trulip is the insurance/planning entity. This
+pass corrects the italic disclosure paragraph and Ed's bracketed note beneath it,
+and applies Justin's resolved placeholder facts throughout: "Justin [Last Name]" →
+**Justin McGuffey**; no separate agency/FMO entity (Trulip itself is the FMO, per
+Justin — legal name used is "Trulip Retirement Planning, LLC," flagged below for
+his confirmation since he referred to it informally as "Trulip Planning"); no
+license numbers, NPN, or CRD printed, per Justin's decision (this piece never
+carried those placeholders directly, but the disclosure block it inherits from the
+base card does — see that file). Nothing else in this pass (subject line, body
+copy, trigger rule, CTA mechanics) changed. See Ed's report to Isla/Justin
+(2026-09-12) for the full geofence analysis this correction triggered.
+
 ## Changelog — v1 to v2 (copy only, per Ed's review)
 
 1. **Opening line reframed.** Cut "one week, by itself, doesn't mean anything on its
@@ -209,20 +225,28 @@ retirement money until they're already sitting across the table from an advisor.
 week didn't change that. It just made it a little harder to look away from your own
 picture. That's all this is — a chance to look at it clearly, on your own terms.
 
-— Justin [Last Name]
+— Justin McGuffey
 Trulip Retirement Planning / Edify Retirement Education
 
-*Edify Retirement Education is the educational arm of Trulip Retirement Planning, an
-SEC-registered investment adviser. This email is educational only and is not
-individualized investment, insurance, or tax advice. Nothing in this email is a
-comment on current or future market performance, and past market movements are not a
-guide to what will happen going forward.*
-[Ed: assume same two-hat disclosure block as the base card (RIA registration language,
-OH/KY insurance producer disclosure, claims-paying-ability language) unless you want a
-correction-specific variant. ADD for this piece specifically: CAN-SPAM footer
-(unsubscribe mechanism + physical address) — new requirement, email-only, not present
-on the mailed card. Disclosure substance untouched in this v2 pass — that's yours, not
-mine, per your instruction.]
+*Investment advisory services are offered through Portfolio Medics, LLC, an
+SEC-Registered Investment Adviser. Insurance and planning products are offered
+through Trulip Retirement Planning, LLC, which is not a registered investment
+adviser. Edify Retirement Education is Justin's education brand. [FLAG, per the
+base card: this still assumes Edify is organized under Trulip as its educational
+arm — confirm with Justin, don't assume.] This email is educational only and is
+not individualized investment, insurance, or tax advice. Nothing in this email is
+a comment on current or future market performance, and past market movements are
+not a guide to what will happen going forward.*
+[Ed: this corrects the prior draft's error of describing Trulip itself as the
+SEC-registered adviser — it isn't; Portfolio Medics, LLC is. Assume the same
+corrected two-hat disclosure block as the base card (`mirror-card-v2.md`, v2.1) —
+Portfolio Medics/Trulip registration language, OH/KY insurance producer
+disclosure without a printed license number (per Justin's decision — see base
+card for the counsel-confirmation flag on that point), claims-paying-ability
+language — unless you want a correction-specific variant. ADD for this piece
+specifically: CAN-SPAM footer (unsubscribe mechanism + physical address) — new
+requirement, email-only, not present on the mailed card. Disclosure substance
+otherwise untouched in this pass beyond the entity correction.]
 
 [Unsubscribe] · Trulip Retirement Planning, [physical address]
 

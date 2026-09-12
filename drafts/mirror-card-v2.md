@@ -2,9 +2,37 @@
 Draft v2 — Ed's copy review applied (2026-09-12)
 Status: DRAFT. Copy reviewed by Ed against the pre-production box; disclosure block
 and format recommendation added by Ed (2026-09-12). NOT approved for print or mail.
-Open: six placeholder facts Justin needs to supply, two "confirm exact current
-wording" items for outside counsel, final format sign-off, the "no pitch" internal
-write-up, and the QR destination (undefined, own clearance).
+Open: two "confirm exact current wording" items for outside counsel (now three —
+see v2.1 note), final format sign-off, the "no pitch" internal write-up, the QR
+destination (undefined, own clearance), and Portfolio Medics' pre-approval process
+(see Ed's report to Isla/Justin, 2026-09-12). Five of the original six placeholder
+facts are resolved as of v2.1 below; one (exact legal name of the Trulip entity)
+is provisionally filled and flagged for Justin's confirmation.
+
+## v2.1 — entity/registration correction, 2026-09-12
+Justin corrected a factual error running through every disclosure block drafted so
+far: Trulip Retirement Planning is **not** an SEC-registered investment adviser.
+Justin is an investment adviser representative (IAR) of **Portfolio Medics, LLC**,
+a nationally (SEC-) registered investment adviser. Trulip Retirement Planning is
+the insurance/planning entity. This version corrects the Disclosures block, the
+"Missing facts" list, and note 5 below to reflect that structure. Nothing else in
+this draft (questions, scoring key, CTA, close) changed. See Ed's report to
+Isla/Justin (2026-09-12) for the full geofence analysis this correction triggered.
+
+Same pass, Justin's answers to the outstanding placeholder facts, applied throughout:
+"Justin [Last Name]" → **Justin McGuffey** everywhere it appears. No separate
+agency/FMO entity — insurance runs through Trulip itself; Justin's words were "Use
+Trulip Planning as the FMO," so the legal name used below is **Trulip Retirement
+Planning, LLC** (as it appears on his client-facing documents) with a note that
+Justin should confirm that's the complete and exact legal name, since he referred
+to it informally. Justin does not want a CRD number, NPN, or OH/KY license numbers
+printed ("I don't think you need my CRD or NPN or license number") — those
+placeholders are dropped per his decision. One thing Ed is flagging rather than
+silently going along with: Ed is not aware of an Ohio or Kentucky rule that
+requires a producer license number to appear on a consumer-facing insurance
+advertisement, and has no basis to say either state's rule is being violated by
+omitting it — but "not aware of" is not the same as "confirmed absent," so this
+stays a named counsel-confirmation item below, not a closed question.
 
 ## Changes from v1 (all per Ed's review — no creative changes)
 1. Q5: "limiting how much it could lose" → "designed to limit how much it could lose."
@@ -31,14 +59,22 @@ write-up, and the QR destination (undefined, own clearance).
   entry. Hard wall.
 - **Outside counsel (already queued):** the CPA/attorney systematic-handoff question;
   a second legal read on the self-scoring mechanism before volume; confirm the exact
-  current required phrasing for the RIA registration line and the OH/KY insurance
-  advertising citations in the disclosure block below — marked "confirm exact current
-  wording" rather than guessed, on purpose.
-- **Missing facts for the disclosure block (Justin to supply):** last name as it
-  should appear in print; Ohio insurance producer license number; Kentucky insurance
-  producer license number; NPN if used on other materials; exact legal name of the
-  agency/FMO entity insurance business runs through, if separate from Trulip; whether
-  a CRD number belongs on a consumer-facing piece at all.
+  current required phrasing for the Portfolio Medics/Trulip two-line advisory-and-
+  insurance disclosure and the OH/KY insurance advertising citations in the
+  disclosure block below — marked "confirm exact current wording" rather than
+  guessed, on purpose. **New, added in v2.1:** confirm whether Ohio or Kentucky
+  insurance-advertising rules require a producer license number to appear on a
+  consumer-facing ad — Justin has directed that none print, and Ed isn't aware of a
+  rule requiring one, but this needs a real confirmation, not an assumption, before
+  it's treated as settled.
+- **Missing facts for the disclosure block — RESOLVED 2026-09-12 (v2.1), except one
+  flagged item:** last name (McGuffey — applied); Ohio/Kentucky license numbers and
+  NPN (Justin's decision: none printed); whether a CRD number belongs on the piece
+  (Justin's decision: no). **Still open:** confirm "Trulip Retirement Planning, LLC"
+  is the complete and exact legal name of the entity insurance business runs
+  through — Justin referred to it as "Trulip Planning" when directing that it serve
+  as the FMO, and the name printed on a mailed piece should match the entity's
+  actual legal name exactly, not an informal shorthand.
 - **Sloan's flags (unchanged from v1):** nothing yet earns the open (envelope/postcard
   front is a second piece of work); the mapping step should be tested on five real
   people with a printed mockup before a mail house sees it.
@@ -110,7 +146,7 @@ I built this because most people don't get shown a clear picture of their own
 retirement money until they're already sitting across the table from an advisor.
 This card is that picture, without needing the meeting first.
 
-— Justin [Last Name]
+— Justin McGuffey
 Trulip Retirement Planning / Edify Retirement Education
 
 *Recommended production note: everything below this line is its own panel —
@@ -119,46 +155,65 @@ recommendation in the notes below for why.*
 
 **Disclosures**
 
-Trulip Retirement Planning is a registered investment adviser with the U.S.
-Securities and Exchange Commission. [CONFIRM EXACT CURRENT WORDING — this line is
+Investment advisory services are offered through Portfolio Medics, LLC, an
+SEC-Registered Investment Adviser. Insurance and planning products are offered
+through Trulip Retirement Planning, LLC. Trulip Retirement Planning is not a
+registered investment adviser. [CONFIRM EXACT CURRENT WORDING — this line is
 typically paired with "Registration as an investment adviser does not imply a
-certain level of skill or training." Confirm the current required phrasing with
-outside counsel before print; do not treat this draft's wording as final.]
+certain level of skill or training." Confirm the current required phrasing —
+including any language Portfolio Medics itself requires when its name appears on
+an IAR's marketing materials — with outside counsel and/or Portfolio Medics
+compliance before print; do not treat this draft's wording as final.]
 
-Edify Retirement Education is the educational arm of Trulip Retirement Planning.
-This card is educational only. It is not individualized investment, insurance, or
-tax advice, and your own situation may differ from the general patterns described
-here. Nothing on this card is a recommendation to buy, sell, or hold any specific
-security, insurance product, or annuity.
+Edify Retirement Education is Justin's education brand. [FLAG, NOT A PLACEHOLDER:
+this draft still describes Edify as organized under Trulip Retirement Planning as
+its educational arm, matching the one parent relationship on record. The Portfolio
+Medics correction touches entity structure broadly enough that this shouldn't be
+assumed silently — if Edify's actual ownership/parent is different, this sentence
+needs to change with it. Confirm with Justin.] This card is educational only. It
+is not individualized investment, insurance, or tax advice, and your own situation
+may differ from the general patterns described here. Nothing on this card is a
+recommendation to buy, sell, or hold any specific security, insurance product, or
+annuity.
 
-Justin [LAST NAME — PLACEHOLDER] is a licensed insurance producer in the state of
-Ohio (License #[PLACEHOLDER]) and the state of Kentucky (License #[PLACEHOLDER]).
-[PLACEHOLDER: NPN, if used on other Trulip/Edify materials — confirm whether it
-belongs on this piece too.] [PLACEHOLDER: if insurance business is transacted
-through a separate agency or FMO entity rather than personally, that entity's exact
-legal name needs to appear here — confirm with Justin which name is correct, and
-whether naming it on a consumer-facing card is even wanted.]
+Justin McGuffey is an investment adviser representative of Portfolio Medics, LLC,
+and a licensed insurance producer in the states of Ohio and Kentucky. Insurance
+and planning business is conducted through Trulip Retirement Planning, LLC.
+[Per Justin's direction, no license number, NPN, or CRD number is printed on this
+consumer-facing card. See counsel-confirmation note below — Ed is not aware of an
+Ohio or Kentucky rule requiring a producer license number on this kind of
+advertisement, but that is not the same as confirming none applies.]
 
 Any reference on this card to money that "can't lose value," to principal
 protection, or to a plan that limits downside describes a feature of an insurance
 or annuity contract. Any such guarantee is made by, and is subject to the
-claims-paying ability of, the issuing insurance carrier — not by Trulip Retirement
-Planning, Edify Retirement Education, or Justin [Last Name] individually. No carrier
-or product is named on this card as drafted; if one is ever added, that addition
-needs its own clearance before it goes to print. These products are not bank
-deposits, are not FDIC insured, and may carry surrender charges, caps, or other
-limits described in the applicable contract.
+claims-paying ability of, the issuing insurance carrier — not by Portfolio Medics,
+LLC, Trulip Retirement Planning, Edify Retirement Education, or Justin McGuffey
+individually. No carrier or product is named on this card as drafted; if one is
+ever added, that addition needs its own clearance before it goes to print. These
+products are not bank deposits, are not FDIC insured, and may carry surrender
+charges, caps, or other limits described in the applicable contract.
 
-This card is not an offer or solicitation to buy or sell any product in any
-jurisdiction where Justin [Last Name] and Trulip Retirement Planning are not
-appropriately licensed or registered. [CONFIRM EXACT CURRENT WORDING for any
-additional producer-advertisement disclosure required under Ohio's insurance
-advertising rules and Kentucky's counterpart regulation — Ed is not citing a
-specific code section here on purpose; outside counsel should confirm current
-citation and required phrasing before print.]
+This card is not an offer or solicitation to buy or sell any insurance or annuity
+product in any jurisdiction where Justin McGuffey is not an appropriately licensed
+insurance producer — currently Ohio and Kentucky only. [CONFIRM EXACT CURRENT
+WORDING for any additional producer-advertisement disclosure required under
+Ohio's insurance advertising rules and Kentucky's counterpart regulation, AND
+confirm whether either state requires a producer license number to appear on this
+kind of consumer advertisement — Ed is not citing a specific code section here on
+purpose, and is not aware of such a requirement, but this is exactly the kind of
+fact that needs outside counsel's confirmation rather than Ed's or Justin's
+assumption, given Justin's decision to omit the number.] Nor is this card an offer
+or solicitation for advisory services in any jurisdiction where Portfolio Medics,
+LLC, or Justin as its investment adviser representative, is not appropriately
+registered or exempt from registration. [PLACEHOLDER — FACT NEEDED FROM PORTFOLIO
+MEDICS, not guessed by Ed: Portfolio Medics' own state registration/notice-filing
+footprint. Until that's confirmed, this card's actual distribution geofence is set
+by the insurance side (Ohio and Kentucky) as the binding constraint — see Ed's
+separate geofence ruling to Justin/Isla, 2026-09-12. This sentence should not be
+read as license to distribute more broadly without that confirmation.]
 
-[PLACEHOLDER — confirm with Justin: does a CRD number belong on a consumer-facing
-piece like this? Not filling this in by default.]
+Justin has directed that no CRD number appear on this consumer-facing piece.
 
 ---
 
@@ -172,12 +227,26 @@ piece like this? Not filling this in by default.]
    instructions are on the right side of the line.
 4. v1 preserved at drafts/mirror-card-v1.md for the record.
 5. **Ed's disclosure block (2026-09-12):** drafted above per the compliance box in
-   `.claude/memory/compliance-precedents.md` (2026-09-12 entry). Six placeholder
-   facts need Justin's input (see "Missing facts" bullet above) and two spots are
-   marked "confirm exact current wording" rather than guessed — the RIA registration
-   phrasing and the OH/KY insurance-advertisement citation. Neither should be filled
-   in with Ed's best guess; both go to outside counsel or Justin's current compliance
-   resource before print.
+   `.claude/memory/compliance-precedents.md` (2026-09-12 entry). **Updated 2026-09-12
+   (v2.1)** to correct a structural error that ran through the original draft: the
+   block had described Trulip Retirement Planning itself as the SEC-registered
+   investment adviser. It isn't. Justin is an IAR of Portfolio Medics, LLC, the
+   actual SEC-registered adviser; Trulip is the insurance/planning entity. The block
+   now uses the two-line structure from Justin's client-facing documents ("advisory
+   services offered through Portfolio Medics, LLC..." / "insurance and planning
+   products offered through Trulip Retirement Planning, LLC..."). Of the original six
+   placeholder facts, five are now resolved by Justin's direct answers (name:
+   McGuffey; no separate FMO entity — Trulip itself serves that role; no license
+   numbers, NPN, or CRD printed, by his decision); one remains open (confirm "Trulip
+   Retirement Planning, LLC" is the exact legal name — Justin referred to it
+   informally as "Trulip Planning"). Three spots are now marked "confirm exact
+   current wording / fact" rather than guessed: the Portfolio Medics/Trulip
+   registration phrasing, the OH/KY insurance-advertisement citation (now including
+   whether either state requires a license number on the ad, given Justin's decision
+   to omit one), and Portfolio Medics' own state registration/notice-filing
+   footprint. None of these three should be filled in with Ed's best guess — they go
+   to outside counsel, Justin's current compliance resource, or Portfolio Medics
+   compliance directly, as applicable.
 6. **Ed's format recommendation (2026-09-12):** one 8.5x11 sheet, bi-fold to 8.5x5.5,
    four panels — (1) cover/hook, (2) five questions, (3) scoring key + CTA + Justin's
    first-person close + signature, (4) disclosures only, nothing else on that panel.
