@@ -10,6 +10,23 @@ in v1 was deleted, only superseded where Ed flagged it.
 
 ---
 
+## v2.1 — entity/registration correction, 2026-09-12
+Justin corrected a factual error running through every disclosure block drafted so
+far: Trulip Retirement Planning is **not** an SEC-registered investment adviser.
+Justin is an investment adviser representative (IAR) of **Portfolio Medics, LLC**,
+the actual SEC-registered adviser; Trulip is the insurance/planning entity. This
+pass corrects the top disclosure notice (Section 1), the v2 change-note describing
+it below, and applies Justin's resolved placeholder facts: "Justin [Last Name]" →
+**Justin McGuffey**; no license numbers, NPN, or CRD printed (Justin's decision);
+Trulip Retirement Planning, LLC confirmed as the FMO (no separate agency entity —
+flagged for Justin to confirm the exact legal name, since he referred to it
+informally as "Trulip Planning"). The ad-unit entity naming question (Section
+"THE AD" below) is addressed explicitly — see that section. Nothing about the
+five questions, scoring key, CTA mechanics, or targeting/metric plan changed. See
+Ed's report to Isla/Justin (2026-09-12) for the full geofence analysis this
+correction triggered — it bears directly on this piece, since it's the one paid,
+targeted piece reviewed so far.
+
 ## CHANGELOG — v1 → v2 (Ed's first-pass compliance notes)
 
 **1. All three ad variants — same fixes, applied to each:**
@@ -40,10 +57,15 @@ in v1 was deleted, only superseded where Ed flagged it.
 **2. Two new disclosure notices added, per Ed's placement call:**
 
 - **Top notice** — new, directly beneath the Section 1 hook, before the five
-  questions: dual registration (Trulip Retirement Planning as SEC-registered
-  investment adviser; Justin as a licensed insurance producer in OH/KY), "educational
-  only, not individualized advice," and a pointer down to the full disclosure block.
-  Two sentences, sized not to bury the hook.
+  questions: dual registration (Portfolio Medics, LLC as the SEC-registered
+  investment adviser; Justin as its IAR and as a licensed insurance producer in
+  OH/KY; Trulip Retirement Planning as the insurance/planning entity — corrected in
+  v2.1, see above), "educational only, not individualized advice," and a pointer
+  down to the full disclosure block. **Note on length (v2.1):** naming two entities
+  correctly instead of one takes more than the original two sentences. Flagging
+  this as a real design tradeoff, not a copy nicety — Sloan/Justin should confirm
+  the notice still reads as "small, quiet type" beneath the hook rather than a
+  second block competing with it, once built.
 - **Button notice** — new, inside Section 4 immediately below the CTA button:
   action-oriented ("this books a free educational conversation, not a solicitation")
   plus the same pointer to full disclosures. Placed at the exact moment the reader
@@ -71,11 +93,15 @@ One page. One job: a booked meeting. Nothing on this page should compete with th
 >
 > Answer yes or no.
 
-**[NEW — top disclosure notice, directly beneath the hook, before the five questions]**
+**[NEW — top disclosure notice, directly beneath the hook, before the five questions
+— corrected in v2.1]**
 
-> *Trulip Retirement Planning is an SEC-registered investment adviser. Justin
-> [Last Name] is also a licensed insurance producer in Ohio and Kentucky. This page is
-> educational only and isn't individualized advice — full disclosures are below.*
+> *Investment advisory services are offered through Portfolio Medics, LLC, an
+> SEC-Registered Investment Adviser. Insurance and planning products are offered
+> through Trulip Retirement Planning, LLC. Justin McGuffey is an investment
+> adviser representative of Portfolio Medics and a licensed insurance producer in
+> Ohio and Kentucky. This page is educational only and isn't individualized
+> advice — full disclosures are below.*
 
 Small, quiet type — a notice, not a second headline. It sits between the hook and the
 five questions so a reader who never scrolls to Section 6 still saw it, but it isn't
@@ -159,7 +185,7 @@ first," no "download the guide," no email field anywhere above or below the butt
 > retirement money until they're already sitting across the table from an advisor.
 > This page is that picture, without needing the meeting first.
 >
-> — Justin [Last Name]
+> — Justin McGuffey
 > Trulip Retirement Planning / Edify Retirement Education
 
 *(Note: this line, "most people don't get shown a clear picture...," is Justin's own
@@ -177,14 +203,19 @@ click-to-expand of any kind. Whoever builds this in Squarespace should treat thi
 hard requirement, not a design default to override.]**
 
 Base text is the disclosure block already drafted in `drafts/mirror-card-v2.md`
-(the "Disclosures" section, RIA registration line, insurance license lines, the
-principal-protection/carrier-guarantee paragraph, and the "not an offer or
-solicitation" line) — same six placeholder facts still outstanding there. This block
-now sits alongside the two new short-form notices above (Sections 1 and 4) as a
-three-layer disclosure structure: short notice at the hook, short notice at the CTA,
-full block always visible at the bottom. Ed to confirm the three work together as
-intended and that nothing in the two new short notices contradicts or duplicates the
-full block awkwardly.
+(the "Disclosures" section — **corrected in that file's v2.1 pass, 2026-09-12: the
+Portfolio Medics/Trulip two-line advisory-and-insurance structure, insurance
+license lines without a printed license number per Justin's decision, the
+principal-protection/carrier-guarantee paragraph, and the split advisory/insurance
+"not an offer or solicitation" line**). Of the original six placeholder facts,
+five are now resolved (name, license numbers/NPN/CRD omitted by Justin's decision,
+FMO entity confirmed as Trulip itself); one remains open (exact legal name of the
+Trulip entity). This block now sits alongside the two new short-form notices above
+(Sections 1 and 4) as a three-layer disclosure structure: short notice at the
+hook, short notice at the CTA, full block always visible at the bottom. Ed
+confirms the three still work together as intended with the corrected entity
+names — nothing in the two short notices contradicts or duplicates the full block
+awkwardly.
 
 ---
 
@@ -193,6 +224,24 @@ full block awkwardly.
 Job of the ad is narrow: earn a click from someone who isn't expecting to be sold
 anything. Not the booking, not the explanation — just the click. The landing page
 carries the rest, including all bucket-specific language and the full disclosure load.
+
+**Entity name in the ad unit — Ed's call, v2.1:** all three variants below still
+name "Edify Retirement Education / Trulip Retirement Planning," not Portfolio
+Medics. That's deliberate, and it stays that way. Two reasons: (1) this precedent
+was already set for the mailed card — Portfolio Medics was kept off the mailer on
+purpose because naming the RIA program pulls in performance-disclosure machinery
+disproportionate to a short piece; the same logic applies more strongly to a
+30-word ad, which has even less room to carry what naming an SEC-registered
+adviser by name typically requires alongside it. (2) Edify/Trulip are the
+consumer-facing brand identifiers used everywhere else in this piece (the mailed
+card, the correction email) — naming Portfolio Medics only in the ad unit, and
+nowhere else, would be inconsistent without a reason to be. The substantive
+registration disclosure (Portfolio Medics as the SEC-registered adviser, Trulip as
+the insurance/planning entity) lives where it belongs: the landing page's top
+notice and full disclosure block, which are built to carry that load. The
+producer-ID-travels-with-the-ad question is still with counsel per the standing
+open item below — this call doesn't resolve that, it just keeps the conservative
+default in place.
 
 **Facebook button:** unchanged — "Learn More," not a commitment verb.
 
@@ -243,20 +292,193 @@ population claim of any kind — general-noun or "most people" construction alik
 
 ---
 
-## TARGETING (unchanged from v1 — flag for Justin, not copy)
+## TARGETING (v2.1 — rebuilt for Meta Special Ad Category, 2026-09-12)
 
-Recommend matching Facebook's targeting as closely as the platform allows to the same
-population Justin's DRA mail list targets — age band, household income floor, and
-Cincinnati/NKY zip codes. See APPENDIX for full detail; nothing here changed in v2.
+**Why this section is being rebuilt, not tweaked:** Justin has confirmed from direct
+experience that Meta requires Special Ad Category declaration for financial-services
+ads, and that it strips the exact targeting v1 asked for (age band, income floor, zip
+codes). The v1 targeting plan below in the APPENDIX is not achievable on this platform
+as written — this replaces it rather than annotating it.
 
-## METRIC (unchanged from v1)
+**Sourcing note, stated plainly:** Meta's own primary pages (transparency.meta.com,
+facebook.com/business/help) were unreachable from here — both domains are blocked by
+the network egress proxy I have access through. Everything below is cross-corroborated
+across several independent secondary sources rather than read off Meta's own text
+directly: Data Axle, *"The 2025 Meta Special Ad Categories Rules You Need to Know"*;
+WOLF Financial, *"Meta Ads Financial Services Restrictions and Strategic Targeting
+Workarounds"*; benly.ai, *"Meta Ads for Finance & Insurance: Compliant Strategy Guide
+2026"*; and several ad-tech/agency posts on the enforced minimum radius and 2025
+customer-list restrictions (all consulted 2026-09-12). Multiple independent sources
+agree on every point below, which is why I'm treating it as reliable — but it is
+secondary-source information, not a citation of Meta's own policy text, and whoever
+builds the ad account should confirm each item against what Ads Manager actually shows
+at campaign-creation time before spending a dollar. Where I couldn't get corroboration
+(e.g., the exact current minimum radius figure had one outlier source saying
+state-only, versus several more specific sources citing a 15-mile/25km floor around a
+pin), I've flagged it rather than picked the more convenient number.
 
-Track ad performance (CTR, CPC) and page performance (visit-to-booking rate)
-separately. See APPENDIX for full detail and signal/noise thresholds; nothing here
-changed in v2.
+**In scope, confirmed:** Meta expanded its "Financial Products and Services" Special Ad
+Category in 2025 to cover banking, savings, insurance, and investment services, not
+just credit/loans — mandatory for US advertisers running these campaigns. An ad from
+an IAR of an SEC-registered adviser (Portfolio Medics, LLC) who is also an OH/KY
+insurance producer, promoting a conversation about retirement accounts, is squarely
+inside this. Not a gray area, and consistent with Justin's own experience.
+
+**What's removed:**
+- Age targeting narrower than a broad 18–65+ bucket. No 55–70 band — the DRA list's
+  actual age criterion is not settable here.
+- Gender targeting — must run to all genders.
+- Zip-code and neighborhood-level location — disallowed outright, no exceptions.
+- Location exclusions of any kind — you cannot carve an area back out of a selected
+  region once it's in.
+- Household income and most detailed/interest-based demographic targeting — there is
+  no way to set a $250K+ household income floor on this platform for this category.
+- Lookalike Audiences and Meta Advantage+ targeting expansion built on Meta's own
+  behavioral data.
+- As of a January 2025 policy tightening: customer-list audiences shared in from
+  another business portfolio, and customer lists sourced from a data broker/consumer-
+  reporting provider — not relevant here since we'd do neither.
+
+**What remains:**
+- Location by city, address, or dropped pin, at an enforced minimum radius —
+  reported consistently (though not primary-sourced, see above) as 15 miles (25 km) in
+  the US. State- and metro/DMA-level targeting also remain as broader alternatives.
+- A reduced set of broad interest/topic categories — expect most finance-adjacent
+  interests to be grayed out; confirm what's actually selectable in-account rather
+  than assuming any particular one survives.
+- Custom Audiences built from Justin's own uploaded, first-party client/prospect
+  list — still permitted under these rules as reported, if uploaded directly rather
+  than shared in from elsewhere, and not sourced from a data broker. Separate decision
+  from ad targeting, unchanged from v1's flag: uploading Justin's client list to
+  Facebook is his explicit call to make, not something this test triggers by default.
+
+**Verification and disclosure — operational, needs an owner, not copy:**
+- Advertiser/business identity verification is required, including demonstrating
+  authorization by the relevant regulator — in our case, tied to Portfolio Medics'
+  SEC-RIA registration and/or Justin's OH/KY insurance license depending which entity
+  the ad account is verified under. Sources recommend starting this two-plus weeks
+  before intended launch; it can involve a mailed verification code and, in some
+  reports, notarization. This is a real launch-timeline item independent of copy
+  readiness — flagging so it starts now if it hasn't. Which entity gets verified
+  (Trulip, as the Edify-branded content owner, versus Portfolio Medics, given the
+  investment-related bucket in the questions) is Ed/Justin's call, not mine.
+- Meta now requires a "Paid for by" disclaimer on financial-services ads, naming the
+  verified payer/beneficiary, shown in the ad's "Ad info" and in the public Ad
+  Library. This is a platform-generated label from verification data, not ad copy —
+  separate from Ed's disclosure block on the landing page, but worth surfacing as a
+  distinct to-do for whoever sets the ad account up.
+
+**Geography — built for OH/KY, Cincinnati/NKY metro** (per Isla's working assumption;
+Ed separately reconciling the exact geofence against Justin's IAR status, insurance
+side staying OH/KY regardless):
+
+With zip-level precision gone, the closest legal proxy for "Cincinnati/NKY" is one or
+two city/address pins at the enforced minimum radius — e.g., a pin on downtown
+Cincinnati and a second on Covington/Florence, KY, so the radius reaches NKY's inner
+counties rather than one circle stretched thin. This is wider than the DRA list's zip
+footprint, not narrower, and there's no way to tighten it back down.
+
+One specific thing worth flagging rather than assuming away: a 15-mile radius from
+downtown Cincinnati likely reaches into southeastern Indiana (Dearborn County /
+Lawrenceburg) — Meta doesn't allow excluding it back out once it's in the circle.
+Justin's insurance license is OH/KY only. Whether a handful of stray Indiana
+impressions on an ad that only books an educational conversation (no product named, no
+state-specific insurance solicitation in the ad copy itself) is immaterial or a real
+compliance flag is Ed's call — surfacing it now rather than after the campaign is live.
+
+**If the advisory-side footprint ends up wider than OH/KY** once Ed's geofence
+reconciliation lands: the mechanic here doesn't change, only the pin count — add more
+city-center pins (Columbus, Louisville, wherever) each carrying the same minimum-
+radius floor. Additive, not a rebuild.
+
+**Creative-as-targeting — since the platform won't filter by age or income, the copy
+has to do some of that work:**
+
+The only lever left to approximate "55–70, $250K+ household" is the ad content itself
+doing the self-selecting, Godin/Miller-style: someone outside the intended reader
+doesn't recognize themselves in the questions and scrolls past, rather than the
+platform declining to show them the ad in the first place. The current three variants
+already do some of this by accident — "an old 401(k) or IRA from a job you don't work
+at anymore," a market drop "in 2022, 2020, 2008, whichever you remember," and "a plan
+in place to limit how much it could lose" are account-type and memory cues someone
+decades from retirement, or without meaningful retirement savings, doesn't have a
+foothold in. That's the honest proxy for the income floor too — topic specificity
+about holding multiple account types, not a dollar figure we couldn't defensibly claim
+in ad copy regardless of what Meta allowed.
+
+Where I'd add one more cue: none of the three headlines signal life stage at all right
+now — they'd read the same to a 30-year-old as a 62-year-old. I'd add a short
+life-stage qualifier to the *primary text* (not the headline) of all three variants —
+something naming life stage, not a number. This matters as a real distinction, not a
+style preference: Meta's ad review actively looks for copy that tries to route around
+a Special Ad Category's removed targeting (an explicit "55 to 70" or a dollar figure
+in the ad text reads exactly like that attempted workaround, and can get an ad
+rejected or throttled) — a life-stage phrase doesn't have that problem, a number does.
+
+**Concrete proposed edits below — draft only, needs Ed's pass; any copy change
+re-opens his review, full stop:**
+
+- **Variant A**, end of primary text: append "— worth five minutes if retirement is a
+  handful of years away, not decades" before "Takes about two minutes."
+- **Variant B**, end of primary text: append "— most useful if retirement's closer
+  than it used to be" before "Two minutes, no score, nothing to sign up for."
+- **Variant C**, end of primary text: append "— aimed at anyone within a few years of
+  retirement, not just curious about the topic" before "Takes about two minutes."
+
+I'm not confident these are the final phrasing — they're a first pass at the
+mechanic, not a finished set, and Ed should scrutinize them exactly as hard as any
+other new line (do they read as a claim? as urgency? as a workaround attempt in
+themselves?) rather than waving them through because the rest of the variant already
+cleared.
+
+## METRIC (v2.1 — updated for Special Ad Category audience)
+
+Ad performance (CTR, CPC) and page performance (visit-to-booking rate) still get
+tracked separately — that split doesn't change, and neither do the page-level
+thresholds below. What changes is how to read the ad-level numbers, now that the
+TARGETING rebuild above means a much broader, less-qualified audience than v1
+assumed:
+
+- **CTR/CPC now sit against a much wider pool than v1 planned for.** v1 assumed a
+  list-matched population (age band + income floor + zip). What's actually buyable is
+  "everyone 18–65+ within a 15-mile-plus radius of a couple of Cincinnati/NKY pins" —
+  a large share of impressions will go to people who were never going to be the
+  reader, regardless of how good the ad is. Expect CPC to move (likely down — the
+  auction is bidding against a bigger, cheaper, less-targeted pool) and CTR to move
+  too (likely down — more of the audience has no reason to click). Neither shift is a
+  verdict on the ad copy by itself; a meaningful part of it is the removed targeting,
+  not the words.
+- **Raise the impressions floor before reading CTR/CPC as signal.** v1's "at least a
+  few hundred impressions per variant" threshold assumed most of those impressions
+  were on-target. With Special Ad Category delivery, a much larger share are off-target
+  by default, so treat a few hundred as a bare minimum, not a comfortable read —
+  a thousand-plus per variant is a safer bar before drawing a CTR comparison between
+  variants.
+- **Visit-to-booking rate stays the number that matters, and its thresholds don't
+  move.** Whoever actually lands on the page and reads it has already self-selected
+  past the platform's missing filters — that's the whole point of the creative-as-
+  targeting approach in TARGETING above. The 50–100-visit floor from v1 before reading
+  that rate as signal still holds; this is the number to trust more than the ad-level
+  metrics under the broader targeting.
 
 ## HONEST READ — WHAT WOULD MAKE THIS TEST FAIL FOR REASONS UNRELATED TO THE MIRROR
-(unchanged from v1 — see APPENDIX for the full seven-item list)
+(v2.1 — items 1–7 unchanged from v1, see APPENDIX for full text; one new item added
+below, specific to the targeting rebuild)
+
+8. **Special Ad Category targeting dilutes the audience enough to blur what a bad
+   number means.** With no age band, no income floor, and no zip precision — only a
+   broad 18–65+ bucket and a 15-mile-plus radius around a couple of pins — a real
+   share of clicks and landing-page visits will come from people well outside "a few
+   years from retirement, real savings," through no fault of the copy or the page. A
+   weak CTR or a weak visit-to-booking rate could just as easily be audience mismatch
+   (the wrong person saw a well-built page and correctly ignored it) as a mirror-
+   concept problem. This is a real limitation the test can't fully engineer around
+   given what's actually buyable on the platform right now — the creative-as-
+   targeting approach in TARGETING above is the honest mitigation, not a fix. Unlike
+   items 1–7, this one can't be "ruled out" with an operational checklist before
+   launch — it's a structural ceiling on how cleanly this test can isolate the mirror
+   concept from audience mismatch, and worth reading any result with that ceiling in
+   view rather than treating this as a clean read either way, good or bad.
 
 ---
 

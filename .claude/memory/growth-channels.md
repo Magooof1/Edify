@@ -445,3 +445,30 @@ discretionary budget" above. A mailer remains an allowed use only as a cost *wit
 a qualifying public workshop or networking event, not as a standalone spend. The
 underlying saturation caution still applies to any workshop/mailer combination
 funded from this pool.
+
+---
+
+## 2026-09-12 (later) — Meta Special Ad Category changes what the FB test can tell us
+
+Justin confirmed from prior experience that Meta puts this account's ads in the
+Financial Products and Services Special Ad Category. Sloan rebuilt the targeting in
+`drafts/mirror-landing-page-v2.md` (v2.1). What that removes: age bands (18–65+ only),
+gender, zip-level location and exclusions, income, most interest targeting, lookalikes.
+What remains: city pin with an enforced minimum radius (~15 miles, secondary-sourced),
+state/DMA targeting, a reduced interest set, and Custom Audiences from Justin's own
+uploaded list (his explicit call, not a default). A Cincinnati pin likely bleeds into
+SE Indiana and can't be excluded — Ed to say whether that's material given the OH/KY
+geofence.
+
+**Consequence, stated plainly by Sloan:** the FB test still tests the mirror
+mechanism, but no longer cleanly against the population the DRA mail list reaches.
+A flat result is now confounded with "Meta handed us the wrong audience," and no copy
+fix removes that. Treat the FB read as a softer signal on the mirror concept than the
+eventual mail result, in either direction. Creative now does the age/income selection
+the platform won't: Sloan proposed one life-stage clause per ad variant (draft, needs
+Ed). Raise the impressions floor to ~1,000+ per variant before comparing CTR; the
+visit-to-booking rate stays the number that matters.
+
+**Sequencing change.** Before any FB spend: Meta advertiser verification (2+ weeks)
+and Portfolio Medics compliance pre-approval (see compliance-precedents.md, same
+date). Both are calendar time, not work — start them now if the test is still on.

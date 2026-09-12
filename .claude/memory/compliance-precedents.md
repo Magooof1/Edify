@@ -326,3 +326,69 @@ entity, whether a CRD belongs on a consumer piece); outside counsel on the two m
 phrasings, the CPA handoff, and a second read on the self-scoring mechanism; the
 internal "no pitch" write-up; the QR destination (hard wall). Correction-triggered
 variant in progress with Sloan — gets its own Ed pass.
+
+---
+
+## 2026-09-12 (later) — Entity correction: Trulip is not the RIA
+
+**What was wrong.** Every disclosure block drafted for the mirror (card v2, correction
+v2, landing page v2) named Trulip Retirement Planning as the SEC-registered investment
+adviser. Isla's error, carried into Ed's drafts. Justin corrected it: he is an
+**investment adviser representative (IAR) of Portfolio Medics, LLC**, the nationally
+registered RIA. Trulip Retirement Planning, LLC is the insurance/planning entity and
+is not an RIA. Not FINRA-registered — no broker-dealer, no Rule 2210.
+
+**Consequence for prior clearances.** Ed's earlier "CLEAN" pass on the landing page
+was clean against a false premise. Do not read any pre-correction clearance in this
+file as current. All three drafts are now at **v2.1** with the corrected two-line
+structure (advisory through Portfolio Medics, LLC; insurance/planning through Trulip
+Retirement Planning, LLC) and carry a dated change note.
+
+**Facts applied (from Justin).** Print name: Justin McGuffey. No separate agency/FMO
+entity — insurance runs through Trulip itself (Justin said "Trulip Planning"; drafts
+use "Trulip Retirement Planning, LLC" per his client documents — exact legal name
+still his to confirm). No CRD, NPN, or OH/KY license numbers printed, by his decision;
+Ed kept one counsel-confirm item that neither state requires a producer number on
+consumer advertising, and if counsel says one does, that comes back to Justin.
+
+**Ed's geofence ruling, reconsidered with two hats.** Stays OH/KY for the mirror. The
+insurance hat controls: the piece describes principal-protected/downside-managed
+features, and producer licenses are OH/KY only. The advisory hat is looser in theory
+(NSMIA: IAR registration only where there's a place of business), but a de minimis
+client allowance is not a license to *advertise* for volume out of state — treating
+those as the same question is a gray area for counsel, not Ed. A future purely
+advisory piece with zero insurance-descriptive language could widen the geofence, but
+only once Portfolio Medics' state footprint is confirmed by Portfolio Medics.
+
+**Ad-unit entity name — decided.** Ads keep "Edify Retirement Education / Trulip
+Retirement Planning," not Portfolio Medics: naming the RIA in a 30-word ad pulls in
+disclosure machinery the unit can't carry; the registration disclosure lives on the
+page. Producer-ID-in-the-ad question unchanged, still with counsel.
+
+**The gate we hadn't accounted for — Portfolio Medics pre-approval.** Nearly every
+national RIA requires advertising pre-clearance from its IARs. If Portfolio Medics
+does, this workforce's review is preparation for theirs, not a substitute, and
+nothing prints, mails, or spends until they've cleared it. Ed's six questions for
+Portfolio Medics compliance are in Isla's report to Justin (2026-09-12) and
+summarized: (1) pre-approval required, process, turnaround; (2) exact required
+disclosure wording when Portfolio Medics' name appears, incl. "skill or training"
+line and CRD policy; (3) the firm's state registration/notice-filing footprint;
+(4) paid-social-specific rules; (5) disclosure/approval of the outside insurance
+business on two-hat pieces; (6) their own retention requirement vs. Trulip's 204-2
+file. **Standing rule going forward:** every Ed report on a piece touching advisory
+services says explicitly that Portfolio Medics compliance is the pre-approval
+authority.
+
+**Still open from this pass.** Confirm "Trulip Retirement Planning, LLC" exact legal
+name; confirm Edify is correctly described as the educational arm of Trulip (carried
+forward, not verified); Portfolio Medics' state footprint; which entity gets Meta
+advertiser verification (Trulip vs. Portfolio Medics).
+
+**Meta Special Ad Category — confirmed real by Justin's own experience.** Sloan's
+rebuilt targeting (landing page v2.1) is now the working spec; see growth-channels.md
+for the channel consequence. Compliance-relevant pieces: advertiser verification
+(2+ weeks, possibly notarized) and a Meta-generated "Paid for by" disclaimer — both
+operational to-dos, and the verified entity is a Justin/Ed decision. Sloan's three
+proposed life-stage clauses in the ad copy are draft only and re-open Ed's review.
+Sloan could not reach Meta's primary help pages from this environment; her rules
+summary is cross-corroborated secondary sourcing and says so.
