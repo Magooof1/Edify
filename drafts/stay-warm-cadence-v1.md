@@ -62,7 +62,8 @@ per the existing rule, once per episode, not once per bad day.
 
 **The off-ramp.** This cadence does not run forever at full frequency by default. If a
 household has had zero response — no reply, no call answered, no click — across four
-consecutive quarterly touches (about 18 months past the end of Phase 1), it drops to
+consecutive quarterly touches (about 12 months past the end of Phase 1, roughly 15
+months from the first touch — corrected 2026-09-16, the original said 18), it drops to
 once a year: the annual ask-touch only, no quarterly gives. This isn't a punishment;
 it's honest recognition that continuing to "give" at the same rate to someone who's
 never engaged is closer to noise than generosity. A household that responds at any

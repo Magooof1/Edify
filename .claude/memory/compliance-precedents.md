@@ -453,3 +453,83 @@ warm touches a week target); the counsel question above.
 the forwardable line (ask for one name, permission, Justin does the outreach). The
 forwardable line stays out of use until counsel answers Ed's question; it remains in
 the draft for the record. Counsel question is queued, not urgent.
+
+---
+
+## 2026-09-16 — Stay-warm "never-met" track (the ~100) — Ed's preflight
+
+**Verdict: clean with fixes.** Same standing rules as the quiet track (stay-warm
+cadence, same day) applied to a different segment — a warm audience that attended or
+signed up for a class but never had a Financial House Analysis.
+
+**Touch 1 material-fact fix, applied.** Original line asserted "you sat through the
+class" — false for anyone in the pool who registered and never attended. Under the
+Marketing Rule this is an untrue statement of material fact about the recipient, not a
+tone issue. Fixed by anchoring the claim on "you signed up" (true of the whole pool by
+definition) and covering the attendance variation ("whether you made it in, caught part
+of it, or the day got away from you") without asserting which happened to any given
+household. No segment split needed before send — a universally-true line was reachable
+without the attended-vs-registered headcount Sloan didn't have.
+
+**Reused mirror copy in a new segment (Touch 2) — clean, same test as the quiet
+track's Q-Give-2.** A new segment is a new context worth a fresh look, but a look, not
+a presumption of a problem: substance travels when the content is unchanged and the
+reader still does the matching (no new "diagnosing a stranger" issue); disclosure
+sizing follows format and room available, not the segment. Full footer, unchanged,
+correct.
+
+**Bucket-feature touch in a general note (Touch 3) — full two-hat footer confirmed,
+not shortened.** Describing the downside-managed bucket triggers the insurance
+disclosure the moment it's described, regardless of length or how brief the mention —
+same rule as the mirror (2026-09-12). This touch doesn't qualify for the quiet track's
+shorter no-feature seasonal form because, unlike that variant, it does name a bucket
+feature. On substance: "built around a specific plan for the downside, not just growth"
+stays on the design-description side of the line (same test as "downside protection"),
+not an outcome guarantee — no product-claim crossing found on the closest read.
+
+**Gap surfaced, not fixed here — Touch 3 has no correction-trigger carve-out.** The
+quiet track explicitly substitutes the correction-triggered email for a quarter's touch
+whenever the S&P has moved 15%+ off its high and says not to send both. This track
+asserts "nothing dramatic happened in the markets this quarter" with no such carve-out.
+If a household's Q3 slot lands in an actual drawdown quarter, that line becomes an
+untrue statement of material fact as sent. This is a structural fix for Sloan to build
+(mirror the quiet track's integration), not a copy patch — flagged for Sloan/Justin.
+
+**Off-ramp translation — flagged as inconsistent, not confirmed.** This track's own
+six-touches-at-quarterly-cadence math is internally correct (18 months). The comparison
+it's built on is not: the quiet track's off-ramp line ("four consecutive quarterly
+touches... about 18 months past the end of Phase 1") doesn't actually work out to 18
+months on its own terms — four touches at 3-month intervals is 12 months past Phase 1's
+end (~15 months total from day 0), not 18. This arithmetic slip in the base document
+was never caught in the 2026-09-16 quiet-track review and has now propagated into a
+second track's number via the match. Two honest fixes: leave this track at six (clean
+on its own terms) and correct the quiet track's stated elapsed time separately, or
+tighten this track to five touches to genuinely match what the quiet track does today.
+Not a Marketing Rule question — an internal-consistency one — but real, and Isla/
+Justin's call which way to true it up.
+
+**Recordkeeping — confirmed, same standard as the quiet track.** Per household, per
+touch: date, channel, version, response, logged to Trulip's own Rule 204-2 file. The
+off-ramp (drop to annual-only after six non-responsive quarters) and "graduate to a
+different track" (booked FHA) events each get their own log entry, since both change
+which cadence and disclosure set governs a household going forward. No new
+recordkeeping mechanism needed.
+
+**No SMS, no exceptions, confirmed as drafted.** Every personal-touch format in this
+track is a phone call or an email — never SMS, no conditional path the way the quiet
+track has one. Any future change needs its own TCPA consent-basis review from scratch.
+
+**Open for Justin/Isla, not Ed's to resolve:** the off-ramp arithmetic true-up (above);
+the correction-trigger integration gap on Touch 3; the ~100-household sizing question
+Sloan raised (unchanged from her draft, not a compliance matter). Portfolio Medics
+pre-approval not re-raised — settled 2026-09-16, standing exception unchanged. The
+Portfolio Medics exact-disclosure-wording marker still carries as CONFIRM EXACT WORDING
+on every footer, pending Justin's email, same as every other piece in this workforce.
+
+**2026-09-16 — Never-met track, follow-through (Isla).** Ed's two open items closed
+without re-routing: (1) the correction-trigger substitution rule is now written above
+Touch 3, mirroring the quiet track, so the "nothing dramatic happened" line can't go
+out in a drawdown quarter; (2) the off-ramp arithmetic — quiet track corrected to
+"~12 months past Phase 1, ~15 from first touch"; never-met stays at six quarterly
+touches (~18 months). Justin's answer on registered-vs-attended is no longer needed:
+Ed rewrote Touch 1 to be true for the whole pool.

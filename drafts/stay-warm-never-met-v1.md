@@ -1,9 +1,11 @@
 # Stay-Warm — Never-Met Track (the ~100)
 Draft v1 — Sloan (Content & Education Lead)
-Status: DRAFT. Not yet reviewed by Ed — carries forward every standing rule already
-established on the quiet-track cadence (`drafts/stay-warm-cadence-v1.md`, Ed's pass
-2026-09-16) by design, but nothing here has its own compliance sign-off yet. Do not
-send, mail, or call from this until Ed has looked at it.
+Status: Ed's compliance pass applied (2026-09-16). Touch 1 rewritten so the claim is
+true whether a household attended or only signed up. Touch 2's redeployment confirmed
+clean on the same terms as the quiet track's Q-Give-2. Touch 3's full footer confirmed
+(not shortened) — see section 4a. Off-ramp math flagged, not fixed here — see section 3.
+Still NOT approved to send, mail, or call from — final sign-off is Justin's regardless,
+and the open items in section 4a are his or Isla's to close, not Ed's.
 
 ---
 
@@ -85,15 +87,16 @@ who never got their own picture.
 >
 > Hi [First Name],
 >
-> You sat through the class and saw the three places retirement money can live: money
-> that can't lose value, money still moving on its own from an old job, and money
-> positioned for growth with a specific plan for the downside — the Blue bucket, if the
-> name stuck.
+> You signed up for one of Justin's retirement classes — the one where he walks through
+> the three places retirement money can live: money that can't lose value, money still
+> moving on its own from an old job, and money positioned for growth with a specific
+> plan for the downside (the Blue bucket, to those who caught it in the room).
 >
-> What the class couldn't do is show you your own picture. The Financial House Analysis
-> is the one-on-one version of the same walkthrough — just your accounts, sorted into
-> those same three buckets. It's free, and it was free the day you signed up for class
-> too. That offer didn't have an expiration date.
+> Whether you made it in, caught part of it, or the day got away from you, one thing's
+> true either way: nobody's shown you your own picture yet. The Financial House
+> Analysis is the one-on-one version of that same walkthrough — just your accounts,
+> sorted into those same three buckets. It's free, and it was free the day you signed
+> up for class too. That offer didn't have an expiration date.
 >
 > If you'd like to sit down and see your own picture instead of the general one, say the
 > word.
@@ -118,13 +121,16 @@ who never got their own picture.
 >
 > [Unsubscribe] · Trulip Retirement Planning, [physical address]
 
-**Open scope question, not a compliance one:** this copy assumes the household actually
-sat in the room ("you sat through the class"). The brief describes this pool as "came to
-a class **or signed up**" — if a real slice only registered and never attended, this
-line is false for them and needs a variant ("you signed up for a class with Justin —
-whether you made it into the room or the day got away from you"). I don't have the
-split between attended vs. registered-only, so I've written the room-based version as
-primary and I'm flagging this rather than guessing at a number.
+**Ed's fix, applied above:** Sloan's original opened with "you sat through the class,"
+which is false for anyone who registered and never attended — under the Marketing Rule
+that's an untrue statement of material fact, not a tone problem, since the email asserts
+something specific and false about the recipient's own history. I didn't require a
+segment split; a single line can be true for both groups without needing the
+attended-vs-registered-only headcount Sloan didn't have. The fix above anchors the
+factual claim on "signed up" (true of the whole pool by definition) and lets "made it
+in / caught part of it / the day got away from you" cover the actual variation without
+asserting which one happened to any given household. No segment split needed before
+send on this point.
 
 ### Touch 2 — Email — The two-minute self-check
 **What it's for:** hand them the mirror's five questions as the "picture" they never got
@@ -168,6 +174,14 @@ redeploy should get its own quick look even though nothing in the questions chan
 Deliberately no bucket names here — the mirror's own cleared language already carries
 the weight without needing "Blue" spelled out, same as the base card.
 
+**Ed's determination on this redeploy:** clean, same test applied to the quiet track's
+Q-Give-2. The content isn't new — same Q1-Q5, same reader-does-the-matching form, no
+new "diagnosing a stranger" problem from putting it in front of a different segment.
+What a new segment can change is disclosure fit, not substance, and here it doesn't:
+this is the full five-question apparatus in an email, same room the mailed card and
+Q-Give-2 both have, so it keeps the full footer already drafted above (cloned correctly
+from the base card). No changes needed.
+
 ### Touch 3 — Email — A quiet quarter, the bucket worth a second look
 **What it's for:** general education, not personalized — there's no existing plan to
 check for drift, so this touch does what the class itself did: reinforce one idea,
@@ -175,6 +189,11 @@ gently, with no ask attached.
 
 > **Subject:** A quiet market quarter — worth a second look at the buckets from class
 >
+> **If the correction trigger fired that quarter:** the correction email
+> (`drafts/mirror-card-correction-v2.md`) *is* this quarter's touch. Don't send both —
+> and don't send this one at all, because its first line would be false. Same rule
+> as the quiet track's Q-Give-1. (Isla, 2026-09-16, closing Ed's structural flag below.)
+
 > Hi [First Name], nothing dramatic happened in the markets this quarter — which is
 > actually a good time to sit with something from class: three buckets, and one of
 > them, the Blue one, is built around a specific plan for the downside, not just
@@ -210,6 +229,35 @@ downside-plan feature, so I've given it the full footer rather than the shorter 
 quiet track used for its no-feature seasonal variant. If Ed reads this as light enough to
 shorten, that's his call, not mine to guess at.
 
+**Ed's determination on the footer — full block stays, do not shorten.** The moment a
+touch describes the downside-managed bucket (even without the word "annuity"), the
+insurance hat is triggered per the 2026-09-12 mirror ruling — that's not optional at any
+length. The quiet track's seasonal variant could run short precisely because it named no
+bucket feature at all; this touch does, so it doesn't qualify for that shorter form. Keep
+the full block as drafted.
+
+**On the substance — no product-claim crossing found, but I looked hardest here as
+asked, so here's the reasoning, not just the verdict.** "Built around a specific plan for
+the downside, not just growth" describes what the strategy is designed to do, the same
+design-vs-outcome framing already cleared for "downside protection" and Touch 1's
+identical phrase — it doesn't say the bucket won't lose money or guarantees an outcome,
+so it stays on the description side of the line, not the promise side.
+
+**One gap worth flagging, though — not a copy fix, a structural one.** This touch
+asserts a market fact at send time ("nothing dramatic happened in the markets this
+quarter") with no carve-out for what happens if that's false the quarter it's due to go
+out — unlike the quiet track, which explicitly routes to the correction-triggered email
+instead whenever the S&P has moved 15%+ off its high that quarter and says plainly "don't
+send both." This document never mentions the correction trigger at all. If a household's
+Q3 slot lands during an actual drawdown quarter, sending this line as written would be an
+untrue statement of material fact, not a compliance-adjacent tone issue — the market did
+do something dramatic. This needs the same integration the quiet track already has
+(correction-triggered email substitutes for this quarter's touch when it fires) built
+into this track before it runs, not assumed. Flagging for Sloan/Justin — this is a
+structural fix to the cadence, not something I'm patching into the copy unilaterally.
+**Closed 2026-09-16 (Isla):** the substitution rule now sits directly above the Touch 3
+email, same form as the quiet track's. Whoever runs the send checks the trigger first.
+
 ### Touch 4 — Phone — "No agenda" check-in (Give)
 **What it's for:** presence, not a pitch — the same purpose as the quiet track's Touch 3,
 adapted for people Justin hasn't sat across from yet.
@@ -235,7 +283,9 @@ from day one rather than a 90-day Phase 1 followed by quarterly sustain:
 
 **If a household has had zero response — no reply, no call answered, no click — across
 six consecutive quarterly touches (about 18 months), it drops to once a year: Touch 1
-(the ask) only, no quarterly gives.** I picked six touches rather than the quiet track's
+(the ask) only, no quarterly gives.** *(Isla, 2026-09-16: six stands. Ed caught that
+the quiet track's stated "18 months" was really ~15; that file is corrected. The two
+tracks now differ by design — this one has no 90-day burst in front of the clock.)* I picked six touches rather than the quiet track's
 four because this track has no separate onboarding phase to count against the 18-month
 window — the quiet track's four quarterly touches sit on top of an initial 90-day burst,
 so its "four touches" and this track's "six touches" both land at roughly the same 18
@@ -249,34 +299,68 @@ House Analysis, graduates the household out of this track entirely and into whic
 track fits a household with a completed plan (the quiet track, if they don't convert to
 a client from that meeting).
 
+**Ed's read on the six-touch translation — say otherwise, not confirm as-is.** Six
+quarterly touches at a true 3-month cadence is 18 months, so *this* track's own number
+is internally consistent. The problem is the thing it's being matched to: the quiet
+track's own off-ramp line ("four consecutive quarterly touches... about 18 months past
+the end of Phase 1") doesn't actually work out to 18 months on its own terms — four
+touches at 3-month intervals is 12 months past Phase 1's end (roughly 15 months total
+from day 0, counting Phase 1's 90 days), not 18. That's an arithmetic slip in the base
+document that was never caught when I reviewed it, and this draft has now built a second
+track's number by matching against the wrong figure. Two honest ways to close it: (a)
+leave this track at six touches — it's a clean, defensible number in its own right — and
+separately correct the quiet track's off-ramp line to state its true elapsed time
+(~12 months past Phase 1, ~15 total); or (b) tighten this track to five touches (15
+months) to genuinely match what the quiet track actually does today. Either is fine
+compliance-wise — there's no rule fixing an off-ramp at a specific duration, this is an
+internal-consistency question, not a Marketing Rule one — but I'm not going to wave the
+"roughly the same" claim through when the two numbers it's built on don't match. Isla or
+Justin's call which way to true it up; I'd lean (a) since it's the smaller edit and
+doesn't touch a document already in production use.
+
 ---
 
 ## 4. Compliance flags for Ed (not resolved here)
 
-1. **Reused mirror copy in a new segment.** Touch 2 is the identical Q1-Q5/scoring
-   content already cleared for the quiet track's Q-Give-2 and the correction email. Per
-   Ed's own standing rule, a new segment is a new context even with zero copy changes —
-   flagging for its own quick look rather than assuming the prior clearance travels.
-2. **Bucket naming for this specific document.** Touch 1 and Touch 3 name the Blue
-   bucket, consistent with `.claude/memory/brand-voice.md`'s ruling that names are fine
-   with warm, in-class audiences. Ed previously confirmed naming is orthogonal to
-   compliance (triggers attach to what's described, not what it's called) for the class
-   context generally — flagging so that confirmation is read against this specific
-   piece, not assumed to auto-apply.
-3. **Disclosure sizing on Touch 3.** I gave it the full footer because it names a bucket
-   feature (the downside plan); if Ed judges that describable more lightly, that's his
-   call to shorten, not mine to have guessed at.
+1. **Reused mirror copy in a new segment — resolved, clean.** Touch 2 is the identical
+   Q1-Q5/scoring content already cleared for the quiet track's Q-Give-2 and the
+   correction email. Confirmed clean on the same test: substance travels (no new
+   diagnosing-a-stranger problem), format keeps the full footer since this is the full
+   apparatus in an email, same as Q-Give-2. See Ed's note inline under Touch 2.
+2. **Bucket naming for this specific document — confirmed, no change.** Touch 1 and
+   Touch 3 name the Blue bucket, consistent with `.claude/memory/brand-voice.md`'s
+   ruling that names are fine with warm, in-class audiences. Confirmed against this
+   specific piece: compliance triggers attach to what's described (the downside-plan
+   feature), not the name, and the description itself stays on the right side of the
+   design-vs-outcome line in both places it's used.
+3. **Disclosure sizing on Touch 3 — resolved, full footer stays.** Confirmed: describing
+   the downside-managed bucket triggers the insurance disclosure regardless of length,
+   so this doesn't qualify for the quiet track's shorter no-feature form. See Ed's note
+   inline under Touch 3, which also flags a separate structural gap (no correction-
+   trigger carve-out) worth Sloan/Justin's attention.
 4. **No SMS, no exceptions, in this track.** Unlike the quiet track, there's no
    conditional path to text here — every personal-note-style touch in this cadence is a
    phone call (Touch 4) or an email, never SMS. If that ever needs to change, it needs
    its own TCPA consent-basis review from scratch, not an inherited one.
-5. **Recordkeeping.** Same standard as the quiet track: per household, per touch — date,
-   channel, which version was sent, any response — logged to Trulip's own Rule 204-2
-   file, not this repo. The off-ramp and "graduate to a different track" events need
-   their own log entries too, since they change which cadence a household is in.
-6. **Scope question flagged above (Touch 1), not a compliance question:** the
-   attended-vs-signed-up-only split within the ~100, and whether Touch 1 needs a second
-   variant for the signed-up-only subset. That's a fact Isla/Justin have, not one I do.
+5. **Recordkeeping — confirmed, same standard as the quiet track.** Per household, per
+   touch — date, channel, which version/template was sent, any response — logged to
+   Trulip's own Rule 204-2 file, not this repo. The off-ramp (drop to annual-only after
+   six non-responsive quarters) and "graduate to a different track" (booked FHA) events
+   each need their own log entry too, since both change which cadence, and which
+   disclosure set, governs a household going forward. Calls (Touch 4) get the same
+   date-plus-note treatment as the quiet track's Touch 3. No new recordkeeping mechanism
+   needed — same file, same fields, one more track's worth of entries.
+6. **Scope question flagged above (Touch 1) — resolved, no variant needed.** Fixed by
+   rewriting the line to be true whether a household attended or only signed up (see
+   Ed's fix under Touch 1). No segment split required before send on this point.
+
+**Verdict: clean with fixes.** Nothing structural in the concept — cadence, ratio, and
+off-ramp logic are sound. One copy fix applied (Touch 1's material-fact problem). One
+open structural gap flagged, not fixed by me (Touch 3 needs a correction-trigger
+carve-out the same way the quiet track has one). One numbers question flagged for
+Isla/Justin to true up (the off-ramp translation rests on an arithmetic slip in the
+quiet track's own document). Everything else — Touch 2's redeploy, bucket naming,
+Touch 3's disclosure sizing, recordkeeping — confirmed clean as drafted.
 
 ---
 
