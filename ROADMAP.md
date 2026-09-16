@@ -148,7 +148,8 @@ Sloan's three life-stage ad clauses; the "no pitch" note in Trulip's compliance
 file.
 
 **Done log:**
-- (none yet)
+- 2026-09-16 — Referral ritual: decided (option B, runs without the forwardable
+  line; counsel question queued). Ritual is live from the next plan-delivery meeting.
 
 ---
 

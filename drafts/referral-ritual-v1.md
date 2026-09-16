@@ -1,4 +1,11 @@
 # The Referral Ritual
+
+> **DECISION — Justin, 2026-09-16 (option B):** the ritual runs now, as written,
+> **without the optional forwardable line.** Ask for one name, get permission,
+> Justin does the outreach himself. The forwardable line stays out of use until
+> outside counsel answers Ed's question below; it is preserved in this draft for
+> the record only, not for use. Nothing else changes.
+
 Draft v1 — Sloan (Content & Education Lead)
 Status: Ed's compliance pass applied (2026-09-16) — see section 3a. Copy is clean as
 drafted; the open promoter question in section 3 is genuinely open, not resolved by

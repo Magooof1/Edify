@@ -448,3 +448,8 @@ practice, or run it without the forwardable line while counsel looks.
 
 **Open for Justin:** pipeline household count (sizing the cadence against the 25
 warm touches a week target); the counsel question above.
+
+**2026-09-16 — Referral ritual: Justin chose option B.** The ritual runs now without
+the forwardable line (ask for one name, permission, Justin does the outreach). The
+forwardable line stays out of use until counsel answers Ed's question; it remains in
+the draft for the record. Counsel question is queued, not urgent.
