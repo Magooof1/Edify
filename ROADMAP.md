@@ -87,10 +87,18 @@ and counted. Inputs equal outputs. Zero input weeks are the actual failure mode.
 
 | Input | Ours | Weekly count ⚙ | Owner | Compliance note |
 |---|---|---|---|---|
-| **Warm reach-outs** | Personal touches to clients, class attendees, the class pipeline, CPAs/attorneys. The correction email and stay-warm cadence are this at scale. | 25 | Justin (Sloan drafts the cadence) | Existing relationships; TCPA consent status still gates texts |
+| **Warm reach-outs** | Personal touches to clients, class attendees, the class pipeline, CPAs/attorneys. The correction email and the two stay-warm tracks are this at scale. | 25 (sized, see below) | Justin (Sloan drafts the cadence) | Existing relationships; TCPA consent status still gates texts |
 | **Content** | YouTube live-builds; clips and posts repurposed from them | 1 long-form / 2 weeks; 3 clips / week | Sloan → Ed | Every piece through Ed before publish |
 | **Cold at scale** | The spring mailer, the mirror card, venue/union/credit-union outreach for new class hosts | 3 venue contacts / week; mailers by season | Sloan (venue-partner-researcher) → Justin confirms before any real venue is touched | Confirm before touching a real external relationship |
 | **Paid** | The FB mirror test; later, whatever earns it | Spend and bookings logged weekly; no minute count | Justin runs the account; Sloan builds; Ed clears | Special Ad Category; OH/KY geofence; Calendly spec |
+
+**Warm input, sized (Justin's counts, 2026-09-16):** ~20 households in live
+conversation (closing, not in a cadence), ~30 who had the plan and went quiet
+(quiet track: 3 touches in 90 days, then quarterly ≈ 7/week at first, ~3/week
+after), ~100 who came to a class but never had the plan (never-met track: ~4
+touches a year ≈ 8/week). Steady state ≈ 15 templated touches a week plus live
+follow-ups on the 20. **The 25/week target holds** — it's about two-thirds
+system, one-third Justin closing. The ⚙ comes off this one.
 
 Why no minutes-per-day column: Justin's time is the Stage B constraint. Counting
 his minutes on marketing now would optimize the wrong thing. Count outputs.
