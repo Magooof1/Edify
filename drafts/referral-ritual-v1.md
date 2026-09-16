@@ -1,8 +1,10 @@
 # The Referral Ritual
 Draft v1 — Sloan (Content & Education Lead)
-Status: DRAFT ONLY. Not reviewed by Ed. Not approved to say, send, or use. Drafted
-directly by Sloan (no Task-tool delegation available this session to
-referral-ritual-drafter) — same accountability either way.
+Status: Ed's compliance pass applied (2026-09-16) — see section 3a. Copy is clean as
+drafted; the open promoter question in section 3 is genuinely open, not resolved by
+this pass, and goes to outside counsel with a specific question, not Ed's own call.
+Not approved to say, send, or use — that's still Justin's, and now counsel's on one
+point.
 
 No physical thing or event is involved anywhere in this ritual. Confirmed before
 drafting, per Isla's instruction to stop and flag rather than draft if one showed up.
@@ -155,6 +157,74 @@ non-testimonial) constitutes a promoter arrangement is the same category of ques
 Ed flagged as needing outside counsel on the CPA-handoff and retirement-celebration
 concepts. I'd rather send this to Ed with that flag attached than assume the absence of
 a gift settles it.
+
+---
+
+## 3a. Ed's determination (2026-09-16)
+
+**Copy: clean.** Both scripts hold the line Sloan built them to hold — one name, not a
+list; permission to be mentioned, not a pitch to deliver; the optional forwardable line
+is factual ("does a free plan review, no cost, no pressure"), not evaluative, and makes
+no claim about outcome or performance. No testimonial-shaped language anywhere. No gift,
+fee, discount, or service credit changes hands in either direction, in either script or
+in the surrounding text. Nothing here needs a copy fix.
+
+**Recordkeeping: confirmed as Sloan wrote it, with one addition.** Every referral
+conversation (the ask, the name given, permission granted, the outreach that follows)
+gets logged under Rule 204-2, same as any other client correspondence — that's right as
+drafted. Adding the one piece not yet in the draft: if Justin's outreach to the referred
+name happens by text, that text has to run through an archiving-capable business
+platform, not a personal phone — same standing rule already applied to the mirror's
+texting touches. The name-and-permission conversation itself (spoken, in the meeting)
+gets logged as a dated note the same way any other meeting content would be.
+
+**The promoter question — near the line, not over it, not clear of it. Here's exactly
+why, and exactly what to ask counsel.**
+
+The 2026-08-25 precedent's two-element test (a client introducing prospects, to (b) an
+event/thing of value the advisor is funding) is genuinely not met here — there's no
+funded event and no compensation of any kind, to the referring client or the referred
+prospect. On that test alone, this reads clean, and Sloan's read to that point is
+correct.
+
+But that two-element test was built for gift/event fact patterns, and this isn't one —
+it's a scripted, repeated, permanent verbal solicitation built into every plan-delivery
+and annual-review meeting, forever, for every client. Two features push this past a
+spontaneous, uncompensated referral and into genuinely gray territory:
+1. **It's systematic by design**, not incidental — the same 08-25 refinement says a
+   repeated, predictable pattern of client-sourced introductions can start to look like
+   an undisclosed referral arrangement even without a gift attached. This ritual's whole
+   design goal is to be that predictable.
+2. **Justin authors the words the client is invited to use** (the optional forwardable
+   line) — that's the adviser generating content for a client to relay to a prospect,
+   which sits closer to the adviser soliciting/directing testimonials than pure
+   spontaneous word of mouth, even though the line itself is factual, not evaluative,
+   and even though using it is optional.
+
+The Marketing Rule's promoter/testimonial provisions are triggered most clearly by cash
+or non-cash compensation, which is absent here — that's the strongest thing in this
+ritual's favor. But the rule's definition of "testimonial" also reaches an uncompensated
+client referral of a prospective client, and a scripted, adviser-authored, systematized
+version of that referral is a materially different fact pattern from an occasional,
+spontaneous one — the same distinction this precedent file already drew for the
+CPA/attorney systematic-handoff question ("unmodified card, no compensation, no active
+vouching = distribution, lower risk; any compensation or vouching = promoter"). This
+ritual has no compensation, but it does invite a mild form of vouching (an optional
+line describing the service), delivered systematically. That combination is why I'm
+calling it **near the line, not over it, and not clear of it** — it doesn't have the
+clean "no" that the pure two-element gift/event test would suggest on its own.
+
+**Exact question for outside counsel:** *Does a firm-wide, systematized, scripted
+client-referral request — built into a recurring meeting structure (plan-delivery and
+every annual review), where no cash or non-cash compensation, discount, gift, or credit
+is exchanged with either the referring client or the referred prospect, and where the
+client's only actions are (a) naming one person and granting permission to be mentioned,
+and (b) optionally relaying a short, factual, non-evaluative line drafted by the
+adviser — constitute a "testimonial" or "endorsement" under Rule 206(4)-1 triggering the
+disclosure requirements of subsection (b), and if so, what disclosure can practically
+travel with an informal spoken referral or a client's private text to a friend?* This is
+counsel's call, not mine — I'm not resolving it by assuming the absence of a gift
+settles it, same as Sloan flagged.
 
 ---
 

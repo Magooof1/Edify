@@ -413,3 +413,38 @@ agreement with Portfolio Medics. Ed's six questions collapse to one: the exact
 disclosure wording Portfolio Medics requires when named. Ed and CLAUDE.md updated so
 the team stops raising pre-approval on every piece. Standing exception: a piece that
 offers advisory services directly (not education) gets the question asked once more.
+
+---
+
+## 2026-09-16 — Stay-warm cadence v1 and referral ritual v1 (Ed's preflight)
+
+**Stay-warm cadence — clean with fixes.** Advertisement status decided per touch: a
+reused template sent to a defined group is an advertisement even when personalized
+by name. All email and card touches carry a disclosure (full two-hat block where a
+touch makes an offer or describes a bucket feature; a short pointer line on text or
+handwritten formats). The phone call is the one exclusion (live oral). **New rule:
+every email touch carries a CAN-SPAM footer** (unsubscribe + physical address) —
+was missing from Sloan's draft, now standard for any email format. Mirror questions
+inside a personal note: substance already cleared, format can't carry the full
+block, pointer line instead. **SMS: held until per-segment marketing-consent basis
+is confirmed**, and separately the disclosure line doesn't fit a standard SMS next
+to the question — unsolved format problem; default is the handwritten card.
+Recordkeeping: Trulip's own 204-2 file, per household per touch (date, channel,
+version, response); calls logged too; any texting on an archiving platform, never
+Justin's personal cell.
+
+**Referral ritual — copy clean; one item for counsel.** The 2026-08-25 two-element
+test (client introduces + adviser funds a thing of value) is not met — no gift, no
+compensation. But two features put it near the line: it's systematic by design
+(every plan delivery, every annual review, indefinitely), and Justin authors the
+optional forwardable line the client relays — adviser-generated content through a
+client conduit. **Counsel question, verbatim in the file:** does a firm-wide,
+systematized, scripted client-referral request — no compensation, client names
+one person, grants permission, optionally relays a short factual adviser-drafted
+line — count as a testimonial or endorsement under Rule 206(4)-1 triggering the
+(b) disclosures, and if so what disclosure can travel with a spoken referral or a
+private text? Justin's decision: send to counsel before it becomes standing
+practice, or run it without the forwardable line while counsel looks.
+
+**Open for Justin:** pipeline household count (sizing the cadence against the 25
+warm touches a week target); the counsel question above.
