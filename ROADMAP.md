@@ -42,7 +42,7 @@ that input is saturating. Between classes the input is zero.
       came from.
 
 **Unlocks on graduation:** Planning & Advisory support (meeting prep, follow-up
-tracking). Not before — see the caution in section 5.
+tracking). Not before — see the caution in section 6.
 
 ### Stage B — Capacity ⚙ $35M to $60M AUM
 
@@ -125,7 +125,34 @@ Class season fires the mailer play. These don't wait for a monthly.
 
 ---
 
-## 4. Scoreboard
+## 4. Justin's queue
+
+Three items at a time, never more. Isla owns the list; Justin owns the doing. The
+Friday routine reads this section and asks about anything still open. Done items
+move to the log below with the date.
+
+**Open (week of 2026-09-14):**
+1. **Meta verification.** In Meta Business Suite: Business settings → Security
+   Center → Verification (business), and Ads Manager → the Edify ad account →
+   Advertiser verification. Prior ads don't guarantee this; the financial-services
+   category verification was expanded in 2025. If both show verified, done. If
+   not, start it today — it's the long pole.
+2. **Portfolio Medics, one email:** "What disclosure wording do you require when
+   Portfolio Medics is named on my Trulip/Edify marketing?" Paste the reply to Isla.
+3. **Calendly:** paid tier on; required question "What state do you live in?";
+   event description per the spec in `drafts/mirror-landing-page-v2.md` Section 4;
+   confirmations plain; two links (FB, card).
+
+**Next up (not yet assigned):** Squarespace page build with popup off; yes/no on
+Sloan's three life-stage ad clauses; the "no pitch" note in Trulip's compliance
+file.
+
+**Done log:**
+- (none yet)
+
+---
+
+## 5. Scoreboard
 
 One row per week. Isla fills it from what Justin reports and what the team logged.
 Counts ⚙ are targets from section 2.
@@ -136,7 +163,7 @@ Counts ⚙ are targets from section 2.
 
 ---
 
-## 5. Honest notes
+## 6. Honest notes
 
 - **Hormozi's constraint moves slower than ours.** His stages assume volume is the
   lever and conversion is the problem. Justin's conversion is ~90%. The moment
