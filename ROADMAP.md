@@ -112,6 +112,13 @@ true or not — no partial credit. If the constraint has visibly moved (Justin's
 calendar is full and the funnel isn't the problem), say so even if the AUM band
 hasn't been reached. The checklist outranks the band.
 
+**Who runs the clock:** two scheduled Routines on Justin's claude.ai account fire
+fresh Isla sessions against this branch — the weekly scoreboard every Friday at
+3pm Eastern (7pm UTC; shifts an hour when clocks change) and the monthly report
+plus quarterly graduation check on the 1st of each month at 9am Eastern. Each one
+pushes to the branch and messages Justin. Justin doesn't have to remember; he has
+to answer the Friday message with his four counts, or the row says "not reported."
+
 **Standing triggers, outside the cadence:** market correction (S&P 500 closes 15%
 off its trailing 52-week high) fires the correction email play, once per episode.
 Class season fires the mailer play. These don't wait for a monthly.
