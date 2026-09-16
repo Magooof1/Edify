@@ -5,9 +5,8 @@ and format recommendation added by Ed (2026-09-12). NOT approved for print or ma
 Open: two "confirm exact current wording" items for outside counsel (now three —
 see v2.1 note), final format sign-off, the "no pitch" internal write-up, the QR
 destination (undefined, own clearance), and Portfolio Medics' pre-approval process
-(see Ed's report to Isla/Justin, 2026-09-12). Five of the original six placeholder
-facts are resolved as of v2.1 below; one (exact legal name of the Trulip entity)
-is provisionally filled and flagged for Justin's confirmation.
+(see Ed's report to Isla/Justin, 2026-09-12). All six original placeholder facts are
+resolved as of 2026-09-16 (see v2.1 note).
 
 ## v2.1 — entity/registration correction, 2026-09-12
 Justin corrected a factual error running through every disclosure block drafted so
@@ -22,10 +21,12 @@ Isla/Justin (2026-09-12) for the full geofence analysis this correction triggere
 Same pass, Justin's answers to the outstanding placeholder facts, applied throughout:
 "Justin [Last Name]" → **Justin McGuffey** everywhere it appears. No separate
 agency/FMO entity — insurance runs through Trulip itself; Justin's words were "Use
-Trulip Planning as the FMO," so the legal name used below is **Trulip Retirement
-Planning, LLC** (as it appears on his client-facing documents) with a note that
-Justin should confirm that's the complete and exact legal name, since he referred
-to it informally. Justin does not want a CRD number, NPN, or OH/KY license numbers
+Trulip Planning as the FMO," so the name used below is **Trulip Retirement
+Planning, LLC**, as it appears on his client-facing documents. **Resolved
+2026-09-16:** Justin confirmed the FMO's name is "Trulip Planning" and it is
+marketed as "Trulip Retirement Planning." The printed line stays as his existing
+client-facing footer has it; if Portfolio Medics or counsel want the legal name
+with a d/b/a instead, that's a one-line swap, not a redraft. Justin does not want a CRD number, NPN, or OH/KY license numbers
 printed ("I don't think you need my CRD or NPN or license number") — those
 placeholders are dropped per his decision. One thing Ed is flagging rather than
 silently going along with: Ed is not aware of an Ohio or Kentucky rule that
@@ -70,11 +71,10 @@ stays a named counsel-confirmation item below, not a closed question.
 - **Missing facts for the disclosure block — RESOLVED 2026-09-12 (v2.1), except one
   flagged item:** last name (McGuffey — applied); Ohio/Kentucky license numbers and
   NPN (Justin's decision: none printed); whether a CRD number belongs on the piece
-  (Justin's decision: no). **Still open:** confirm "Trulip Retirement Planning, LLC"
-  is the complete and exact legal name of the entity insurance business runs
-  through — Justin referred to it as "Trulip Planning" when directing that it serve
-  as the FMO, and the name printed on a mailed piece should match the entity's
-  actual legal name exactly, not an informal shorthand.
+  (Justin's decision: no). **Resolved 2026-09-16:** the FMO is "Trulip Planning," marketed as
+  "Trulip Retirement Planning." Printed line matches Justin's existing client-facing
+  footer ("Trulip Retirement Planning, LLC"); d/b/a form is a one-line swap if
+  Portfolio Medics or counsel ask for it.
 - **Sloan's flags (unchanged from v1):** nothing yet earns the open (envelope/postcard
   front is a second piece of work); the mapping step should be tested on five real
   people with a printed mockup before a mail house sees it.
@@ -165,12 +165,8 @@ including any language Portfolio Medics itself requires when its name appears on
 an IAR's marketing materials — with outside counsel and/or Portfolio Medics
 compliance before print; do not treat this draft's wording as final.]
 
-Edify Retirement Education is Justin's education brand. [FLAG, NOT A PLACEHOLDER:
-this draft still describes Edify as organized under Trulip Retirement Planning as
-its educational arm, matching the one parent relationship on record. The Portfolio
-Medics correction touches entity structure broadly enough that this shouldn't be
-assumed silently — if Edify's actual ownership/parent is different, this sentence
-needs to change with it. Confirm with Justin.] This card is educational only. It
+Edify Retirement Education is the educational arm of Trulip Retirement Planning.
+This card is educational only. It
 is not individualized investment, insurance, or tax advice, and your own situation
 may differ from the general patterns described here. Nothing on this card is a
 recommendation to buy, sell, or hold any specific security, insurance product, or
@@ -237,9 +233,10 @@ Justin has directed that no CRD number appear on this consumer-facing piece.
    products offered through Trulip Retirement Planning, LLC..."). Of the original six
    placeholder facts, five are now resolved by Justin's direct answers (name:
    McGuffey; no separate FMO entity — Trulip itself serves that role; no license
-   numbers, NPN, or CRD printed, by his decision); one remains open (confirm "Trulip
-   Retirement Planning, LLC" is the exact legal name — Justin referred to it
-   informally as "Trulip Planning"). Three spots are now marked "confirm exact
+   numbers, NPN, or CRD printed, by his decision); the sixth resolved 2026-09-16 (FMO
+   is "Trulip Planning," marketed as "Trulip Retirement Planning"; printed line
+   kept as on his client-facing footer). Justin also confirmed 2026-09-16 that Edify
+   is correctly described as the educational arm of Trulip. Three spots are now marked "confirm exact
    current wording / fact" rather than guessed: the Portfolio Medics/Trulip
    registration phrasing, the OH/KY insurance-advertisement citation (now including
    whether either state requires a license number on the ad, given Justin's decision

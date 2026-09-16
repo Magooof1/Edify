@@ -18,9 +18,9 @@ the actual SEC-registered adviser; Trulip is the insurance/planning entity. This
 pass corrects the top disclosure notice (Section 1), the v2 change-note describing
 it below, and applies Justin's resolved placeholder facts: "Justin [Last Name]" →
 **Justin McGuffey**; no license numbers, NPN, or CRD printed (Justin's decision);
-Trulip Retirement Planning, LLC confirmed as the FMO (no separate agency entity —
-flagged for Justin to confirm the exact legal name, since he referred to it
-informally as "Trulip Planning"). The ad-unit entity naming question (Section
+Trulip Retirement Planning, LLC confirmed as the FMO (no separate agency entity;
+resolved 2026-09-16 — the FMO is "Trulip Planning," marketed as "Trulip Retirement
+Planning," printed line kept as on his client-facing footer). The ad-unit entity naming question (Section
 "THE AD" below) is addressed explicitly — see that section. Nothing about the
 five questions, scoring key, CTA mechanics, or targeting/metric plan changed. See
 Ed's report to Isla/Justin (2026-09-12) for the full geofence analysis this
@@ -166,6 +166,27 @@ QR-code mail recipients; everything else in this paragraph is unchanged from the
 **[ ⬤ Book the Free 20-Minute Conversation ]** → links directly to Justin's booking
 calendar. [CALENDAR URL — PLACEHOLDER, needs Justin's real link]
 
+**Booking page — Calendly build spec (Isla, 2026-09-16).** Justin uses Calendly.
+It clears Ed's five conditions on a paid tier, configured as follows; the free tier
+does not clear the first one.
+1. **Records the firm can pull.** Paid tier (Standard or above) with booking export
+   enabled; export bookings to Trulip's 204-2 file on a schedule, don't rely on
+   Calendly's retention.
+2. **State of residence.** A required custom question on the booking form: "What
+   state do you live in?" (short answer, required). Justin screens anyone outside
+   Ohio or Kentucky before the meeting — Meta's location targeting leaks.
+3. **Pointer line.** Event description reads: "A free, educational, twenty-minute
+   conversation — no pitch, no obligation. For Ohio and Kentucky residents. Full
+   disclosures on the page you came from."
+4. **Transactional confirmations only.** Confirmation and reminder emails/texts
+   carry date, time, location/link, and how to reschedule. Nothing else — no
+   content, no links to other pages. Turn off any marketing-style follow-up.
+5. **Attribution.** Two event links (or one link with UTM parameters passed
+   through): one for the FB landing page button, one for the mailed card's QR code,
+   so bookings can be told apart by source.
+Ed's rule from the box still applies: the booking page is its own advertisement
+and gets its own log entry when it goes live.
+
 **[NEW — button notice, immediately below the CTA button]**
 
 > *Booking this call schedules a free educational conversation — it isn't a
@@ -209,8 +230,8 @@ license lines without a printed license number per Justin's decision, the
 principal-protection/carrier-guarantee paragraph, and the split advisory/insurance
 "not an offer or solicitation" line**). Of the original six placeholder facts,
 five are now resolved (name, license numbers/NPN/CRD omitted by Justin's decision,
-FMO entity confirmed as Trulip itself); one remains open (exact legal name of the
-Trulip entity). This block now sits alongside the two new short-form notices above
+FMO entity confirmed as Trulip itself); the sixth resolved 2026-09-16 (see change
+log). Justin also confirmed Edify is correctly described as Trulip's educational arm. This block now sits alongside the two new short-form notices above
 (Sections 1 and 4) as a three-layer disclosure structure: short notice at the
 hook, short notice at the CTA, full block always visible at the bottom. Ed
 confirms the three still work together as intended with the corrected entity
@@ -346,22 +367,23 @@ inside this. Not a gray area, and consistent with Justin's own experience.
 - A reduced set of broad interest/topic categories — expect most finance-adjacent
   interests to be grayed out; confirm what's actually selectable in-account rather
   than assuming any particular one survives.
-- Custom Audiences built from Justin's own uploaded, first-party client/prospect
-  list — still permitted under these rules as reported, if uploaded directly rather
-  than shared in from elsewhere, and not sourced from a data broker. Separate decision
-  from ad targeting, unchanged from v1's flag: uploading Justin's client list to
-  Facebook is his explicit call to make, not something this test triggers by default.
+- Custom Audiences — **not part of this plan (2026-09-16).** Sources reported them
+  as still permitted from a directly uploaded first-party list, but Justin's own
+  experience with this account under the category is that they aren't available.
+  The test is built without them; if one turns out to be available later, uploading
+  his client list to Facebook is still his explicit, separate call.
 
 **Verification and disclosure — operational, needs an owner, not copy:**
 - Advertiser/business identity verification is required, including demonstrating
-  authorization by the relevant regulator — in our case, tied to Portfolio Medics'
-  SEC-RIA registration and/or Justin's OH/KY insurance license depending which entity
-  the ad account is verified under. Sources recommend starting this two-plus weeks
+  authorization by the relevant regulator — in our case Justin's OH/KY insurance
+  producer license, since the advertiser is Edify (see below). Sources recommend starting this two-plus weeks
   before intended launch; it can involve a mailed verification code and, in some
   reports, notarization. This is a real launch-timeline item independent of copy
-  readiness — flagging so it starts now if it hasn't. Which entity gets verified
-  (Trulip, as the Edify-branded content owner, versus Portfolio Medics, given the
-  investment-related bucket in the questions) is Ed/Justin's call, not mine.
+  readiness — flagging so it starts now if it hasn't. **Decided 2026-09-16 (Justin):** the
+  advertiser on Meta is Edify, on the existing Edify page and ad account; Portfolio
+  Medics is not involved in the Meta account. Separate question, still on Justin's
+  list: whether Portfolio Medics must pre-approve the landing page copy itself, since
+  it names them in the disclosure.
 - Meta now requires a "Paid for by" disclaimer on financial-services ads, naming the
   verified payer/beneficiary, shown in the ad's "Ad info" and in the public Ad
   Library. This is a platform-generated label from verification data, not ad copy —

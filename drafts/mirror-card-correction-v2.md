@@ -19,8 +19,9 @@ the actual SEC-registered adviser; Trulip is the insurance/planning entity. This
 pass corrects the italic disclosure paragraph and Ed's bracketed note beneath it,
 and applies Justin's resolved placeholder facts throughout: "Justin [Last Name]" →
 **Justin McGuffey**; no separate agency/FMO entity (Trulip itself is the FMO, per
-Justin — legal name used is "Trulip Retirement Planning, LLC," flagged below for
-his confirmation since he referred to it informally as "Trulip Planning"); no
+Justin — name used is "Trulip Retirement Planning, LLC" — resolved 2026-09-16: the FMO is
+"Trulip Planning," marketed as "Trulip Retirement Planning," printed line kept as
+on his client-facing footer); no
 license numbers, NPN, or CRD printed, per Justin's decision (this piece never
 carried those placeholders directly, but the disclosure block it inherits from the
 base card does — see that file). Nothing else in this pass (subject line, body

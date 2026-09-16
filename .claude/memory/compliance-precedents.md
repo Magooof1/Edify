@@ -392,3 +392,16 @@ operational to-dos, and the verified entity is a Justin/Ed decision. Sloan's thr
 proposed life-stage clauses in the ad copy are draft only and re-open Ed's review.
 Sloan could not reach Meta's primary help pages from this environment; her rules
 summary is cross-corroborated secondary sourcing and says so.
+
+**2026-09-16 — Justin closed the open items from the entity correction.** The FMO's
+name is "Trulip Planning"; it is marketed as "Trulip Retirement Planning." Printed
+disclosure line stays "Trulip Retirement Planning, LLC" to match his existing
+client-facing footer; d/b/a form is a one-line swap if Portfolio Medics or counsel
+ask. Edify is correctly described as the educational arm of Trulip (confirmed). Meta
+advertiser is Edify on the existing Edify page/ad account, verified via Justin's
+OH/KY producer license; Portfolio Medics is not involved in the Meta account. Custom
+Audiences dropped from the plan (Justin's experience: not available under the
+category). Booking tool is Calendly — paid tier, build spec written into the landing
+page draft (export on, required state-of-residence question, pointer line,
+transactional-only confirmations, two source links). Still on Justin's list, not
+decided by this: whether Portfolio Medics must pre-approve the landing page copy.
