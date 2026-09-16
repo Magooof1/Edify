@@ -37,9 +37,10 @@ Justin
 - **Edify Retirement Education** is the consumer-facing education brand.
 - **Not FINRA-registered.** No broker-dealer; FINRA advertising rules don't apply.
   The SEC Marketing Rule applies through Portfolio Medics.
-- **Portfolio Medics' compliance function is the real pre-approval authority** on
-  anything touching advisory services. Ed's review prepares a piece for that review;
-  it never replaces it.
+- **Marketing runs under Trulip, the insurance and planning arm.** Justin's decision
+  (2026-09-16): Portfolio Medics does not pre-approve his marketing; it requires a
+  correct disclosure wherever its name appears. Ed's review works on that basis. If
+  a piece ever offers advisory services directly rather than education, re-ask.
 - **Footprints differ by hat.** Insurance producer licenses: Ohio and Kentucky only.
   Advisory: as an IAR of an SEC-registered adviser he can generally serve clients in
   states where he has no place of business without extra state registration.

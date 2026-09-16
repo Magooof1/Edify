@@ -405,3 +405,11 @@ category). Booking tool is Calendly — paid tier, build spec written into the l
 page draft (export on, required state-of-residence question, pointer line,
 transactional-only confirmations, two source links). Still on Justin's list, not
 decided by this: whether Portfolio Medics must pre-approve the landing page copy.
+
+**2026-09-16 — Portfolio Medics pre-approval: Justin's decision.** "I don't need
+approval from Portfolio Medics, I just need a disclosure. I'm advertising under
+Trulip, the insurance and planning arm." Recorded as his decision; he knows his
+agreement with Portfolio Medics. Ed's six questions collapse to one: the exact
+disclosure wording Portfolio Medics requires when named. Ed and CLAUDE.md updated so
+the team stops raising pre-approval on every piece. Standing exception: a piece that
+offers advisory services directly (not education) gets the question asked once more.
