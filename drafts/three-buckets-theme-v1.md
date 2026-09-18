@@ -406,3 +406,179 @@ and Ed's read on three stacked drawdown years — Justin's own specific flag), t
 two-hat disclosure requirement on any panel describing Green (per existing precedent,
 not new), and the mirror-card Q5 false-positive finding in Section 1, which is a fix
 for whoever touches that draft next, not resolved in this file.
+
+---
+
+## Ed's preflight, 2026-09-18
+
+**Survives, with edits.** Nothing below requires cutting the disqualifier, the advisor
+extension, or Green. This is a fix list, not a kill list. Five items block print; the
+rest are recommended or note-only. I read this against `CLAUDE.md`'s top section as
+corrected today and `drafts/disclosure-blocks-v1.md` as the canonical language —
+Panel 5 correctly points to Variant A there rather than embedding any copy, so the
+entity error that's paused the other nine drafts does not appear anywhere in this
+file. Checked; no Task-tool delegation available in this environment, so this is my
+own direct review, not a routed specialist pass — I did apply the insurance-ad lens
+(Green is described throughout) and the general preflight lens myself; nothing here
+reads as testimonial/endorsement content, so that checker's domain doesn't apply.
+
+### (a) Required before print
+
+1. **The 2008/2000/2020 drawdown figures are placeholders, not numbers** — Section 1,
+   Section 2, and Panel 3 of Section 3 all carry `[SOURCED FIGURE NEEDED]` or the
+   unsourced "roughly." Before print, each of the three years needs an actual
+   calendar-year figure for a **named, standard 60/40 blended benchmark** (e.g., a
+   60% S&P 500 total return / 40% Bloomberg U.S. Aggregate Bond Index mix, annually
+   rebalanced — or whatever specific blend Justin actually uses in class), with the
+   **source named** on the piece or in the substantiation file behind it. This isn't
+   a claim about Portfolio Medics' own managed performance, so it doesn't pull in the
+   Marketing Rule's heavier extracted/hypothetical-performance machinery — but it's
+   still a factual, backward-looking claim about a public benchmark, and it still has
+   to be true, sourced, and citable if ever tested. I'm not supplying the number
+   myself; that's Sloan's or Justin's fact to get and mine to check once it exists.
+
+2. **A "past performance is no guarantee of future results" disclaimer needs to sit
+   close to the claim itself, on Panel 3 — not only in Panel 5's disclosure block.**
+   The Marketing Rule's fair-and-balanced standard cares where a reader's eye actually
+   is; the three years and the question underneath them are the whole point of Panel
+   3, and the reader who's moved by that panel may never get to Panel 5. Separately,
+   and this is a gap in the canonical file, not just this draft: **Variant A in
+   `drafts/disclosure-blocks-v1.md` currently has no past-performance disclaimer at
+   all.** Portfolio Medics' own footer (quoted in the 2026-09-18 entity-correction
+   entry in `.claude/memory/compliance-precedents.md`) carries one. This card is the
+   first piece in this workforce to cite actual historical performance data, so it's
+   the first piece that exposes the gap — the line needs to go into the canonical
+   file, not just be patched onto this one card.
+
+3. **Confirm the mailing list is confined to Justin's current insurance-licensed
+   footprint (Kentucky resident, Ohio non-resident) before this mails, or get
+   licensed into any additional state before mailing there.** This isn't reopening
+   the settled point that Green is in, and it isn't treating OH/KY as a wall — it's
+   the sequencing question Justin himself drew the line on: advertising a Green
+   feature into a state before holding the license there is different from getting
+   licensed after a lead arrives from there. Panel 3 and Panel 5 both describe Green
+   (per the settled, not-mine-to-reopen rule, that's what puts the two-hat block and
+   the OH/KY producer line on Panel 5 in the first place). The disclosure block's
+   "not an offer... in any jurisdiction where not licensed" sentence doesn't cure
+   actual delivery to a wider list — same principle already on record for the FB/web
+   box (targeting does the work, the sentence doesn't). Section 3 says "a smaller,
+   targeted list" and "a few thousand mailed cards" but never states its geography.
+   That's the one fact missing before a mail house can be handed this file.
+
+4. **Confirm the Rule 204-2 "no pitch" substantiation already required for the
+   mirror card actually exists before this prints — and confirm it covers this
+   card's specific wrinkle.** This is an inherited requirement, not a new one (see
+   `.claude/memory/compliance-precedents.md`, 2026-09-12: a printed "no pitch"
+   promise needs a dated internal policy note plus an operational first-meeting
+   script, not just Justin's intention). Panel 4 here repeats the identical printed
+   representation and adds something the mirror card didn't: it explicitly invites
+   the reader to **bring account statements** to a call also described as "no pitch."
+   That's not a contradiction on its face — reviewing statements to answer "which of
+   the three do you have" is diagnostic, not a sale — but the internal record needs
+   to say so explicitly, so "no pitch" still means something operationally on a call
+   where real statements are on the table, not just on a call where none are.
+
+5. **The $7K perk-eligibility question Section 3 already raises needs an answer
+   before print money is spent, not just a flag on file.** Not a Marketing Rule or
+   insurance-ad issue — an administrative one — but it's the kind of thing that sinks
+   a test regardless of how clean the copy is. I agree with the concern as stated: a
+   mailer driving straight to a phone call, on the plain language of the perk's
+   restricted-use rule (public workshops/networking events only, mailer costs *within*
+   those events, not general lead generation), doesn't obviously qualify. This needs
+   a yes/no from whoever controls that pool before this piece is funded from it.
+
+### (b) Recommended, not blocking
+
+1. **"That's the sentence underneath a 60/40 answer, once you ask it plainly: 'I have
+   bonds. That isn't managing the risk.'"** (Section 1, and compressed in Section 2)
+   — this holds as a statement about the category ("a 60/40 answer"), not a diagnosis
+   of the specific reader, and passes the mirror precedent's test in substance ("this
+   pattern looks like," not "you have"). But it's the first time this device has run
+   in first-person quotation rather than third person, and that form sits closer to
+   the line stylistically than anything reviewed before — the reader's own voice is
+   being put in their mouth, even if the content stays general. Cheap fix, doesn't
+   touch the shape: keep the conditional explicit right at the quote itself ("If
+   that's your mix, that's the sentence underneath it") rather than the more general
+   "underneath a 60/40 answer," so the self-selection Isla already built into the
+   "most people" fix upstream carries all the way to this line too.
+
+2. **"You'll know which of the three you actually have by the time you hang up"**
+   (Panel 4) — an unconditional promise about the outcome of every call. Not a
+   securities or insurance-rule problem; closer to ordinary claims-substantiation than
+   anything regulated here. Still, it's stated as certain for every caller, which is
+   more than the piece can actually promise. Recommend softening the certainty
+   ("you'll have a clear answer for yourself" or similar) rather than a flat guarantee
+   — not required, easy to fix if Justin wants the safer version.
+
+3. **Flag for whoever builds the final art, not a copy issue:** nothing in the text
+   as drafted implies Blue (or Portfolio Medics) would have avoided the 2008/2000/2020
+   drawdowns, and it needs to stay that way once this becomes a physical layout — a
+   designer pairing the three years with a chart or comparison line for Blue could
+   introduce that implication visually without anyone treating it as new copy needing
+   review. Worth a note to whoever builds Panel 3's final art.
+
+### (c) Note only
+
+- **The advisor extension** ("is what they're doing managing the risk, or are you
+  still riding the markets, just with someone else choosing the ratio") — Sloan's own
+  read (weaker persuasively) stands, and I agree with it as a copy judgment. On
+  compliance it's clean as drafted: it's a question put to the reader, not an
+  assertion about what advisors generally do, so it doesn't trip a comparative or
+  disparaging-claim problem. Nothing to fix.
+- **"A mix is not a plan."** Categorical, but it's argument/opinion about an approach
+  (mix vs. plan, a distinction the piece itself defines), not a factual claim about a
+  competitor needing substantiation, and it doesn't name anyone. Fine as written.
+- **Three drawdown years stacked (2008, 2000, 2020) do not read as implying a pattern
+  that will repeat, and one year wouldn't fix anything that's actually at issue here.**
+  These three are, in substance, the major calendar-year drawdown events for a 60/40
+  portfolio in this period — not a cherry-picked subset dressed up as a trend. If
+  anything is missing, it's 2022 (a year stocks and bonds fell together, arguably the
+  single strongest data point for this exact argument) — leaving it out understates
+  the case rather than overstates it. No forward-looking language appears anywhere in
+  the copy itself. What actually needs fixing is sourcing and a proximate disclaimer
+  (items 1 and 2 above), not fewer years — the shape holds.
+- **No testimonial or endorsement content anywhere in this piece.** First-person voice
+  from Justin throughout, same posture already cleared on the mirror card. The
+  testimonial/endorsement checker's domain doesn't apply here.
+- **Entity structure: clean, confirmed by direct search of this file.** No instance of
+  "Trulip Retirement Planning, LLC" or any other stale entity string appears anywhere
+  in this draft. Panel 5 correctly defers to Variant A of the corrected
+  `drafts/disclosure-blocks-v1.md` by pointer rather than embedding a copy, which is
+  exactly the discipline that's missing from the other nine paused drafts.
+- **The outer panel line** ("Three ways retirement money can be positioned. Which do
+  you actually have?") — no bucket feature named, no comparative or unsubstantiated
+  claim, no population claim. Fine as a cold-audience teaser on its own.
+- **Inherited, standing, not new to this piece:** the two "CONFIRM EXACT CURRENT
+  WORDING" markers inside Variant A (the RIA-registration companion language, the
+  OH/KY producer-ad wording) and whether either state requires a printed license
+  number — all still open with outside counsel, travel with every piece built on the
+  canonical block, and haven't blocked a piece from moving forward before. Don't
+  block this one either, but they're still open and still Justin's to route to
+  counsel.
+
+### Section 4 sketches — noted, not reviewed
+
+- **Spring mailer:** reuses the disqualifier into a class CTA instead of a phone
+  call — no new issue visible at sketch level; gets its own pass when actually
+  drafted.
+- **Facebook ad:** correctly parked per Taleb's memo, headline avoids bucket/product
+  language per the existing standing rule — clean at sketch level. Its landing page
+  (the mirror, "revised five questions") inherits the Q5 false-positive problem noted
+  below until that's fixed — flagging so it isn't forgotten by the time this sketch
+  becomes real.
+- **Video outline:** an outline, not a script — nothing to review yet. When it's
+  built, it will want the same sourced 2008/2000/2020 figures as this card; reuse
+  whatever gets confirmed for print rather than re-deriving it.
+
+### Mirror Q5 — agree it's a real problem
+
+Confirmed, not just noted: `mirror-card-v2.md` Q5 ("...has a specific plan in place
+designed to limit how much it could lose in a bad year?") lets a 60/40-only reader
+answer yes on the strength of their bonds and get checked into the managed/Blue box.
+That's the exact false positive this entire theme exists to correct, occurring inside
+the instrument meant to catch it. Since the mirror is the landing page behind any FB
+version of this theme (per Section 4 above) and is also the quiet-track's Touch-2
+reused copy, this isn't a cosmetic gap — it undercuts the disqualifier's whole premise
+for anyone who reaches the mirror instead of, or after, this card. Not this review's
+scope to fix (per the brief), but real, and worth prioritizing whenever the mirror is
+next touched, ahead of the FB variant going live.

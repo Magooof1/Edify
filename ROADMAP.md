@@ -169,8 +169,13 @@ move to the log below with the date.
 2. **Calendly:** paid tier on; required question "What state do you live in?";
    event description per the spec in `drafts/mirror-landing-page-v2.md` Section 4;
    confirmations plain; two links (FB, card).
-3. **Pick a bridge message.** When Sloan's versions land, read them and choose the
-   one that goes to Ed. That's the cold ad; the rest of the funnel waits on it.
+3. **Clear Ed's five on the three-buckets card** (`drafts/three-buckets-theme-v1.md`,
+   his section at the bottom). None are copy changes: (a) the sourced 2008 60/40
+   figure and index — you show the chart in class; (b) confirm the mailing list is
+   OH/KY; (c) confirm the "no pitch" policy note exists in Trulip's file and covers
+   "bring your statements"; (d) the perk yes/no — does the $7k fund a card-to-call,
+   or does the card drive to a short session; (e) past-performance line — Isla
+   added it to the canonical file 2026-09-18, pending your compliance side.
 
 **Next up (not yet assigned):** Meta verification — parked by Justin 2026-09-18.
 When he picks it up: business verification under Trulip Planning, LLC (holds the

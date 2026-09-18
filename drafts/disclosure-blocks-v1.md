@@ -127,6 +127,11 @@ sizing logic as before — this is the text that never gets shrunk to fit.
 > resolved by Ed's prior "not aware of one" note, which is not the same as confirmed
 > absent.]
 >
+> Past performance is no guarantee of future results. Any historical market figures
+> cited are for a named public benchmark, are not the performance of any account
+> managed by Portfolio Medics, LLC or Justin McGuffey, and are provided for
+> educational context only.
+>
 > This [piece] is not an offer or solicitation to buy or sell any insurance or
 > annuity product in any jurisdiction where Justin McGuffey is not an appropriately
 > licensed insurance producer — currently Ohio and Kentucky only. Nor is this [piece]
