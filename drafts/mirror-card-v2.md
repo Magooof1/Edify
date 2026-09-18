@@ -6,7 +6,26 @@ Open: two "confirm exact current wording" items for outside counsel (now three �
 see v2.1 note), final format sign-off, the "no pitch" internal write-up, the QR
 destination (undefined, own clearance), and Portfolio Medics' pre-approval process
 (see Ed's report to Isla/Justin, 2026-09-12). All six original placeholder facts are
-resolved as of 2026-09-16 (see v2.1 note).
+resolved as of 2026-09-16 (see v2.1 note). **Disclosure block updated again
+2026-09-18 — see v2.2 note below. Language pending Justin's compliance sign-off;
+canonical source is `drafts/disclosure-blocks-v1.md`.**
+
+## v2.2 — Trulip three-entity correction, 2026-09-18
+The v2.1 correction below (2026-09-12) fixed the RIA error but still called the
+insurance/planning side "Trulip Retirement Planning, LLC" — that company does not
+exist. "Trulip Retirement Planning" is a DBA only. Justin supplied the corrected
+structure directly to Ed on 2026-09-18: **Trulip Planning, LLC** is the FMO and
+holds the "Trulip Retirement Planning" trade name; **Trulip Investment
+Management, LLC** is the entity that actually transacts insurance/annuity
+business with clients. The Disclosures panel below is replaced with Variant A
+from the canonical `drafts/disclosure-blocks-v1.md`, which keeps those two facts
+straight instead of collapsing them. Edify's description is also corrected: it's
+"the brand name under which Justin McGuffey shares general financial and
+retirement education," not "the educational arm of Trulip Retirement Planning" —
+no corporate relationship between Edify and any Trulip entity has been confirmed.
+This is Ed's best defensible version per Justin's direction (2026-09-18) to update
+drafts now rather than hold them — status stays "pending Justin's compliance
+sign-off," not approved.
 
 ## v2.1 — entity/registration correction, 2026-09-12
 Justin corrected a factual error running through every disclosure block drafted so
@@ -153,42 +172,53 @@ Trulip Retirement Planning / Edify Retirement Education
 disclosures only, nothing else sharing the panel with them. See Ed's format
 recommendation in the notes below for why.*
 
+*Canonical source: `drafts/disclosure-blocks-v1.md`, Variant A (full long-form
+block) — edit the block there, not here; this copy is cloned from it. Language
+pending Justin's compliance sign-off.*
+
 **Disclosures**
 
 Investment advisory services are offered through Portfolio Medics, LLC, an
-SEC-Registered Investment Adviser. Insurance and planning products are offered
-through Trulip Retirement Planning, LLC. Trulip Retirement Planning is not a
-registered investment adviser. [CONFIRM EXACT CURRENT WORDING — this line is
-typically paired with "Registration as an investment adviser does not imply a
-certain level of skill or training." Confirm the current required phrasing —
-including any language Portfolio Medics itself requires when its name appears on
-an IAR's marketing materials — with outside counsel and/or Portfolio Medics
-compliance before print; do not treat this draft's wording as final.]
+SEC-Registered Investment Adviser. Justin McGuffey is an investment adviser
+representative of Portfolio Medics, LLC.
 
-Edify Retirement Education is the educational arm of Trulip Retirement Planning.
+Justin McGuffey also conducts insurance and annuity business through **Trulip
+Investment Management, LLC**, which is the entity clients contract with for
+insurance and annuity products. This practice markets its insurance and planning
+services under the trade name "Trulip Retirement Planning," which is held by
+**Trulip Planning, LLC**, a field marketing organization (FMO). Trulip Planning,
+LLC does not itself transact insurance business with clients. Neither Trulip
+Investment Management, LLC nor Trulip Planning, LLC is a registered investment
+adviser, and neither is affiliated with Portfolio Medics, LLC in any way. [CONFIRM EXACT CURRENT WORDING — this section
+is typically paired with "Registration as an investment adviser does not imply a
+certain level of skill or training," plus any exact language Portfolio Medics
+itself requires when its name appears on an IAR's marketing materials. Confirm with
+Portfolio Medics compliance and/or outside counsel before this is treated as final.]
+
+Edify Retirement Education is the brand name under which Justin McGuffey shares
+general financial and retirement education. It is not a separate legal entity.
+
 This card is educational only. It
 is not individualized investment, insurance, or tax advice, and your own situation
 may differ from the general patterns described here. Nothing on this card is a
 recommendation to buy, sell, or hold any specific security, insurance product, or
 annuity.
 
-Justin McGuffey is an investment adviser representative of Portfolio Medics, LLC,
-and a licensed insurance producer in the states of Ohio and Kentucky. Insurance
-and planning business is conducted through Trulip Retirement Planning, LLC.
-[Per Justin's direction, no license number, NPN, or CRD number is printed on this
-consumer-facing card. See counsel-confirmation note below — Ed is not aware of an
-Ohio or Kentucky rule requiring a producer license number on this kind of
-advertisement, but that is not the same as confirming none applies.]
-
 Any reference on this card to money that "can't lose value," to principal
 protection, or to a plan that limits downside describes a feature of an insurance
 or annuity contract. Any such guarantee is made by, and is subject to the
 claims-paying ability of, the issuing insurance carrier — not by Portfolio Medics,
-LLC, Trulip Retirement Planning, Edify Retirement Education, or Justin McGuffey
-individually. No carrier or product is named on this card as drafted; if one is
+LLC; Trulip Investment Management, LLC; Trulip Planning, LLC; Edify Retirement
+Education; or Justin McGuffey individually. No carrier or product is named on this card as drafted; if one is
 ever added, that addition needs its own clearance before it goes to print. These
 products are not bank deposits, are not FDIC insured, and may carry surrender
 charges, caps, or other limits described in the applicable contract.
+
+Justin McGuffey is a licensed insurance producer in the states of Ohio and
+Kentucky. [Per Justin's direction, no license number, NPN, or CRD number is printed
+on this consumer-facing card. See counsel-confirmation note below — Ed is not aware of an
+Ohio or Kentucky rule requiring a producer license number on this kind of
+advertisement, but that is not the same as confirming none applies.]
 
 This card is not an offer or solicitation to buy or sell any insurance or annuity
 product in any jurisdiction where Justin McGuffey is not an appropriately licensed
@@ -209,7 +239,10 @@ by the insurance side (Ohio and Kentucky) as the binding constraint — see Ed's
 separate geofence ruling to Justin/Isla, 2026-09-12. This sentence should not be
 read as license to distribute more broadly without that confirmation.]
 
-Justin has directed that no CRD number appear on this consumer-facing piece.
+(The prior standalone line "Justin has directed that no CRD number appear on this
+consumer-facing piece" is now folded into the producer-license paragraph above,
+which already states it — removed here to avoid duplication, not to change the
+directive.)
 
 ---
 
@@ -243,7 +276,15 @@ Justin has directed that no CRD number appear on this consumer-facing piece.
    to omit one), and Portfolio Medics' own state registration/notice-filing
    footprint. None of these three should be filled in with Ed's best guess — they go
    to outside counsel, Justin's current compliance resource, or Portfolio Medics
-   compliance directly, as applicable.
+   compliance directly, as applicable. **Superseded again 2026-09-18 (v2.2):**
+   the v2.1 fix above still called the insurance side "Trulip Retirement Planning,
+   LLC," which does not exist as an entity — it's a DBA held by Trulip Planning,
+   LLC, while Trulip Investment Management, LLC is who clients actually contract
+   with. The Disclosures panel above is now Variant A cloned from the canonical
+   `drafts/disclosure-blocks-v1.md`; edit that file, not this one, going forward.
+   The "Edify is the educational arm of Trulip" line is also gone — no confirmed
+   corporate relationship between Edify and any Trulip entity exists, so the block
+   now just states Edify has no separate legal existence.
 6. **Ed's format recommendation (2026-09-12):** one 8.5x11 sheet, bi-fold to 8.5x5.5,
    four panels — (1) cover/hook, (2) five questions, (3) scoring key + CTA + Justin's
    first-person close + signature, (4) disclosures only, nothing else on that panel.

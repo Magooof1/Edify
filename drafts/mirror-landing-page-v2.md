@@ -10,6 +10,19 @@ in v1 was deleted, only superseded where Ed flagged it.
 
 ---
 
+## v2.2 — Trulip three-entity correction, 2026-09-18
+The v2.1 fix below (2026-09-12) corrected the RIA error but still named the
+insurance/planning side "Trulip Retirement Planning, LLC" — not a real entity.
+"Trulip Retirement Planning" is a DBA only, held by **Trulip Planning, LLC** (the
+FMO); **Trulip Investment Management, LLC** is who clients actually contract with
+for insurance/annuity business. Justin supplied this structure directly to Ed,
+2026-09-18. This pass replaces the top notice (Section 1) with Variant B's
+corrected top-notice text, confirms the button notice (Section 4) needs no change
+(it never named an entity), and repoints Section 6 at the canonical
+`drafts/disclosure-blocks-v1.md` instead of at `mirror-card-v2.md`'s copy.
+Applied now, per Justin's direction, as Ed's best defensible version rather than
+holding the draft — status stays "pending Justin's compliance sign-off."
+
 ## v2.1 — entity/registration correction, 2026-09-12
 Justin corrected a factual error running through every disclosure block drafted so
 far: Trulip Retirement Planning is **not** an SEC-registered investment adviser.
@@ -93,15 +106,19 @@ One page. One job: a booked meeting. Nothing on this page should compete with th
 >
 > Answer yes or no.
 
+*Canonical source: `drafts/disclosure-blocks-v1.md`, Variant B (top notice) — edit
+there, not here. Language pending Justin's compliance sign-off.*
+
 **[NEW — top disclosure notice, directly beneath the hook, before the five questions
-— corrected in v2.1]**
+— corrected in v2.2, 2026-09-18: names Trulip Investment Management, LLC as the
+transacting insurance entity instead of the non-existent "Trulip Retirement
+Planning, LLC"]**
 
 > *Investment advisory services are offered through Portfolio Medics, LLC, an
-> SEC-Registered Investment Adviser. Insurance and planning products are offered
-> through Trulip Retirement Planning, LLC. Justin McGuffey is an investment
-> adviser representative of Portfolio Medics and a licensed insurance producer in
-> Ohio and Kentucky. This page is educational only and isn't individualized
-> advice — full disclosures are below.*
+> SEC-Registered Investment Adviser. Justin McGuffey is its investment adviser
+> representative and a licensed insurance producer in Ohio and Kentucky, conducting
+> insurance business through Trulip Investment Management, LLC. This page is
+> educational only and isn't individualized advice — full disclosures are below.*
 
 Small, quiet type — a notice, not a second headline. It sits between the hook and the
 five questions so a reader who never scrolls to Section 6 still saw it, but it isn't
@@ -187,6 +204,10 @@ does not clear the first one.
 Ed's rule from the box still applies: the booking page is its own advertisement
 and gets its own log entry when it goes live.
 
+*Canonical source: `drafts/disclosure-blocks-v1.md`, Variant B (button notice) —
+edit there, not here. Language pending Justin's compliance sign-off. No text
+change needed here — this notice never named an entity.*
+
 **[NEW — button notice, immediately below the CTA button]**
 
 > *Booking this call schedules a free educational conversation — it isn't a
@@ -218,25 +239,30 @@ his sign-off.)*
 
 ### Section 6 — Disclosure slot
 
+*Canonical source: `drafts/disclosure-blocks-v1.md`, Variant A (full long-form
+block) — edit there, not here. Language pending Justin's compliance sign-off.*
+
 **[DISCLOSURE BLOCK — ALWAYS RENDERED. Per Ed's placement call: full block, unabridged,
 visible at all times. No accordion, no "important information" expandable section, no
 click-to-expand of any kind. Whoever builds this in Squarespace should treat this as a
 hard requirement, not a design default to override.]**
 
-Base text is the disclosure block already drafted in `drafts/mirror-card-v2.md`
-(the "Disclosures" section — **corrected in that file's v2.1 pass, 2026-09-12: the
-Portfolio Medics/Trulip two-line advisory-and-insurance structure, insurance
-license lines without a printed license number per Justin's decision, the
-principal-protection/carrier-guarantee paragraph, and the split advisory/insurance
-"not an offer or solicitation" line**). Of the original six placeholder facts,
-five are now resolved (name, license numbers/NPN/CRD omitted by Justin's decision,
-FMO entity confirmed as Trulip itself); the sixth resolved 2026-09-16 (see change
-log). Justin also confirmed Edify is correctly described as Trulip's educational arm. This block now sits alongside the two new short-form notices above
-(Sections 1 and 4) as a three-layer disclosure structure: short notice at the
-hook, short notice at the CTA, full block always visible at the bottom. Ed
-confirms the three still work together as intended with the corrected entity
-names — nothing in the two short notices contradicts or duplicates the full block
-awkwardly.
+Base text is Variant A from the canonical `drafts/disclosure-blocks-v1.md`,
+adapted for a webpage ([card/email/page] → "page"). **Corrected 2026-09-18
+(v2.2):** the prior pointer sent readers to `drafts/mirror-card-v2.md`'s copy,
+which still named "Trulip Retirement Planning, LLC" as the insurance/planning
+entity — that company doesn't exist. Variant A instead names **Trulip Investment
+Management, LLC** as the entity clients actually contract with for
+insurance/annuity business, and **Trulip Planning, LLC** as the FMO that holds
+the "Trulip Retirement Planning" trade name without itself transacting business.
+Edify's description is corrected the same way: "the brand name under which Justin
+McGuffey shares general financial and retirement education," not "the educational
+arm of Trulip Retirement Planning" or of any Trulip entity — no corporate
+relationship between Edify and either Trulip entity has been confirmed. This
+block sits alongside the two short-form notices above (Sections 1 and 4, also
+updated to the corrected entity structure) as the same three-layer disclosure
+structure as before: short notice at the hook, short notice at the CTA, full
+block always visible at the bottom.
 
 ---
 

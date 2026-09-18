@@ -7,6 +7,17 @@ clean on the same terms as the quiet track's Q-Give-2. Touch 3's full footer con
 Still NOT approved to send, mail, or call from — final sign-off is Justin's regardless,
 and the open items in section 4a are his or Isla's to close, not Ed's.
 
+**Updated 2026-09-18 (entity correction):** every disclosure block and CAN-SPAM
+footer below (Touch 1, Touch 2, Touch 3) is replaced with the corrected language
+from the canonical `drafts/disclosure-blocks-v1.md`. The prior blocks named
+"Trulip Retirement Planning, LLC" as the insurance/planning entity — that company
+doesn't exist; "Trulip Retirement Planning" is a DBA held by **Trulip Planning,
+LLC** (the FMO), and **Trulip Investment Management, LLC** is who clients
+actually contract with for insurance/annuity business. Justin supplied this
+structure directly to Ed, 2026-09-18. Applied now, per Justin's direction, as
+Ed's best defensible version rather than holding the draft — status stays
+"pending Justin's compliance sign-off," not approved.
+
 ---
 
 ## 0. Who this is for, and why the cadence is shaped differently than the quiet track
@@ -102,24 +113,41 @@ who never got their own picture.
 > word.
 >
 > — Justin
->
+
+*Canonical source: `drafts/disclosure-blocks-v1.md`, Variant A (full block) and
+Variant D (footer) — edit there, not here. Language pending Justin's compliance
+sign-off.*
+
 > *Investment advisory services are offered through Portfolio Medics, LLC, an
-> SEC-Registered Investment Adviser. Insurance and planning products are offered
-> through Trulip Retirement Planning, LLC, which is not a registered investment
-> adviser. Edify Retirement Education is the educational arm of Trulip Retirement
-> Planning. This email is educational only and is not individualized investment,
-> insurance, or tax advice; your own situation may differ. Any reference to money that
-> can't lose value, principal protection, or a plan for the downside describes a
-> feature of an insurance or annuity contract — any such guarantee is made by, and
-> subject to the claims-paying ability of, the issuing carrier, not by Portfolio
-> Medics, LLC, Trulip Retirement Planning, Edify Retirement Education, or Justin
-> individually. Not an offer or solicitation for insurance or annuity products in any
-> jurisdiction where Justin is not an appropriately licensed producer (currently Ohio
-> and Kentucky only), nor for advisory services where Portfolio Medics or Justin as
-> its IAR is not appropriately registered or exempt. [Same CONFIRM-EXACT-WORDING items
-> as the mirror card carry over unchanged — do not treat this footer as final.]*
+> SEC-Registered Investment Adviser. Justin McGuffey is an investment adviser
+> representative of Portfolio Medics, LLC.*
 >
-> [Unsubscribe] · Trulip Retirement Planning, [physical address]
+> *Justin McGuffey also conducts insurance and annuity business through **Trulip
+> Investment Management, LLC**, which is the entity clients contract with for
+> insurance and annuity products. This practice markets its insurance and planning
+> services under the trade name "Trulip Retirement Planning," which is held by
+> **Trulip Planning, LLC**, a field marketing organization (FMO). Trulip Planning,
+> LLC does not itself transact insurance business with clients. Neither Trulip
+> Investment Management, LLC nor Trulip Planning, LLC is a registered investment
+> adviser, and neither is affiliated with Portfolio Medics, LLC in any way. [CONFIRM
+> EXACT CURRENT WORDING — see canonical file for the full note.]*
+>
+> *Edify Retirement Education is the brand name under which Justin McGuffey shares
+> general financial and retirement education. It is not a separate legal entity.
+> This email is educational only and is not individualized investment, insurance,
+> or tax advice; your own situation may differ. Any reference to money that can't
+> lose value, principal protection, or a plan for the downside describes a feature
+> of an insurance or annuity contract — any such guarantee is made by, and subject
+> to the claims-paying ability of, the issuing carrier, not by Portfolio Medics,
+> LLC; Trulip Investment Management, LLC; Trulip Planning, LLC; Edify Retirement
+> Education; or Justin individually. Not an offer or solicitation for insurance or
+> annuity products in any jurisdiction where Justin is not an appropriately
+> licensed producer (currently Ohio and Kentucky only), nor for advisory services
+> where Portfolio Medics or Justin as its IAR is not appropriately registered or
+> exempt. [Same CONFIRM-EXACT-WORDING items as the canonical file carry over
+> unchanged — do not treat this footer as final.]*
+>
+> [Unsubscribe] · Trulip Investment Management, LLC, [physical address]
 
 **Ed's fix, applied above:** Sloan's original opened with "you sat through the class,"
 which is false for anyone who registered and never attended — under the Marketing Rule
@@ -152,35 +180,54 @@ redeploy should get its own quick look even though nothing in the questions chan
 > find, the offer from a few months back still stands, any time.
 >
 > — Justin
->
+
+*Canonical source: `drafts/disclosure-blocks-v1.md`, Variant A (full block) and
+Variant D (footer) — edit there, not here. Language pending Justin's compliance
+sign-off.*
+
 > *Investment advisory services are offered through Portfolio Medics, LLC, an
-> SEC-Registered Investment Adviser. Insurance and planning products are offered
-> through Trulip Retirement Planning, LLC, which is not a registered investment
-> adviser. Edify Retirement Education is the educational arm of Trulip Retirement
-> Planning. This email is educational only and is not individualized investment,
-> insurance, or tax advice; your own situation may differ. Any reference to money
-> that can't lose value, principal protection, or a plan for the downside describes
-> a feature of an insurance or annuity contract — any such guarantee is made by, and
-> subject to the claims-paying ability of, the issuing carrier, not by Portfolio
-> Medics, LLC, Trulip Retirement Planning, Edify Retirement Education, or Justin
-> individually. Not an offer or solicitation for insurance or annuity products in any
-> jurisdiction where Justin is not an appropriately licensed producer (currently Ohio
-> and Kentucky only), nor for advisory services where Portfolio Medics or Justin as
-> its IAR is not appropriately registered or exempt. [Same CONFIRM-EXACT-WORDING items
-> as the base mirror card carry over unchanged.]*
+> SEC-Registered Investment Adviser. Justin McGuffey is an investment adviser
+> representative of Portfolio Medics, LLC.*
 >
-> [Unsubscribe] · Trulip Retirement Planning, [physical address]
+> *Justin McGuffey also conducts insurance and annuity business through **Trulip
+> Investment Management, LLC**, which is the entity clients contract with for
+> insurance and annuity products. This practice markets its insurance and planning
+> services under the trade name "Trulip Retirement Planning," which is held by
+> **Trulip Planning, LLC**, a field marketing organization (FMO). Trulip Planning,
+> LLC does not itself transact insurance business with clients. Neither Trulip
+> Investment Management, LLC nor Trulip Planning, LLC is a registered investment
+> adviser, and neither is affiliated with Portfolio Medics, LLC in any way. [CONFIRM
+> EXACT CURRENT WORDING — see canonical file for the full note.]*
+>
+> *Edify Retirement Education is the brand name under which Justin McGuffey shares
+> general financial and retirement education. It is not a separate legal entity.
+> This email is educational only and is not individualized investment, insurance,
+> or tax advice; your own situation may differ. Any reference to money that can't
+> lose value, principal protection, or a plan for the downside describes a feature
+> of an insurance or annuity contract — any such guarantee is made by, and subject
+> to the claims-paying ability of, the issuing carrier, not by Portfolio Medics,
+> LLC; Trulip Investment Management, LLC; Trulip Planning, LLC; Edify Retirement
+> Education; or Justin individually. Not an offer or solicitation for insurance or
+> annuity products in any jurisdiction where Justin is not an appropriately
+> licensed producer (currently Ohio and Kentucky only), nor for advisory services
+> where Portfolio Medics or Justin as its IAR is not appropriately registered or
+> exempt. [Same CONFIRM-EXACT-WORDING items as the canonical file carry over
+> unchanged.]*
+>
+> [Unsubscribe] · Trulip Investment Management, LLC, [physical address]
 
 Deliberately no bucket names here — the mirror's own cleared language already carries
 the weight without needing "Blue" spelled out, same as the base card.
 
-**Ed's determination on this redeploy:** clean, same test applied to the quiet track's
-Q-Give-2. The content isn't new — same Q1-Q5, same reader-does-the-matching form, no
-new "diagnosing a stranger" problem from putting it in front of a different segment.
-What a new segment can change is disclosure fit, not substance, and here it doesn't:
-this is the full five-question apparatus in an email, same room the mailed card and
-Q-Give-2 both have, so it keeps the full footer already drafted above (cloned correctly
-from the base card). No changes needed.
+**Ed's determination on this redeploy (2026-09-16, entity language updated
+2026-09-18):** clean, same test applied to the quiet track's Q-Give-2. The
+content isn't new — same Q1-Q5, same reader-does-the-matching form, no new
+"diagnosing a stranger" problem from putting it in front of a different segment.
+What a new segment can change is disclosure fit, not substance, and here it
+doesn't: this is the full five-question apparatus in an email, same room the
+mailed card and Q-Give-2 both have, so it keeps the full footer, now cloned from
+the canonical `drafts/disclosure-blocks-v1.md`. No changes needed beyond the
+entity correction.
 
 ### Touch 3 — Email — A quiet quarter, the bucket worth a second look
 **What it's for:** general education, not personalized — there's no existing plan to
@@ -205,24 +252,41 @@ gently, with no ask attached.
 > expire.
 >
 > — Justin
->
+
+*Canonical source: `drafts/disclosure-blocks-v1.md`, Variant A (full block) and
+Variant D (footer) — edit there, not here. Language pending Justin's compliance
+sign-off.*
+
 > *Investment advisory services are offered through Portfolio Medics, LLC, an
-> SEC-Registered Investment Adviser. Insurance and planning products are offered
-> through Trulip Retirement Planning, LLC, which is not a registered investment
-> adviser. Edify Retirement Education is the educational arm of Trulip Retirement
-> Planning. This email is educational only and is not individualized investment,
-> insurance, or tax advice; your own situation may differ. Any reference to money
-> that can't lose value, principal protection, or a plan for the downside describes
-> a feature of an insurance or annuity contract — any such guarantee is made by, and
-> subject to the claims-paying ability of, the issuing carrier, not by Portfolio
-> Medics, LLC, Trulip Retirement Planning, Edify Retirement Education, or Justin
-> individually. Not an offer or solicitation for insurance or annuity products in any
-> jurisdiction where Justin is not an appropriately licensed producer (currently Ohio
-> and Kentucky only), nor for advisory services where Portfolio Medics or Justin as
-> its IAR is not appropriately registered or exempt. [Same CONFIRM-EXACT-WORDING items
-> as Touch 1's footer carry over unchanged.]*
+> SEC-Registered Investment Adviser. Justin McGuffey is an investment adviser
+> representative of Portfolio Medics, LLC.*
 >
-> [Unsubscribe] · Trulip Retirement Planning, [physical address]
+> *Justin McGuffey also conducts insurance and annuity business through **Trulip
+> Investment Management, LLC**, which is the entity clients contract with for
+> insurance and annuity products. This practice markets its insurance and planning
+> services under the trade name "Trulip Retirement Planning," which is held by
+> **Trulip Planning, LLC**, a field marketing organization (FMO). Trulip Planning,
+> LLC does not itself transact insurance business with clients. Neither Trulip
+> Investment Management, LLC nor Trulip Planning, LLC is a registered investment
+> adviser, and neither is affiliated with Portfolio Medics, LLC in any way. [CONFIRM
+> EXACT CURRENT WORDING — see canonical file for the full note.]*
+>
+> *Edify Retirement Education is the brand name under which Justin McGuffey shares
+> general financial and retirement education. It is not a separate legal entity.
+> This email is educational only and is not individualized investment, insurance,
+> or tax advice; your own situation may differ. Any reference to money that can't
+> lose value, principal protection, or a plan for the downside describes a feature
+> of an insurance or annuity contract — any such guarantee is made by, and subject
+> to the claims-paying ability of, the issuing carrier, not by Portfolio Medics,
+> LLC; Trulip Investment Management, LLC; Trulip Planning, LLC; Edify Retirement
+> Education; or Justin individually. Not an offer or solicitation for insurance or
+> annuity products in any jurisdiction where Justin is not an appropriately
+> licensed producer (currently Ohio and Kentucky only), nor for advisory services
+> where Portfolio Medics or Justin as its IAR is not appropriately registered or
+> exempt. [Same CONFIRM-EXACT-WORDING items as Touch 1's footer carry over
+> unchanged.]*
+>
+> [Unsubscribe] · Trulip Investment Management, LLC, [physical address]
 
 **Flagging for Ed specifically:** this touch names the Blue bucket and describes its
 downside-plan feature, so I've given it the full footer rather than the shorter form the
@@ -361,6 +425,28 @@ carve-out the same way the quiet track has one). One numbers question flagged fo
 Isla/Justin to true up (the off-ramp translation rests on an arithmetic slip in the
 quiet track's own document). Everything else — Touch 2's redeploy, bucket naming,
 Touch 3's disclosure sizing, recordkeeping — confirmed clean as drafted.
+
+## 4b. Entity correction — 2026-09-18
+
+Every disclosure block and CAN-SPAM footer above (Touch 1, Touch 2, Touch 3 — all
+full blocks; Touch 4 remains footer-free, live-oral exclusion unchanged) is
+replaced with the corrected language from the canonical
+`drafts/disclosure-blocks-v1.md`. The prior language named "Trulip Retirement
+Planning, LLC" as the insurance/planning entity — that company doesn't exist.
+"Trulip Retirement Planning" is a DBA held by **Trulip Planning, LLC** (the FMO);
+**Trulip Investment Management, LLC** is who clients actually contract with for
+insurance/annuity business, and is now the name used in every CAN-SPAM footer and
+in the license/producer paragraph. The "Edify is the educational arm of Trulip
+Retirement Planning" line is also gone — no confirmed corporate relationship
+between Edify and any Trulip entity exists, so every block now states Edify has
+no separate legal existence instead. All three email touches in this track were
+already explicitly assigned the full block in the canonical file's own usage
+notes, so nothing here needed a placement judgment call the way one touch did in
+the quiet-track cadence.
+
+This is Ed's best defensible version of every block per Justin's direction
+(2026-09-18) to update drafts now rather than hold them. Status stays "pending
+Justin's compliance sign-off" — not approved to send.
 
 ---
 
