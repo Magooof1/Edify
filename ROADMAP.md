@@ -23,13 +23,24 @@ checklist is the gate. Each graduation unlocks the next director from CLAUDE.md'
 that input is saturating. Between classes the input is zero.
 
 **Plays:**
-- The spring mailer + class (keep; one per year, funded first).
-- The mirror: FB test first, then mailed card if the mechanism shows up.
-  **Repositioned 2026-09-18 (Taleb):** the mirror is the landing page, not the
-  cold ad. A separate cold piece — the "bridge message," Red-fear to
-  Blue-category — sits in front of it. Sloan drafting. Because Blue is advisory,
-  a bridge built on Blue alone isn't fenced to OH/KY; the mirror behind it
-  describes Green and is.
+- **The three-buckets theme (decided 2026-09-18).** One picture — three containers
+  labeled by what the money does — plus the disqualifier that makes someone who's
+  sure they already have the middle realize they don't. Justin's pushback that
+  set it: people think "my advisor did that" or "I'm 60/40, my bonds are the
+  cushion," so the picture alone produces false positives. A mix is not a plan.
+  Every paid piece expresses this. Sloan building the kit: core piece, mailed
+  card, spring mailer, FB ad, video outline. The five bridge-message drafts in
+  `drafts/bridge-message-v1.md` were the step before this and are superseded —
+  Justin's read: generic, and nobody asked for Facebook.
+- **Paid spend, sequenced. Target: 3–4 clients per $6–7k.**
+  - *$7k this year — the fall test.* Three-buckets card to a few thousand pieces,
+    a smaller list than the usual ten, destination a call not a class. Proves or
+    disproves the theme on the channel that already works.
+  - *Spring $10k* — the annual mailer, same theme, tuned by the fall result.
+  - *Remaining ~$12k next year* — whatever spring proves: FB once verification
+    clears, video, a second drop.
+- The mirror's five questions are the likely disqualifier mechanism and the
+  landing page behind any ad. It describes Green, so the print piece is OH/KY.
 - The correction-triggered email (standing play, fires on the trigger).
 - The referral ritual (Sloan drafts; it's the warm channel at scale).
 - The stay-warm cadence for the $7–10M class pipeline (Sloan drafts the copy).
@@ -95,7 +106,7 @@ and counted. Inputs equal outputs. Zero input weeks are the actual failure mode.
 | **Warm reach-outs** | Personal touches to clients, class attendees, the class pipeline, CPAs/attorneys. The correction email and the two stay-warm tracks are this at scale. | 25 (sized, see below) | Justin (Sloan drafts the cadence) | Existing relationships; TCPA consent status still gates texts |
 | **Content** | YouTube live-builds; clips and posts repurposed from them | 1 long-form / 2 weeks; 3 clips / week | Sloan → Ed | Every piece through Ed before publish |
 | **Cold at scale** | The spring mailer, the mirror card, venue/union/credit-union outreach for new class hosts | 3 venue contacts / week; mailers by season | Sloan (venue-partner-researcher) → Justin confirms before any real venue is touched | Confirm before touching a real external relationship |
-| **Paid** | The FB mirror test; later, whatever earns it | Spend and bookings logged weekly; no minute count | Justin runs the account; Sloan builds; Ed clears | Special Ad Category; OH/KY geofence; Calendly spec |
+| **Paid** | The three-buckets card (fall test), then the spring mailer, then whatever earns it | Spend and bookings logged weekly; no minute count | Justin runs the list and mail house; Sloan builds; Ed clears | Card describes Green → OH/KY; Meta parked; Calendly spec |
 
 **Warm input, sized (Justin's counts, 2026-09-16):** ~20 households in live
 conversation (closing, not in a cadence), ~30 who had the plan and went quiet
