@@ -39,11 +39,16 @@ Justin
   - **Trulip Investment Management, LLC** — where insurance/annuity commissions and
     AUM fees are paid, by Portfolio Medics or the insurance carriers.
   None of the three is an RIA, and none may ever be described as one.
-- **OPEN — blocks all disclosure copy and Meta verification:** which LLC holds the
-  "Trulip Retirement Planning" DBA, and which entity the client actually contracts
-  with for insurance/annuity business. Until Justin answers, no draft's disclosure
-  block is correct and nothing publishes. Do not infer either answer from an
-  existing document — that inference is what produced the error.
+- **Resolved 2026-09-18 by Justin:** Trulip Planning, LLC holds the "Trulip
+  Retirement Planning" trade name. Trulip Investment Management, LLC is the
+  producer of record on annuity paperwork.
+- **Consequence every agent must hold onto: the brand and the contracting entity
+  are different companies.** The name on the marketing (Trulip Retirement Planning
+  → Trulip Planning, LLC) is not the entity the client does business with (Trulip
+  Investment Management, LLC). So "products offered through Trulip Retirement
+  Planning" is a misstatement, not shorthand. Any disclosure that names an
+  "offered through" entity for insurance or annuities names Trulip Investment
+  Management, LLC. The DBA is a brand name; it is not an "offered through."
 - Portfolio Medics' own disclosure names the insurance side as "Trulip Investment
   Management, LLC/Trulip Planning, LLC" (both, slash-separated) and states the
   Trulip entities and Portfolio Medics "are not affiliated in any way." If that
