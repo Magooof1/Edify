@@ -25,6 +25,11 @@ that input is saturating. Between classes the input is zero.
 **Plays:**
 - The spring mailer + class (keep; one per year, funded first).
 - The mirror: FB test first, then mailed card if the mechanism shows up.
+  **Repositioned 2026-09-18 (Taleb):** the mirror is the landing page, not the
+  cold ad. A separate cold piece — the "bridge message," Red-fear to
+  Blue-category — sits in front of it. Sloan drafting. Because Blue is advisory,
+  a bridge built on Blue alone isn't fenced to OH/KY; the mirror behind it
+  describes Green and is.
 - The correction-triggered email (standing play, fires on the trigger).
 - The referral ritual (Sloan drafts; it's the warm channel at scale).
 - The stay-warm cadence for the $7–10M class pipeline (Sloan drafts the copy).
@@ -100,6 +105,11 @@ touches a year ≈ 8/week). Steady state ≈ 15 templated touches a week plus li
 follow-ups on the 20. **The 25/week target holds** — it's about two-thirds
 system, one-third Justin closing. The ⚙ comes off this one.
 
+**Never-met track paused (Justin, 2026-09-18):** "They are too cold at this
+point." The 100 come out of the count until he says otherwise. Warm input is the
+20 live plus the 30 in the quiet track. The nurture that matters next is for
+people who come in through the bridge message — built once that channel exists.
+
 Why no minutes-per-day column: Justin's time is the Stage B constraint. Counting
 his minutes on marketing now would optimize the wrong thing. Count outputs.
 
@@ -139,23 +149,32 @@ Three items at a time, never more. Isla owns the list; Justin owns the doing. Th
 Friday routine reads this section and asks about anything still open. Done items
 move to the log below with the date.
 
-**Open (week of 2026-09-14):**
-1. **Meta verification.** In Meta Business Suite: Business settings → Security
-   Center → Verification (business), and Ads Manager → the Edify ad account →
-   Advertiser verification. Prior ads don't guarantee this; the financial-services
-   category verification was expanded in 2025. If both show verified, done. If
-   not, start it today — it's the long pole.
-2. **Portfolio Medics, one email:** "What disclosure wording do you require when
-   Portfolio Medics is named on my Trulip/Edify marketing?" Paste the reply to Isla.
-3. **Calendly:** paid tier on; required question "What state do you live in?";
+**Open (updated 2026-09-18):**
+1. **Hand `drafts/disclosure-blocks-v1.md` to your compliance side.** One page,
+   five variants, open questions already sorted by owner. In the same Portfolio
+   Medics email, two extra lines: does a funnel whose conversion mechanism is Blue
+   — their active management — count as advisory marketing they want to see; and
+   do the AUM fees they pay Trulip Investment Management need solicitor disclosure.
+2. **Calendly:** paid tier on; required question "What state do you live in?";
    event description per the spec in `drafts/mirror-landing-page-v2.md` Section 4;
    confirmations plain; two links (FB, card).
+3. **Pick a bridge message.** When Sloan's versions land, read them and choose the
+   one that goes to Ed. That's the cold ad; the rest of the funnel waits on it.
 
-**Next up (not yet assigned):** Squarespace page build with popup off; yes/no on
-Sloan's three life-stage ad clauses; the "no pitch" note in Trulip's compliance
-file.
+**Next up (not yet assigned):** Meta verification — parked by Justin 2026-09-18.
+When he picks it up: business verification under Trulip Planning, LLC (holds the
+brand, has documents); the portfolio is named "Edify Retirement Education" and
+will need a rename or DBA field to reconcile. Also: Squarespace build; the Stage A
+geofence re-check (each play read for Green-vs-Blue content when next touched);
+the "no pitch" note in Trulip's compliance file.
 
 **Done log:**
+- 2026-09-18 — Entity structure corrected: Trulip Retirement Planning is a DBA of
+  Trulip Planning, LLC; Trulip Investment Management, LLC is producer of record.
+  Disclosure language rebuilt as one canonical file and applied to five drafts,
+  pending compliance review. Blue/Green mapping corrected — Blue is advisory.
+  Insurance footprint recorded as elastic, not fixed. Taleb's targeting analysis
+  in `drafts/taleb-blue-targeting.md`. Never-met track paused.
 - 2026-09-16 — Referral ritual: decided (option B, runs without the forwardable
   line; counsel question queued). Ritual is live from the next plan-delivery meeting.
 
@@ -186,6 +205,13 @@ Counts ⚙ are targets from section 2.
   a yes/no, it doesn't belong on the list.
 - **The stage bands are guesses.** Justin should move them. What shouldn't move is
   the rule that the checklist, not the band, is the gate.
+- **The practice was local because the lead mechanism was a room.** Not because of
+  licensing, not because of the RIA. A class needs people to drive to it, so the
+  addressable market was whoever could. Push Blue delivery into something that
+  isn't a room and that bound goes away: Blue is advisory, national on day one;
+  Green licensing is reactive paperwork, not a wall. The "$83k against a
+  Cincinnati-sized list" arithmetic was the wrong frame — the list was only that
+  size because the room was. (2026-09-18)
 - **This file is the operating plan the whole team works inside.** Sloan's queue,
   Ed's log, Taleb's reviews, and Isla's reports all point back here. When Justin
   asks "what should we be doing," the answer is the current stage's plays and the
