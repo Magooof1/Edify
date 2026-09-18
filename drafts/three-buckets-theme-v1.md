@@ -38,6 +38,21 @@ reader self-selects and no population claim is made. (2) Section 6 attributed a
 "2am-thought" description to Justin that is not in the record; replaced with what he
 actually said.
 
+**Revision, same day — Panel 4 rewritten to drive to the class, not a phone call, per
+Justin's ruling: "The perk is fine as long as it drives to an event."** This resolves
+the perk-eligibility flag Section 3 raised in the first pass — Justin confirmed the
+flag was right and caught a real problem before print money moved. Panels 2 and 3 (the
+picture, the disqualifier) are untouched; Ed reviewed them and required no copy changes,
+and nothing here disturbs that. What changes: Panel 4 itself in Section 3, the framing
+around it, Section 5's argument for the action, and the parts of Section 6 that were
+specific to a call. **Flag for Ed, since he's the one who should catch anything I miss
+here: his preflight section at the bottom of this file is left untouched, as his own
+record, and it cleared a phone-call CTA — "twenty minutes," "bring your statements,"
+a number to dial. It has not reviewed a class-registration CTA. Different promise,
+possibly different exposure (the Rule 204-2 "no pitch" point, the registration
+mechanism itself, a QR code that wasn't there before). Panel 4 needs a fresh pass, not
+inherited clearance.**
+
 ---
 
 ## 1. The theme, stated
@@ -182,6 +197,13 @@ This is short enough to be a card as-is and complete enough that a bigger piece 
 gives each block more room, not new content. Everything in Sections 3 and 4 is this
 same sequence, resized.
 
+*[Note, added 2026-09-18: this generic "the action" block still ends in a call — it's
+the medium-agnostic default for pieces that don't carry the $7K perk's event-only
+constraint. Section 3's fall-test build now diverges from it on this one block: Panel
+4 there drives to the class instead, per Justin's ruling that perk-funded pieces must
+drive to an event (see Section 5 for the argument). Anything drawing on this core
+sequence without that constraint can still use the call version as written above.]*
+
 ---
 
 ## 3. The mailed card — the fall test
@@ -230,15 +252,33 @@ them.
 
 **Panel 4 — the action:**
 
-> Call [PHONE]. Twenty minutes, no obligation, no pitch. Bring your account statements
-> or just bring your best guess — either way, you'll know which of the three you
-> actually have by the time you hang up.
+> You just answered the question on paper. Find out whether it holds up.
+>
+> [CLASS NAME], [DATE], [TIME], [LOCATION]. Forty minutes, no obligation, no pitch.
+> Bring your account statements or just bring your best guess — either way, you'll
+> leave knowing which of the three you actually have.
+>
+> To reserve a seat: [PHONE] or [REGISTRATION LINK / QR CODE]
 >
 > — Justin McGuffey
 
-Phone number large, nothing else competing for attention on this panel. No QR code
-required for this piece specifically — see Section 5 for why a bare phone number is the
-right single ask here, versus the QR-to-calendar approach the mirror card uses.
+Note what this panel deliberately does *not* do: it doesn't repeat the 60/40 question
+or the "I have bonds, that isn't managing the risk" line. Panel 3 already produced the
+doubt; this panel's only job is telling the reader where to go to find out whether it's
+justified. Class name, date, time, and location lead in type as large as the
+disqualifier's own headline — a reader who's already doubting needs the logistics to be
+unmissable, not persuasive. Phone number and a registration link/QR code both appear,
+phone primary and larger, QR secondary — see Section 5 for why this piece now argues
+for both, not phone-only.
+
+*[Editorial note, not part of the printed copy: "Twenty minutes" was accurate for the
+phone-call version this replaces; it isn't accurate for the actual class, which runs
+forty minutes per `.claude/memory/growth-channels.md` ("the 40 minutes that installs
+the frame"). I've kept the shape of the promise — a specific, short, honest number,
+stated plainly — and corrected the number itself rather than carrying over a figure
+that would misstate how long the class actually runs. Flagging this explicitly in case
+the instinct to preserve "twenty minutes" verbatim was more literal than I'm reading it
+as.]*
 
 **Panel 5 — disclosures only**, Variant A from `drafts/disclosure-blocks-v1.md`, full
 length, nothing else sharing the panel — same rule Ed already set for the mirror card
@@ -253,31 +293,37 @@ picture on panel 2 — so the disqualifier arrives as a correction to something 
 did, not as an abstract argument. That sequencing (place your money, then get
 corrected) is the card-length version of what the class does in the room.
 
-**Flagging a scope question before this goes further, not a copy issue:**
-`.claude/memory/growth-channels.md` records the remaining $7,000 as a restricted-use
-perk — allowed uses are public workshops, networking events, and the mailer costs
-*within* those events, explicitly **not** general lead generation. This piece drives to
-a phone call, not a workshop or event. If this fall test is meant to run on that
-specific $7K pool, someone needs to confirm it actually qualifies under the perk's own
-rules before printing anything — a mailer that bypasses the class step reads, on the
-plain language already on file, like exactly the kind of spend the perk's restrictions
-exist to exclude. If this is instead coming out of the general marketing budget
-(10bps of AUM) rather than the perk, this flag doesn't apply. I don't know which pool
-Justin means and I'm not guessing — this is a Justin/Isla confirmation, not something
-Ed or I resolve by inference, per the standing rule already on record in
-compliance-precedents.md about not inferring facts that are Justin's to supply.
+**Resolved constraint, not an open question — restating for the record, since this is
+exactly why the panel below changed.** `.claude/memory/growth-channels.md` records the
+remaining $7,000 as a restricted-use perk — allowed uses are public workshops,
+networking events, and the mailer costs *within* those events, explicitly **not**
+general lead generation. The first pass of this card drove to a phone call, which
+didn't obviously clear that bar. Justin's ruling, 2026-09-18: **"The perk is fine as
+long as it drives to an event."** That's why Panel 4 now sends the reader to the
+existing class — date, place, registration — instead of a phone number. The piece
+clears the perk's own stated rule on the plain language now, where it didn't before.
+
+What's still open, and smaller than the original risk: **which pool actually funds
+this specific print run** — the $7K perk, or the general marketing budget (10bps of
+AUM) — still wants a confirmed answer from Isla/Justin before money moves, since that
+determines which set of restrictions (if any) even apply. That's a bookkeeping
+confirmation now, not a live compliance-shaped risk to whether the test can run at all.
 
 ---
 
 ## 4. Sketches — same theme, other media
 
 **Spring mailer (bigger piece, same picture).** Same six-panel logic, more room per
-panel, and one structural difference: this one can afford to drive to a class rather
-than a call, since it's Justin's standing spring baseline and the class is where his
-highest-converting environment already lives. The disqualifier becomes the reason to
-attend rather than the reason to call: *"Bring your own mix. We'll show you, in forty
-minutes, whether it's a plan."* Same three containers on the cover, same panel-3
-disqualifier, CTA swapped from a phone number to a class date/registration.
+panel. *[Note, updated 2026-09-18: this used to be the one piece in this file driving
+to a class rather than a call; now that the fall test's Panel 4 has moved to a class
+too (Section 3, per Justin's perk ruling), that's no longer a structural difference
+between the two — both drive to the same kind of destination now. What still
+distinguishes the spring mailer is budget and scale: it's Justin's standing,
+non-perk-constrained baseline spend, with more room per panel, not a different CTA
+type from the fall test.]* The disqualifier becomes the reason to attend, in the
+spring mailer's own words: *"Bring your own mix. We'll show you, in forty minutes,
+whether it's a plan."* Section 3's Panel 4 now draws on this same instinct for the fall
+test rather than only sketching it here.
 
 **Facebook ad (post-verification, parked per Taleb's memo — not spendable yet).**
 Headline compressed from the theme, not from the disqualifier — an ad has to filter on
@@ -304,29 +350,55 @@ confirms this is ready to move past the card.
 
 ## 5. The action
 
-**Book a call. Not a class, not a PDF, not a video.**
+**Drive to the class. Not a call — the perk's constraint decides this, not a stylistic
+preference, and my original case for a call doesn't survive the premise it was built
+on.**
 
-Why, specifically for this piece: mail and phone are the same generation of channel —
-someone who responds to a physical piece of paper in their mailbox is not the same
-person who wants a QR code and a five-question interactive quiz, and asking a mail
-responder to go online to book adds a translation step this format doesn't need. A
-phone call is also the lowest-friction way to hit this test's actual economic target
-(3-4 clients per $6-7K) inside a short fall window — a class requires waiting for the
-next scheduled date and traveling to a room; a PDF or video adds a whole education step
-this card already did on paper. The card's job is the disqualifier; the call's job is
-everything after it. Anything in between is a step this specific test doesn't need and
-can't afford to lose people on.
+The argument this section made in the first pass was sound reasoning from an
+unrestricted-spend premise: mail and phone are the same generation of channel, a call
+is the lowest-friction way to hit the test's economic target, a class adds a step this
+short fall window can't afford. All true, if the spend can drive to a call. It can't.
+Justin's ruling closes that off, so I'm not keeping the old argument on file dressed up
+as still current — it isn't.
 
-One addition worth arguing for, not a disagreement with "book a call": give the reader
-both a phone number and a small QR code on the action panel, phone number primary and
-larger, QR secondary. Not every reader who's convinced by panel 3 wants to make a
-live phone call to a number they don't recognize — some will want to book quietly,
-on their own time, the way the mirror card's audience does. A single QR line pointing
-to the same Calendly build already speced in compliance-precedents.md costs almost
-nothing to add and doesn't compete with the phone number as the primary ask. If Justin
-wants this test to be phone-only, deliberately, to keep the piece as simple as possible
-and match its "call" framing literally, that's a real and defensible call too — just
-flagging it as a choice rather than assuming the answer.
+**Which class, and why unchanged:** Isla's call is the existing class, as-is, not a
+shortened or reformatted version — and I think that's the right call, for the reason
+she gave. The class converts at roughly 90%; it isn't the broken part of this funnel.
+The mailer that fills it is. Testing a new message and a new room format at the same
+time would make the result unreadable — a flat response rate wouldn't tell you whether
+the mailer failed to persuade or the new format failed to convert once people showed
+up. One variable moves here: what the mailer says. If this test works, that's a clean
+answer about the mailer specifically, which is the thing actually in question.
+
+**What a class asks of a reader that a phone call didn't:** a date, a place, and a
+reason they can't get the answer without showing up. The card already supplies two of
+those three. Panel 3 *is* the reason — it's what produces the doubt in the first place.
+Panel 4's job was never to re-argue that; it's logistics, done cleanly: which class,
+when, where, how to reserve a seat, in language a reader half-listening on their third
+cup of coffee still gets on one read. The one instinct worth keeping from the call
+version, and from the Section 4 spring-mailer sketch's own version of this same
+move ("Bring your own mix. We'll show you, in forty minutes, whether it's a plan."):
+the card produces the question, the room answers it. Panel 4 should never sound like
+it's trying to close the argument itself.
+
+**QR code: not an optional add-on this time — argue for it harder than the original
+draft did.** The first pass treated a QR-to-calendar as a nice-to-have next to a phone
+number, because dialing a number is already about as low-friction as an ask gets — a
+QR barely adds anything when the primary ask is already that easy. A class registration
+is a heavier ask by construction: a specific date, a specific building, real travel,
+possibly a spouse's calendar to check before committing. Heavier asks are exactly where
+giving a reader two paths to yes starts to matter, not less. The reader who decides at
+9pm reading this card at the kitchen table doesn't want to wait for business hours to
+call and doesn't want to commit out loud to a stranger on the phone before they've even
+confirmed the date works — they want to register in ten seconds and be done, the same
+way the mirror card's audience already behaves. Phone number stays primary and larger,
+for the reader who has a logistics question first (is this the right class for my
+situation, is there another date). But I'd argue the QR is doing real registration
+volume here, not just covering an edge case — build it sized like a real second option
+on the panel, not a small line in the corner. If Justin wants this specific test
+phone-only, to keep the piece as simple as possible, that's still a defensible call —
+just not the one I'd make given how much heavier "show up to a class" is than "pick up
+the phone."
 
 ---
 
@@ -365,16 +437,32 @@ room to handle "but what about my bond ladder" or "my advisor actually does hedg
 of it" live, in real time, for the specific person in front of him. A card can't do
 that — it has to pick the two most common false positives and hope they cover most of
 the room, knowing they won't cover all of it. I think that ceiling is fine for what
-this piece is actually for (get someone suspicious enough of their own mix to pick up
-the phone), and wrong if anyone expects the card itself to fully dismantle the belief
-the way the room does. The card's job is to produce doubt, not certainty. The call is
-where certainty happens.
+this piece is actually for (get someone suspicious enough of their own mix to register
+for the class), and wrong if anyone expects the card itself to fully dismantle the
+belief the way the room does. The card's job is to produce doubt, not certainty. The
+class is where certainty happens.
 
-**The $7K/perk-eligibility question in Section 3 is a real risk to this specific test,
-not a hedge.** If this piece doesn't qualify under the perk's stated rules, that's not
-a copy problem Ed can catch in review — it's an administrative one that could sink the
-whole fall test regardless of how good the disqualifier is. Flagging it here again on
-purpose because it's the kind of thing that's easy to discover late.
+**The $7K/perk-eligibility question that lived here is resolved, not open — recording
+the resolution rather than deleting the entry.** Justin's ruling ("the perk is fine as
+long as it drives to an event") is the reason Panel 4 now sends the reader to the class
+instead of a phone number — see Section 3. What's left is smaller than the original
+risk: which pool actually funds this print run (the $7K perk vs. the general 10bps
+marketing budget) still wants a confirmed answer from Isla/Justin before money moves,
+but that's a bookkeeping confirmation now, not a live risk to whether the test can run
+at all.
+
+**This test is geographically local by construction now, and that's a deliberate scope
+limit, not a flaw.** A phone call doesn't care where the caller lives; a class does —
+the reader has to be able to get to the room. So this fall test only reaches people
+within driving range of wherever the existing class is held, and it doesn't exercise
+the national reach that Blue being advisory (not insurance) actually makes available to
+Justin — the card no longer bypasses the room the way the call version did. That's the
+right trade for what this test is actually measuring (does a different mailer message
+fill the existing local class better than the current one), and I'd rather name it
+plainly than let a good or bad result here get read as evidence about a channel with
+national reach, which it isn't testing. If this works, the next real question is a
+different piece: what a version of this that isn't tied to one physical room in one
+metro area looks like — explicitly out of scope here.
 
 **I only built two false positives because the brief asked for two, not because I think
 they're exhaustive.** "I have a pension" and "I have permanent life insurance" both get
@@ -406,6 +494,26 @@ and Ed's read on three stacked drawdown years — Justin's own specific flag), t
 two-hat disclosure requirement on any panel describing Green (per existing precedent,
 not new), and the mirror-card Q5 false-positive finding in Section 1, which is a fix
 for whoever touches that draft next, not resolved in this file.
+
+**New flag, this revision: Panel 4 itself needs a fresh look, not inherited
+clearance.** Ed's preflight below — left untouched, as his own record — reviewed a
+phone-call CTA on Panel 4: "twenty minutes," a number to dial, the Rule 204-2 "no
+pitch" analysis built around a call where statements get reviewed one-on-one. Panel 4
+now drives to a class registration instead — a date, a place, a forty-minute group
+session, a phone-or-QR reservation mechanism. Worth his eyes specifically on: whether
+the existing "no pitch" substantiation (required-item 4 in his list below) extends
+cleanly to a group class where the eval-form-to-follow-up-meeting pattern is the
+documented conversion mechanism (`.claude/memory/growth-channels.md`), whether a
+registration/QR mechanism raises anything the calendar-booking mechanism already
+cleared for the mirror card didn't, and whether any remaining logistics language on
+the new panel reads as a claim needing its own substantiation. **"Seats are limited"
+was drafted here and removed by Isla before this reached Ed** — not a close call to
+escalate: `compliance-precedents.md` 2026-09-12, hard wall 4, is "no 'would have
+protected you,' no urgency framing — ever." Scarcity on a registration line is
+urgency framing, and the rule is already decided; it doesn't get re-argued per piece.
+Replaced with a neutral "To reserve a seat."
+Different promise than the one he cleared; flagging so it isn't waved through on the
+strength of the old review.
 
 ---
 
