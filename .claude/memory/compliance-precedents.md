@@ -393,7 +393,8 @@ proposed life-stage clauses in the ad copy are draft only and re-open Ed's revie
 Sloan could not reach Meta's primary help pages from this environment; her rules
 summary is cross-corroborated secondary sourcing and says so.
 
-**2026-09-16 — Justin closed the open items from the entity correction.** The FMO's
+**2026-09-16 — Justin closed the open items from the entity correction. SUPERSEDED,
+see 2026-09-18 entry below — this resolution was wrong.** The FMO's
 name is "Trulip Planning"; it is marketed as "Trulip Retirement Planning." Printed
 disclosure line stays "Trulip Retirement Planning, LLC" to match his existing
 client-facing footer; d/b/a form is a one-line swap if Portfolio Medics or counsel
@@ -405,6 +406,12 @@ category). Booking tool is Calendly — paid tier, build spec written into the l
 page draft (export on, required state-of-residence question, pointer line,
 transactional-only confirmations, two source links). Still on Justin's list, not
 decided by this: whether Portfolio Medics must pre-approve the landing page copy.
+
+**Do not treat the entity-name line above as current.** "Trulip Retirement Planning,
+LLC" was resolved by copying a string off Justin's existing client documents, not by
+asking him what the entity actually was. It names a company that does not exist. See
+the 2026-09-18 entry below for the correction, what it invalidates, and the standing
+rule that comes out of it.
 
 **2026-09-16 — Portfolio Medics pre-approval: Justin's decision.** "I don't need
 approval from Portfolio Medics, I just need a disclosure. I'm advertising under
@@ -533,3 +540,77 @@ out in a drawdown quarter; (2) the off-ramp arithmetic — quiet track corrected
 "~12 months past Phase 1, ~15 from first touch"; never-met stays at six quarterly
 touches (~18 months). Justin's answer on registered-vs-attended is no longer needed:
 Ed rewrote Touch 1 to be true for the whole pool.
+
+---
+
+## 2026-09-18 — Entity correction #2: "Trulip Retirement Planning, LLC" does not exist
+
+Supersedes the 2026-09-16 entity resolution above.
+
+**What was wrong.** The 2026-09-16 entry (above, in the 2026-09-12 "entity
+correction" section) logged Justin's entity structure as RESOLVED: FMO legal name
+"Trulip Planning," marketed as "Trulip Retirement Planning," printed disclosure line
+to stay "Trulip Retirement Planning, LLC" matching his existing client-facing
+documents. That resolution was reached by copying a string off an existing document,
+not by asking Justin what the entity actually was. **"Trulip Retirement Planning,
+LLC" names a company that does not exist.** It is currently sitting in the disclosure
+block of every draft in `drafts/`: mirror card v1 and v2, correction email v1 and v2,
+landing page v1 and v2, both stay-warm cadences. All of those were being treated as
+"copy-clear and ready to test." **None of them are.** Every draft needs its
+disclosure block redone once the facts below are supplied — this is not a copy
+tweak, it's a re-open.
+
+**What Justin actually told us (his words, in substance, 2026-09-18):**
+- "Trulip Retirement Planning" is not an entity — it is just the DBA name in use.
+  It has no independent legal existence.
+- **Trulip Planning** is the FMO that receives overrides.
+- **Trulip Investment Management** is where insurance/annuity and AUM fees get paid,
+  by Portfolio Medics or by the insurance companies.
+
+**The disclosure block actually in current use (Justin's email footer, operative
+language, supplied 2026-09-18):** Justin McGuffey is an IAR of Portfolio Medics, LLC
+and offers advisory services through Portfolio Medics, LLC; Portfolio Medics, LLC is
+an SEC Registered Investment Adviser; "Nothing contained herein should be construed
+as a solicitation for Investment Advisor services"; he "also conducts Insurance
+business through Trulip Investment Management, LLC/Trulip Planning, LLC"; Portfolio
+Medics and the Trulip entities "are not affiliated in any way"; neither provides
+legal or tax advice; views expressed by the Trulip entities are theirs alone and not
+an endorsement by Portfolio Medics; Portfolio Medics uses active management to reduce
+risk and improve opportunity for returns; past performance is no guarantee of future
+results. **Not yet confirmed as the approved formulation for marketing/consumer
+pieces** — see open item 3 below.
+
+**Second occurrence of the same root cause.** This is the second entity error in
+this project. The first, logged 2026-09-12 above, described Trulip as the
+SEC-registered RIA. Both times, an agent supplied a plausible-sounding legal fact
+instead of flagging that it didn't have one — the 2026-09-12 error inferred a
+relationship from context, and the 2026-09-16 error inferred a legal name from a
+document string. Neither was a fact in hand from Justin at the time it was written
+down as resolved.
+
+**Still open — facts only Justin can supply. Recorded as unresolved, not inferred:**
+1. Which LLC holds the "Trulip Retirement Planning" DBA registration — Trulip
+   Planning, LLC or Trulip Investment Management, LLC.
+2. Which entity the client actually contracts with for insurance/annuity business
+   (the agency/producer of record on the paperwork). That is the entity a consumer
+   disclosure has to name.
+3. Whether Portfolio Medics' own "Trulip Investment Management, LLC/Trulip Planning,
+   LLC" formulation (from the email footer above) is the approved wording to mirror
+   in marketing generally, or whether it's specific to the email footer.
+4. For Meta business verification: which entity produces the documents. Edify
+   Retirement Education is a brand with no separate legal existence and no paperwork
+   of its own, which is why Meta's verification request had nothing to attach to.
+
+**Standing rule, binding on all future work:** no agent resolves an entity name,
+registration status, or any other legal fact by inference from an existing document,
+a prior draft, or a footer. If the fact isn't in hand from Justin directly, the
+correct output is "unresolved" — recorded as an open question — never a best guess
+that reads like a settled fact. This applies even when a plausible-looking string
+already exists somewhere in the file system (a client document, a footer, a prior
+draft); a string being on file is not the same as it being confirmed correct.
+
+**Status (as of 2026-09-18):** All drafts using "Trulip Retirement Planning, LLC" in
+a disclosure block are paused pending the four open items above. Nothing mailed,
+sent, or launched changes as a result (nothing was launched under the prior
+resolution). This entry is the current record on the entity question; the
+2026-09-16 resolution above is superseded and should not be relied on.
