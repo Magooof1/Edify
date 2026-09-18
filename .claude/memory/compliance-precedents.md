@@ -747,3 +747,45 @@ Green-not-Blue geofence rule, the resident/non-resident license facts, and the
 sequencing note; it also no longer lists the two entity questions Justin
 answered. The Portfolio-Medics-funnel question from correction #1 is still open
 and unresolved, for Justin.
+
+---
+
+## 2026-09-18 (later still) — Performance-data proximity: a disclosure block elsewhere on the piece doesn't cover a claim on another panel
+
+**Ruled by Ed**, on the fall three-buckets mailer (`drafts/three-buckets-theme-v1.md`),
+Panel 3 (the disqualifier panel), which displays two calendar-year returns for the
+Vanguard Balanced Index Fund (2008 −22.12%, 2022 −16.90%) in large type. The full
+past-performance disclosure lived only in the Panel 5 block. Ed's call: **not
+defensible as placed.** A reader Panel 3 persuades enough to act on Panel 4 may never
+reach Panel 5 — under the Marketing Rule's fair-and-balanced standard, a disclosure
+that never reaches the reader it's meant to inform isn't doing its job, regardless of
+wording. **Standing rule:** a performance claim needs its own adjacent line at the
+point of the claim; a full disclosure block elsewhere on the piece supplements, it
+never substitutes.
+
+**Approved adjacent line, verbatim** (small type, directly beneath the figures):
+> *Fund performance, not Justin's or Portfolio Medics'. Past performance doesn't
+> guarantee future results.*
+
+Worded to name the figures as third-party index-fund returns, not the performance of
+any account Justin or Portfolio Medics manages — that distinction at the point of the
+claim also heads off any visual implication that Blue would have avoided those
+drawdowns (a risk Ed flagged separately for whoever builds the final art). The full
+Panel 5 block stays and still carries what the adjacent line shouldn't.
+
+**Print vs. recordkeeping split.** Naming the fund in body copy is sufficient for
+print. Share class, exact source, and pull date don't go on the piece but must exist
+in the substantiation file behind it before it mails — Rule 204-2, separate from what's
+printed.
+
+**Downstream:** `drafts/youtube-live-build-01.md` cites the same two figures and is
+awaiting Ed's review — this ruling applies there too (the on-screen equivalent of an
+adjacent disclaimer, not just an end-card).
+
+**Self-correction folded in — Green/Blue panel mapping, not a new principle, an
+application of the one already on record above.** Ed had written that "Panel 3 and
+Panel 5 both describe Green"; wrong — Panel 3 is Blue/advisory only. The OH/KY
+geography requirement on this piece is triggered by Green appearing on **Panel 2's**
+picture (the "CAN'T LOSE VALUE" container), not by Panel 3. Outcome (piece stays
+OH/KY-fenced) unchanged; reasoning corrected per the standing Green-not-Blue rule
+above.
