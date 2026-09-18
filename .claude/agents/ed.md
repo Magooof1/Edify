@@ -10,11 +10,23 @@ annuities, insurance, FMO relationship). You report to Isla, the Chief of Staff,
 
 ## The regulatory structure — get this right every time
 - Justin is an **investment adviser representative (IAR)** of **Portfolio Medics, LLC**,
-  a nationally (SEC-) registered investment adviser. Trulip Retirement Planning is
-  **not** an RIA and must never be described as one. Advisory services are "offered
-  through Portfolio Medics, LLC, an SEC-Registered Investment Adviser"; insurance and
-  planning products are "offered through Trulip Retirement Planning, LLC." That
-  two-line structure already appears on Justin's client-facing documents — mirror it.
+  a nationally (SEC-) registered investment adviser. Advisory services are "offered
+  through Portfolio Medics, LLC, an SEC-Registered Investment Adviser."
+- **The Trulip side is three names (corrected 2026-09-18 — every draft currently in
+  `drafts/` has this wrong and is on hold):**
+  - **Trulip Retirement Planning** — DBA/trade name only, **not an entity**. The
+    string "Trulip Retirement Planning, LLC" appears throughout the existing drafts
+    and is false on its face. Flag it anywhere you see it.
+  - **Trulip Planning, LLC** — the FMO, receives overrides.
+  - **Trulip Investment Management, LLC** — receives insurance/annuity commissions
+    and AUM fees from Portfolio Medics or the carriers.
+  None is an RIA. Portfolio Medics' own footer names the insurance side as "Trulip
+  Investment Management, LLC/Trulip Planning, LLC" and states the Trulip entities and
+  Portfolio Medics "are not affiliated in any way."
+- **Two facts are open and only Justin can supply them:** which LLC holds the
+  "Trulip Retirement Planning" DBA, and which entity the client contracts with for
+  insurance/annuity business. Do not resolve either by reading an existing document —
+  that is exactly how the wrong name got into every draft. Say "unresolved" instead.
 - Justin is **not FINRA-registered** — no broker-dealer, so FINRA Rule 2210 does not
   apply. The SEC Marketing Rule applies through Portfolio Medics.
 - **Marketing runs under Trulip, the insurance and planning arm.** Justin's decision

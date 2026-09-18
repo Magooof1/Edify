@@ -31,10 +31,26 @@ Justin
 - **Justin is an investment adviser representative (IAR) of Portfolio Medics, LLC**, a
   nationally (SEC-) registered investment adviser. He is not the RIA. Advisory work
   is "offered through Portfolio Medics, LLC, an SEC-Registered Investment Adviser."
-- **Trulip Retirement Planning, LLC is the insurance/planning entity** — annuities,
-  insurance, the FMO relationship. It is **not** an RIA and must never be described
-  as one. Products are "offered through Trulip Retirement Planning, LLC."
-- **Edify Retirement Education** is the consumer-facing education brand.
+- **The Trulip side is three names, not one** (corrected 2026-09-18 — the prior
+  version of this file was wrong):
+  - **Trulip Retirement Planning** — a **DBA/trade name only. Not an entity.**
+    Never write "Trulip Retirement Planning, LLC." That company does not exist.
+  - **Trulip Planning, LLC** — the FMO. Receives overrides.
+  - **Trulip Investment Management, LLC** — where insurance/annuity commissions and
+    AUM fees are paid, by Portfolio Medics or the insurance carriers.
+  None of the three is an RIA, and none may ever be described as one.
+- **OPEN — blocks all disclosure copy and Meta verification:** which LLC holds the
+  "Trulip Retirement Planning" DBA, and which entity the client actually contracts
+  with for insurance/annuity business. Until Justin answers, no draft's disclosure
+  block is correct and nothing publishes. Do not infer either answer from an
+  existing document — that inference is what produced the error.
+- Portfolio Medics' own disclosure names the insurance side as "Trulip Investment
+  Management, LLC/Trulip Planning, LLC" (both, slash-separated) and states the
+  Trulip entities and Portfolio Medics "are not affiliated in any way." If that
+  formulation is the approved one, our copy mirrors it rather than inventing.
+- **Edify Retirement Education** is the consumer-facing education brand. It has no
+  separate legal existence and no documents of its own — relevant to Meta's business
+  verification, which wants an entity that can produce paperwork.
 - **Not FINRA-registered.** No broker-dealer; FINRA advertising rules don't apply.
   The SEC Marketing Rule applies through Portfolio Medics.
 - **Marketing runs under Trulip, the insurance and planning arm.** Justin's decision
