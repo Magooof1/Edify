@@ -34,11 +34,20 @@ that input is saturating. Between classes the input is zero.
   Justin's read: generic, and nobody asked for Facebook.
 - **Paid spend, sequenced. Target: 3–4 clients per $6–7k.**
   - *$7k this year — the fall test.* Three-buckets card to a few thousand pieces,
-    a smaller list than the usual ten, destination a call not a class. Proves or
-    disproves the theme on the channel that already works.
+    a smaller list than the usual ten. **Destination is the class, not a call**
+    (Justin, 2026-09-18: the perk "is fine as long as it drives to an event").
+    The class format doesn't change — only the mailer's message does, so the
+    result is readable. The card carries the disqualifier, so attendees arrive
+    already doubting their middle bucket instead of discovering it at minute
+    forty. **New dependency: this needs a class date and venue booked.**
+    Scope limit, on purpose: driving to a room keeps this test local, so it
+    doesn't test the national reach that Blue-being-advisory opens up.
   - *Spring $10k* — the annual mailer, same theme, tuned by the fall result.
   - *Remaining ~$12k next year* — whatever spring proves: FB once verification
-    clears, video, a second drop.
+    clears, video, a second drop. **This is also where the call-driving version
+    of the card runs.** The general budget (10bps of AUM) carries no event
+    restriction, so the same card can point at a booked call instead of a room —
+    which is what actually tests whether Blue can be pushed above the class.
 - The mirror's five questions are the likely disqualifier mechanism and the
   landing page behind any ad. It describes Green, so the print piece is OH/KY.
 - The correction-triggered email (standing play, fires on the trigger).
@@ -169,13 +178,14 @@ move to the log below with the date.
 2. **Calendly:** paid tier on; required question "What state do you live in?";
    event description per the spec in `drafts/mirror-landing-page-v2.md` Section 4;
    confirmations plain; two links (FB, card).
-3. **Clear Ed's five on the three-buckets card** (`drafts/three-buckets-theme-v1.md`,
-   his section at the bottom). None are copy changes: (a) the sourced 2008 60/40
-   figure and index — you show the chart in class; (b) confirm the mailing list is
-   OH/KY; (c) confirm the "no pitch" policy note exists in Trulip's file and covers
-   "bring your statements"; (d) the perk yes/no — does the $7k fund a card-to-call,
-   or does the card drive to a short session; (e) past-performance line — Isla
-   added it to the canonical file 2026-09-18, pending your compliance side.
+3. **Clear Ed's remaining items on the three-buckets card**
+   (`drafts/three-buckets-theme-v1.md`, his section at the bottom). None are copy
+   changes: (a) the sourced 2008 60/40 figure and index — you show the chart in
+   class; (b) confirm the mailing list is OH/KY; (c) confirm the "no pitch" policy
+   note exists in Trulip's file and covers "bring your statements"; (d) book the
+   class date and venue the card points at. The perk question is answered
+   (2026-09-18, drives to an event) and the past-performance line is added to the
+   canonical disclosure file, pending your compliance side.
 
 **Next up (not yet assigned):** Meta verification — parked by Justin 2026-09-18.
 When he picks it up: business verification under Trulip Planning, LLC (holds the
