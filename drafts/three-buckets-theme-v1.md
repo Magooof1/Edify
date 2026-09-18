@@ -96,6 +96,9 @@ print, as close to his structure as a static page allows.
 > In 2008, the Vanguard Balanced Index Fund — a straightforward 60/40 — fell 22.1%.
 > In 2022 it fell 16.9%, the year bonds fell alongside stocks.
 >
+> *Fund performance, not Justin's or Portfolio Medics'. Past performance doesn't
+> guarantee future results.*
+>
 > So: is that money being managed? Or is it riding the markets?
 >
 > That's the sentence underneath a 60/40 answer, once you ask it plainly: **"I have
@@ -195,6 +198,9 @@ visual — green outline/fill, blue outline/fill, a warm red/orange outline for 
 > the Vanguard Balanced Index Fund — a straightforward 60/40 — fell 22.1%. In 2022
 > it fell 16.9%, the year bonds fell alongside stocks.
 >
+> *Fund performance, not Justin's or Portfolio Medics'. Past performance doesn't
+> guarantee future results.*
+>
 > So: is that being managed, or is it riding the markets?
 >
 > If your answer is "my advisor handles it" — same question. Someone else picking the
@@ -268,6 +274,21 @@ it gets the most visual quiet, no competing graphics, no CTA sharing the space, 
 the two years should each sit on their own line so the reader registers them
 separately before the question underneath. The fund name and the
 past-performance line sit on this panel, near the figures, not only on Panel 5.
+
+**Ed's ruling, 2026-09-18 — the exact line and where it goes.** Panel-5-only placement
+is not defensible: a reader moved enough by Panel 3 to register may never unfold to
+Panel 5, and a disclosure that never reaches the eye it's meant to inform isn't doing
+its job under the fair-and-balanced standard. Panel 5's full block stays — it covers
+ground Panel 3 shouldn't carry — but it doesn't substitute. Set this in small type
+directly beneath the two figures, above the "So: is that money being managed?" line
+(the fund name is already in the body copy just above and doesn't need repeating):
+
+> *Fund performance, not Justin's or Portfolio Medics'. Past performance doesn't
+> guarantee future results.*
+
+Naming the fund in body copy is sufficient for print. Share class, exact source, and
+pull date don't go on the card but must be in the substantiation file behind the piece
+before it mails (Rule 204-2 recordkeeping, separate from what's printed).
 
 **Panel 4 — the action:**
 

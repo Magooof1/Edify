@@ -150,12 +150,16 @@ true or not — no partial credit. If the constraint has visibly moved (Justin's
 calendar is full and the funnel isn't the problem), say so even if the AUM band
 hasn't been reached. The checklist outranks the band.
 
-**Who runs the clock:** two scheduled Routines on Justin's claude.ai account fire
-fresh Isla sessions against this branch — the weekly scoreboard every Friday at
-3pm Eastern (7pm UTC; shifts an hour when clocks change) and the monthly report
-plus quarterly graduation check on the 1st of each month at 9am Eastern. Each one
-pushes to the branch and messages Justin. Justin doesn't have to remember; he has
-to answer the Friday message with his four counts, or the row says "not reported."
+**Who runs the clock:** the weekly scoreboard Routine is live as of 2026-09-18 —
+it fires a fresh Isla session every Friday at 3pm Eastern (7pm UTC; shifts an hour
+when clocks change), asks Justin for his four counts, and flags any input at zero.
+First fire: 2026-09-25. It reports; it does not push to the branch on its own.
+Justin doesn't have to remember; he has to answer the Friday message with his four
+counts, or the row says "not reported."
+
+The monthly report and quarterly graduation check are **not yet scheduled** — that
+Routine still needs to be created (1st of each month, 9am Eastern). Recorded here
+as outstanding rather than described as if it exists.
 
 **Standing triggers, outside the cadence:** market correction (S&P 500 closes 15%
 off its trailing 52-week high) fires the correction email play, once per episode.
@@ -178,14 +182,21 @@ move to the log below with the date.
 2. **Calendly:** paid tier on; required question "What state do you live in?";
    event description per the spec in `drafts/mirror-landing-page-v2.md` Section 4;
    confirmations plain; two links (FB, card).
-3. **Clear Ed's remaining items on the three-buckets card**
-   (`drafts/three-buckets-theme-v1.md`, his section at the bottom). None are copy
-   changes: (a) the sourced 2008 60/40 figure and index — you show the chart in
-   class; (b) confirm the mailing list is OH/KY; (c) confirm the "no pitch" policy
-   note exists in Trulip's file and covers "bring your statements"; (d) book the
-   class date and venue the card points at. The perk question is answered
-   (2026-09-18, drives to an event) and the past-performance line is added to the
-   canonical disclosure file, pending your compliance side.
+3. **Two print blockers left on the three-buckets card**
+   (`drafts/three-buckets-theme-v1.md`). Closed 2026-09-18: sourced figures
+   (Vanguard Balanced Index Fund, 2008 −22.12% / 2022 −16.90%); the OH/KY mailing
+   list, confirmed by Justin; and the past-performance disclaimer, which Ed ruled
+   has to sit adjacent to the figures on Panel 3, not only in the Panel 5 block —
+   his exact line is now in the draft. Still blocking print:
+   - **(a) The "no pitch" policy note.** A dated internal policy plus an
+     operational first-meeting script, in Trulip's file, covering the card's
+     "bring your statements" invitation. Standing requirement since the mirror
+     card; still not confirmed to exist. This is the quiet one — it has been on
+     this list twice and blocks print on its own.
+   - **(b) Class date and venue.** The date and address print on Panel 4, so
+     nothing downstream finalizes without them. **Deadline: booked by 2026-09-25.**
+     Sloan and Isla independently back-solved the same week from print and mail
+     lead times. Slip it and the fall test becomes a January test.
 
 **Next up (not yet assigned):** Meta verification — parked by Justin 2026-09-18.
 When he picks it up: business verification under Trulip Planning, LLC (holds the
