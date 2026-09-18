@@ -360,6 +360,16 @@ those as the same question is a gray area for counsel, not Ed. A future purely
 advisory piece with zero insurance-descriptive language could widen the geofence, but
 only once Portfolio Medics' state footprint is confirmed by Portfolio Medics.
 
+**PARTIALLY SUPERSEDED 2026-09-18 — see the 2026-09-18 "bucket-to-hat mapping"
+entry near the end of this file.** The conclusion above (OH/KY for the mirror) still
+stands, because the mirror describes Green (principal protection) alongside Blue. But
+the general principle this paragraph states — "downside-managed features" trigger the
+insurance geofence — is wrong and should not be applied to future pieces. Downside-
+managed is Blue, and Blue is advisory (Portfolio Medics' active management), not
+insurance. The fence follows Green, not Blue. Do not read "describes downside
+management" as an insurance trigger going forward; see the later entry for the
+corrected mapping and what it changes.
+
 **Ad-unit entity name — decided.** Ads keep "Edify Retirement Education / Trulip
 Retirement Planning," not Portfolio Medics: naming the RIA in a 30-word ad pulls in
 disclosure machinery the unit can't carry; the registration disclosure lives on the
@@ -614,3 +624,76 @@ a disclosure block are paused pending the four open items above. Nothing mailed,
 sent, or launched changes as a result (nothing was launched under the prior
 resolution). This entry is the current record on the entity question; the
 2026-09-16 resolution above is superseded and should not be relied on.
+
+---
+
+## 2026-09-18 (later) — Bucket-to-hat mapping correction, plus a second correction minutes later: OH/KY is not a wall
+
+**What was wrong.** Isla stated "Blue is an insurance mechanism." Justin corrected
+her directly: that's Green. This is not a wording nitpick — it inverts which bucket
+carries the OH/KY geofence.
+
+**The correct mapping, as Justin stated it — record as fact, do not re-derive:**
+- **Green** — principal-protected, can't lose value. The **insurance/annuity**
+  bucket. Trulip Investment Management, LLC is the producer of record. Producer
+  licenses are OH/KY only — describing Green geofences a piece to OH/KY.
+- **Blue** — managed, with a plan for the downside. **Advisory** — Portfolio
+  Medics' active management. Portfolio Medics' own disclosure: "Active Management
+  as an Investment strategy to reduce the risk of investing in the stock market and
+  improve the opportunity for investment returns." Advisory work as an IAR of an
+  SEC-registered adviser is generally not OH/KY-bound.
+- **Red** — unmanaged, fully at risk. What the prospect already has.
+
+**Why this outranks a definitional fix.** Blue is the practice's conversion
+mechanism — the moment a prospect sees they have no Blue is what turns them into a
+client. Blue being advisory, not insurance, means the piece of the story that
+actually converts people is not geographically limited the way Green is. A cold
+piece built on Blue alone, staying off Green, is not an OH/KY piece.
+
+**The error already sitting in this file, which is the actual point of this
+entry.** The 2026-09-12 "entity correction" section correctly ties the insurance
+trigger to Green ("the insurance hat controls... the moment the Green bucket is
+*described*"). But Ed's geofence ruling later in that same section conflates Blue
+into the same trigger: "the piece describes principal-protected/**downside-managed**
+features, and producer licenses are OH/KY only." Downside-managed is Blue. That
+clause folded advisory into the insurance geofence, and every Stage A play — mirror
+card, correction email, landing page, FB test, class venue strategy — inherited an
+OH/KY fence that only Green actually requires. **Marked superseded in place** at
+that paragraph, pointing here; not deleted, not rewritten.
+
+**What's still right vs. what's wrong, precisely.** The mirror's own OH/KY
+conclusion stands — it describes Green (principal protection) alongside Blue, so it
+is correctly fenced. What's wrong is the *general principle* as written — "describing
+downside management triggers the insurance hat." It doesn't. **The fence follows
+Green, not Blue.** A piece describing Blue alone is not geofenced by the insurance
+license. A piece describing Green, or Green and Blue together, is.
+
+**Open question for Justin — recorded, not resolved here, not a blocker.** If Blue
+is the advisory service, a marketing funnel whose conversion mechanism is Blue is
+arguably advisory marketing, not insurance marketing. CLAUDE.md records Justin's
+2026-09-16 decision that marketing runs under Trulip with no Portfolio Medics
+pre-approval, with his own caveat to re-ask "if a piece ever offers advisory
+services directly rather than education." Teaching a category of money is still
+education — but a funnel built end-to-end to produce advisory clients is a fair
+question. Put this to Portfolio Medics alongside the disclosure-wording email
+already planned (see the exact-wording question open elsewhere in this file). Not a
+finding, not a blocker — Justin's question to ask, on his own timeline.
+
+**Third occurrence of the same root cause — extends the standing rule.** This is
+the third time an agent stated something as fact that was wrong: the RIA misnaming
+(2026-09-12), the nonexistent "Trulip Retirement Planning, LLC" (2026-09-16,
+corrected 2026-09-18), and now this. It differs from the first two in kind: those
+were inference from an existing document (a relationship assumed, a string copied
+off a footer). This one wasn't inference from anything written down — it was Isla
+assuming a product mapping nobody had ever recorded. Extension of the standing
+rule (2026-09-18, entity correction #2, above): the mapping between the three
+buckets and the two hats is a fact about Justin's business, not something derivable
+from what a bucket does or sounds like it should do. It is now recorded here.
+Nobody re-derives it; nobody assumes it from the name of a color.
+
+**Status (as of 2026-09-18):** Mapping corrected and recorded. The Stage A OH/KY
+geofence assumption inherited from the superseded general principle should be
+re-checked play by play against Green-vs-Blue content, not assumed correct because
+it was previously written down — that re-check is Isla's/Ed's to do when each play
+is next touched, not retroactively rewritten here. The Portfolio-Medics-funnel
+question above is open and unresolved, for Justin.

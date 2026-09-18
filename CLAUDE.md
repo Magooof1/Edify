@@ -62,9 +62,25 @@ Justin
   (2026-09-16): Portfolio Medics does not pre-approve his marketing; it requires a
   correct disclosure wherever its name appears. Ed's review works on that basis. If
   a piece ever offers advisory services directly rather than education, re-ask.
-- **Footprints differ by hat.** Insurance producer licenses: Ohio and Kentucky only.
-  Advisory: as an IAR of an SEC-registered adviser he can generally serve clients in
-  states where he has no place of business without extra state registration.
+- **Footprints differ by hat, and neither is the wall the team treated it as**
+  (corrected by Justin 2026-09-18):
+  - **Advisory (Blue) is national.** As an IAR of an SEC-registered adviser he can
+    generally serve clients in states where he has no place of business.
+  - **Insurance (Green) is currently Kentucky (resident license) and Ohio
+    (non-resident).** Justin can add non-resident licenses and carrier appointments
+    in other states on demand — his words: "not really a big deal." Treat the
+    footprint as **elastic and reactive**: license into a state when a lead there
+    justifies it, not speculatively, and never assume OH/KY is a fixed boundary
+    when planning a channel.
+  - The practical sequencing point: advertising a Green feature into a state
+    before holding the license there is a different question from getting licensed
+    after a lead arrives. Plan campaigns on Blue, which needs no such step.
+- **The buckets map to the hats; do not re-derive this.** Green (principal-protected)
+  is insurance. **Blue (managed with a plan for the downside) is advisory** —
+  Portfolio Medics' active management, not an insurance product. Red is what the
+  prospect already holds. Isla asserted the opposite on 2026-09-18 and was wrong;
+  Ed's 2026-09-12 geofence ruling made the same conflation. The insurance geofence
+  follows **Green**, never Blue.
 - Corrected 2026-09-12 after Isla drafted three disclosure blocks calling Trulip the
   RIA. Don't repeat it.
 
