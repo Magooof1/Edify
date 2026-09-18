@@ -93,8 +93,8 @@ print, as close to his structure as a static page allows.
 > A 60/40 mix — 60% stocks, 40% bonds. If that's what "managed" means to you, here's
 > the question.
 >
-> In 2008, a 60/40 mix fell by roughly [SOURCED FIGURE NEEDED — see flag below]. It
-> fell again in 2000. It fell again in 2020.
+> In 2008, the Vanguard Balanced Index Fund — a straightforward 60/40 — fell 22.1%.
+> In 2022 it fell 16.9%, the year bonds fell alongside stocks.
 >
 > So: is that money being managed? Or is it riding the markets?
 >
@@ -107,18 +107,35 @@ people assume a 60/40 split already is. The disqualifier's whole job is showing 
 mix rides, it doesn't manage — using Justin's own words for both halves of that
 comparison rather than substitute language.
 
-*[Market-fact flag for Ed — read this one closely, per Justin's own caution: this is a
-historical, backward-looking claim about a public benchmark's behavior in three
-specific calendar years, not a claim about any account Justin manages and not a
-forward-looking claim. Two things before it can print: (1) it needs an actual sourced
-number, not "roughly 20%" — confirm a specific 60/40 blended-benchmark calendar-year
-return or drawdown for 2008 (Justin's classroom figure), and separately for 2000 and
-2020, against a citable public index (e.g., a standard 60/40 S&P 500 / Bloomberg US
-Aggregate blend or comparable), with the source named; (2) your read on whether stacking
-three drawdown years back-to-back edges toward implying a pattern that will repeat —
-Justin's actual point is narrower than that ("this number shows a 60/40 mix doesn't
-behave the way 'managed' is assumed to behave," not "expect this again"), but the
-accumulation of three years in a row is worth your eyes specifically, not just mine.]*
+**Figures sourced and corrected, Isla 2026-09-18.** Justin named the Vanguard Balanced
+Index Fund as the 60/40 proxy — a real fund with public, citable calendar-year returns,
+which is cleaner than a constructed blend. Verified returns for Admiral shares (VBIAX):
+
+| Year | Return | Use |
+|---|---|---|
+| 2008 | **−22.12%** | Yes. Matches Justin's classroom "call it 20%." |
+| 2022 | **−16.90%** | Yes. The year bonds fell alongside stocks. |
+| 2020 | **+16.40%** | **No — cut.** See below. |
+
+**2020 was removed and it needed to be.** The earlier draft said "it fell again in
+2020." The fund's 2020 *calendar year* was strongly positive; the fall was intra-year,
+February–March, and fully recovered by December. Printed as a calendar-year claim
+that's an untrue statement of material fact under Rule 206(4)-1, and a trivially
+checkable one. If Justin's classroom version cites 2020 he's describing the March
+drawdown, which is true but needs to be said as a drawdown, not a year. Simpler to use
+2022 instead — it's calendar-year negative, verified, and it makes the argument
+*better*, since the whole point is that bonds didn't cushion the fall, and 2022 is the
+year that's plainly true.
+
+**2000 was also dropped**, for a different reason: unverified here, and dropping it
+answers Ed's concern about three stacked drawdown years implying a repeating pattern.
+Two verified years carry the argument.
+
+*[Remaining for Ed: source attribution wording on the card — the fund is named, so
+confirm whether the card must also name the share class and cite Vanguard/Morningstar
+in print, or whether naming the fund and the years suffices. The past-performance
+language added to Variant A of `disclosure-blocks-v1.md` on 2026-09-18 covers the
+disclaimer itself; your item 2 asked for it near the claim, which Panel 3 now does.]*
 
 **Second false positive — "my advisor handles that."** Justin's tested argument covers
 the 60/40 case; it doesn't extend to this one, so what follows is my own construction,
@@ -175,7 +192,8 @@ visual — green outline/fill, blue outline/fill, a warm red/orange outline for 
 **The disqualifier** (compressed version of Section 1, card-length):
 
 > A 60/40 mix — 60% stocks, 40% bonds. If that's what "managed" means to you: in 2008
-> it fell by roughly [SOURCED FIGURE NEEDED]. It fell again in 2000 and 2020.
+> the Vanguard Balanced Index Fund — a straightforward 60/40 — fell 22.1%. In 2022
+> it fell 16.9%, the year bonds fell alongside stocks.
 >
 > So: is that being managed, or is it riding the markets?
 >
@@ -242,13 +260,14 @@ reader should be able to place their own accounts against it before reading a wo
 the disqualifier.
 
 **Panel 3 — the disqualifier**, headed plainly: **"Managed, or Riding the Markets?"**
-Full card version from Section 1 — the 60/40 question, the sourced drawdown figures
-for 2008/2000/2020, the "I have bonds, that isn't managing the risk" line, and the
-advisor extension — given full room, not compressed further than Section 1's version.
-This is the panel doing the actual work of the whole piece; it gets the most visual
-quiet, no competing graphics, no CTA sharing the space, and the three years should sit
-on their own line so the reader can register each one before the question underneath
-them.
+Full card version from Section 1 — the 60/40 question, the two verified Vanguard
+Balanced Index Fund figures (2008 and 2022), the "I have bonds, that isn't managing
+the risk" line, and the advisor extension — given full room, not compressed further
+than Section 1's version. This is the panel doing the actual work of the whole piece;
+it gets the most visual quiet, no competing graphics, no CTA sharing the space, and
+the two years should each sit on their own line so the reader registers them
+separately before the question underneath. The fund name and the
+past-performance line sit on this panel, near the figures, not only on Panel 5.
 
 **Panel 4 — the action:**
 
