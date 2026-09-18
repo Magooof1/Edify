@@ -679,21 +679,71 @@ question. Put this to Portfolio Medics alongside the disclosure-wording email
 already planned (see the exact-wording question open elsewhere in this file). Not a
 finding, not a blocker — Justin's question to ask, on his own timeline.
 
-**Third occurrence of the same root cause — extends the standing rule.** This is
-the third time an agent stated something as fact that was wrong: the RIA misnaming
-(2026-09-12), the nonexistent "Trulip Retirement Planning, LLC" (2026-09-16,
-corrected 2026-09-18), and now this. It differs from the first two in kind: those
-were inference from an existing document (a relationship assumed, a string copied
-off a footer). This one wasn't inference from anything written down — it was Isla
-assuming a product mapping nobody had ever recorded. Extension of the standing
-rule (2026-09-18, entity correction #2, above): the mapping between the three
-buckets and the two hats is a fact about Justin's business, not something derivable
-from what a bucket does or sounds like it should do. It is now recorded here.
-Nobody re-derives it; nobody assumes it from the name of a color.
+---
 
-**Status (as of 2026-09-18):** Mapping corrected and recorded. The Stage A OH/KY
-geofence assumption inherited from the superseded general principle should be
-re-checked play by play against Green-vs-Blue content, not assumed correct because
-it was previously written down — that re-check is Isla's/Ed's to do when each play
-is next touched, not retroactively rewritten here. The Portfolio-Medics-funnel
-question above is open and unresolved, for Justin.
+**Second correction, from Justin directly, minutes later — compounds with the
+above.** Justin's words: "I can sell in other states. I have a license in the
+state of Kentucky and a non-residence license in Ohio, but I can always just get
+appointed in another state. It's not really a big deal. But that would only be for
+green, which blue is not insurance related."
+
+**License facts, now confirmed — record as fact, do not re-derive:**
+- **Kentucky is Justin's resident producer license. Ohio is a non-resident
+  producer license.** Prior records in this file and elsewhere say "OH/KY" or
+  "Ohio and Kentucky" without this distinction. `.claude/agents/ed.md` (not this
+  team's file to edit, but worth flagging to Isla/Justin for correction) currently
+  reads "Justin has a place of business in Ohio (and possibly Kentucky —
+  confirm)" — residence and place of business may be reversed there, and place of
+  business is the NSMIA-relevant fact for the *advisory* footprint, not the
+  insurance one. **Leave place of business itself unresolved** — Justin stated
+  residence/license status, not place of business, and NSMIA turns on the latter.
+  Don't infer one from the other.
+
+**The bigger correction: OH/KY has been treated as a fixed wall; it's actually a
+current state that moves on demand.** Every piece of this file's geofencing
+guidance to date — Ed's ruling, the mirror's targeting, the FB plan, Isla's
+funnel arithmetic — designed around Ohio/Kentucky as a permanent limit. Justin
+says adding a non-resident license and carrier appointment in another state,
+when a lead justifies it, is routine — not a structural constraint to design
+future channels around. **The insurance footprint is elastic and reactive: he
+licenses into a state after a lead arrives from there, not in advance of one.**
+
+**Combined effect of the two corrections in this entry.** Blue (advisory,
+correction #1 above) is national with no extra step at all. Green (insurance,
+this correction) is expandable on demand rather than fixed. The geographic
+constraint the team has spent the past week designing Stage A around is largely
+not real.
+
+**One practical distinction that survives — a sequencing note, not a wall, and
+not a finding.** Advertising a Green feature into a state before Justin holds a
+license there is a different question from getting licensed after a lead arrives
+from there. Campaigns built on Blue alone don't raise this at all. Anyone who
+wants to advertise Green outside the current OH/KY footprint should confirm the
+sequence with Justin first — don't treat "he can get licensed anywhere" as
+license to advertise Green nationally today.
+
+**Third and fourth occurrence of the same root cause — extends the standing
+rule.** This entry now records two separate instances of the same failure mode
+on the same day, both about Justin's own licensing and business structure rather
+than something derivable from general principle: an agent assumed a bucket-to-
+hat product mapping nobody had recorded (correction #1), and the team as a whole
+had been treating a licensing footprint as a fixed boundary nobody had confirmed
+was fixed (correction #2). Both compound the standing rule already extended
+2026-09-18 (entity correction #2, above): facts about Justin's own business —
+entity names, product mappings, and now licensing footprint — are facts to be
+supplied by Justin and recorded, never inferred, assumed, or treated as a stable
+default because no one has said otherwise. Both facts are now recorded here;
+neither gets re-derived.
+
+**Status (as of 2026-09-18):** Both corrections recorded. The Stage A OH/KY
+geofence assumption — inherited both from the superseded "downside-managed"
+principle and from treating OH/KY as fixed — should be re-checked play by play
+(Green-vs-Blue content, and whether any play actually needs the geofence at all),
+not assumed correct because it was previously written down. That re-check is
+Isla's/Ed's to do when each play is next touched, not retroactively rewritten
+here. `.claude/agents/ed.md` was flagged here for the same correction and **Isla
+applied it 2026-09-18** — Ed's file now carries the bucket-to-hat mapping, the
+Green-not-Blue geofence rule, the resident/non-resident license facts, and the
+sequencing note; it also no longer lists the two entity questions Justin
+answered. The Portfolio-Medics-funnel question from correction #1 is still open
+and unresolved, for Justin.
