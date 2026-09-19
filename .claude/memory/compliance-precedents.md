@@ -808,3 +808,61 @@ say. Portfolio Medics' view is needed before building a channel around this.
 **Status:** added to Justin's existing compliance-email queue item (same queue as
 the exact-disclosure-wording question logged in the 2026-09-18 entity-correction
 entries above). Not answered as of this logging.
+
+---
+
+## 2026-09-19 — Two rulings on the mirror instrument (Ed)
+
+### Scoring key: "Yes on Q3 **and** Q4," not "or"
+
+**Ruled and applied.** The bucket being scored is **Red — fully exposed**; the
+card's own box text says "Money from an old job, *moving on its own*." Q3
+establishes only that an old account **exists**. Q4 — now anchored to "that old
+account" per v2.4 — is the only question testing whether it's actually moving on
+its own. Under an OR, a yes on Q3 alone checked the box, **crediting existence as
+if it were exposure.** A factual mislabel sitting in the scoring key.
+
+**How it got there, worth keeping because the pattern will recur.** The OR was
+correct when Q4 tested general market exposure across *any* account, giving it an
+independent second path into Red. Anchoring Q4 to Q3 at v2.4 quietly broke that
+rationale, and **nobody re-examined the scoring key after changing the question it
+scored.** Fixing a question without re-reading what depends on it is the failure
+mode; the v2.4 anchor fix passed review precisely because the reviewer was looking
+at wording, not at the key.
+
+**The tradeoff, accepted by Sloan, Isla and Ed alike:** AND excludes a reader with
+a genuinely unmanaged old account who can't recall whether it dropped — they end
+up with no box checked rather than a wrong one. **At this volume, with nobody in
+the room to correct a mislabel, silence is the acceptable failure and false
+crediting is not.** Same logic as the v2.3 Q5 and v2.4 Q4 fixes.
+
+### "In my experience" is NOT a general cure for a population claim
+
+**This corrects an assumption Isla was operating on and had started to spread.**
+After the phrase fixed Justin's signed close, she proposed writing it into the
+standing rules as the sanctioned substitution. Ed's ruling: no.
+
+It worked on the close only because **two conditions held together** — it was a
+genuine first-person reflection attributable to Justin, and it sat in a signed,
+personal register adjacent to his name that reads as opinion rather than data.
+Neither condition is about the words. In Ed's phrasing, bolting "in my experience"
+onto a population claim **"doesn't change its shape — it just adds four words of
+camouflage."**
+
+**The rule that replaces it:** a first-person hedge cures a population claim *only*
+in genuinely reflective, signed, personal-voice copy. **Anywhere the copy is
+functional or instructional, drop the population framing entirely and describe the
+mechanism instead.** The test is the claim's grammatical shape, not the presence of
+a hedging phrase — the same test applied earlier to "Most Retirement Plans Are
+Missing One Piece."
+
+**Applied:** the scoring-key heading "Here's What People Usually Find" — the fifth
+instance of this construction Ed has cut — became **"See Where You Land,"** which
+makes no claim about people at all. ("Check Your Boxes" was his other acceptable
+option.)
+
+**Standing need this leaves unmet, stated so nobody keeps rediscovering it:** this
+brand repeatedly wants to tell a reader their situation is common and has no
+substantiated figure to do it with. There is no approved way to say that. Copy that
+needs it must either earn it with a signed personal observation or describe the
+mechanism and say nothing about people.

@@ -312,12 +312,12 @@ Answer yes or no.
 
 ## BACK
 
-**Here's What People Usually Find**
+**See Where You Land**
 
 For each question you answered "yes," check the matching box below.
 
 - Yes on Q1 or Q2 → ☐ **Money that can't lose value**
-- Yes on Q3 or Q4 → ☐ **Money from an old job, moving on its own**
+- Yes on Q3 and Q4 → ☐ **Money from an old job, moving on its own**
 - Yes on Q5      → ☐ **Money that's managed with a plan for the downside**
 
 There's no wrong picture here — just yours.
