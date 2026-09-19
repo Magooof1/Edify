@@ -8,7 +8,91 @@ destination (undefined, own clearance), and Portfolio Medics' pre-approval proce
 (see Ed's report to Isla/Justin, 2026-09-12). All six original placeholder facts are
 resolved as of 2026-09-16 (see v2.1 note). **Disclosure block updated again
 2026-09-18 — see v2.2 note below. Language pending Justin's compliance sign-off;
-canonical source is `drafts/disclosure-blocks-v1.md`.**
+canonical source is `drafts/disclosure-blocks-v1.md`.** **Q5 rewritten 2026-09-18/19
+— see v2.3 note below. This is now the blocking fix on this draft; the mirror runs
+the mail-test funnel (see `drafts/mirror-mail-test-plan.md`) and can't move to Ed
+until this is settled.**
+
+## v2.3 — Q5 false-positive fix, 2026-09-18/19
+
+**The defect.** Flagged by Sloan in `drafts/three-buckets-theme-v1.md` Section 1 and
+independently confirmed as real (not cosmetic) by Ed's preflight at the bottom of
+that same file: Q5 as drafted ("...has a specific plan in place designed to limit
+how much it could lose in a bad year?") lets a reader who's 60/40 — on their own or
+through an advisor's allocation — answer **yes**, thinking of their bonds or their
+advisor, and the scoring key checks them straight into "money that's managed with a
+plan for the downside." The exact false positive this whole theme exists to correct
+happens inside the instrument built to catch it.
+
+**Two shapes were on the table; chosen: fix Q5 itself, not the scoring key.**
+A follow-up clause on Q5 does the disqualifying work at the point where the
+misunderstanding actually happens — the reader's own judgment call about whether
+their money qualifies. The scoring-key alternative (route a 60/40-only answer to a
+fourth outcome) doesn't actually work as stated: the scoring key only has a Yes/No
+to route from, and Yes/No alone can't tell a genuine downside-plan from a bond
+allocation someone's mistaking for one. Making that fork real would require either
+rewording Q5 into two sub-questions or adding a Q6 to capture the distinguishing
+information — which is a second question added, not a scoring change, and the one
+thing Isla's brief specifically asked me to watch for (every question added is a
+point where someone quits at Stage 5, "mirror completed"). A fourth outcome also
+breaks the three-bucket frame the whole brand runs on (Green/Blue/Red, mirrored as
+can't-lose-value / old-job-moving-on-its-own / managed-with-a-plan) — introducing a
+fourth box on a two-minute card means explaining a new category to a reader who's
+supposed to be done in two minutes, which is exactly the argument-carrying weight
+`three-buckets-theme-v1.md` Section 6 says card-length diagnosis doesn't have room
+for. Fixing Q5 keeps the question count at five, keeps the three-bucket frame
+intact, and needs no change to the scoring key at all.
+
+**The fix — one added sentence, both false positives covered.** "A mix of stocks
+and bonds isn't that by itself" answers the self-directed 60/40 case; "even if
+someone else picked the mix" answers the advisor-managed case, using Justin's own
+"a mix is not a plan" framing already on record rather than inventing new language.
+It doesn't import the mailer's Socratic 2008/2022 argument (that belongs to the
+disqualifier piece, not this instrument) — just states the definitional fact plainly
+enough that a reader thinking "well, I have bonds" or "my advisor handles it"
+self-corrects before checking the box.
+
+**Length, stated plainly.** Q5 grows from one sentence (34 words) to two sentences
+(49 words total) — a 44% increase, and Q5 was already the densest question on the
+card. What it buys: it's the only line standing between this instrument and mailing
+a self-check that hands out false reassurance about downside protection to a 60/40
+household, which is the exact failure this test exists to prevent. No question was
+added; four other questions are unchanged.
+
+**Audit of Q1–Q4 against the same test — "can a reader not actually in that bucket
+answer in a way that gets credited with it?"**
+
+- **Q1 (Green, can't-lose-value): clean.** Named account types (savings, CD, an
+  annuity where the original amount can't go down) — the qualifying feature is in
+  the question itself, not left to the reader's judgment the way Q5's original
+  wording was. Low interpretive burden, low false-positive risk.
+- **Q2: FIXED by Isla, 2026-09-19 — "that money" is now "that same money."**
+  Sloan's own proposed wording, applied rather than deferred: a one-word change
+  with no downside is not worth carrying as an open flag on a piece about to
+  print, and "later" on a live job is how defects ship. Her finding, kept for the
+  record: "Could you get to **some of that money**..."
+  reads as continuing Q1's money, but on a two-minute skim a reader could take
+  "that money" as any liquid money — a taxable brokerage account, vested employer
+  stock — none of which is principal-protected. If their quick-access money is
+  already a savings/CD/annuity, this doesn't create a new false positive (Q1
+  already caught it correctly); the risk is specifically liquid, no-penalty money
+  that isn't principal-protected. Quick fix if Justin/Ed want it: anchor the
+  referent explicitly ("that same money" or "the money from Question 1").
+- **Q3 (old-job accounts): clean.** Concrete factual recall (do you have an old
+  401(k)/403(b)/IRA) — not a self-assessed quality, low risk.
+- **Q4: a labeling mismatch, flagged, lower stakes than Q5's, not fixed here.**
+  Q4's actual text ("did any of your account balances drop... with nothing in place
+  to limit how far they fell?") tests market exposure generally — it isn't
+  diagnostic of "old job" status at all, despite being OR'd with Q3 into "money
+  from an old job, moving on its own." Someone with a fully exposed *current*
+  employer 401(k) can trigger this box with no old-job account in the picture.
+  Structurally the same disease as Q5's — a yes not actually earned by the bucket's
+  definition — but the direction of the error matters: bucket 2 doesn't claim
+  protection the way Blue does, so over-crediting into it tells someone "you might
+  have exposed money worth a second look," which is a soft, inclusive nudge toward
+  the CTA rather than false comfort that could talk someone out of getting help.
+  Worth Justin's and Ed's eyes before print, but I wouldn't hold the mail test on it
+  the way Q5's disease had to be held.
 
 ## v2.2 — Trulip three-entity correction, 2026-09-18
 The v2.1 correction below (2026-09-12) fixed the RIA error but still called the
@@ -116,8 +200,8 @@ Answer yes or no.
    original amount you put in can't go down?
    ☐ Yes ☐ No
 
-2. Could you get to some of that money within a few days if you needed it — without
-   a penalty, and without asking anyone's permission?
+2. Could you get to some of that same money within a few days if you needed it —
+   without a penalty, and without asking anyone's permission?
    ☐ Yes ☐ No
 
 3. Do you have a 401(k), 403(b), or an IRA left over from a job you don't work at
@@ -131,7 +215,8 @@ Answer yes or no.
 
 5. Right now, could you name one part of your retirement savings that's invested
    for growth but has a specific plan in place designed to limit how much it could
-   lose in a bad year?
+   lose in a bad year? A mix of stocks and bonds isn't that by itself — even if
+   someone else picked the mix.
    ☐ Yes ☐ No
 
 *Turn over to see what your answers show you.*
@@ -326,3 +411,12 @@ directive.)
    for whoever's in the room, not just a promise on paper. When the card is finalized
    and logged (marketing-recordkeeping-logger), that log entry should reference
    where this internal policy note lives, so the substantiation trail is complete.
+8. **Q5 fix (v2.3, 2026-09-18/19):** full reasoning and the Q1–Q4 audit live in the
+   v2.3 note near the top of this file. Summary for the record: Q5 gained one
+   disqualifying sentence rather than the scoring key gaining a fourth outcome, to
+   avoid adding a question (Stage 5, "mirror completed," is a measured drop-off
+   point per `drafts/mirror-mail-test-plan.md`) and to avoid breaking the
+   three-bucket frame. Q2 (anaphora ambiguity) and Q4 (bucket-label mismatch with
+   Q3) were checked against the same test and flagged but not fixed here — both
+   noted as pre-print items for Justin/Ed, neither blocking the mail test the way
+   Q5's defect did.
