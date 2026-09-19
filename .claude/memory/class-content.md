@@ -2,9 +2,10 @@
 
 Canonical record of the content of Justin's retirement class itself — the words, the
 structure, the sequence — not Isla's summaries of it. This class is the proven asset the
-practice is built on (~$22M in AUM over five years; roughly 90% of attendees who take the
-next step become clients), and until 2026-09-18 nothing in this repo held any of its
-actual content. Justin has offered "as much of the class as you want," and this file is
+practice is built on (~$22M in AUM over five years; roughly 90% of attendees **book a
+follow-up meeting** — a booking rate, not a close rate; corrected 2026-09-19, see
+growth-channels.md same date for the terminology slip this fixes), and until 2026-09-18
+nothing in this repo held any of its actual content. Justin has offered "as much of the class as you want," and this file is
 where it accumulates as he gives it. Bucket definitions and the bucket-to-hat mapping are
 fact, corrected 2026-09-18 — see CLAUDE.md, don't restate here. "Blue Bucket" naming
 conventions (warm vs. cold audiences) live in brand-voice.md — reference, don't restate.
