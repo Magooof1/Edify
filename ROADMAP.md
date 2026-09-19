@@ -19,8 +19,13 @@ checklist is the gate. Each graduation unlocks the next director from CLAUDE.md'
 
 ### Stage A — Advertise ⚙ $20M to $35M AUM ← **we are here (~$22M)**
 
-**Constraint:** top of funnel. One lead input (mailer → class), twice a year, and
-that input is saturating. Between classes the input is zero.
+**Constraint:** top of funnel. One lead input (mailer → class), twice a year.
+**Updated 2026-09-19: that input is not saturating, it has been competed away.**
+Two drops at roughly $10k returned 3 buying units and 4 attendees, the second on
+a fresh list in a different market — so this is category crowding, not a tired
+list. Between classes the input is zero. Conversion is not the problem and never
+was: ~90% of attendees book a follow-up, and $7-10M sits in class-sourced
+pipeline against a $22M book.
 
 **Plays:**
 - **The three-buckets theme (decided 2026-09-18).** One picture — three containers
@@ -37,32 +42,51 @@ that input is saturating. Between classes the input is zero.
   outline — content for people who already chose to listen. The five
   bridge-message drafts in `drafts/bridge-message-v1.md` were the step before
   this and are superseded — Justin's read: generic, and nobody asked for Facebook.
-- **Paid spend, sequenced. Target: 3–4 clients per $6–7k.**
-  - *$7k — moved to a January mailer (Justin, 2026-09-19).* Was the fall test.
-    His plan: book the spend against this year's budget, land the piece in
-    January. **Destination is a class, not a call** (2026-09-18: the perk "is
-    fine as long as it drives to an event").
-
-    **The move fixes a conflict rather than just deferring one.** A fall test
-    needed a venue booked by 2026-09-25, while the venue research says the
-    employer route is a next-year channel and credit unions need weeks to a
-    couple of months. Those were irreconcilable. A January drop isn't: art
-    finals mid-December, mail drops early January, class lands late January or
-    February. That gives Jayme time to rebuild the piece against the control
-    and gives a host venue time to say yes.
-
-    **Two things this now depends on.** First, a venue answer by roughly early
-    December — the date and address print on the piece, and mailing the same
-    worn NKU-area list with a better card is the one option the mechanism
-    analysis says won't work. Second, confirmation that the perk tolerates a
-    2026 booking against a 2027 event; use-it-or-lose-it funds often don't, and
-    that's a question for whoever administers the pool, not for us.
-  - *Spring $10k* — the annual mailer, same theme, tuned by the fall result.
-  - *Remaining ~$12k next year* — whatever spring proves: FB once verification
-    clears, video, a second drop. **This is also where the call-driving version
-    of the card runs.** The general budget (10bps of AUM) carries no event
-    restriction, so the same card can point at a booked call instead of a room —
-    which is what actually tests whether Blue can be pushed above the class.
+- **~~Paid mail into a class.~~ RETIRED 2026-09-19, agreed by Justin.** This was
+  the spine of Stage A and it is no longer a play. What retired it:
+  - Two drops of roughly $10k each produced 3 buying units and 4 attendees. The
+    second used a *fresh* Ohio list and a different venue (IWU West Chester), so
+    it was not a saturation result — removing saturation entirely made it worse.
+  - Justin's own conclusion after years in it, which his record already carried
+    from 2026-08-25 and which two other advisors independently corroborate:
+    **other advisors are crowding the space.** More of them adopted the same
+    free-retirement-class format and split the same households. West Chester is
+    fresh to Justin but harder-worked by the category than NKY is.
+  - The consequence, and it's the whole reason this retires rather than gets
+    rebuilt: **you cannot win a crowded category by doing the same thing
+    better.** A sharper piece is a better version of what people have learned to
+    ignore. The rebuild was the wrong project.
+  - **The trap, stated once so nobody re-derives it:** Justin is *differentiated
+    on the inside and commoditized on the outside.* The three-buckets frame is
+    genuinely unlike what competitors teach — a client sat through four other
+    seminars and never heard of Blue. But none of that is visible at a mailbox.
+    A stranger sees "free retirement class," which is what the other eleven
+    pieces say. He was paying to compete on the one dimension where he looks
+    identical to everyone else.
+- **Replacing it: three doors to Blue that don't require buying mailbox
+  attention.** All three were already in this plan; they are now the plan.
+  - **Invited** — a host institution's name on the invitation. Credit unions
+    first (cold-approachable, no client favors, weeks not quarters, and a member
+    seminar plausibly qualifies under the perk where a private company class
+    does not), employers and 401(k) sponsors behind them. This is the 2021
+    mechanism — borrowed institutional credibility — carried into a room the
+    crowd isn't standing in.
+  - **Found** — YouTube and the mirror. No per-piece cost, no mailbox to share,
+    and it delivers Blue without a room at all. Blocked on plumbing that has sat
+    in the queue for weeks, not on strategy: Calendly and Meta verification.
+  - **Told** — the referral ritual. A few a quarter convert today, at smaller
+    client sizes than the classes; Justin's own read is that it's
+    under-developed rather than maxed.
+- **The $7k.** Not another mailer of this shape. The candidate use worth pricing:
+  fund a credit-union-hosted workshop *including its invitation mail*, which the
+  perk's own rules appear to allow as mailer costs within a qualifying public
+  workshop. That keeps the money working, behind a door that isn't crowded, on a
+  piece that carries a host's name rather than competing as one more advisor.
+  Needs confirmation from whoever administers the pool before anything commits.
+- **The spring $10k is now in question too**, by exactly the same logic —
+  flagged, not decided, and Justin's call. It has been the standing annual
+  baseline; the case for it rests on whether a mailer carrying a host
+  institution's name is a different animal from the one that just failed twice.
 - The mirror's five questions are the likely disqualifier mechanism and the
   landing page behind any ad. It describes Green, so the print piece is OH/KY.
 - The correction-triggered email (standing play, fires on the trigger).
