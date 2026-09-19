@@ -3,13 +3,59 @@ Draft v2 — Sloan (Content & Education Lead)
 Status: DRAFT ONLY. Not reviewed by Ed against this v2 specifically. Not approved to
 send, text, or queue in any system. Same independent-review status as v1 — this is its
 own document lineage per the 2026-09-12 precedent, and this v2 still needs to clear Ed
-before it goes anywhere near Justin for sign-off.
+before it goes anywhere near Justin for sign-off. **Five questions synced to card v2.4
+and landing page v2.3 (Q2, Q4, Q5 fixes) 2026-09-19 — see v2.3 note below. Ready for
+Ed's review; not for Justin, not for print/send.**
 
 v1 is kept at `mirror-card-correction-v1.md` for the record — don't delete it, and don't
 merge these two files. This is a copy-only pass against Ed's four fixes; nothing about
 the concept, channel, CTA structure, trigger rule, or segmentation changed.
 
 ---
+
+## v2.3 — synced to card v2.4 / landing page v2.3 (Q2, Q4, Q5), 2026-09-19
+
+Isla flagged this file as still running the pre-fix instrument after the landing
+page was synced to card v2.4 on 2026-09-19 — this piece was the one still drifting.
+Section EMAIL below is now word-for-word identical, on the five questions only, to
+`mirror-card-v2.md`'s current FRONT panel and `mirror-landing-page-v2.md`'s current
+Section 2:
+
+- **Q2:** "some of that money" → "some of that same money" (Sloan's anaphora fix).
+- **Q4:** reworded to anchor on "that old account" instead of "any of your account
+  balances" — the fix Ed required before the card could mail (card v2.4).
+- **Q5:** gains the disqualifying second sentence ("A mix of stocks and bonds isn't
+  that by itself — even if someone else picked the mix.") — the card's v2.3 fix for
+  the false-positive that lets a 60/40 household check yes.
+
+**Scope note, stated explicitly so it isn't "fixed" again by accident:** only the
+five questions are being made identical across the card, the landing page, and this
+email. Everything else in this piece — the open/bridge/close copy, the segment-
+conditional bridge line, the disclaimer placed near the open, the CTA mechanics —
+is deliberately different because this goes to a warm audience (people who already
+know Justin) via a channel (email, correction-triggered) neither of the other two
+pieces uses. Where the surrounding copy names Blue by description rather than by
+name, that stays as-is; the cold-gets-description/warm-gets-the-name distinction
+runs the other way for a warm list, and flattening it to match the cold pieces
+would be the wrong fix, not a neutral one.
+
+**Q4's named-years flag still stands, separately from the mislabeling fix above.**
+The v2.2 open item below (2022/2020/2008 sitting next to a live drawdown) is about
+the years, not the pronoun — anchoring "that old account" doesn't touch it. Still
+Justin/Ed's call, not resolved by this sync; see the updated alternate phrasing in
+that section.
+
+**Tone re-check against Ed's 2026-09-12 hard wall (no "would have protected you,"
+no urgency framing), read fresh because this is the one piece that fires during an
+actual correction:** nothing new found. The open ("you're not the only one... I'm
+not writing to tell you what this week means for the markets"), the disqualifier
+tied to Q5, and the close all still avoid naming the drop's size or direction, and
+nothing reads as a protection claim or a ticking-clock device. One line worth
+naming rather than silently passing: the close's "most people don't get shown a
+clear picture of their own retirement money until they're already sitting across
+the table from an advisor" is the same line Ed is already deciding on for the card
+and landing page (Justin's own voiced opinion in a signed close vs. a population
+claim) — present here too, unchanged, not a new instance, not fixed in this pass.
 
 ## v2.2 — Trulip three-entity correction, 2026-09-18
 The v2.1 fix below (2026-09-12) corrected the RIA error but still named the
@@ -67,25 +113,28 @@ copy, trigger rule, CTA mechanics) changed. See Ed's report to Isla/Justin
 **Not changed, flagged for Justin (not copy fixes — Ed's calls to make with you, not
 mine to resolve by editing):**
 
-- **Q4's reference years (2022, 2020, 2008).** Ed's read: naming those years sits closer
+- **Q4's reference years (2022, 2020, 2008) — still open after the v2.3 sync.** The
+  sync above fixed Q4's mislabeling defect (anchoring to "that old account"); it did
+  not touch this separate question. Ed's read stands: naming those years sits closer
   to inviting a "this is just like [year]" comparison specifically *because* this email
   only goes out while a real drawdown is live — that's a different risk profile than the
   same years sitting in an evergreen mailed card nobody's reading mid-crash. He doesn't
-  think it crosses the line, but wants your eyes on it before it ships. I've drafted an
-  alternate phrasing below as an option, not a replacement — your call which one goes to
-  Ed for the actual sign-off.
+  think it crosses the line, but wants your eyes on it before it ships. Alternate
+  phrasing below, updated to the now-anchored Q4 structure, as an option — not a
+  replacement — your call which one goes to Ed for the actual sign-off.
 
-  *Alternate Q4, no named years:* "Think back to the last time the market dropped
-  sharply and stayed down for a while — did any of your account balances drop right
-  along with it, with nothing in place to limit how far they fell?" ☐ Yes ☐ No
+  *Alternate Q4, anchored, no named years:* "Thinking about that old account — the
+  last time the market dropped sharply and stayed down for a while, did it drop right
+  along with it, with nothing in place to limit how far it fell?" ☐ Yes ☐ No
 
   Same diagnostic function, same yes/no shape, no specific year sitting next to a live
   drawdown. I'd lean toward the alternate for this variant specifically — the whole
   reason this piece exists is that it fires during a drawdown, so anything that lets a
   reader mentally slot "this week" next to "2008" feels like exactly the kind of loose
-  association Ed's raising. But that's a leaning, not a fix I made unilaterally — I left
-  the original Q1-Q5 block untouched below and put this here as the alternate for you
-  and Ed to choose between.
+  association Ed's raising. But that's a leaning, not a fix I made unilaterally — the
+  main EMAIL block below carries the same years-included wording as the card and
+  landing page, per the sync, and this alternate sits here as the option for you and
+  Ed to choose between.
 
 - **Disclaimer placement near the open.** Ed wanted a short market-performance
   disclaimer visible near the opening, not only in the footer. I placed one — see the
@@ -104,14 +153,15 @@ different CTAs, and Ed needs to clear each on its own terms.
 
 ## 0. Design decisions up front (so Ed and Justin aren't guessing at my reasoning)
 
-**Same five questions, reused verbatim from v2, not rewritten.** Two reasons. First,
-honest one: the questions don't need to change. A drawdown doesn't change what's in
-someone's accounts — it changes how much they want to look. Second, practical one:
-reusing Ed's already-reviewed Q1-Q5 language (including the "designed to limit" fix)
-keeps this review a diff against known-good copy instead of a fresh read of a whole new
-diagnostic. The only genuinely new copy is the framing around the questions — the open,
-the bridge line for repeat contacts, the CTA block, and the close. That's deliberately
-the smallest new surface I could build this on.
+**Same five questions as the card and landing page, kept in sync rather than
+independently rewritten.** Two reasons. First, honest one: the questions don't need
+to change. A drawdown doesn't change what's in someone's accounts — it changes how
+much they want to look. Second, practical one: reusing the card's already-reviewed
+Q1-Q5 language (now including the Q2, Q4, and Q5 fixes synced 2026-09-19 — see v2.3
+above) keeps this review a diff against known-good copy instead of a fresh read of a
+whole new diagnostic. The only genuinely new copy is the framing around the
+questions — the open, the bridge line for repeat contacts, the CTA block, and the
+close. That's deliberately the smallest new surface I could build this on.
 
 **Channel: email as the primary vehicle. No mail. A narrow, judgment-gated SMS
 heads-up, not a blast.**
@@ -186,25 +236,28 @@ Answer yes or no.
    original amount you put in can't go down?
    ☐ Yes ☐ No
 
-2. Could you get to some of that money within a few days if you needed it — without a
-   penalty, and without asking anyone's permission?
+2. Could you get to some of that same money within a few days if you needed it —
+   without a penalty, and without asking anyone's permission?
    ☐ Yes ☐ No
 
 3. Do you have a 401(k), 403(b), or an IRA left over from a job you don't work at
    anymore?
    ☐ Yes ☐ No
 
-4. The last time the market dropped sharply — 2022, 2020, 2008, whichever you
-   remember — did any of your account balances drop right along with it, with nothing
-   in place to limit how far they fell?
+4. Thinking about that old account — the last time the market dropped sharply
+   (2022, 2020, 2008, whichever you remember), did it drop right along with it,
+   with nothing in place to limit how far it fell?
    ☐ Yes ☐ No
 
-   *[See changelog above — Justin/Ed: alternate phrasing offered as an option,
-   original left in place pending your call.]*
+   *[See "Not changed, flagged for Justin" section above — the mislabeling defect
+   this anchor fixes is resolved; the separate question of whether named years
+   belong in a piece that only sends during a live drawdown is still open for
+   Justin/Ed, with an alternate no-years phrasing offered there.]*
 
 5. Right now, could you name one part of your retirement savings that's invested for
    growth but has a specific plan in place designed to limit how much it could lose in
-   a bad year?
+   a bad year? A mix of stocks and bonds isn't that by itself — even if someone else
+   picked the mix.
    ☐ Yes ☐ No
 
 *Keep scrolling to see what your answers show you.*
