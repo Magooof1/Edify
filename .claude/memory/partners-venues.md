@@ -11,6 +11,21 @@ None logged yet. Historical class channel has run almost entirely through NKU (c
 catalog) per growth-channels.md — no named union/credit union/employer venue on record
 as of 2026-09-19.
 
+**Employer/credit-union diversification research (Sloan, 2026-09-19) — channel
+mechanics logged in growth-channels.md, same date; venue-specific points cross-ref'd
+here.** Justin's constraints: employers and credit unions, explicitly not labor
+unions; no using a client relationship to get in the door; must be a pullable list.
+Employer targets identifiable via Form 5500/EFAST2 (public, free, filterable by
+state/participant count), sweet spot 100-250 participants. **Credit unions: no
+names logged, status UNVERIFIED** — Sloan could name plausible Cincinnati-area
+candidates but could not confirm which run a standing member-education calendar
+(two site fetches blocked by egress). Open research gap, not an answered question —
+do not treat any specific credit union as identified or contacted. Standing
+confirm-first rule applies once any specific venue is named. Also open, put to
+Justin: whether he already has employee-facing access through his current 401(k)
+plans (enrollment meetings, lunch-and-learns) — see growth-channels.md for full
+framing.
+
 **Open question, real external relationship — confirm-first standing rule applies,
 not for any agent to research or assume about.** Open question Isla has put to Justin
 directly: did NKU decline to be branded, or has it simply never been formally asked?

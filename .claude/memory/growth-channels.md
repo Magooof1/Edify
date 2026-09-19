@@ -671,3 +671,76 @@ an institution's name is still an acquisition piece under Jayme.
 No conflicts found against the existing record — this entry refines the 2026-08-25
 format-crowding finding (per Jayme's own framing) and is consistent with the open NKU-
 branding question already logged in partners-venues.md.
+
+---
+
+## 2026-09-19 (later still) — Venue diversification research: employer/credit-union channel (Sloan)
+
+Justin approved exploring venue diversification after the NKU mail channel's
+format-crowding collapse (above). His constraints, stated directly: **employers and
+credit unions, not labor unions; no using a client relationship to get in the door;
+must be a list he can pull.** He already holds company 401(k) plans — this is
+expansion of an existing line, not entry into a new one.
+
+- **Form 5500 (EFAST2, efast.dol.gov) is a real, free, pullable list source.**
+  Public, searchable, filterable by state/participant range, no login. DOL also
+  publishes bulk annual CSVs, filterable in a spreadsheet by state/participant
+  count/plan type. Real "pull a list" capability at zero vendor cost, but it's a
+  data-wrangling task, not a click. Does NOT give current HR contact names or
+  reliable still-operating accuracy — commercial resellers sell that enrichment
+  layer on the same public data (~$0.20/record, or low-hundreds to low-thousands/yr
+  for a filtered export). **Sloan's recommendation, Isla endorses: don't pay a
+  vendor yet** — free route first answers whether the list exists.
+- **Target sweet spot: 100-250 plan participants.** Below 100, plans file the short
+  form (less detail, thin room). Above ~200-500, formal RFP/multi-stakeholder
+  process appears; at 1,000+ employees, 135-day procurement cycles are standard. At
+  100-250 the decision-maker is a single HR/benefits lead or owner — reachable
+  without a procurement process Justin can't win cold.
+- **Addressable universe: reasoned estimate only, low hundreds to ~1,000 workable
+  targets in Cincinnati metro** — not a count. No clean single source; real number
+  requires actually running the DOL filter.
+- **Credit unions: UNVERIFIED, logged as an open research gap.** Sloan could name
+  plausible Cincinnati-area candidates but could not confirm which run a standing
+  member-education calendar (two site fetches blocked by egress). This distinction
+  is the whole question: a credit union with an existing seminar slot to fill is a
+  fundamentally different prospect from one needing convincing a slot should exist.
+  Not to be treated as an answered question. Cross-ref: partners-venues.md.
+- **Cycle time — a next-year channel, not a fall fix.** Employer benefits decisions
+  run on their own calendar, usually tied to Q4 open enrollment; a cold employer
+  approach begun now plausibly doesn't produce a room until next year's cycle.
+  Credit unions could move in weeks-to-months, but only if a slot already exists
+  (the unverified point above).
+- **Sloan's sequencing recommendation: run both, credit unions first** — differs
+  from Isla's initial lean. Reasoning: employers pass the pull-a-list test better,
+  but credit unions are the closer match to what made NKU work (borrowed trust from
+  a member-owned local institution, not a vendor pitch to HR); a credit union
+  member seminar plausibly qualifies as a "public workshop" under the $7K perk's
+  use rules, where a private single-company class probably doesn't. Isla's note:
+  the perk point may decide the ordering on its own.
+- **Most important open question, surfaced by Sloan, not previously asked: does
+  Justin already get employee-facing access through his current 401(k) plans —
+  enrollment meetings, lunch-and-learns, anything putting him in front of
+  participants?** If yes, that's a warmer, already-open lane requiring no list and
+  no cold approach — plausibly the fastest real option available. Unanswered as of
+  2026-09-19; put to Justin. Also open: how many plans he holds, their size, and
+  how he won them — if any were won cold, that's an existing playbook to copy
+  rather than invent.
+- **Isla's sequencing reasoning — logged as reasoning, not a decision, and
+  explicitly pending Taleb's review as of 2026-09-19.** Lead with employee
+  education, let the plan follow: a cold plan pitch is a displacement sale against
+  an incumbent (competing on fees, crowded field); free employee education is a
+  no-displacement ask HR can say yes to easily, and puts Justin in the building
+  demonstrating competence before any plan conversation. Asymmetry argued: even if
+  no plan is ever won, the class still produces a room of pre-qualified 50-65
+  prospects holding Red money by definition — the downside case is the outcome the
+  mail channel was already trying to buy. **Isla flagged she likes this argument
+  and has been wrong twice today under exactly that condition — not to be treated
+  as vetted until Taleb looks at it.**
+- **Compliance conflict flagged, not resolved here — queued to Justin's existing
+  compliance-email item.** See compliance-precedents.md (2026-09-19 entry) for the
+  plan-advisor/participant-advisor rollover conflict this channel raises for
+  Portfolio Medics.
+
+Placement note (Vannevar): channel mechanics/sequencing logged here; the
+credit-union venue-identity question cross-referenced into partners-venues.md as an
+open gap since it's venue-specific, not channel-general.

@@ -789,3 +789,22 @@ geography requirement on this piece is triggered by Green appearing on **Panel 2
 picture (the "CAN'T LOSE VALUE" container), not by Panel 3. Outcome (piece stays
 OH/KY-fenced) unchanged; reasoning corrected per the standing Green-not-Blue rule
 above.
+
+---
+
+## 2026-09-19 — Plan-advisor / participant-advisor rollover conflict (employer venue channel)
+
+**Flagged, not resolved — queued to Justin's existing compliance-email item.**
+Surfaced during Sloan's employer/credit-union venue-diversification research
+(growth-channels.md, partners-venues.md, both 2026-09-19). If Justin advises a
+401(k) plan itself while also running participant-facing education/classes for
+that plan, the two roles pull in opposite directions on rollover recommendations:
+as a participant's advisor, a rollover out of the plan is a win; as the plan's
+advisor, it's an outflow he'd be recommending against his own other client (the
+plan). Advisor-on-both-sides rollover recommendations are a known area of
+regulatory scrutiny with documentation requirements attached — workable and
+common in the industry, but it shapes what any employee-facing class content can
+say. Portfolio Medics' view is needed before building a channel around this.
+**Status:** added to Justin's existing compliance-email queue item (same queue as
+the exact-disclosure-wording question logged in the 2026-09-18 entity-correction
+entries above). Not answered as of this logging.
