@@ -77,12 +77,30 @@ pipeline against a $22M book.
   - **Told** — the referral ritual. A few a quarter convert today, at smaller
     client sizes than the classes; Justin's own read is that it's
     under-developed rather than maxed.
-- **The $7k.** Not another mailer of this shape. The candidate use worth pricing:
-  fund a credit-union-hosted workshop *including its invitation mail*, which the
-  perk's own rules appear to allow as mailer costs within a qualifying public
-  workshop. That keeps the money working, behind a door that isn't crowded, on a
-  piece that carries a host's name rather than competing as one more advisor.
-  Needs confirmation from whoever administers the pool before anything commits.
+- **The $7k → a small mirror mail test. Decided in substance 2026-09-19.** Not
+  another mailer of this shape. The mirror is a different *offer*, not a different
+  envelope for the same one: five self-scored bucket questions, a QR straight to a
+  booking calendar, no class, no venue, nobody's permission. It clears Justin's
+  no-gatekeeper constraint completely and it isn't wearing the costume eleven
+  competitors are wearing. Shape: 2,000-3,000 pieces into the tired core ZIPs,
+  measured on meetings booked per piece against the recent ~$3,333-per-unit
+  baseline. Not another blind $10k.
+
+  **Funding is settled.** Justin, 2026-09-19: "always go with the non strict
+  version going forward" — a perk spend that reaches a booked meeting qualifies
+  and does not have to reach a room. Mail-to-meeting is not distinguishable from
+  the ad-to-meeting spend he already approved. Isla argued the strict reading
+  against this test and was wrong. See `.claude/memory/growth-channels.md`, perk
+  section, standing rule.
+
+  **Three things gate the test, and Calendly is now on the critical path** rather
+  than sitting in the queue — the mirror's QR goes to a booking calendar, so
+  without it there is no test. Then the mirror's question five has to be fixed
+  (it currently credits a 60/40 reader with owning the middle bucket, the exact
+  false positive the frame exists to catch), and Ed re-clears it. Only then does
+  Jayme build the mail piece around it.
+- **A credit-union-hosted workshop remains a candidate perk use later**, but it is
+  no longer what the $7k is waiting on.
 - **The spring $10k is now in question too**, by exactly the same logic —
   flagged, not decided, and Justin's call. It has been the standing annual
   baseline; the case for it rests on whether a mailer carrying a host

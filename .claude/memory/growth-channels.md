@@ -366,6 +366,19 @@ $7,000 as ordinary flexible marketing dollars. That was wrong. It's a marketing
 perk/allowance (pattern matches an FMO or carrier co-op marketing fund; exact source
 not specified by Justin) with real use-it-or-lose-it pressure — Justin describes it
 as something he "needs to use," not open-ended discretionary budget.
+- **STANDING RULE — Justin, 2026-09-19: "Always go with the non strict version
+  going forward."** Where the perk's written rules admit a strict and a loose
+  reading, the loose one governs. This settles a question that has now been
+  re-derived twice from the text below and reversed both times by Justin. His
+  basis, from 2026-09-12: "the $7K perk CAN fund FB ads that drive to meetings —
+  the administrators aren't super strict on how we get there." **A spend that
+  reaches a booked meeting qualifies; it does not have to reach a room.** That
+  covers mail-to-meeting exactly as it covers ad-to-meeting — there is no
+  distinction between the two, and no agent should invent one. Isla asserted the
+  strict reading against the mirror mail test on 2026-09-19 and was wrong; the
+  2026-09-18 "fine as long as it drives to an event" line was Justin resolving
+  one specific card, not narrowing the general rule. Read the bullets below
+  through this rule, not around it.
 - **Allowed uses, per the perk's actual rules:** public workshops and networking
   events, including the cost of mailers, folders, and room rentals for those events.
   Client appreciation events are also confirmed as an allowed use.
