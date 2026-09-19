@@ -38,15 +38,25 @@ that input is saturating. Between classes the input is zero.
   bridge-message drafts in `drafts/bridge-message-v1.md` were the step before
   this and are superseded — Justin's read: generic, and nobody asked for Facebook.
 - **Paid spend, sequenced. Target: 3–4 clients per $6–7k.**
-  - *$7k this year — the fall test.* Three-buckets card to a few thousand pieces,
-    a smaller list than the usual ten. **Destination is the class, not a call**
-    (Justin, 2026-09-18: the perk "is fine as long as it drives to an event").
-    The class format doesn't change — only the mailer's message does, so the
-    result is readable. The card carries the disqualifier, so attendees arrive
-    already doubting their middle bucket instead of discovering it at minute
-    forty. **New dependency: this needs a class date and venue booked.**
-    Scope limit, on purpose: driving to a room keeps this test local, so it
-    doesn't test the national reach that Blue-being-advisory opens up.
+  - *$7k — moved to a January mailer (Justin, 2026-09-19).* Was the fall test.
+    His plan: book the spend against this year's budget, land the piece in
+    January. **Destination is a class, not a call** (2026-09-18: the perk "is
+    fine as long as it drives to an event").
+
+    **The move fixes a conflict rather than just deferring one.** A fall test
+    needed a venue booked by 2026-09-25, while the venue research says the
+    employer route is a next-year channel and credit unions need weeks to a
+    couple of months. Those were irreconcilable. A January drop isn't: art
+    finals mid-December, mail drops early January, class lands late January or
+    February. That gives Jayme time to rebuild the piece against the control
+    and gives a host venue time to say yes.
+
+    **Two things this now depends on.** First, a venue answer by roughly early
+    December — the date and address print on the piece, and mailing the same
+    worn NKU-area list with a better card is the one option the mechanism
+    analysis says won't work. Second, confirmation that the perk tolerates a
+    2026 booking against a 2027 event; use-it-or-lose-it funds often don't, and
+    that's a question for whoever administers the pool, not for us.
   - *Spring $10k* — the annual mailer, same theme, tuned by the fall result.
   - *Remaining ~$12k next year* — whatever spring proves: FB once verification
     clears, video, a second drop. **This is also where the call-driving version
@@ -190,28 +200,32 @@ move to the log below with the date.
 3. **Send Jayme the reference material for the mailer rebuild.** The card was
    rejected 2026-09-19 and is being rebuilt from the same message by the new Paid
    Acquisition Lead. Two things only Justin has:
-   - **(a) Scans or photos of the mailers that pulled 10-20 clients** — every
-     panel, front and back, two or three pieces. This is the control. Nobody on
-     this team has ever seen a piece that worked in his market, and designing
-     without it is what produced the rejected draft.
+   - **(a) The control — SUPPLIED 2026-09-19.** The 2021 NKU spring mailer, the
+     piece that produced $6M, now at `reference/winning-mailers/`. Jayme's read
+     of why it worked is in `.claude/memory/growth-channels.md`, same date.
    - **(b) Brand assets** — logo files, a headshot he'll actually use, anything
-     Edify-branded that exists. "None of it exists" is a valid answer and changes
-     the build.
+     Edify-branded that exists. Still outstanding. "None of it exists" is a valid
+     answer and changes the build.
 
-   **Open question back to Justin:** did High Note produce the recent
-   underperforming drop, or only the historical winners? If the supplier changed,
-   that's a likelier cause of the collapse than the channel dying.
+   **Answered 2026-09-19:** High Note produced every mailer including the
+   underperformer, so no supplier change explains the collapse.
 
-   **Still blocking print on whatever piece emerges** (both carried over, neither
-   affected by the rebuild):
+   **Still blocking print on whatever piece emerges:**
    - **The "no pitch" policy note.** A dated internal policy plus an operational
      first-meeting script, in Trulip's file, covering the "bring your statements"
      invitation. Standing requirement since the mirror card; still not confirmed
      to exist. This is the quiet one — third time on this list.
-   - **Class date and venue.** The date and address print on the piece.
-     **Deadline was 2026-09-25** on the original schedule; the rebuild puts that
-     under real pressure, and a January test is now the likelier shape. Justin's
-     call whether to hold the fall slot or move.
+   - **Class date and venue. Deadline moved to early December** — Justin moved
+     the drop to January on 2026-09-19, retiring the 09-25 deadline and buying
+     the rebuild real time. The date and address still print on the piece, so
+     this gates art finals in mid-December. The open part is *which* venue:
+     mailing the worn NKU-area list with a better card is the one option the
+     mechanism analysis says won't work.
+   - **Confirm the perk tolerates a 2026 booking against a 2027 event.** Justin's
+     plan is to charge the spend to this year's budget and land the piece in
+     January. Use-it-or-lose-it marketing funds frequently don't allow that.
+     A question for whoever administers the pool, before anything is committed on
+     the assumption that it works.
 
    Closed 2026-09-18, and still good for the rebuild: sourced figures (Vanguard
    Balanced Index Fund, 2008 −22.12% / 2022 −16.90%); the OH/KY mailing list; and
