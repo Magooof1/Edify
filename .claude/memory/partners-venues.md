@@ -26,6 +26,15 @@ Justin: whether he already has employee-facing access through his current 401(k)
 plans (enrollment meetings, lunch-and-learns) — see growth-channels.md for full
 framing.
 
+**Standing constraint, logged 2026-09-19 (Jayme's mail research, full context in
+growth-channels.md) — weigh against any venue/host proposal here.** Justin's words:
+"What I don't like about the credit union is it requires to get permission from
+them. My old strategy I just bought a list and mailed without a gatekeeper." A
+stated preference, not an absolute veto. Any employer/credit-union venue pitch is a
+gated channel by design — durable if secured, but exactly the kind of dependency
+Justin flagged discomfort with. Jayme, unprompted, refused to present the
+host-institution route as compatible with what Justin said he values.
+
 **Open question, real external relationship — confirm-first standing rule applies,
 not for any agent to research or assume about.** Open question Isla has put to Justin
 directly: did NKU decline to be branded, or has it simply never been formally asked?
