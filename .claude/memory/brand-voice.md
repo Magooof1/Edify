@@ -28,6 +28,26 @@ record:
   If competitors don't teach it, owning the term is worth something, but the
   owning happens in the classroom and on YouTube, not in an ad.
 
+## 2026-09-19 — Dinner seminars declined on principle; consequence for the creative bar
+
+Justin: he has never run a dinner seminar, deliberately — "wanted to be different and
+an education brand." Recorded as a brand decision, not only a channel fact (full
+channel-history consequence, and the fatigue-vs-format hypothesis it eliminated, in
+`.claude/memory/growth-channels.md`, 2026-09-19 entry). Because the free-dinner lever
+is off the table on principle, cold creative is the practice's only remaining lever
+against competitors buying attention with food. This is now the standard Jayme is
+held to, not just background color.
+
+## 2026-09-19 — Two voices for two audiences: Sloan (permission) vs. Jayme (interruption)
+
+New split; cross-reference growth-channels.md, same date, for the incident that
+produced it. Sloan's Godin-rooted permission-marketing voice governs anyone who
+already chose to listen — YouTube, class, referral, stay-warm. Jayme's Jayme/Caples-
+rooted voice governs anyone being interrupted cold — mail, paid ads, and the landing
+pages behind them. Created after a mailer briefed in Sloan's voice for a cold DRA
+list was rejected by Justin outright. **Routing rule:** which voice governs a piece
+depends on who chose to listen, not the medium the piece happens to travel in.
+
 ## 2026-09-18 — Three buckets is the organizing theme for all paid marketing
 
 Builds on, does not supersede, 2026-09-16 above (warm gets the name, cold gets the

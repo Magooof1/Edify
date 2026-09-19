@@ -472,3 +472,51 @@ visit-to-booking rate stays the number that matters.
 **Sequencing change.** Before any FB spend: Meta advertiser verification (2+ weeks)
 and Portfolio Medics compliance pre-approval (see compliance-precedents.md, same
 date). Both are calendar time, not work — start them now if the test is still on.
+
+---
+
+## 2026-09-19 — Paid-acquisition history facts from Justin (mail format, DRA selects, why Jayme exists)
+
+**Why this entry exists:** mailers had been designed from theory against a standard
+nobody had actually looked at. Justin rejected the resulting piece outright. These
+facts close that gap.
+
+- **Dinner seminars: never run, deliberately avoided.** Justin's words: he stayed away
+  from them because he wanted to be different and build an education brand. A free
+  dinner is the category-standard offer for advisor seminar mail and pulls multiples
+  of a no-food class — he gave up that lever on principle. Consequence, on record
+  alongside the fact: his offer is structurally weaker than what competitors mail into
+  the same ZIPs, so the creative has to carry the load the food carries for them
+  elsewhere. Design quality is load-bearing in this practice because of this choice,
+  not incidentally. See brand-voice.md (2026-09-19) for this as a brand decision, and
+  `.claude/agents/jayme.md` for it as an operating standard.
+- **Hypothesis tested and eliminated, not just answered.** Isla had flagged a live
+  possibility: if the 10-20-client years ran dinner seminars and the recent 3-client
+  year ran a no-food class, the offer itself changed and no creative fix would help.
+  **Ruled out** — format was constant (no dinner) across both the strong years and the
+  recent underperformer. Recording the elimination, not just the conclusion, so this
+  doesn't get re-litigated later.
+- **List: a DRA list.** Selects in use: ZIP codes, IPA (investable personal assets),
+  age, net worth. Justin's own assessment, verbatim: "They are solid." Consistent with
+  the 2026-09-12 note above that Justin pulls the list himself from DRA. Vendor
+  relationship logged in partners-venues.md.
+- **ZIP rotation — open hypothesis, not a finding.** Justin: "I have been doing
+  different zips." Cuts two ways: (a) rules out simple list fatigue — the recent drop
+  wasn't a fourth mailing landing on the same saturated households; (b) raises an
+  untested alternative that would look identical from the outside — if the strongest
+  ZIPs were mailed first in the 10-20-client years, each later rotation may be working
+  outward into progressively weaker territory: fresh names, declining list quality,
+  no creative decay involved at all. Confirm or kill with Justin before attributing the
+  3-unit result to creative alone.
+- **Jayme, Paid Acquisition Lead, added 2026-09-19** (`.claude/agents/jayme.md`) — owns
+  mail, ads, and paid landing pages; peer to Sloan, not under her. Structural reason on
+  record: the rejected mailer had been briefed in Sloan's education voice (Godin,
+  permission marketing), which is built for people who already chose to listen —
+  actively wrong for a cold compiled list, where the job is interruption, not
+  permission. This was Isla's error (the brief), not Sloan's execution. **Standing
+  routing rule:** route on who chose to listen, not on medium — a piece going to a
+  warm/opted-in audience is Sloan's regardless of format; a piece going cold to a
+  purchased or compiled list is Jayme's regardless of format.
+
+Cross-reference: brand-voice.md (dinner seminars as a brand call; the Sloan/Jayme
+voice split); partners-venues.md (High Note, DRA).
