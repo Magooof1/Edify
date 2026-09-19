@@ -16,6 +16,45 @@ measured funnel stage per `drafts/mirror-mail-test-plan.md`, so a mislabeled yes
 doesn't just soft-nudge — it corrupts the metric). With both fixes applied, this
 card is ready to go back to Ed — alongside `drafts/mirror-landing-page-v2.md`,
 brought into line with it in the same pass. Neither has Ed's clearance yet.**
+**Close line hedged 2026-09-19 — see v2.5 note below, applying Ed's ruling that the
+first-person close needs to visibly signal opinion rather than rely on register alone.**
+
+---
+
+**Canonical status — the five questions and scoring key.** This file
+(`drafts/mirror-card-v2.md`) is the single source of truth for the Mirror's five
+questions (Q1–Q5) and its scoring key. No other piece may maintain its own
+independent copy of that text — anything that needs it references this file and
+clones the current text from here at build/send time, the same discipline
+`drafts/disclosure-blocks-v1.md` established for the entity disclosures after the
+nine-draft entity-name incident (2026-09-18). Known reference points as of
+2026-09-19: `drafts/mirror-landing-page-v2.md` (Sections 2–3), `drafts/mirror-card-
+correction-v2.md` (EMAIL section), and `drafts/stay-warm-cadence-v1.md` (Touch 2,
+Q-Give-2, Q-Give-3). **One deliberate exception:** `drafts/three-buckets-theme-
+v1.md` quotes the pre-fix, one-sentence Q5 twice, as historical analysis of the
+false-positive defect it identified — that quotation is frozen on purpose and must
+never be "corrected" to match the current Q5 here; see the note near the top of
+that file.
+
+---
+
+## v2.5 — close line hedged as stated opinion, 2026-09-19
+
+Ed revisited his 2026-09-12 read that Justin's signed close ("a signed opinion, not
+a checkable claim") was clean as written, and ruled it isn't visibly hedged as
+opinion from register alone — a reader can't tell "I built this because most people
+don't get shown a clear picture..." is Justin's own view rather than a population
+claim just because it's first-person and signed. Fix, his own suggested language,
+cheap and non-blocking: add "In my experience" ahead of "most people." Applied
+below and in the landing page and correction-email closes in the same pass — same
+line, same fix, all three instruments.
+
+**Separately flagged, not yet fixed:** "Here's What People Usually Find," the
+heading over the scoring key on the back of this card (and on the landing page and
+correction email), reads as the same construction — a claim about what people in
+general find, unhedged. Not touched here; going to Ed to rule on in the same
+handoff as this fix, per Isla's request to catch related instances in one pass
+rather than one at a time.
 
 ## v2.4 — Q4 narrowed to test old-job status, 2026-09-19
 
@@ -294,7 +333,7 @@ pitch. You bring the card; we'll look at it together.
 
 ---
 
-I built this because most people don't get shown a clear picture of their own
+In my experience, most people don't get shown a clear picture of their own
 retirement money until they're already sitting across the table from an advisor.
 This card is that picture, without needing the meeting first.
 

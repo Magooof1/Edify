@@ -7,6 +7,20 @@ of the mail-test funnel all happen on it (`drafts/mirror-mail-test-plan.md`) —
 happened yet. NOT approved for publication or spend. Goes to Ed for its own clearance,
 alongside `drafts/mirror-card-v2.md`.
 
+**Structural note, 2026-09-19 (Isla).** The five questions and scoring key in
+Sections 2–3 below are not independently authored or maintained here —
+`drafts/mirror-card-v2.md` is canonical for that text. This file clones it and gets
+re-synced when the card changes; see the canonical-source pointer at each section
+below. If this page and the card ever appear to disagree, the card is right and this
+page is stale — fix this page to match it, never the reverse.
+
+**Close line hedged 2026-09-19.** Ed ruled Justin's close needs to visibly signal
+opinion rather than rely on register alone — see the Section 5 note below. Same
+fix applied to the card and correction email in the same pass. Also flagged for
+Ed, not yet fixed: "Here's What People Usually Find" (Section 3 heading) reads as
+the same unhedged population-claim construction; present in this page, the card,
+and the correction email.
+
 v1 is preserved in full at the bottom of this file (APPENDIX) for the record — nothing
 in v1 was deleted, only superseded where Ed flagged it.
 
@@ -163,6 +177,9 @@ sized or weighted to compete with "Two Minutes. Five Questions."
 ### Section 2 — The five questions (verbatim from card v2.4 — synced 2026-09-19,
 see v2.3 note above)
 
+*Canonical source: `drafts/mirror-card-v2.md`, Q1–Q5 — edit there, not here; this
+copy is cloned from it, not independently maintained.*
+
 1. Do you have money in a savings account, a CD, or an annuity that's set up so the
    original amount you put in can't go down?
    Yes / No
@@ -194,6 +211,9 @@ static text instead. **Hard constraint either way: no tallying, no running score
 "you answered 3 yes" counter anywhere on this page.**
 
 ### Section 3 — Scoring key (verbatim from card BACK panel — unchanged)
+
+*Canonical source: `drafts/mirror-card-v2.md`, BACK panel scoring key — edit there,
+not here; this copy is cloned from it, not independently maintained.*
 
 > **Here's What People Usually Find**
 >
@@ -261,19 +281,19 @@ first," no "download the guide," no email field anywhere above or below the butt
 
 **[ONE WORD ADAPTED — flagged for Ed, unchanged from v1]**
 
-> I built this because most people don't get shown a clear picture of their own
+> In my experience, most people don't get shown a clear picture of their own
 > retirement money until they're already sitting across the table from an advisor.
 > This page is that picture, without needing the meeting first.
 >
 > — Justin McGuffey
 > Trulip Retirement Planning / Edify Retirement Education
 
-*(Note: this line, "most people don't get shown a clear picture...," is Justin's own
-voiced opinion in his signed close, not a factual population claim presented as
-Edify's — different register from the ad copy's "most people" lines Ed flagged.
-Leaving it as-is since it wasn't in scope this round, but flagging for Ed to weigh in
-explicitly given the standing rule, rather than assuming the distinction holds without
-his sign-off.)*
+*(Note, updated 2026-09-19: Ed ruled on this — the line isn't visibly hedged as
+opinion from register alone; a reader can't tell it's Justin's own view rather than
+a population claim just because it's first-person and signed. Fix applied, his
+suggested language: "In my experience" ahead of "most people." Same fix applied to
+the card and correction-email closes in the same pass. See card v2.5 note for the
+full ruling.)*
 
 ### Section 6 — Disclosure slot
 

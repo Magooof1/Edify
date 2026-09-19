@@ -7,6 +7,19 @@ before it goes anywhere near Justin for sign-off. **Five questions synced to car
 and landing page v2.3 (Q2, Q4, Q5 fixes) 2026-09-19 — see v2.3 note below. Ready for
 Ed's review; not for Justin, not for print/send.**
 
+**Structural note, 2026-09-19 (Isla).** Same as the landing page — the five questions
+and scoring key in the EMAIL section below are cloned from canonical
+`drafts/mirror-card-v2.md`, not independently maintained here. See the pointer above
+the questions below. If this email and the card ever appear to disagree, the card is
+right and this email is stale — fix this email to match it, never the reverse.
+
+**Close line hedged 2026-09-19.** Ed ruled Justin's close needs to visibly signal
+opinion rather than rely on register alone; "In my experience" now precedes "most
+people" in the close below. Same fix applied to the card and landing page in the
+same pass. Also flagged for Ed, not yet fixed: "Here's What People Usually Find"
+(the scoring-key heading below) reads as the same unhedged construction; present
+in this email, the card, and the landing page.
+
 v1 is kept at `mirror-card-correction-v1.md` for the record — don't delete it, and don't
 merge these two files. This is a copy-only pass against Ed's four fixes; nothing about
 the concept, channel, CTA structure, trigger rule, or segmentation changed.
@@ -232,6 +245,9 @@ your own accounts. There's no right answer to any of them — just yours.
 
 Answer yes or no.
 
+*Canonical source: `drafts/mirror-card-v2.md`, Q1–Q5 and scoring key — edit there,
+not here; this copy is cloned from it, not independently maintained.*
+
 1. Do you have money in a savings account, a CD, or an annuity that's set up so the
    original amount you put in can't go down?
    ☐ Yes ☐ No
@@ -287,7 +303,7 @@ If you'd rather get on the calendar yourself, that works too: 📞 [PHONE NUMBER
 
 ---
 
-I built this because most people don't get shown a clear picture of their own
+In my experience, most people don't get shown a clear picture of their own
 retirement money until they're already sitting across the table from an advisor. This
 week didn't change that. It just made it a little harder to look away from your own
 picture. That's all this is — a chance to look at it clearly, on your own terms.

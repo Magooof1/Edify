@@ -154,15 +154,35 @@ delivery context (a 1:1 personal text/note vs. the mailed card) still needs its 
 look before use.** Same reasoning Ed applied to the correction variant — a different
 channel and context is a new fact pattern, not an automatic pass.
 
-> Hi [First Name] — one question that's stuck with me since we sat down: right now,
-> could you name one part of your retirement savings that's invested for growth but has
-> a specific plan in place designed to limit how much it could lose in a bad year?
+**Structural fix, 2026-09-19 (Isla).** This touch previously pasted Q5's text in
+directly, and the pasted copy was the pre-fix, one-sentence version — it never picked
+up the v2.3 disqualifying sentence ("A mix of stocks and bonds isn't that by itself...
+even if someone else picked the mix.") once that fix landed on the card. Live send
+copy carrying a corrected instrument's defect is exactly the failure mode
+`drafts/disclosure-blocks-v1.md` exists to prevent on the entity language; the same
+fix applies here. Converted below to the same reference pattern Q-Give-2 already uses
+in this file, rather than left as a second embedded copy that can drift again. A
+pointer is the right artifact for this medium, not an exception to argue for: like
+Q-Give-2's email, this touch is built ahead of time by whoever preps the send (Justin
+or staff, copying from the card), not composed live in front of the client — a
+handwritten card can be copied from the canonical file by hand exactly as easily as an
+email can be typed from it. Nothing about this touch needs its own frozen copy that
+the mailed card doesn't also need.
+
+> Hi [First Name] — one question that's stuck with me since we sat down:
+>
+> [Insert Q5 verbatim from `drafts/mirror-card-v2.md`]
 >
 > No need to answer me. Just worth sitting with.
 > — Justin
 
-*Canonical source: `drafts/disclosure-blocks-v1.md`, Variant C (one-line pointer)
-— edit there, not here. Language pending Justin's compliance sign-off.*
+*Canonical source for the question: `drafts/mirror-card-v2.md`, Q5 — edit there, not
+here; this touch pulls whatever Q5 currently says at build/send time, not a fixed
+copy.*
+
+*Canonical source for the disclosure line: `drafts/disclosure-blocks-v1.md`, Variant C
+(one-line pointer) — edit there, not here. Language pending Justin's compliance
+sign-off.*
 
 > (Advisory services: Portfolio Medics, LLC, an SEC-Registered Investment Adviser.
 > Insurance business: Trulip Investment Management, LLC. Full disclosures anytime,
@@ -344,6 +364,9 @@ the redeployment is otherwise clean.
 **What it's for:** the same low-lift, high-warmth format as Phase 1 Touch 2, so the
 cadence has a recognizable "just Justin, briefly" rhythm running through it. Rotate
 through the other mirror questions (Q1-Q4) here instead of repeating Q5 every time.
+Whichever question is sent in a given quarter, pull it verbatim from
+`drafts/mirror-card-v2.md` at send time — same reference pattern as Touch 2 and
+Q-Give-2 above, not a separately maintained copy of any one question.
 
 *Canonical source: `drafts/disclosure-blocks-v1.md`, Variant C (one-line pointer)
 — edit there, not here. Language pending Justin's compliance sign-off.*

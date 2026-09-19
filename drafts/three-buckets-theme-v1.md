@@ -555,6 +555,20 @@ Replaced with a neutral "To reserve a seat."
 Different promise than the one he cleared; flagging so it isn't waved through on the
 strength of the old review.
 
+**Frozen-quote flag, 2026-09-19 (Isla).** This file quotes the pre-fix, one-sentence
+version of the mirror's Q5 twice below — once in Section 1 ("Does the mirror card's
+Q5 already do this job?") and once in Ed's preflight at the bottom ("Mirror Q5 —
+agree it's a real problem"). Both quotations are the historical record of the
+false-positive defect this file identified, before it was fixed on the card (v2.3,
+2026-09-18/19). They are deliberately **not** synced to the current, corrected Q5 in
+`drafts/mirror-card-v2.md`, and must not be "fixed" to match it — doing so would
+erase the record of what the defect actually said, which is the whole point of this
+file's Section 1 finding. `drafts/mirror-card-v2.md` is canonical for the five
+questions everywhere else this theme touches (Panel 3's disqualifier, the FB landing
+page sketch in Section 4); this file's two Q5 quotations are the one deliberate
+exception, and are labeled as such below rather than left to look like an accidental
+miss.
+
 ---
 
 ## Ed's preflight, 2026-09-18
