@@ -12,12 +12,26 @@ catalog) per growth-channels.md — no named union/credit union/employer venue o
 as of 2026-09-19.
 
 **Open question, real external relationship — confirm-first standing rule applies,
-not for any agent to research or assume about.** NKU branding is not currently used
-in Justin's marketing. Open question Isla has put to Justin directly: did NKU decline
-to be branded, or has it simply never been formally asked? Logged as open, not a
-finding either way. Relevant to the 2026-09-19 fatigue correction below — NKU is
-Justin's strongest, most-mailed territory, and branding is one candidate lever there
-if the relationship allows it.
+not for any agent to research or assume about.** Open question Isla has put to Justin
+directly: did NKU decline to be branded, or has it simply never been formally asked?
+Logged as open, not a finding either way.
+
+**Read the distinction carefully — an earlier version of this note said flatly that
+"NKU branding is not currently used," and that is misleading enough to invert the
+mechanism analysis.** What Justin does not use are NKU's *marks* — logo and brand
+assets. He uses the *name* heavily. The control mailer
+(`reference/winning-mailers/2021-spring-nku-seminar.pdf`, the piece that produced $6M)
+names Northern Kentucky University three times plus the building and street address,
+and dresses the whole piece as a university course catalog: "FREE SPRING LEARNING
+PROGRAM" under a laurel wreath, "new academic courses," "about your course
+instructor." Trulip's own logo appears once, small, inside. Isla told Justin on
+2026-09-19 that he was leaving NKU's trust on the table; looking at the actual piece,
+that was wrong, and he corrected it.
+
+This matters because borrowed institutional authority is the load-bearing element in
+Jayme's mechanism read (growth-channels.md, 2026-09-19). An agent reading only "NKU
+branding is not used" would conclude the opposite of what the winning piece actually
+does. The marks are the open question; the name is already doing the work.
 
 ## Vendors
 

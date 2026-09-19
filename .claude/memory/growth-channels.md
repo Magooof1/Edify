@@ -606,3 +606,68 @@ duplicating here.
   households; flat attendance would indicate genuine household exhaustion
   (fatigue/crowding). Discriminates between this entry's two live explanations.
   Not decided, not scheduled.
+
+---
+
+## 2026-09-19 (later still) — Jayme's mechanism read on the control mailer ($6M, NKU 2021)
+
+Source: `reference/winning-mailers/2021-spring-nku-seminar.pdf` + README in that folder
+(provenance/caveats live there — not duplicated here). Justin supplied the piece
+2026-09-19; it produced $6M. First time this workforce has analyzed an actual winning
+document rather than theorizing against no control.
+
+**Mechanism, as Jayme reads it: institutional camouflage.** The piece doesn't read as
+advisor mail — it's dressed as NKU's own course catalog ("SPRING LEARNING PROGRAM,"
+multiple syllabus-styled sessions). A stranger never reaches "should I attend a
+financial seminar" because the piece borrows NKU's trusted authority before any
+argument starts. **Load-bearing:** institutional camouflage; FREE in large type
+(kills the cost objection pre-decision); curiosity-led single-line bullets ("the truth
+about annuities," "why so many retirees are in danger of outliving their money") that
+open a loop rather than require ordered reasoning. **Merely present:** instructor bio,
+disclosure block, specific building name.
+
+**Refines, does not replace, the 2026-08-25 format-crowding finding above.** Crowding
+didn't make NKU less credible — it made the disguise *recognizable*. Jayme: the
+camouflage doesn't age out, it wears out when competitors wear it in the same room.
+Once every mailbox in the ZIP holds several pieces in the identical costume, the
+costume stops working as a costume.
+
+**Transferable vs. expired.** Expired: "seating is limited" (COVID-true in 2021,
+barred now by Ed's 2026-09-12 hard wall); the 50-70 age band (current target is 50-65,
+per this file above); the university-catalog illusion *specifically within Justin's
+core NKU territory*, since competitors copied it there. Transferable: borrowing a
+trusted institution's name so the piece reads as an invitation from somewhere the
+reader already trusts; curiosity bullets over taxonomy; stating FREE before any
+argument.
+
+**A failure mode the rejected three-buckets card has that neither Isla's design
+critique nor the prior record isolated: zero borrowed institutional credibility.**
+Justin's framework, delivered and defended by Justin alone — nothing tells a skeptical
+stranger that a place they already trust vouches for it. Jayme's judgment, Isla
+concurs: design polish alone doesn't close that gap. File as its own failure category,
+separate from tastefulness or argument-as-layout.
+
+**Strategic consequence — reasoning on record, not a decision.** If the mechanism is
+borrowed institutional credibility, hosting at credit unions/unions/employers (see
+partners-venues.md open venue question) isn't a new strategy — it's the same $6M
+mechanism redeployed where it isn't yet worn out. A credit union's members haven't
+seen five advisors dressed as their credit union's retirement course. Not decided by
+Justin; his to weigh.
+
+**Caveat 1 — n=1.** Inference from one winning document with no losing piece to
+compare against. Jayme and Isla converged on the same mechanism, but both read the
+same single artifact — one inference made twice, not independent confirmation. Log
+the whole mechanism read as a strong working hypothesis, never an established
+finding. Jayme's proposed test, **un-run**: one invitation variant carrying a host
+institution's name/authority vs. one that doesn't, into comparable lists.
+
+**Caveat 2 — lane boundary, Jayme defended it unprompted, Isla upholds it.** If a
+venue pivot proceeds, securing the partnership (an institution agreeing to host and
+lend its name) is Sloan's — it happens before anyone's been interrupted. The cold
+invitation mailed to that institution's members, who haven't opted in, stays Jayme's.
+Do not file a venue pivot as a wholesale handoff to Sloan; a mail package borrowing
+an institution's name is still an acquisition piece under Jayme.
+
+No conflicts found against the existing record — this entry refines the 2026-08-25
+format-crowding finding (per Jayme's own framing) and is consistent with the open NKU-
+branding question already logged in partners-venues.md.
