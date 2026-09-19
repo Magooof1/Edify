@@ -9,9 +9,56 @@ destination (undefined, own clearance), and Portfolio Medics' pre-approval proce
 resolved as of 2026-09-16 (see v2.1 note). **Disclosure block updated again
 2026-09-18 — see v2.2 note below. Language pending Justin's compliance sign-off;
 canonical source is `drafts/disclosure-blocks-v1.md`.** **Q5 rewritten 2026-09-18/19
-— see v2.3 note below. This is now the blocking fix on this draft; the mirror runs
-the mail-test funnel (see `drafts/mirror-mail-test-plan.md`) and can't move to Ed
-until this is settled.**
+— see v2.3 note below.** **Q4 rewritten 2026-09-19 — see v2.4 note below, after Ed
+overruled Sloan's original "flag it, don't block on it" read (right call: this is a
+2,000–3,000-piece mail run with no reader-side buffer, and "mirror completed" is a
+measured funnel stage per `drafts/mirror-mail-test-plan.md`, so a mislabeled yes
+doesn't just soft-nudge — it corrupts the metric). With both fixes applied, this
+card is ready to go back to Ed — alongside `drafts/mirror-landing-page-v2.md`,
+brought into line with it in the same pass. Neither has Ed's clearance yet.**
+
+## v2.4 — Q4 narrowed to test old-job status, 2026-09-19
+
+**Why this reopened.** The v2.3 audit below called Q4 a labeling mismatch — it
+tests general market exposure, not old-job status — and treated it as non-blocking,
+lower-stakes than Q5's false positive. Ed overruled that for this specific run, and
+he's right: the call was made for a supporting asset reaching a handful of
+landing-page visitors, this is a print run to thousands of strangers with nobody in
+the room to correct a mislabel, and a reader with a fully-exposed *current*
+employer plan gets handed, in writing, "money from an old job" — a factual
+mislabel, not an imprecise nudge. It also contaminates the one thing this whole
+mailer exists to measure: Stage 5 of the funnel plan is "mirror completed," and a
+Q4 that over-credits muddies what that number means before the test even runs.
+
+**The fix — anchor the referent, don't restructure the OR.** Same move as Q2's
+fix: point the question at a specific account instead of leaving it open. Q4 now
+says "that old account," referring back to the account named in Q3, instead of
+"any of your account balances," which is what let a reader with no old-job account
+at all check yes off their current 401(k).
+
+Before: "The last time the market dropped sharply — 2022, 2020, 2008, whichever
+you remember — did any of your account balances drop right along with it, with
+nothing in place to limit how far they fell?"
+
+After: "Thinking about that old account — the last time the market dropped sharply
+(2022, 2020, 2008, whichever you remember), did it drop right along with it, with
+nothing in place to limit how far it fell?"
+
+**Why this over Ed's other named option (splitting Q4 out of the Q3 OR).** A split
+changes the card's shape — five questions into three buckets via two ORs and a
+single — into something needing a fourth line item or conditional skip logic
+("only answer this if you said yes to Q3"). That's a bigger redesign than a fix Ed
+himself said shouldn't need to be invasive. Anchoring the referent gets the same
+result without it: someone with no old-job account has nothing for "that old
+account" to point at, so the honest answer is no.
+
+**Length, stated plainly, same discipline as Q5's note.** 34 words to 35 — one word
+added, not a sentence. This isn't Q5's fix; Q5 earned its 44% growth because it was
+standing between the card and active false comfort. Q4's defect only ever
+over-included into a bucket that doesn't claim protection; the reword removes the
+over-inclusion without adding argument-carrying text.
+
+**Unchanged:** Q1, Q2, Q3, Q5, the scoring key, and the Q3-or-Q4 OR structure.
 
 ## v2.3 — Q5 false-positive fix, 2026-09-18/19
 
@@ -80,19 +127,20 @@ answer in a way that gets credited with it?"**
   referent explicitly ("that same money" or "the money from Question 1").
 - **Q3 (old-job accounts): clean.** Concrete factual recall (do you have an old
   401(k)/403(b)/IRA) — not a self-assessed quality, low risk.
-- **Q4: a labeling mismatch, flagged, lower stakes than Q5's, not fixed here.**
-  Q4's actual text ("did any of your account balances drop... with nothing in place
-  to limit how far they fell?") tests market exposure generally — it isn't
-  diagnostic of "old job" status at all, despite being OR'd with Q3 into "money
-  from an old job, moving on its own." Someone with a fully exposed *current*
-  employer 401(k) can trigger this box with no old-job account in the picture.
-  Structurally the same disease as Q5's — a yes not actually earned by the bucket's
-  definition — but the direction of the error matters: bucket 2 doesn't claim
-  protection the way Blue does, so over-crediting into it tells someone "you might
-  have exposed money worth a second look," which is a soft, inclusive nudge toward
-  the CTA rather than false comfort that could talk someone out of getting help.
-  Worth Justin's and Ed's eyes before print, but I wouldn't hold the mail test on it
-  the way Q5's disease had to be held.
+- **Q4: a labeling mismatch — flagged here as non-blocking, overruled by Ed,
+  fixed in v2.4 below.** Q4's original text ("did any of your account balances
+  drop... with nothing in place to limit how far they fell?") tested market
+  exposure generally — not diagnostic of "old job" status at all, despite being
+  OR'd with Q3 into "money from an old job, moving on its own." Someone with a
+  fully exposed *current* employer 401(k) could trigger this box with no old-job
+  account in the picture. My original read: bucket 2 doesn't claim protection the
+  way Blue does, so over-crediting into it is a soft, inclusive nudge rather than
+  false comfort — worth Justin's and Ed's eyes before print, not worth holding the
+  mail test on. Ed's read, which stands: that calculus was made for a low-volume
+  supporting asset, not a several-thousand-piece mail run with a measured funnel
+  stage riding on it, and at that volume a factual mislabel handed to a stranger
+  with no one in the room isn't "soft" regardless of which direction it points.
+  See v2.4 above for the fix as applied.
 
 ## v2.2 — Trulip three-entity correction, 2026-09-18
 The v2.1 correction below (2026-09-12) fixed the RIA error but still called the
@@ -208,9 +256,9 @@ Answer yes or no.
    anymore?
    ☐ Yes ☐ No
 
-4. The last time the market dropped sharply — 2022, 2020, 2008, whichever you
-   remember — did any of your account balances drop right along with it, with
-   nothing in place to limit how far they fell?
+4. Thinking about that old account — the last time the market dropped sharply
+   (2022, 2020, 2008, whichever you remember), did it drop right along with it,
+   with nothing in place to limit how far it fell?
    ☐ Yes ☐ No
 
 5. Right now, could you name one part of your retirement savings that's invested
@@ -420,3 +468,9 @@ directive.)
    Q3) were checked against the same test and flagged but not fixed here — both
    noted as pre-print items for Justin/Ed, neither blocking the mail test the way
    Q5's defect did.
+9. **Q4 fix (v2.4, 2026-09-19):** full reasoning in the v2.4 note near the top of
+   this file. Summary for the record: Ed overruled the v2.3 non-blocking call on
+   Q4 for volume and measurement reasons specific to this mail run; the fix
+   anchors Q4's pronoun to Q3's account ("that old account") rather than
+   restructuring the Q3-or-Q4 OR, keeping the length change to one word. Card is
+   now considered ready for Ed's re-review alongside the landing page.

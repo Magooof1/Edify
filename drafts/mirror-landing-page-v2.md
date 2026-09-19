@@ -1,14 +1,47 @@
 # The Mirror — Facebook Test: Landing Page + Ad Copy — v2
 
-Draft v2 — Sloan, 2026-09-12
-Status: DRAFT. Copy only. Responds to Ed's first compliance pass on v1. NOT yet
-re-reviewed by Ed. NOT approved for publication or spend. Send this back to Ed before
-it goes anywhere near Justin.
+Draft v2 — Sloan, 2026-09-12. Synced to card v2.4 on 2026-09-19 (see v2.3 note below).
+Status: DRAFT. Copy only. Responds to Ed's first compliance pass on v1; this page's own
+compliance pass — the one Isla's flagged as the real remaining gate, since stages 3-5
+of the mail-test funnel all happen on it (`drafts/mirror-mail-test-plan.md`) — has not
+happened yet. NOT approved for publication or spend. Goes to Ed for its own clearance,
+alongside `drafts/mirror-card-v2.md`.
 
 v1 is preserved in full at the bottom of this file (APPENDIX) for the record — nothing
 in v1 was deleted, only superseded where Ed flagged it.
 
 ---
+
+## v2.3 — synced to card v2.4 (Q5, Q2, Q4), 2026-09-19
+
+Isla flagged this page as the real remaining gate, not the card — stages 3, 4, and
+5 of the mail-test funnel (`drafts/mirror-mail-test-plan.md`) all happen here, and
+this page hadn't been touched since v2.2 while the card picked up two more fixes
+(Q5's disqualifying sentence, v2.3; Q4's anchored referent, v2.4). Section 2 below
+is now word-for-word identical to `mirror-card-v2.md`'s current FRONT panel:
+
+- **Q2:** "some of that money" → "some of that same money" (Sloan's anaphora fix,
+  applied to the card by Isla 2026-09-19; carried here in the same pass rather than
+  left to drift further).
+- **Q4:** reworded to anchor on "that old account" instead of "any of your account
+  balances" — the fix Ed required before the card could mail (see card v2.4). This
+  page was still running the version Ed overruled; fixed now, not left stale.
+- **Q5:** gains the disqualifying second sentence ("A mix of stocks and bonds isn't
+  that by itself — even if someone else picked the mix.") — the card's v2.3 fix for
+  the false-positive that let a 60/40 household check yes. This page was still
+  running the pre-fix, one-sentence Q5 until now.
+
+**What else was checked and found not drifted:** Section 1 hook, Section 3 scoring
+key, Section 4's CTA paragraph and button notice, and Section 5's close all still
+match the card's current language (accounting for the card-vs-screen adaptations
+already flagged in earlier versions — "bring your answers... on this screen" and
+"This page is that picture"). Nothing else moved.
+
+**One thing this sync does not touch:** `mirror-card-correction-v2.md` (the
+email variant) is still running the pre-v2.3/v2.4 Q2, Q4, and Q5 text too — it
+wasn't in scope for this pass and Isla didn't ask for it, but it's the same
+instrument and will need the identical sync before it's anywhere near ready. Flagging
+rather than fixing silently.
 
 ## v2.2 — Trulip three-entity correction, 2026-09-18
 The v2.1 fix below (2026-09-12) corrected the RIA error but still named the
@@ -88,8 +121,11 @@ targeted piece reviewed so far.
   collapsible section; adding the marker so whoever builds this in Squarespace doesn't
   default to one.
 
-**Untouched, per scope:** the five questions, the scoring key, Justin's close. Cleared
-by Ed in the first pass, not re-opened here.
+**Untouched by the original v2 changelog above, per its scope:** the five questions,
+the scoring key, Justin's close. Cleared by Ed in the first pass at the time. **The
+five questions were subsequently synced to card v2.4 on 2026-09-19 — see the v2.3
+note near the top of this file** — so they are no longer identical to what Ed
+cleared in the first pass and need his eyes again along with everything else below.
 
 ---
 
@@ -124,28 +160,30 @@ Small, quiet type — a notice, not a second headline. It sits between the hook 
 five questions so a reader who never scrolls to Section 6 still saw it, but it isn't
 sized or weighted to compete with "Two Minutes. Five Questions."
 
-### Section 2 — The five questions (verbatim from card, required reuse — unchanged)
+### Section 2 — The five questions (verbatim from card v2.4 — synced 2026-09-19,
+see v2.3 note above)
 
 1. Do you have money in a savings account, a CD, or an annuity that's set up so the
    original amount you put in can't go down?
    Yes / No
 
-2. Could you get to some of that money within a few days if you needed it — without
-   a penalty, and without asking anyone's permission?
+2. Could you get to some of that same money within a few days if you needed it —
+   without a penalty, and without asking anyone's permission?
    Yes / No
 
 3. Do you have a 401(k), 403(b), or an IRA left over from a job you don't work at
    anymore?
    Yes / No
 
-4. The last time the market dropped sharply — 2022, 2020, 2008, whichever you
-   remember — did any of your account balances drop right along with it, with
-   nothing in place to limit how far they fell?
+4. Thinking about that old account — the last time the market dropped sharply
+   (2022, 2020, 2008, whichever you remember), did it drop right along with it,
+   with nothing in place to limit how far it fell?
    Yes / No
 
 5. Right now, could you name one part of your retirement savings that's invested
    for growth but has a specific plan in place designed to limit how much it could
-   lose in a bad year?
+   lose in a bad year? A mix of stocks and bonds isn't that by itself — even if
+   someone else picked the mix.
    Yes / No
 
 **Interaction spec (unchanged):** if Squarespace's form/quiz block supports simple
@@ -548,7 +586,13 @@ below, specific to the targeting rebuild)
 4. Still not for launch. Same open items from v1 remain open: calendar URL, Justin's
    last name and the six placeholder disclosure facts, Special Ad Category
    confirmation, and the popup/tracking/mobile checks in the Honest Read section.
-5. This goes back to Ed next — not to Justin.
+5. **v2.3, 2026-09-19: Section 2's five questions were synced to card v2.4** (Q2's
+   "that same money" anchor, Q4's "that old account" anchor, Q5's disqualifying
+   second sentence) — see the v2.3 note near the top of this file. That supersedes
+   note 1 above as far as "the five questions are untouched" goes; they're not,
+   as of this pass.
+6. This goes back to Ed next — not to Justin — for its own clearance, per the box's
+   rule that the QR/URL destination is its own advertisement.
 
 ---
 ---
