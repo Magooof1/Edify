@@ -500,14 +500,28 @@ facts close that gap.
   age, net worth. Justin's own assessment, verbatim: "They are solid." Consistent with
   the 2026-09-12 note above that Justin pulls the list himself from DRA. Vendor
   relationship logged in partners-venues.md.
-- **ZIP rotation — open hypothesis, not a finding.** Justin: "I have been doing
-  different zips." Cuts two ways: (a) rules out simple list fatigue — the recent drop
-  wasn't a fourth mailing landing on the same saturated households; (b) raises an
-  untested alternative that would look identical from the outside — if the strongest
-  ZIPs were mailed first in the 10-20-client years, each later rotation may be working
-  outward into progressively weaker territory: fresh names, declining list quality,
-  no creative decay involved at all. Confirm or kill with Justin before attributing the
-  3-unit result to creative alone.
+- **Target ages: 50-65, not 65+ (new fact, 2026-09-19).** A substantially
+  still-working population, not a retiree audience. This is the age select on the DRA
+  pull above and the audience the class itself is built for (schedule/logistics in
+  class-content.md, 2026-09-19 entry) — any prior modeling of this channel against a
+  retiree (65+) audience should be re-checked against this range.
+- **ZIP rotation — CORRECTED 2026-09-19, same day this was first logged. Fatigue is
+  back in, not ruled out; do not read the bullet this replaces as current.** The
+  original entry here read "rules out simple list fatigue" from ZIP rotation alone.
+  Justin corrected that directly: "my strongest area was around my office and I did
+  it at Northern KY University. I do hit that more so I think fatigue could be
+  playing along with other advisors doing it." And: "Yes the zips are still strong
+  but people have been seeing my mailer for years." **Corrected read:** Justin does
+  rotate ZIPs, but he returns to his strongest geography — around his office, near
+  NKU — more heavily than anywhere else. The ZIPs remain strong on paper (per DRA's
+  selects); the *households within them* have seen his mailer repeatedly over years.
+  Rotation doesn't rule out fatigue when the rotation itself is weighted back toward
+  the same core territory. **Compounding factor, also new:** other advisors are now
+  mailing the same area, per Justin — so this isn't only fatigue with Justin's
+  specific piece, it's category fatigue across multiple advisors competing for the
+  same households. Open question this reopens: is NKU branding usable to
+  differentiate in that crowded territory? See partners-venues.md (2026-09-19) — real
+  external relationship, confirm-first standing rule applies, not resolved here.
 - **Jayme, Paid Acquisition Lead, added 2026-09-19** (`.claude/agents/jayme.md`) — owns
   mail, ads, and paid landing pages; peer to Sloan, not under her. Structural reason on
   record: the rejected mailer had been briefed in Sloan's education voice (Godin,
@@ -520,3 +534,38 @@ facts close that gap.
 
 Cross-reference: brand-voice.md (dinner seminars as a brand call; the Sloan/Jayme
 voice split); partners-venues.md (High Note, DRA).
+
+---
+
+## 2026-09-19 (later) — Vendor/creative facts close the design hypothesis; a new offer-threshold hypothesis opens
+
+Facts supplied directly by Justin, 2026-09-19. Full vendor detail and the
+reconciled "designs his own piece / High Note" inconsistency are logged in
+partners-venues.md (High Note entry, same date) — cross-referencing rather than
+duplicating here.
+
+- **The piece improved while results declined — the most important evidence in this
+  file.** Justin's words: "I would argue the piece is way better now than when I
+  started and got more people." **This is strong evidence against creative quality
+  being the cause of the recent underperformance**, and it partially overturns
+  Isla's earlier design-quality diagnosis (2026-09-19, recorded in brand-voice.md as
+  "design quality is load-bearing in this practice" and in the reasoning behind
+  Jayme's creation). **Self-correction, logged plainly so it isn't inherited as
+  settled:** Isla was confident creative quality was a live suspect in the
+  underperformance; Justin's own before/after comparison argues the opposite. The
+  standing case for creative rigor (dinner-seminar-lever-forgone, no free lunch to
+  lean on) still holds as a general standard — what's overturned specifically is
+  reading the *recent decline* as a creative-quality problem. Weight shifts toward
+  the fatigue/category-crowding explanation above and the offer-threshold hypothesis
+  below.
+- **Working hypothesis, NOT a finding — Taleb's review is pending, do not treat as
+  established.** The ~90% close rate (class attendee → follow-up meeting) may be
+  substantially a product of the offer's own threshold rather than the class
+  content itself: a working 50-65 audience surrendering three and a half hours of a
+  Saturday (see class-content.md, 2026-09-19, for the schedule) has pre-qualified
+  itself severely before Justin ever speaks. If true, implication: a high-threshold
+  offer exhausts its addressable local population quickly on its own terms, meaning
+  Justin's volume goal and his conversion rate are structurally in tension — better
+  conversion of an ever-smaller self-selected group doesn't solve a volume problem.
+  **Taleb is stress-testing this now.** Flag his verdict here when it lands; until
+  then this is hypothesis, not diagnosis.
