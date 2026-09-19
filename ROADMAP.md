@@ -28,10 +28,15 @@ that input is saturating. Between classes the input is zero.
   sure they already have the middle realize they don't. Justin's pushback that
   set it: people think "my advisor did that" or "I'm 60/40, my bonds are the
   cushion," so the picture alone produces false positives. A mix is not a plan.
-  Every paid piece expresses this. Sloan building the kit: core piece, mailed
-  card, spring mailer, FB ad, video outline. The five bridge-message drafts in
-  `drafts/bridge-message-v1.md` were the step before this and are superseded —
-  Justin's read: generic, and nobody asked for Facebook.
+  Every paid piece expresses this. **The theme survives; the execution didn't.**
+  Justin rejected the first mailer build on 2026-09-19 — "we will get crickets" —
+  and he was right: it was an argument laid out to be read in order, briefed by
+  the education voice, which is the wrong craft for a cold compiled list. The
+  paid pieces (mailed card, spring mailer, FB ad) now belong to **Jayme**, the
+  Paid Acquisition Lead added that day. Sloan keeps the core piece and the video
+  outline — content for people who already chose to listen. The five
+  bridge-message drafts in `drafts/bridge-message-v1.md` were the step before
+  this and are superseded — Justin's read: generic, and nobody asked for Facebook.
 - **Paid spend, sequenced. Target: 3–4 clients per $6–7k.**
   - *$7k this year — the fall test.* Three-buckets card to a few thousand pieces,
     a smaller list than the usual ten. **Destination is the class, not a call**
@@ -115,7 +120,7 @@ and counted. Inputs equal outputs. Zero input weeks are the actual failure mode.
 | **Warm reach-outs** | Personal touches to clients, class attendees, the class pipeline, CPAs/attorneys. The correction email and the two stay-warm tracks are this at scale. | 25 (sized, see below) | Justin (Sloan drafts the cadence) | Existing relationships; TCPA consent status still gates texts |
 | **Content** | YouTube live-builds; clips and posts repurposed from them | 1 long-form / 2 weeks; 3 clips / week | Sloan → Ed | Every piece through Ed before publish |
 | **Cold at scale** | The spring mailer, the mirror card, venue/union/credit-union outreach for new class hosts | 3 venue contacts / week; mailers by season | Sloan (venue-partner-researcher) → Justin confirms before any real venue is touched | Confirm before touching a real external relationship |
-| **Paid** | The three-buckets card (fall test), then the spring mailer, then whatever earns it | Spend and bookings logged weekly; no minute count | Justin runs the list and mail house; Sloan builds; Ed clears | Card describes Green → OH/KY; Meta parked; Calendly spec |
+| **Paid** | The three-buckets card (fall test), then the spring mailer, then whatever earns it | Spend and bookings logged weekly; no minute count | Justin runs the list and mail house; **Jayme builds** (from 2026-09-19); Ed clears | Card describes Green → OH/KY; Meta parked; Calendly spec |
 
 **Warm input, sized (Justin's counts, 2026-09-16):** ~20 households in live
 conversation (closing, not in a cadence), ~30 who had the plan and went quiet
@@ -182,21 +187,36 @@ move to the log below with the date.
 2. **Calendly:** paid tier on; required question "What state do you live in?";
    event description per the spec in `drafts/mirror-landing-page-v2.md` Section 4;
    confirmations plain; two links (FB, card).
-3. **Two print blockers left on the three-buckets card**
-   (`drafts/three-buckets-theme-v1.md`). Closed 2026-09-18: sourced figures
-   (Vanguard Balanced Index Fund, 2008 −22.12% / 2022 −16.90%); the OH/KY mailing
-   list, confirmed by Justin; and the past-performance disclaimer, which Ed ruled
-   has to sit adjacent to the figures on Panel 3, not only in the Panel 5 block —
-   his exact line is now in the draft. Still blocking print:
-   - **(a) The "no pitch" policy note.** A dated internal policy plus an
-     operational first-meeting script, in Trulip's file, covering the card's
-     "bring your statements" invitation. Standing requirement since the mirror
-     card; still not confirmed to exist. This is the quiet one — it has been on
-     this list twice and blocks print on its own.
-   - **(b) Class date and venue.** The date and address print on Panel 4, so
-     nothing downstream finalizes without them. **Deadline: booked by 2026-09-25.**
-     Sloan and Isla independently back-solved the same week from print and mail
-     lead times. Slip it and the fall test becomes a January test.
+3. **Send Jayme the reference material for the mailer rebuild.** The card was
+   rejected 2026-09-19 and is being rebuilt from the same message by the new Paid
+   Acquisition Lead. Two things only Justin has:
+   - **(a) Scans or photos of the mailers that pulled 10-20 clients** — every
+     panel, front and back, two or three pieces. This is the control. Nobody on
+     this team has ever seen a piece that worked in his market, and designing
+     without it is what produced the rejected draft.
+   - **(b) Brand assets** — logo files, a headshot he'll actually use, anything
+     Edify-branded that exists. "None of it exists" is a valid answer and changes
+     the build.
+
+   **Open question back to Justin:** did High Note produce the recent
+   underperforming drop, or only the historical winners? If the supplier changed,
+   that's a likelier cause of the collapse than the channel dying.
+
+   **Still blocking print on whatever piece emerges** (both carried over, neither
+   affected by the rebuild):
+   - **The "no pitch" policy note.** A dated internal policy plus an operational
+     first-meeting script, in Trulip's file, covering the "bring your statements"
+     invitation. Standing requirement since the mirror card; still not confirmed
+     to exist. This is the quiet one — third time on this list.
+   - **Class date and venue.** The date and address print on the piece.
+     **Deadline was 2026-09-25** on the original schedule; the rebuild puts that
+     under real pressure, and a January test is now the likelier shape. Justin's
+     call whether to hold the fall slot or move.
+
+   Closed 2026-09-18, and still good for the rebuild: sourced figures (Vanguard
+   Balanced Index Fund, 2008 −22.12% / 2022 −16.90%); the OH/KY mailing list; and
+   Ed's ruling that a past-performance line sits adjacent to the figures, not only
+   in the disclosure block.
 
 **Next up (not yet assigned):** Meta verification — parked by Justin 2026-09-18.
 When he picks it up: business verification under Trulip Planning, LLC (holds the
