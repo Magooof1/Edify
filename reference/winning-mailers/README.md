@@ -34,10 +34,11 @@ job it was doing.
 - **"Due to health/safety guidelines, seating is limited"** appears on the registration
   panel. That is scarcity framing, and Ed's 2026-09-12 hard wall bars it. It passed in
   2021 because COVID made it a statement of fact. It does not transfer.
-- **The disclosure block is 2021-vintage and conflicts with the current record** on
-  which entity sells insurance and annuities. Flagged to Justin 2026-09-19; unresolved
-  as of this writing. Do not take entity facts from this piece — the standing rule is
-  that entity facts come from Justin directly, never inferred from a document, and this
-  is exactly the document that would mislead you.
+- **Ignore every entity name on this piece. Resolved by Justin, 2026-09-19: the names
+  have changed since 2021.** The disclosure block names Trulip Planning, LLC as selling
+  insurance and annuities, and the piece drives to a trulippartners.com URL. Neither
+  reflects the current structure — `CLAUDE.md` is the authority, and the standing rule
+  holds that entity facts come from Justin directly and are never inferred from a
+  document. This is exactly the document that would mislead you. Don't re-raise it.
 - The piece states "ages of 50 and 70." Justin currently describes his mail target as
   50-65.
