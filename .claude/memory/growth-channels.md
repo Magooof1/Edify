@@ -840,3 +840,49 @@ stated dislike of the host-institution plan (see standing constraint below).
 
 Cross-reference: partners-venues.md (host-institution/gatekeeper tension);
 compliance-precedents.md (mirror card compliance history, 2026-09-12 entries).
+
+---
+
+## 2026-09-21 — Standing strategic principle: "make it easy to work with us" (Justin, not a task)
+
+Justin's words, banked from years of observing people who don't become clients, not a
+request for a solution: **"We need to make it 'easy' for people to work with us. I
+don't know how to do that right now but something that I know holds people back along
+with the think they don't have enough money to have an advisor or feel intimidated."**
+No fix attached. Record as a lens for anyone designing an entry point, not a to-do.
+
+**Three separate problems, deliberately not merged into one "make it easier" note —
+each needs a different remedy:**
+1. **Friction, general.** Make it easy to work with him. Undefined as yet.
+2. **"I don't have enough money to have an advisor" — a qualification fear.**
+   Self-disqualification before contact. Nobody rejects them; they reject themselves.
+3. **Feeling intimidated — a status/competence fear.** Fear of looking foolish, being
+   judged for what they haven't done, being sold to. Different mechanism from #2;
+   information doesn't fix it, lowering the stakes of the first interaction does.
+
+**Isla's reasoning, logged alongside as reasoning, not finding:**
+- **This is the same thesis underneath the 2026-09-19 pivot, not a side note.** That
+  day's conclusion (see "Vendor/creative facts..." and "direct-mail landscape
+  research" entries above) was that the constraint wasn't list, creative, or venue,
+  but **the size of the ask** — a free 3.5-hour Saturday class. Justin has now named
+  the general principle underneath that specific finding independently. The mirror
+  mail test is therefore a test of this thesis, not only a channel test.
+- **The mirror is well-shaped against the intimidation barrier (#3),** whether or not
+  designed that way: self-scored, private, no one sees the answers, the card tells the
+  reader there's no wrong picture. Worth naming so the property is preserved
+  deliberately in any future revision, not lost by someone who doesn't know it was
+  load-bearing.
+- **"Bring your account statements"** (in the class invitation and several drafts)
+  fires both barriers at once: it implies accounts worth showing (#2) and handing them
+  to a stranger for evaluation (#3). Never examined in this light before. Flagged as a
+  **candidate for re-examination, not a finding that it's wrong** — it may be earning
+  its place with the people who do show up.
+- **Open question, not a plan:** every current entry point — the 3.5-hour Saturday
+  class, bringing statements, a meeting with an advisor, even the free Financial House
+  Analysis (genuinely generous but still a large commitment to accept) — is
+  high-friction. No entry point has been audited against this principle yet.
+
+Placed here (growth-channels.md) because it bears on offer/entry-point design;
+cross-referenced in brand-voice.md for anyone designing copy/tone for a first
+interaction. Flag any conflict this surfaces back to Isla — not Vannevar's call to
+resolve.

@@ -48,6 +48,17 @@ pages behind them. Created after a mailer briefed in Sloan's voice for a cold DR
 list was rejected by Justin outright. **Routing rule:** which voice governs a piece
 depends on who chose to listen, not the medium the piece happens to travel in.
 
+## 2026-09-21 — Cross-reference: "make it easy to work with us" (standing principle)
+
+Full entry lives in `growth-channels.md` (2026-09-21). Justin banked an observation,
+not a request: friction, the "not enough money" self-disqualification fear, and
+intimidation are three separate barriers needing three separate remedies — not one
+"make it easier" note. Relevant to any copy/tone decision for a first interaction, not
+just channel design. Ties to the 2026-09-19 finding (above, this file, and in
+growth-channels.md) that the *size of the ask* is the constraint. Candidate flagged
+for re-examination, not yet decided either way: "bring your account statements" in the
+class invitation may trigger both the money fear and the intimidation fear at once.
+
 ## 2026-09-18 — Three buckets is the organizing theme for all paid marketing
 
 Builds on, does not supersede, 2026-09-16 above (warm gets the name, cold gets the
