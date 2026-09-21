@@ -230,49 +230,47 @@ Three items at a time, never more. Isla owns the list; Justin owns the doing. Th
 Friday routine reads this section and asks about anything still open. Done items
 move to the log below with the date.
 
-**Open (updated 2026-09-18):**
-1. **Hand `drafts/disclosure-blocks-v1.md` to your compliance side.** One page,
-   five variants, open questions already sorted by owner. In the same Portfolio
-   Medics email, two extra lines: does a funnel whose conversion mechanism is Blue
-   — their active management — count as advisory marketing they want to see; and
-   do the AUM fees they pay Trulip Investment Management need solicitor disclosure.
-2. **Calendly:** paid tier on; required question "What state do you live in?";
-   event description per the spec in `drafts/mirror-landing-page-v2.md` Section 4;
-   confirmations plain; two links (FB, card).
-3. **Send Jayme the reference material for the mailer rebuild.** The card was
-   rejected 2026-09-19 and is being rebuilt from the same message by the new Paid
-   Acquisition Lead. Two things only Justin has:
-   - **(a) The control — SUPPLIED 2026-09-19.** The 2021 NKU spring mailer, the
-     piece that produced $6M, now at `reference/winning-mailers/`. Jayme's read
-     of why it worked is in `.claude/memory/growth-channels.md`, same date.
-   - **(b) Brand assets** — logo files, a headshot he'll actually use, anything
-     Edify-branded that exists. Still outstanding. "None of it exists" is a valid
-     answer and changes the build.
+**Open (rewritten 2026-09-21 — the prior list was stale, still naming a venue and
+class date that died with the mirror-test pivot).** Two of these three block the
+test outright. Everything the team owns is either done or in flight; these are the
+items nobody but Justin can do.
 
-   **Answered 2026-09-19:** High Note produced every mailer including the
-   underperformer, so no supplier change explains the collapse.
+1. **Calendly. Blocking.** Paid tier on; required question "What state do you live
+   in?"; confirmations plain. The event description spec is in
+   `drafts/mirror-landing-page-v2.md` Section 4. **Scope grew 2026-09-19:** Ed ruled
+   the booking page is *its own advertisement* with its own clearance and its own
+   Rule 204-2 log entry — so the event description and confirmation copy go to him
+   before it goes live. Write it expecting review. The mirror's QR and URL land
+   here; without it there is no test.
 
-   **Still blocking print on whatever piece emerges:**
-   - **The "no pitch" policy note.** A dated internal policy plus an operational
-     first-meeting script, in Trulip's file, covering the "bring your statements"
-     invitation. Standing requirement since the mirror card; still not confirmed
-     to exist. This is the quiet one — third time on this list.
-   - **Class date and venue. Deadline moved to early December** — Justin moved
-     the drop to January on 2026-09-19, retiring the 09-25 deadline and buying
-     the rebuild real time. The date and address still print on the piece, so
-     this gates art finals in mid-December. The open part is *which* venue:
-     mailing the worn NKU-area list with a better card is the one option the
-     mechanism analysis says won't work.
-   - **Confirm the perk tolerates a 2026 booking against a 2027 event.** Justin's
-     plan is to charge the spend to this year's budget and land the piece in
-     January. Use-it-or-lose-it marketing funds frequently don't allow that.
-     A question for whoever administers the pool, before anything is committed on
-     the assumption that it works.
+2. **The "no pitch" policy note. Blocking.** A dated internal policy plus an
+   operational first-meeting script, in Trulip's file, covering the "bring your
+   statements" invitation. **Fourth time on this list**, and Ed moved it from a
+   soft requirement to a hard one on 2026-09-19: a printed factual claim about how
+   a first meeting runs, going to thousands of strangers, needs its Rule 204-2
+   substantiation record to exist before it mails rather than eventually.
 
-   Closed 2026-09-18, and still good for the rebuild: sourced figures (Vanguard
-   Balanced Index Fund, 2008 −22.12% / 2022 −16.90%); the OH/KY mailing list; and
-   Ed's ruling that a past-performance line sits adjacent to the figures, not only
-   in the disclosure block.
+3. **One email to Portfolio Medics / the compliance side.** Not blocking the test,
+   but four separate questions have now accumulated on it and Ed's read is that
+   volume is a reason to close them rather than let them ride:
+   - `drafts/disclosure-blocks-v1.md` — one page, five variants, including the three
+     "confirm exact current wording" items (Portfolio Medics' required phrasing,
+     whether OH/KY require a printed license number, Portfolio Medics' own state
+     footprint).
+   - Does a funnel whose conversion mechanism is Blue — their active management —
+     count as advisory marketing they want to see?
+   - Do the AUM fees they pay Trulip Investment Management need solicitor disclosure?
+   - The plan-advisor / participant-advisor rollover conflict, if the employer
+     channel is ever pursued (`.claude/memory/compliance-precedents.md`, 2026-09-19).
+
+**Open but not blocking:** brand assets (logo, a headshot he'll use, anything
+Edify-branded — "none exists" is a valid answer); whether NKU declined to be
+branded or was simply never asked; and, only if the test slips into 2027, whether
+the perk tolerates a 2026 booking against a next-year spend.
+
+**Retired 2026-09-21:** the class date and venue, and the mailer rebuild — both
+belonged to the paid-mail-into-a-class play, which is retired. The control was
+supplied 2026-09-19 and the High Note question is answered.
 
 **Next up (not yet assigned):** Meta verification — parked by Justin 2026-09-18.
 When he picks it up: business verification under Trulip Planning, LLC (holds the
