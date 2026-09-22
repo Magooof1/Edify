@@ -43,15 +43,37 @@ that only a large difference is readable. Justin's call; flagged, not decided.
 Not response rate, not scans, not impressions. A booked meeting is the first point where
 someone has done the thing the old funnel needed a Saturday for.
 
+**Bands recalibrated 2026-09-22**, after Justin confirmed Harrison also cost ~$10k and
+after his real meeting-to-client rate replaced a guess. The earlier version of this
+table was one notch too harsh — it set the viable bar at 4 per 1,000 on instinct, and
+the economics don't require that.
+
 | Result | Reading | What follows |
 |---|---|---|
-| **< 1 per 1,000** | The offer was not the constraint. | Mail is done. Stop spending on it and put everything behind the other two doors. |
-| **1–3 per 1,000** | Better than the class, not enough to scale. | A second test, not a rollout. Change one thing and re-run. |
-| **4+ per 1,000** | The offer *was* the constraint. | Scale it. This is roughly ten times the Ohio drop's attendance rate. |
-| **8+ per 1,000** | Strong. | Scale hard and re-examine whether the class should exist in its current form at all. |
+| **< 1 per 1,000** | The offer was not the constraint either. | Mail is done. Stop spending on it and put everything behind the other two doors. |
+| **1–2 per 1,000** | Ambiguous — roughly break-even against today's cost per client. | A second test, not a rollout. |
+| **2+ per 1,000** | The offer *was* the constraint. | Scale it. |
+| **4+ per 1,000** | Strong. | Scale hard, and reopen whether the class should exist in its current form. |
 
-**Baseline to beat:** the April 2025 Ohio drop produced 4 attendees from ~10,000 pieces
-— 0.4 per 1,000. The bar above asks for ten times that at the booking stage.
+**Why 2 per 1,000 is the line.** At 2,500 pieces that's 5 booked meetings. Harrison
+converted 2 meetings into 1 client, and while that's a single data point it's
+consistent with a practice that closes unusually well — call it roughly half. Five
+meetings therefore implies 2–3 clients against a test cost near $3,000, or about
+**$1,200 per client.** Compare: his recent drops run ~$3,333 per buying unit and his
+historical good years ran $500–1,000. So 2 per 1,000 is where this channel stops losing
+money, and 4 per 1,000 is where it returns to being the best acquisition he has ever
+had.
+
+**Baseline to beat:** the three most recent drops each cost about $10,000 and produced
+3–4 people. That is 0.3–0.4 per 1,000 at the *attendance* stage. The bar above asks for
+roughly five times that at the *booking* stage — a lower-threshold ask, which is the
+entire hypothesis.
+
+**The prior this is running against, stated plainly so nobody reads the test
+optimistically.** Three drops, roughly $30,000, across two states, two venues and two
+list sources, produced on the order of one to two actual clients. That is $15,000–30,000
+per client against a historical $500–1,000. Whatever is broken is not geography, not
+venue, and not list.
 
 ### The business metric behind it
 

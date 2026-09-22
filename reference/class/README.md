@@ -165,11 +165,15 @@ Three things follow, and none of them were in the record before:
 
 ### What the three results together actually say
 
-| Room | Top of funnel | Downstream |
-|---|---|---|
-| NKU / Northern Kentucky, ongoing | 3 buying units from ~$10k | ~90% of attendees book a follow-up |
-| IWU West Chester, April 2025 | 4 attendees from ~10,000 pieces | — |
-| Harrison, 2026 | 3 sign-ups | 2 meetings, 1 client |
+| Room | Spend | Top of funnel | Downstream |
+|---|---|---|---|
+| NKU / Northern Kentucky, ongoing | ~$10k | 3 buying units | ~90% of attendees book a follow-up |
+| IWU West Chester, April 2025 | ~$10k | 4 attendees | — |
+| Harrison, 2026 | ~$10k | 3 sign-ups | 2 meetings, 1 client |
+
+**Roughly $30,000 across the three, for on the order of one to two actual clients.**
+That is $15,000–30,000 per client, against a historical $500–1,000. Justin confirmed
+Harrison's spend 2026-09-22, which was the last number needed to say this plainly.
 
 **Three venues, two states, two list sources, one pattern: the top of the funnel is dead
 everywhere and the conversion downstream is excellent everywhere.** Geography did not
