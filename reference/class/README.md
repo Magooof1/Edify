@@ -60,7 +60,16 @@ house with YOU inside, three circles beneath.
 - **Sourcing** — Boston College CRR, Society of Actuaries, J.P. Morgan's Guide to
   Retirement, DALBAR, BLS. Citable, and already vetted.
 
+## Coverage — confirmed 2026-09-22
+
+**Justin presents essentially every slide in these files.** He had already deleted the
+ones he doesn't use; the unreviewed tactical chart on Part 2 slide 2 is an orphan he
+missed, not a deliberate inclusion.
+
+Practical consequence: his spoken script should map close to one-to-one against the
+107 slides. A gap between script and deck is more likely to mean something was missed
+than that a slide is silently skipped.
+
 ## Open
 
-Justin's spoken script is coming separately. Also unanswered: whether other slides in
-these decks go unused, which matters for reading that script against the files.
+Justin's spoken script, coming separately.
