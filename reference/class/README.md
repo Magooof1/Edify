@@ -150,21 +150,49 @@ Three things follow, and none of them were in the record before:
    venue-diversification work (`.claude/memory/partners-venues.md`) was treating a new
    venue as an untested step; it isn't.
 2. **Ohio has now been tried twice**, not once — IWU West Chester in April 2025 (4
-   attendees from ~10,000 pieces) and Harrison in 2026. **How Harrison performed is an
-   open question put to Justin and not yet answered.** It matters: the Ohio conclusion
-   currently rests on a single bad result.
+   attendees from ~10,000 pieces) and Harrison in 2026. **Harrison's result, confirmed
+   by Justin 2026-09-22: 3 sign-ups → 2 meetings → 1 client so far.** Spend and piece
+   count for that drop are still unknown, which is the number that decides whether it
+   was efficient or catastrophic.
+
+   So the Ohio read holds and is no longer resting on one result. But note what the
+   downstream numbers say: **two of three became meetings and one of three became a
+   client.** That is not a weak room. It is a tiny room converting well.
 3. **The higher-commitment step required more travel than the lower one, and people
    still came.** Class in Ohio, Visit 2 across the state line in Kentucky. Once someone
    is engaged, geography appears to bind less than assumed — which is consistent with
    the reading that the *ask*, not the distance, is what filters.
 
+### What the three results together actually say
+
+| Room | Top of funnel | Downstream |
+|---|---|---|
+| NKU / Northern Kentucky, ongoing | 3 buying units from ~$10k | ~90% of attendees book a follow-up |
+| IWU West Chester, April 2025 | 4 attendees from ~10,000 pieces | — |
+| Harrison, 2026 | 3 sign-ups | 2 meetings, 1 client |
+
+**Three venues, two states, two list sources, one pattern: the top of the funnel is dead
+everywhere and the conversion downstream is excellent everywhere.** Geography did not
+fix it. A different venue did not fix it. A fresh list did not fix it.
+
+**The reframe this forces, and it is the useful one.** The problem was never that the
+rooms are small. A two-attendee class is on record tracking a $5M client
+(`growth-channels.md`, 2026-08-25); Harrison turned three sign-ups into a client.
+**Small rooms are fine. Expensive rooms are not.** A three-person room that costs $500
+to fill is a good business; the same room at $7,000 is not.
+
+So the question is not how to fill bigger rooms — it is how to fill rooms cheaply. Which
+is why the mirror test measures **cost per booked meeting** rather than response rate
+(`drafts/mirror-mail-test-plan.md`). Volume was never the thing to optimise.
+
 ### The newsletter opt-in has nothing behind it yet
 
-Justin added the checkbox recently; no newsletter exists and nothing has gone out
-(confirmed 2026-09-22). Worth naming as a small, quiet liability rather than a feature:
-every class collects permission that is never used, and permission that goes unexercised
-decays. Either something ships to that list or the ask is doing nothing but harvesting
-addresses. Sloan's lane if it becomes real — content for people who explicitly opted in.
+Justin added the checkbox recently; no newsletter exists and nothing has gone out.
+**His decision, 2026-09-22: keep the permission, build it eventually, not urgent.**
+Recorded so nobody re-raises it as a gap — it is a deliberate hold, not an oversight.
+The standing caution still applies quietly: permission that goes unexercised decays, so
+the value of the list is falling slowly while it sits. Sloan's lane whenever it becomes
+real.
 
 ## Open
 
