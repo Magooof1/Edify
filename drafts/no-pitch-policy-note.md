@@ -45,19 +45,13 @@ response to a regulatory request.
   part of class)"* and by Justin in the script as *"it's free, it's included as part of
   the class."*
 
-**[BLANK — entry-point scope, needs Justin's confirmation before this note can
-substantiate the mailer as written.]** The source material this note is drawn from
-documents the first visit only as the next step of a class already attended (Step 2 of
-Part 1). The mailer this note is meant to support (`drafts/mailer-v2-from-the-class.md`)
-offers the identical visit — same structure, same "no pitch," same cost — directly to a
-cold mail recipient who has never attended a class, with no class to anchor "included
-as part of" against. Before this policy is signed, Justin should confirm plainly: is a
-first visit booked directly from the mailer run exactly the same way, with the exact
-same no-pitch standard, as a first visit booked from the Step 2 Form after a class? If
-yes, say so in this document explicitly, in one sentence, so the record covers both
-entry points. If the two are not identical in practice, the mailer's claim is currently
-broader than what this note can substantiate, and that is a copy problem to flag back
-to Jayme, not something to paper over here.
+**Confirmed 2026-09-22 by Justin.** *"Yes the cold visit is the same, no form though."*
+A first visit booked directly from mail or web (a cold lead who has never attended a
+class) is the **same meeting** as a class-connected Step 2 visit — same hour, same
+location, same content, same boundaries (Sections 2–4 below apply identically to
+both entry points). The only operational difference is that a cold-booked attendee
+arrives without a completed Step 2 Form, which changes how the agenda is set — see
+Section 2.
 
 ---
 
@@ -66,11 +60,17 @@ to Jayme, not something to paper over here.
 - The agenda is driven by the attendee's own stated areas of concern, not by Justin's
   selection. For a class attendee this is the checkbox section of the Step 2 Form —
   Foundation (Investments), Income, Legacy, Health & Care — checked by the attendee
-  before the visit is scheduled. [BLANK — for a visit booked directly from mail or web
-  with no Step 2 Form involved, how is the agenda set? Does Justin ask the same
-  categories verbally at the start of the visit, use a different intake document, or
-  something else? Needed so the "attendee sets the agenda" claim is true for both entry
-  points, not just the class-connected one.]
+  before the visit is scheduled, so the agenda is set before Justin sits down.
+- **Confirmed 2026-09-22 — the cold-lead case.** For a visit booked directly from mail
+  or web, there is no completed Step 2 Form in hand. The visit instead opens with
+  Justin asking what brought the attendee in, and the agenda is established verbally
+  at the start of the conversation rather than pre-selected by checkbox. This is
+  deliberate on the marketing side, not an operational gap: the booking page and
+  mailer carry no concern checklist by design, because a list of worries reads
+  naturally on a form filled out after three hours in a room, and reads like a
+  dossier when a stranger is asked to fill one out cold before ever meeting him. The
+  "attendee sets the agenda" claim holds for both entry points; only the mechanism
+  differs — checkbox in advance versus spoken at the start.
 - Justin discusses the checked/stated areas of concern in conversation. Per the script,
   this includes questions such as: how much Social Security the attendee has and when to
   take it, how a pension coordinates, what monthly expense need exists and whether
@@ -90,10 +90,14 @@ Stated here as policy, not aspiration:
 - **No solicitation.** The visit is not used to solicit the sale of an insurance or
   investment product.
 
-[BLANK — Justin, is there anything the above list is missing, or anything it overstates
-about how you actually run the visit? This section is the operational core of the "no
-pitch" claim and needs to be checkable against your actual practice, not just against
-what sounds right.]
+**CONFIRM OR CORRECT.** As drafted, this section states the boundary as a hard line:
+nothing named, nothing proposed, nothing signed. If practice actually has a softer
+edge — for instance, a general observation spoken out loud about a category being
+unprotected or underfunded, offered without naming a specific product or making a
+specific recommendation — say so directly, and this list should be corrected to state
+that edge as policy rather than leave it unstated. Better that a line here gets struck
+or narrowed than that this document states a tighter boundary than what actually
+happens in the room.
 
 ## 4. What happens when an attendee brings documents
 
@@ -111,30 +115,31 @@ statements or other documents to a first visit, the following applies as policy:
   first visit, the second does not.
 - No product is proposed based on what the documents show, at the first visit.
 
-[BLANK — this is the section that most needs Justin's own words rather than mine.
-Confirm the above is actually how you handle it in the room, and correct anything that
-overstates or understates the boundary. If there is a soft edge here in practice — for
-instance, a general observation made out loud about a category being unprotected,
-short of a specific recommendation — say so plainly rather than leaving the policy
-cleaner than the practice; a policy note that doesn't match practice does not
-substantiate anything.]
+**CONFIRM OR CORRECT.** Same principle as Section 3 — this is one continuous boundary
+with a document review on one side of it and a product conversation on the other. If
+reality has a soft edge here too, correct it here directly rather than leaving this
+section cleaner than the practice it's meant to substantiate.
 
-## 5. What diagnosis is possible when an attendee brings nothing
+## 5. What diagnosis is possible depending on what's brought
 
 The mailer promises: *"We'll look at what you've already got and tell you how much of
-it is green, how much is blue, and how much is red"* and separately, in the same
-breath, that this holds *"even if that's nothing at all"* is brought.
+it is green, how much is blue, and how much is red."*
 
-[BLANK — this is the one place I think the mailer may be promising more than the source
-material supports, and it needs your direct answer, not my inference. Can you actually
-produce a green/blue/red breakdown from conversation alone, with no documents in hand
-and no account numbers or balances known — or does a first visit with nothing brought
-produce something looser (a general conversation about the categories, with the actual
-breakdown following once documents are seen, possibly at a second visit)? If the answer
-is the latter, the mailer's "even if that's nothing at all" line is overpromising the
-first visit's output and should go back to Jayme as a copy fix — either soften what's
-promised for the no-documents case, or confirm this document's own account before
-signing it.]
+**Resolved 2026-09-22.** Justin approved restoring his own class line to the mailer,
+which a prior draft had kept the first half of and cut the second: *"Bring whatever's
+most comfortable for you. The more you bring, the more precise we can be."* Jayme is
+applying that fix to the mailer's copy. Policy, stated to match:
+
+- **Without documents,** the first visit still produces a real conversation about the
+  green/blue/red categories and a rough read of the attendee's mix, built from what
+  the attendee describes and knows about their own accounts.
+- **With documents,** the same conversation produces a materially more precise
+  breakdown, because Justin is looking at actual holdings rather than a description of
+  them.
+- Neither case involves a product recommendation — see Sections 3–4.
+
+The promise scales with what's brought; it is not identical either way, and the
+mailer's copy should read that way once Jayme's fix is in.
 
 ## 6. What triggers a second visit, and who decides
 
