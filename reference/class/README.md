@@ -70,6 +70,81 @@ Practical consequence: his spoken script should map close to one-to-one against 
 107 slides. A gap between script and deck is more likely to mean something was missed
 than that a slide is silently skipped.
 
+## The Step 2 form — the most important artifact in the practice
+
+`step-2-form-2026-04-18.pages`, with `step-2-form-2026-04-18-preview.jpg` for anyone
+who can't open Pages. Handed out at the end of Part 1. Blank sample, no client data.
+
+The eval-form checkbox pattern already on record in `growth-channels.md` (2026-09-12)
+as "the most important fact in this file for anyone drafting content" is *this* form.
+Here is what it actually does, which is more than the record captured.
+
+### It is not called an evaluation, and that matters
+
+The header says "Course Evaluation" and the rating questions are real, but they are the
+pretext. The document is titled **"Step 2 Form"** and its working section is **"Step 2:
+Visit."** Justin does not ask anyone to book a meeting with an advisor. He asks them to
+**schedule Part 2 of the class they are already attending.**
+
+The supporting language does the rest: *"Next Step of the class is to schedule to
+discuss your areas of concern," "Attend your 1 Hour Visit," "\* No Cost (Included as
+part of class)."*
+
+**This is the answer to the friction problem Justin raised on 2026-09-21, and he is
+already doing it — in the room, not in the marketing.** Against the two barriers he
+named: the money fear is removed by "no cost, included as part of class"; the status
+fear is removed because it is a class, not a sales appointment; and the commitment fear
+is removed because it is the next step of something already begun rather than a new
+decision.
+
+Nothing in any marketing piece uses this framing. The mirror card asks a cold reader to
+book a meeting. The class asks a warm one to finish the course.
+
+### The scheduling mechanism is also a friction device
+
+A printed grid of eight dates with specific times, and the instruction **"Circle your
+top 2."** No phone call, no callback, no "we'll be in touch to find a time." The
+attendee picks from a menu while sitting in the room with him. Confirmation follows
+within 48 hours.
+
+### The bucket labels differ from the marketing's, and the class's are better
+
+Under **I. Foundation (Investments)**, the three circles are labelled:
+
+| | Class label | Marketing has been using |
+|---|---|---|
+| 🟢 | **Principal Protected** | "Can't lose value" |
+| 🔵 | **Manage Risk — Tactical Investments** | "Managed with a plan for the downside" |
+| 🔴 | **Accept Risk — Buy and Hold Investments** | "Fully exposed" |
+
+**Red is the one to look at.** "Accept Risk / Buy and Hold" describes a legitimate
+strategy the reader chose. "Fully exposed" implies they have been negligent. For a
+practice whose owner has just named intimidation as a barrier, the class's framing is
+the more respectful one and it did not come from us — it is what he already says.
+
+Worth a deliberate decision rather than drift: which vocabulary is canonical, and why
+the cold pieces diverged from the warm instrument.
+
+### The concern checklist is organised by the house, not the buckets
+
+Foundation, Income (Wall), Legacy (Wall), Health & Care (Roof) — the same architecture
+as the decks. The buckets appear only inside Foundation. Further confirmation that the
+house is the frame and the buckets are a component of it.
+
+### This form is the mirror, warm, already proven
+
+Self-identified areas of concern, checkbox-driven, no advisor diagnosis, leading to a
+booked next step. That is structurally what `drafts/mirror-card-v2.md` is trying to do
+cold — except this version has been converting at roughly 90% for years. The mirror
+should probably be borrowing from it far more than it currently does.
+
+### Two facts noticed in passing
+
+- **Locations: "Crestview Hills or Harrison."** Harrison is in Ohio. Justin has an Ohio
+  location, while the DRA mail list is 100% Kentucky ZIPs.
+- **"Would you like to receive our newsletter?"** — a standing opt-in. Unknown whether a
+  newsletter actually exists or what goes out.
+
 ## Open
 
 Justin's spoken script, coming separately.
