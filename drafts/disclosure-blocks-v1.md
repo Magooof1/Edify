@@ -1,4 +1,95 @@
-# Disclosure Blocks — Canonical Source, v1
+# Disclosure blocks
+
+> **CANONICAL SOURCE, SET 2026-09-22 BY JUSTIN. READ THIS BEFORE ANYTHING BELOW.**
+>
+> Justin: *"Just use the disclosure that I sent you from the mailer that's approved."*
+> Followed by, when asked which entity the insurance line should name:
+> **"Trulip Investment Management, LLC."**
+>
+> **Block A below is now the disclosure this practice uses.** It is the block from the
+> 2021 NKU mailer (`reference/winning-mailers/`) — already approved — with the insurance
+> line corrected to the current entity. Everything else is the approved wording,
+> untouched.
+>
+> **The five variants further down this file are SUPERSEDED.** They were written by this
+> workforce and carried "confirm exact current wording" markers that had been open with
+> outside counsel for two weeks. They are kept below for reference only. Do not build
+> from them, and do not reopen their open questions — using approved language instead of
+> invented language is what closes those.
+
+---
+
+## Block A — the approved block, entity corrected (USE THIS)
+
+Investment advisory services offered through Portfolio Medics, LLC a SEC-Registered
+Investment Advisor. Portfolio Medics does not provide legal or tax advice. Investment
+Advisor Representatives of Portfolio Medics may only conduct business with residents of
+the states and jurisdictions in which they are properly registered or exempt from
+registration requirements. This summary is for informational purposes only and shall not
+constitute advice, an offer to sell, or a solicitation of an offer to buy any securities
+and may not be relied upon in connection with any offer or sale of securities. The
+contents of this report should not be relied upon in making investment decisions. The
+accompanying performance statistics are based upon historical performance and are not
+indicative of future performance. Past performance is no guarantee of future performance
+or profitability. The types of investments discussed also do not represent all the
+securities purchased, sold or recommended for clients. Stated information is derived
+from proprietary and non-proprietary sources that have not been verified for accuracy or
+completeness. While the firm believes this information to be correct, we do not claim or
+have responsibility for its completeness, accuracy or reliability. Views expressed by
+Trulip Planning, LLC do not reflect the opinions of Portfolio Medics, LLC. The firm also
+assumes no duty to update any information in this presentation for subsequent changes of
+any kind. Securities transactions for Portfolio Medic clients are placed through TCA by
+E*TRADE, TD Ameritrade and Nationwide Advisory Solutions. Your investment advisor may
+recommend third-party money managers who utilize investment strategies designed to
+minimize portfolio volatility and reduce the risk of declines in account values. Like any
+other investment strategy, this approach entails risks, including the risk that client
+accounts can still lose value and the risk that a defensive position may, at any given
+point in time, prevent client accounts from appreciating in value. Insurance and annuity
+products are not sold through Portfolio Medics. **Insurance and annuity products are sold
+separately through Trulip Investment Management, LLC.** Portfolio Medics does not endorse
+any annuity or insurance products nor does it guarantee their performance. Owners of
+these products are subject to the terms and conditions of the policies and contracts of
+the issuing companies. All product guarantees depend on the insurance company's financial
+strength and claims-paying ability.
+
+### What changed from the approved 2021 original — exactly one thing
+
+**"Insurance and annuity products are sold separately through Trulip Planning, LLC"** →
+**"...through Trulip Investment Management, LLC."** Justin's instruction, 2026-09-22.
+Nothing else in the block was altered.
+
+### Two things deliberately left alone, both flagged rather than fixed
+
+**"Views expressed by Trulip Planning, LLC"** — left as-is. Justin's answer was about the
+*insurance* line, and this is a different sentence: Trulip Planning holds the marketing
+trade name, so it is plausibly the correct entity for whose views appear in marketing.
+**That is Isla's inference, not Justin's instruction.** If it should also read Trulip
+Investment Management, it is a one-word change — but nobody should make it on a guess,
+given this workforce has already put a wrong entity name into nine drafts once.
+
+**The custodian list — "TCA by E*TRADE, TD Ameritrade and Nationwide Advisory
+Solutions"** — is 2021-vintage and TD Ameritrade no longer exists under that name
+following the Schwab integration. Left exactly as approved. This is Portfolio Medics'
+own language about their own custodians, and correcting it unasked would be this
+workforce editing another firm's approved disclosure. Worth mentioning to them once;
+not worth holding a mailer for.
+
+### How to use it
+
+Clone verbatim from this file at build time. Never retype it, never paraphrase it, never
+let a piece carry its own copy — that discipline is what kept the three-buckets card
+clean through the 2026-09-18 entity correction while nine other drafts were wrong for
+six days.
+
+---
+
+# SUPERSEDED BELOW — reference only
+
+Everything from here down predates 2026-09-22 and was written by this workforce rather
+than approved. Kept for the reasoning it contains. **Do not build from it.**
+
+---
+
 Drafted by Ed (Marketing Compliance Lead), 2026-09-18, from facts supplied directly by
 Justin the same day. Rebuilds every disclosure variant from scratch on the corrected
 three-name entity structure. Supersedes every disclosure block currently sitting in
