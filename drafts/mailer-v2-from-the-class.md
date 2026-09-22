@@ -8,6 +8,21 @@ Status: replaces the rejected three-buckets card as the working concept for the
 or success bands — this changes what the piece says and how it's built, not how it's
 measured.
 
+**Revised 2026-09-22 per Isla's four-point review.** (1) The visit's length was
+wrong throughout — fixed to "about an hour," matching the Step 2 form, not carried
+over from the retired mirror card's twenty-minute phone call. (2) The "free"
+argument below is reconciled, not just re-asserted — see that section. (3) Sloan's
+vocabulary ruling is applied: Justin's literal labels, not invented ones like
+"fully exposed," govern wherever a bucket is actually *described*. This piece
+never described a bucket — Panel 3 uses only the bare color words inside a promise
+— so no copy changed, but the rule is now stated explicitly rather than left
+implicit, and the separate open question (do unexplained color words belong on a
+cold piece at all) is still flagged for Justin below, unresolved by this ruling.
+(4) Panel 2 was reviewed against Sloan's warm/cold boundary and ruled in bounds — a
+hook derived from the class arcs, not the arc itself transplanted. Noted at Panel 2
+below as the standing principle for anything built from this material going
+forward.
+
 ---
 
 ## The one-line case
@@ -65,6 +80,14 @@ stops a hand over a trash can, because nothing else in that stack of mail asks t
 reader to do that. And it needs no institution behind it — it works precisely
 *because* it doesn't borrow anyone's name. It borrows nothing. It just dares.
 
+**Confirmed independently, 2026-09-22 — Ed.** Ruled clean while this was in
+progress, landing on the same read: the *instruction* to look him up is the safe
+form; the piece must never reproduce his actual BrokerCheck record, since a
+screenshot goes stale and reproducing a regulator's record risks implying
+regulatory endorsement, which the Marketing Rule specifically prohibits. This panel
+already only carries the instruction — no screenshot, no reproduced record — so it
+stands as drafted.
+
 ---
 
 ## PANEL 2 — The correction (what the tornado and the contractor are for)
@@ -92,13 +115,23 @@ reader to do that. And it needs no institution behind it — it works precisely
 
 **Small photo callout, bottom of panel:** `justin-whiteboard-three-buckets.jpg`,
 caption: *"This is what that conversation looks like when it's three and a half
-hours long. The couch version takes twenty minutes."*
+hours long. The couch version takes about an hour."*
 
 **Flag for Ed on the photo.** Brand-assets README already raised this: the three
 circles in that photo are unlabeled, and per the 2026-09-12 precedent ("triggers
 attach to what's described, not named") an unlabeled colored ring probably isn't
 "describing Green." Probably. Route it before it ships, not after — Ed's call, not
 mine or a designer's.
+
+**Ruled in bounds, 2026-09-22 — Isla, on Sloan's warm/cold boundary.** Sloan's
+position is that the class's teaching *arcs* (Everest with Brennan and the altitude
+circles, the full tornado build, the whole contractor/two-doctors sequence) are
+hers — built to pay off after minutes of buildup with a room that's agreed to sit
+still — and lifting one into cold copy risks reproducing exactly the rejected
+card's failure in new clothes. Isla's ruling: this panel is a question plus a
+compressed analogy, derived from the arc, not the arc transplanted — in bounds. The
+principle carries forward past this piece: take the fragment, not the sequence, and
+re-derive for cold rather than lift.
 
 ---
 
@@ -108,9 +141,13 @@ mine or a designer's.
 
 > **I'll tell you what you already have.**
 
+**Kicker, directly under the headline:**
+
+> **It's free. There's nothing to buy, and nothing to sign.**
+
 **Body:**
 
-> Not a class. Not a sales meeting. A visit — twenty minutes, just you, sitting on
+> Not a class. Not a sales meeting. A visit — about an hour, just you, sitting on
 > a couch, having a conversation.
 >
 > We'll look at what you've already got and tell you how much of it is green, how
@@ -129,7 +166,19 @@ mine or a designer's.
 > → [QR CODE — same destination]
 > → Or call [TRACKED PHONE NUMBER] and just ask for a visit.
 
-**Why "green, blue, and red" appears here with zero explanation.** This is the one
+**Vocabulary ruling applied here, 2026-09-22.** Isla upheld Sloan's ruling that any
+piece describing a bucket uses Justin's own labels from the Step 2 form —
+Principal Protected / Manage Risk — Tactical Investments / Accept Risk — Buy and
+Hold Investments — never invented substitutes like "fully exposed," which reads as
+a judgment on a legitimate choice to an audience whose own advisor named
+intimidation as the barrier. This panel doesn't trip that rule because it never
+describes a bucket — it names three bare color words inside a promise. If this
+piece, or any future one, ever needs to say what a bucket *is* rather than just
+that Justin will identify it, his labels are the only acceptable language, full
+stop, not a style option.
+
+**Why "green, blue, and red" appears here with zero explanation — the separate
+question Isla's ruling left open, still mine to defend.** This is the one
 place in the piece the bucket words show up, and they show up only inside a direct
 promise — *I will tell you your mix* — never as a taxonomy the reader has to
 understand to act. That's a real departure from Sloan's mirror-card decision
@@ -210,25 +259,41 @@ watching in the Stage 3 vs. phone-path numbers once this runs.
 
 ---
 
-## The cold equivalent of "free, included as part of the class"
+## The cold equivalent of "free, included as part of the class" — reconciled with
+## the control's own mechanism, 2026-09-22
 
-That line disarms the money fear completely in the room, and it works only because
-the reader already sat through Part One — they've "paid" with three and a half
-hours, so the next ask reads as already-covered. A cold reader hasn't paid anything,
-so the line has no sunk cost to attach to.
+**Isla caught a real contradiction in the first draft, and it needed resolving, not
+picking a side.** My mechanism read of the 2021 control named FREE in large type as
+load-bearing — it kills the cost objection before the reader decides to care. This
+draft's first pass argued the opposite: that "free" is the least differentiated
+word in retirement mail and concreteness should replace it. Both can't be right
+about the same reader, and I'd overcorrected — the fix isn't to drop "free," it's
+to see that the control's FREE and this piece's concreteness are answering two
+different fears, not competing to answer the same one.
 
-**What I used instead: concreteness, not the word "free."** "Free" is what every
-piece of retirement mail already says, cold or not — it's the least differentiated
-word available. What actually disarms the money fear on a cold piece is describing
-the mechanism specifically enough that there's nothing left to be afraid of: *a
-couch, a conversation, no products, nothing to sign, twenty minutes.* That's the
-Step 2 form's own device ("just going to be you sitting on a couch, having a
-conversation") doing the same job the sunk-cost frame does in the room — it isn't
-"free because you already paid," it's "free because there is nothing here that
-costs you anything, and here is exactly what it is." I think this holds, but it's
-untested against the room's version and I'd want the Stage 5→6 dropoff (mirror
-completed → meeting booked) watched closely as the read on whether it actually
-worked.
+**The control's FREE was killing a cost objection about the event itself** — is
+this Saturday actually going to cost me money, the way a "free" dinner seminar
+quietly isn't. That fear exists regardless of how small the ask is, and nothing in
+this piece removes it just by shrinking the ask from a Saturday to an hour. So
+"free" still needs to appear, plainly, and I was wrong to let it disappear from
+Panel 3 in the first draft — it's now back, as a kicker line directly under the
+headline: **"It's free. There's nothing to buy, and nothing to sign."**
+
+**What the class's "included as part of the class" line is doing is a second, later
+fear — not the same one.** It reassures the reader mid-visit that they're not about
+to get pitched, using sunk cost from Part One as the mechanism. A cold reader has no
+Part One to draw that reassurance from, so sunk cost isn't available as a device
+here — concreteness is what replaces *that* specific job, not the word "free"
+itself: *a couch, a conversation, no products, nothing to sign, about an hour.*
+
+**So the resolved position: both survive, doing different jobs.** "Free" answers
+"will this cost me anything," stated once, plainly, high in the panel, exactly as
+the control did it. Concreteness answers "will I get pitched once I'm there,"
+which the control's structure never had to answer because a university lecture
+hall doesn't carry that suspicion the way a one-on-one office visit does. I'd want
+the Stage 5→6 dropoff (mirror completed → meeting booked) watched as the read on
+whether the concreteness half is doing its job; the "free" half is the control's
+finding, not a new bet.
 
 ---
 
@@ -254,7 +319,7 @@ different move entirely:
   version of what he does live — that's real, and it's the actual bet this whole
   piece is making.
 - **The offer itself is cheaper than the control's.** "I'll tell you what you have"
-  in twenty minutes is a smaller ask than a free 3.5-hour Saturday class, which is
+  in about an hour is a smaller ask than a free 3.5-hour Saturday class, which is
   the entire hypothesis `drafts/mirror-mail-test-plan.md` already exists to test.
   This piece doesn't add a new bet on top of that one — it's the same bet, built
   from stronger source material than the taxonomy-led card was.
