@@ -55,9 +55,14 @@ not a request: friction, the "not enough money" self-disqualification fear, and
 intimidation are three separate barriers needing three separate remedies — not one
 "make it easier" note. Relevant to any copy/tone decision for a first interaction, not
 just channel design. Ties to the 2026-09-19 finding (above, this file, and in
-growth-channels.md) that the *size of the ask* is the constraint. Candidate flagged
-for re-examination, not yet decided either way: "bring your account statements" in the
-class invitation may trigger both the money fear and the intimidation fear at once.
+growth-channels.md) that the *size of the ask* is the constraint. **RESOLVED
+2026-09-22, see class-content.md same date:** the candidate flagged here — "bring your
+account statements" — is not what Justin actually says. His class close says "bring
+whatever's most comfortable for you." He had already solved this barrier in the room;
+the marketing kept the harder version he'd abandoned. Also from that capture: his
+vocabulary ("visit," not meeting/appointment/consultation; "sitting on a couch, having
+a conversation") should now govern first-interaction copy generally — full detail in
+class-content.md, 2026-09-22 entry.
 
 ## 2026-09-18 — Three buckets is the organizing theme for all paid marketing
 
@@ -87,12 +92,16 @@ Sections 1–2.
   converts better than information" is her read on the psychology, not a tested
   finding — hold it as a working thesis, not settled.
 - **The disqualifier itself is Justin's classroom argument, not invented copy** —
-  full record in `.claude/memory/class-content.md` (2026-09-18 entry). Shape that
-  must survive any adaptation: show a 60/40 mix's real drawdown year, ask whether
-  that looks managed or like riding the markets, let the reader reach "I have
-  bonds, that isn't managing the risk" themselves. Socratic — the piece asks, the
-  reader concludes, it never asserts. "Managed" vs. "riding the markets" are
-  Justin's own words for Blue vs. Red, used deliberately, not substitutable.
+  full record in `.claude/memory/class-content.md` (2026-09-18 entry, corrected
+  2026-09-22). Shape that must survive any adaptation: show a 60/40 mix's real
+  drawdown year, let the reader classify it themselves. Socratic — the piece asks,
+  the reader concludes, it never asserts. **CORRECTED 2026-09-22: "managed vs.
+  riding the markets" was never Justin's wording — this workforce invented it.**
+  His actual question is *"would you classify that as red or blue?"*, which only
+  works because the room already has the green/blue/red taxonomy built over the
+  prior ~20 slides to classify against. See class-content.md for the full
+  correction; any copy built on the old binary needs re-checking against the real
+  mechanism, not a word swap.
 - **False positives, status (Sloan):** built — "I'm 60/40" and "my advisor handles
   it." Named but not built — "I have a pension" and "I have permanent life
   insurance." That second pair is a known gap awaiting Justin's word on whether

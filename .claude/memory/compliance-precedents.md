@@ -866,3 +866,41 @@ brand repeatedly wants to tell a reader their situation is common and has no
 substantiated figure to do it with. There is no approved way to say that. Copy that
 needs it must either earn it with a signed personal observation or describe the
 mechanism and say nothing about people.
+
+---
+
+## 2026-09-22 — Four items raised from the full class-script capture, for Ed
+
+Source: `reference/class/script-part-1.md`, `reference/class/README.md` (Justin's
+dictated script, slides 1–59 + close). Full content record in
+`.claude/memory/class-content.md`, 2026-09-22 entry — not restated here, only the
+compliance questions.
+
+1. **The 2.22% average 401(k)-fee figure (slide 25-26) has no source given in the
+   script.** Needs a substantiation-file entry regardless of whether it appears on
+   the slide itself — published all-in 401(k) fee averages vary widely by plan size,
+   and a figure this precise invites a challenge.
+2. **The rollover-advocacy section (same slides) is delivered to a room of prospects
+   who then meet Justin individually.** Rollover recommendations by someone who
+   stands to manage the rolled assets are a named area of regulatory attention with
+   documentation requirements attached. Cross-ref the 2026-09-19 "plan-advisor /
+   participant-advisor rollover conflict" entry above — same underlying concern, a
+   different context (class content itself, not just the employer-venue channel).
+   The deck is Portfolio Medics-approved; worth Justin confirming the approval
+   specifically covered this section rather than assuming it did.
+3. **Slide 59 verbally describes what the removed tactical-strategy chart (Part 2,
+   slide 2) showed visually** — a strategy that went to cash before a crash, avoided
+   the loss, got back in, came out ahead. The chart itself was never Portfolio
+   Medics-reviewed and Justin doesn't use it (`reference/class/README.md`). The
+   picture is gone; the same claim is still being made out loud. Whether that
+   matters turns on what Portfolio Medics actually approved — worth confirming, not
+   assuming.
+4. **"Most people take advantage of it"** (the Step 2 Form pitch, spoken in class).
+   Defensible spoken, first-person, about his own classes — an observation he can
+   substantiate from his own records. **In print it becomes a population claim** and
+   falls under the standing rule above (2026-09-19, this file): a first-person hedge
+   only cures a population claim in reflective, signed, personal-voice copy, not in
+   functional/instructional copy. Do not lift this line verbatim into any piece.
+
+**Status:** raised, not resolved. Ed's to work through; none of the four is Vannevar's
+or Isla's to decide.
