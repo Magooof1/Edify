@@ -138,12 +138,33 @@ booked next step. That is structurally what `drafts/mirror-card-v2.md` is trying
 cold — except this version has been converting at roughly 90% for years. The mirror
 should probably be borrowing from it far more than it currently does.
 
-### Two facts noticed in passing
+### The class is portable, and it has already crossed the river
 
-- **Locations: "Crestview Hills or Harrison."** Harrison is in Ohio. Justin has an Ohio
-  location, while the DRA mail list is 100% Kentucky ZIPs.
-- **"Would you like to receive our newsletter?"** — a standing opt-in. Unknown whether a
-  newsletter actually exists or what goes out.
+**Locations on the form: "Crestview Hills or Harrison."** Harrison is in Ohio. Justin
+confirmed 2026-09-22 that he **ran a Harrison class earlier in 2026** — taught it there,
+then brought attendees down to Kentucky for Visit 2.
+
+Three things follow, and none of them were in the record before:
+
+1. **The class is not tied to NKU.** It has been delivered at a second location. The
+   venue-diversification work (`.claude/memory/partners-venues.md`) was treating a new
+   venue as an untested step; it isn't.
+2. **Ohio has now been tried twice**, not once — IWU West Chester in April 2025 (4
+   attendees from ~10,000 pieces) and Harrison in 2026. **How Harrison performed is an
+   open question put to Justin and not yet answered.** It matters: the Ohio conclusion
+   currently rests on a single bad result.
+3. **The higher-commitment step required more travel than the lower one, and people
+   still came.** Class in Ohio, Visit 2 across the state line in Kentucky. Once someone
+   is engaged, geography appears to bind less than assumed — which is consistent with
+   the reading that the *ask*, not the distance, is what filters.
+
+### The newsletter opt-in has nothing behind it yet
+
+Justin added the checkbox recently; no newsletter exists and nothing has gone out
+(confirmed 2026-09-22). Worth naming as a small, quiet liability rather than a feature:
+every class collects permission that is never used, and permission that goes unexercised
+decays. Either something ships to that list or the ask is doing nothing but harvesting
+addresses. Sloan's lane if it becomes real — content for people who explicitly opted in.
 
 ## Open
 
