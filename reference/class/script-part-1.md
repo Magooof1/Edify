@@ -377,3 +377,242 @@ automatically a fiduciary.
 >
 > Note too that the whole slide is a callback to the friend from slide 1. The course has
 > a narrative spine, and the buckets sit at its centre.
+
+---
+
+## Slide 19 — the psychological side
+
+We're going to talk a lot about numbers, but there's a psychological side too.
+
+I had a lady in the class six or seven years ago. She came and met with me after and
+said, **"Justin, my biggest thing is I don't want to be a burden on my kids. I've seen
+it with my parents — they had some long-term care needs and it really put a burden on
+them."**
+
+And other people I talk with say: *you know what, I'm not worried about long-term care.
+My parents died in their sleep. My dad was 95.* Not a big concern for them. **We still
+have to plan for it — but it's not their number one concern.**
+
+My point: **the way you grew up, your parents, your past is going to influence what's
+most important to you.** And I want you to start focusing on that.
+
+---
+
+## Slide 20 — the cyclist (priming for Blue, 30+ slides early)
+
+*He plays a video of a cyclist in last place who lies flat along his bike — a
+"Superman" — and passes everybody.*
+
+He's in last place, he does something a little different, and he ends up passing
+everyone.
+
+So there are going to be **some new concepts we'll talk about that maybe you haven't
+heard of** — but they've been in the industry a while. It's what people are starting to
+do and starting to catch up to.
+
+> **Note.** This is the Blue setup, planted at slide 20 and not paid off until slide 59.
+> Nearly forty slides of delay. The marketing has been trying to do the plant and the
+> payoff in the same three seconds.
+
+---
+
+## Slides 21–24 — tax now / tax later, and the foundation
+
+**Tax now:** Roth IRAs, brokerage accounts. **Tax later:** IRAs, pre-tax 401(k)s.
+
+Why does that matter? If somebody says *"Justin, I have $500,000 saved up, but it's all
+pre-tax"* — **do they actually have $500,000? No. Because they're going to have to pay
+tax on it.**
+
+Most people in the boomer generation will have the majority of their money untaxed so
+far. **If you're feeling like "I have a bigger bucket over here" — that's okay. You just
+need to know that, and we have to plan for it.**
+
+**The foundation supports everything else.** Income in retirement: whatever my Social
+Security and pensions don't provide, we take from the foundation. Legacy: money we pass
+first to a spouse, then kids, charities. And what protects us is the roof — long-term
+care, health care, insurance.
+
+**But if we get the money right, everything else kind of falls into place.**
+
+---
+
+## Slides 25–26 — rollovers and the 401(k) fee
+
+Slide 25 walks the rollover options: 401(k) to traditional IRA, yes. To a Roth, also yes
+— and why you might not, which leads into the tax side.
+
+Then: why do most people roll at least a portion to an IRA?
+
+**Has anybody looked at all the options inside their 401(k)? They're limited** — not an
+unlimited number like you'd have in an IRA. And you're paying fees inside your 401(k).
+
+**Anybody know what the average fee is inside a 401(k)? 2.22%.**
+
+A lot of times, for maybe a little more of the same cost, you can move to an IRA, get
+help, and work with an investment adviser who coordinates everything we talked about —
+the tax, the Social Security, all of it. Sometimes you can even lower costs and get more
+help.
+
+> **Two compliance flags on this slide, and they are the most substantive in the script
+> so far.**
+>
+> **The 2.22% figure is a specific factual claim and no source is given here.** It needs
+> one in the substantiation file whether or not it appears on the slide. Published
+> averages for 401(k) all-in fees vary enormously by plan size, and a figure this precise
+> will be asked about.
+>
+> **This section makes the case for rolling out of a 401(k) into an IRA**, delivered to
+> prospects who will then meet Justin individually. Rollover recommendations by someone
+> who stands to manage the rolled assets are a named area of regulatory attention with
+> documentation requirements attached. The deck is Portfolio Medics-approved, so this
+> presumably passed — but it is worth Justin confirming that the approval specifically
+> covered this section rather than assuming it did.
+
+---
+
+## Slides 27–52 — building the buckets on the board
+
+### GREEN
+
+*He draws a line on the board.* **Anything left of this line is principal protected —
+money that can't lose.** *Then he has the room name things:* CDs. Money markets.
+Something called a fixed annuity.
+
+So hypothetically — I don't want to take any risk at all, so I take my $750,000 and put
+it all here. **What are CD rates right now?** Four or five percent. **Historically, a few
+years ago?** One, two percent.
+
+**If I put all my money here and on average earn two percent — what am I actually
+losing? Why?** *Inflation.*
+
+**But is it a good idea going into retirement to have some money in green? Sure.**
+
+### BONDS — why they aren't green
+
+*Purchasing power, 1975 vs 2024. Then:* the difference between a stock and a bond is
+that **a stock is ownership** of a company — it pays dividends or capital gains. **A bond
+is a loan** — it pays principal or interest.
+
+You'll notice I don't have bonds as principal protected. Why? There are upsides to
+bonds, but I like to talk about the downside. **Bonds have an inverse relationship to
+interest rates.**
+
+**Interest rates rose for 36 years**, from the 50s to the 80s. **Does anybody know why
+interest rates were 17% in the 1980s? Does anybody remember getting a home loan?** I
+remember people saying they stood in line and were happy to get 17%. Why? **They were
+fighting inflation.** And what are we doing now?
+
+Then rates fell for **39 straight years** — anybody who refinanced at 3% — so bond prices
+went up.
+
+**So can my bonds lose money? Yes.** Bonds are a little less risk than stocks, but
+they're not principal protected.
+
+### STOCKS
+
+**Anybody know what roller coaster this is? It's the Magnum, up at Cedar Point. Does
+anybody ever feel like that in the markets?**
+
+Anybody remember 2008? 2000? COVID? In 2000, during the dot-com, the S&P 500 — 500 U.S.
+stocks — was down about 50%. In 2008, also down about 50%. **They call that the lost
+decade.**
+
+If I closed my eyes, invested in 1991, and woke up in 2025 — did I make money? Yes.
+
+**But let's go back to where we're at on the mountain.** What I find is that a lot of
+people at this point don't want 100% of their money in stocks. **Why? Because they can't
+stomach the downside.**
+
+### RED
+
+Red is **you're not managing the downside.**
+
+---
+
+## Slide 53 — the disqualifier, in his actual words
+
+If I went to an advisor and said *"I'm a moderate and I can't stomach large downturns"* —
+he says, I'm going to add bonds to your portfolio.
+
+**So how did the Vanguard 60/40 fund do? No fees, hardly any fees. It was down 20%.**
+
+**Would you classify that as red or blue?**
+
+*The room answers:* **red.**
+
+> **This is the most important correction in the whole script for the marketing.**
+>
+> We built the three-buckets card on this moment and got the question wrong. Our version
+> asks *"is that being managed, or is it riding the markets?"* — inventing a binary.
+>
+> **He asks "would you classify that as red or blue?"** Using the taxonomy he has spent
+> the previous twenty slides building, and letting the room apply it themselves.
+>
+> The question only works because green, blue and red already exist in their heads. A
+> cold reader has no taxonomy to classify against, which is exactly why the card had to
+> invent a substitute binary — and why it was weaker.
+
+*He also references Rule 35b-1 here and deliberately leaves the room to look it up.*
+
+---
+
+## Slide 59 — how Blue actually works
+
+You don't own anything different. **They can't time the top. They can't time the
+bottom.**
+
+Think about 2019 into 2020. I'm chugging along, the line goes from a dollar up to about
+a dollar ten, then down — they still lost. But remember when everything was shutting
+down? **You didn't have to be a genius to know things were going to get bad.**
+
+**What did they do? Blue went to cash and sat there.** You weren't earning anything —
+but **what weren't you doing? You weren't losing.** They didn't time it exactly. They
+got back in, and you earned money.
+
+So what Blue does is **it's managed**. Some of them daily. Your money is being watched,
+and they have the ability to get out of the market if something gets bad.
+
+### And then the math, which is the actual argument
+
+**In down markets it outperforms red.**
+
+- Lose 10% → need **11%** to get back to even
+- Lose 20% → need **25%**
+- The 2000–2008 scenario → needed **100%** to get back to even
+
+If markets have averaged 10% a year, how long did that take? **About ten years. That's
+the lost decade.**
+
+> **Flag, and Justin should decide what to do with it.** He removed the tactical
+> performance chart (Part 2, slide 2) as unapproved and unused — but slide 59 describes
+> that same chart verbally: a strategy that went to cash before a crash, avoided the
+> loss, got back in, and came out ahead. The picture is gone; the claim is still being
+> made out loud. Whether that matters depends on what Portfolio Medics actually approved,
+> which is worth confirming rather than assuming.
+>
+> The **recovery math is the strongest compliance-safe argument in the entire course.**
+> Lose 20, need 25 to get back to even is arithmetic, not a performance claim, not a
+> prediction, and not a comparison to a competitor. It has never appeared in any
+> marketing piece.
+
+---
+
+## The close — and this is the actual offer
+
+**"For anybody that comes and sees us after the class, what we'll do is we'll do an
+analysis and tell you how much green, how much blue, and how much red you have."**
+
+> **This one sentence is the offer, and it is not the offer any marketing piece has been
+> making.**
+>
+> Not *come learn about a category you're missing.* Not *book a consultation.* It is:
+> **I will tell you what you already have.**
+>
+> That is a diagnosis of something the attendee owns, framed as information rather than
+> advice, with no product named and nothing to buy. It dismantles the money fear (nothing
+> is being sold), the status fear (it's an inventory, not a judgement) and the commitment
+> fear (it's the next step of a class already begun).
+>
+> **The mirror is a self-service version of exactly this.** Which means the mirror's job
+> is not to teach the buckets — it is to make a stranger want to know their own mix.
