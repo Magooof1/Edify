@@ -1,10 +1,14 @@
 **DRAFT — for Justin's review, correction, signature and dating. Not yet an
 effective policy. Drafted by Ed, 2026-09-22, from `reference/class/script-part-1.md`
 (Justin's dictated class script), `reference/class/step-2-form-2026-04-18-preview.jpg`
-and its README, and `drafts/mailer-v2-from-the-class.md`. Every bracketed item is a
-blank left for Justin — nothing has been invented to fill a gap in the source
-material. Once corrected, this should be dated, signed, and filed in Trulip's own
-Rule 204-2 compliance file, not kept only in this repository.**
+and its README, and `drafts/mailer-v2-from-the-class.md`. Revised 2026-09-22 after
+Justin's answers on the cold-visit question and the green/blue/red promise. The
+remaining open items (entity name, effective date, Sections 3–4 and 6–7) are marked
+**CONFIRM OR CORRECT** with Ed's best reading from the source material where a reading
+was supportable — strike or correct a line rather than compose one from scratch — and
+left as a plain blank only where nothing in the source material supports a reading.
+Once corrected, this should be dated, signed, and filed in Trulip's own Rule 204-2
+compliance file, not kept only in this repository.**
 
 ---
 
@@ -146,26 +150,37 @@ mailer's copy should read that way once Jayme's fix is in.
 Justin's own words from the script: *"if you decide to bring some stuff and it makes
 sense, we'll get back together for a second visit."*
 
-[BLANK — this is the least resolved point in the source material and needs your
-decision recorded, not guessed at. Two things aren't specified: (a) whose call it is
-that a second visit "makes sense" — the attendee's, yours, a mutual read reached in the
-room, or some stated criterion; and (b) what happens when documents are brought but a
-second visit does not make sense — is that outcome ever a real possibility in practice,
-and if so what does the attendee leave with. Please fill in both so this section
-states an actual decision rule rather than restating the ambiguity of the script.]
+**CONFIRM OR CORRECT — Ed's reading, not yet Justin's own words.** The phrasing reads
+as a joint call reached in the room during the first visit's conversation: the
+attendee has said or shown enough (whether from documents brought or from what they've
+described) that a second visit is a reasonable next step for both of them, and Justin
+proposes it there rather than deciding afterward on his own. On this reading, a second
+visit is not automatic just because documents were brought, and it isn't the
+attendee's unilateral choice either — it's Justin's professional judgment, offered and
+agreed to in the conversation itself. Correct this directly if it's wrong.
+
+The remaining sub-question: what happens to an attendee who brings documents but for
+whom a second visit doesn't make sense? Ed's reading, also to confirm or correct: the
+first visit has already delivered what was promised — the conversation, and the rough
+or precise read described in Section 5 — so there's no obligation to produce a second
+visit, and the attendee leaves with what Section 7 below describes for a
+first-visit-only outcome, not with nothing.
 
 ## 7. What the attendee leaves with
 
 The script states: *"this is something you can take with you — we'll give you a plan
 you can take with you."*
 
-[BLANK — confirm at which visit this plan is produced. The script's sequencing
-("second visit... we'll start building your financial house... this is something you
-can take with you") reads as though the written plan follows from a second visit, not
-the first, but it is not stated unambiguously. If a first visit alone (no second visit)
-ever produces a written takeaway, describe what that is; if the plan is strictly a
-second-visit-or-later deliverable, say so, since neither the mailer nor the script
-should be read to promise a written plan out of a first visit if that isn't accurate.]
+**CONFIRM OR CORRECT — Ed's reading.** The script's sequencing ("second visit... we'll
+start building your financial house... this is something you can take with you") is
+read here as meaning the written plan is a second-visit-or-later deliverable, not
+something produced at a first visit. On this reading, a first visit alone (no second
+visit scheduled, per Section 6) does not produce a written plan — the attendee leaves
+with the conversation itself and whatever rough or precise read was possible per
+Section 5, not a document. If a first visit does in practice produce some written
+takeaway even without a second visit — even something short of a full plan — say so
+here, since that changes what "take with you" can honestly mean in marketing copy that
+doesn't distinguish between visit outcomes.
 
 ## 8. Recordkeeping
 
