@@ -27,15 +27,20 @@ it") discover they don't.
 > in 2008 or 2020. It was still down significantly. So is that managing the risk? No.
 > And then they realize: I just have bonds, and that isn't managing the risk."
 
+**CORRECTED 2026-09-22 — this was an invented binary, not Justin's actual question.
+See the 2026-09-22 entry below for his verbatim words and what changes.** Keeping this
+paragraph in place for the historical record of how the error read at the time, not as
+current guidance.
+
 **Structure (preserve this, not just the words):**
 - **Socratic, not asserted.** Justin shows a historical result and asks whether it looks
   managed. He does not tell them their bonds aren't a plan — the attendee reaches "I
   just have bonds, and that isn't managing the risk" on their own. Any script or
   repurposed version that turns this into a stated claim rather than a question breaks
-  the mechanism.
-- **The binary is "managed" vs. "riding the markets."** These are Justin's own words for
-  what Blue does vs. what Red does. A 60/40 mix, on this evidence, rides — it isn't
-  Blue no matter how the attendee had been describing it to themselves.
+  the mechanism. **This part holds up — see 2026-09-22 entry, only the question itself
+  was wrong.**
+- ~~The binary is "managed" vs. "riding the markets."~~ **Wrong — see 2026-09-22 entry.
+  These were not Justin's words; this workforce invented them.**
 - **The evidence is historical drawdown data for a 60/40 mix** — 2008, 2000, 2020 —
   with "let's call it 20%" given in class as an approximation for 2008. Any printed or
   recorded use of this argument needs the actual sourced figure, not the classroom
@@ -91,3 +96,81 @@ class, not as the class's duration.
 **Provided: drinks and snacks. No meal.** Adds detail to, and is consistent with,
 the standing brand decision that Justin has never run a dinner seminar and avoids
 them deliberately (brand-voice.md, 2026-09-19) — this is what he provides instead.
+
+---
+
+## 2026-09-22 — Full script captured (slides 1–59 + the close, slides 113–117); corrects the 2026-09-18 disqualifier entry above
+
+**Source, not restated here:** `reference/class/script-part-1.md` (Justin's dictated
+script, cross-referenced against the instructor decks) and `reference/class/README.md`
+(deck architecture and the Step 2 Form). Read those files directly for full text,
+quotes, and the enumerated lists below — this entry indexes and cross-references, it
+doesn't duplicate.
+
+**Conversion arc and where it completes.** Justin: *"if someone's going to work with
+me, they know it at this point"* — true by the money section's end, roughly slide 59,
+~2 hours into a 3.5-hour class. The final 90 minutes (income, legacy, roof, Medicare)
+deliver content but do no further conversion work. **Open question, logged, not
+Vannevar's to resolve: routed to Taleb.** If conversion completes at slide 59, the back
+half raises the size of the ask without raising conversion — expensive, per the
+standing "size of the ask filters" finding (growth-channels.md, 2026-09-19/21). Serious
+counter, also logged: the back half may be what makes "we're not selling you anything"
+*true* rather than merely claimed, and cutting it risks the credibility that makes the
+first two hours work. Unresolved either way.
+
+**The first 45 minutes contain no product, strategy, or number.** Why he built the
+course, his family, the tornado/Financial House frame, attendee concerns, Everest, the
+next-life-phase reframe, the contractor/coordination argument, and a live BrokerCheck
+lookup on himself. This is the likely mechanism behind the ~90% follow-up-booking rate
+(see top of file) — trust is earned before money is discussed. **Consequence for
+content already built:** every marketing piece to date (mirror, three-buckets theme,
+stay-warm cadences) is built from the payoff — the buckets — not from this earned-trust
+opening. Cross-ref brand-voice.md 2026-09-18 entry (the buckets as "the organizing
+theme for all paid marketing") — worth Isla/Justin weighing whether cold pieces should
+borrow more from the opening than the payoff.
+
+**CORRECTION to the 2026-09-18 disqualifier entry above.** Justin's actual question,
+after building the green/blue/red taxonomy over ~20 slides and showing a 60/40 fund
+(Vanguard, "no fees, hardly any fees") down 20%: **"Would you classify that as red or
+blue?"** The room answers *red*. Not the invented binary "is that being managed, or is
+it riding the markets?" that this workforce recorded 2026-09-18 and that has since
+propagated into `drafts/three-buckets-theme-v1.md` and the brand-voice.md 2026-09-18
+entry (flagged there in place, this same date). **Why it matters beyond wording:** the
+real question only works because the room already has a taxonomy to classify against —
+a cold reader has none, which is exactly why the invented substitute had to build one
+from scratch and was structurally weaker. Any copy built on the old wording needs
+re-checking against the corrected mechanism, not just a word swap.
+
+**Where green/blue/red are actually born — not a product taxonomy.** They arrive on
+the fiduciary-vs-suitability slide (16) as *the criteria Justin used choosing an
+advisor for a widowed family friend* — a callback to the slide-1 story. In the room
+they first sort **advisors**, not money. Every marketing piece to date presents the
+buckets as a way to sort your money from the start. Worth noting, not resolving here.
+
+**The offer, corrected.** Not "come learn about a missing category," not "book a
+consultation." His close, verbatim: *"we'll do an analysis and tell you how much
+green, how much blue, and how much red you have."* An inventory of something the
+attendee already owns, framed as information, with nothing named and nothing sold.
+Dismantles money fear, status fear, and commitment fear at once (full reasoning in
+the source file). The mirror instrument's job, on this reading, is not to teach the
+buckets cold — it's to make a stranger want to know their own mix.
+
+**Vocabulary that should govern going forward.** Justin says **"visit"** — never
+meeting, appointment, or consultation. *"Just you sitting on a couch, having a
+conversation."* *"Bring whatever's most comfortable for you."* **This last line
+supersedes "bring your account statements."** Cross-ref brand-voice.md 2026-09-21
+entry, which flagged "bring your account statements" as the place both of Justin's
+named barriers (money fear, intimidation) fire at once — he had already solved it in
+the room, and the marketing kept the version he'd abandoned. Full detail, and the
+source form (Step 2 Form) that operationalizes this, in `reference/class/README.md`.
+
+**The close: fourteen friction removals in ~90 seconds**, enumerated in
+`reference/class/script-part-1.md` (not duplicated here). Ties to the standing "make
+it easy to work with us" principle (growth-channels.md/brand-voice.md, 2026-09-21),
+which logged Justin naming the problem with no solution in hand — this is the
+solution, already built and running in the room, not yet reflected in any marketing
+piece. The single most important line: the evaluation is left at the attendee's desk,
+so completion requires no interaction with anyone.
+
+**Compliance items raised from this capture:** logged in `compliance-precedents.md`,
+2026-09-22 entry — not restated here.
