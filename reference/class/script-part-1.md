@@ -651,3 +651,137 @@ credibility that makes the first two hours work at all.
 **This is precisely what Taleb's un-run experiment would answer** (a short, low-threshold
 session into the tired ZIPs). Note that the evidence for running it now comes from Justin
 himself rather than from anyone's theory. **Not a recommendation. Not decided.**
+
+---
+
+# THE CLOSE — slides 113–117
+
+*Added 2026-09-22 after Justin flagged it as mattering. It does. This is the conversion
+moment, and it is the most directly transferable ninety seconds in the practice.*
+
+## Slide 113 — the recap
+
+We've gone through a lot today. We started with your foundation, went to your income,
+your legacy, finished with Medicare and long-term care.
+
+**What I always tell people is: pick one thing to start with. What's most important to
+you?**
+
+## Slide 114 — the bookend
+
+I like to stop where I started. **Retire *to* something, not *from* something.** What
+are those things you've always wanted to do?
+
+> The class ends where it opened — on the next life phase, not on money. Three and a
+> half hours bracketed by meaning.
+
+## The eval, handed out at the break
+
+*Not at the end. They have it in front of them through the entire second half, so the
+ask is never a surprise.*
+
+At the break I handed out an evaluation — just tell us how we did. At the top, fill in
+your information: name, phone, email, whether you prefer email, phone or text, your age.
+
+**Rate the instructor. He's a good guy, so be gentle.**
+
+Information provided, location, date, and whether you'd recommend this to others.
+
+**Then the rest of it — it's part of Part Two, and I've kind of alluded to it throughout
+the course. Most people take advantage of it. It's the part where you can ask the
+specific questions you can't ask in a group. It's free. It's included as part of the
+class.**
+
+So right at the bottom, just check what's most important to you — **whether it's green,
+blue, what we talked about, or red. What part you want to learn more about.** Income,
+Social Security, private pensions, legacy, health care.
+
+**Just check a few things to remind us — and yourself — of what resonated best with
+you.**
+
+Then at the bottom I've put a few days that worked well with our schedule. **If you just
+want to pick a couple of days that work best for you, I'll send you an email afterward
+confirming the date.** In that email I'll give you some information to bring.
+
+**Bring whatever's most comfortable for you.** Obviously the more information you bring,
+the better our conversation can be.
+
+## Slide 116 — where
+
+It's held at our office over in Crestview Hills, **right behind Thomas More University.
+You're probably all familiar with it — there's a bunch of doctors back there that a lot
+of people go to.**
+
+## Slide 117 — what the visit actually is
+
+That first visit is **just going to be you sitting on a couch, having a conversation,
+asking those questions.**
+
+And if you decide to bring some stuff and it makes sense, we'll get back together for a
+second visit. And it's free, it's included as part of the class — we'll start building
+your financial house.
+
+How much Social Security do I have? When's the best time to take it? If I have a
+pension, how does that coordinate? We'll talk about expenses, and whether you have any
+gaps.
+
+**If you say you need $5,000 a month — is $5,000 a month in the first year of retirement
+the same thing as in year ten?** We have to look at inflation. We'll look at tax. All
+those different areas.
+
+**And this is something you can take with you. We'll give you a plan that you can take
+with you.** And it's free — it's included as Part Two of the class.
+
+So pick a couple of days that work best for you. **And then just leave your evaluation
+at your desk.**
+
+We appreciate everybody being here. Thanks, and have a great Saturday.
+
+---
+
+## What the close is actually doing
+
+**Fourteen separate friction removals in about ninety seconds.** Counted:
+
+1. The form goes out **at the break**, so the ask is never a surprise
+2. *"He's a good guy, so be gentle"* — humour, lowers the stakes of the whole page
+3. *"I've alluded to it throughout"* — it isn't a new ask, it's a thing already mentioned
+4. *"Most people take advantage of it"* — social proof, no pressure
+5. *"Questions you can't ask in a group"* — names a benefit only the visit provides
+6. **Free**, stated once
+7. *"Included as part of the class"* — it's already paid for by showing up
+8. *"Remind us **and yourself**"* — the checkboxes are framed as serving them
+9. **Pre-set dates**; pick two, no negotiation
+10. **He** sends the confirming email — no callback required from them
+11. *"Bring whatever's most comfortable for you"*
+12. Location grounded in a landmark they already know
+13. *"Something you can take with you"* — a deliverable, not a hook
+14. *"Just leave your evaluation at your desk"* — **completion requires no interaction
+    with anyone**
+
+That last one is quietly the most important. Someone intimidated can say yes without
+ever having to speak to him, catch his eye, or queue.
+
+## The three words the marketing should steal
+
+**"Visit."** Not meeting. Not appointment. Not consultation. Every piece we have written
+asks a stranger to *book a meeting*. He asks for a **visit**.
+
+**"Sitting on a couch, having a conversation."** That is the answer to the intimidation
+barrier, and it is already his sentence. Nothing about statements, advisors, or
+portfolios — furniture and talking.
+
+**"Bring whatever's most comfortable for you."** Days ago the record flagged *"bring your
+account statements"* as the place both of Justin's named barriers fire at once — you need
+accounts worth showing, and you must hand them to a stranger who will judge them.
+**He already solved it.** The warm version removes the requirement and then makes the
+case gently. The marketing kept the hard version he had already abandoned.
+
+## One flag for print only
+
+*"Most people take advantage of it"* is the population construction Ed has now cut from
+five pieces. Spoken in a room, first-person, about his own classes, it is an observation
+he can substantiate from his own records. **In print it becomes a population claim** and
+falls under the 2026-09-19 rule — a first-person hedge only cures it in reflective,
+signed, personal-voice copy, not in functional copy. Do not lift it verbatim into a
+piece.
