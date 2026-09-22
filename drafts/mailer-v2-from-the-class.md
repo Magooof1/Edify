@@ -178,7 +178,18 @@ re-derive for cold rather than lift.
 >
 > We'll look at what you've already got and tell you how much of it is green, how
 > much is blue, and how much is red. No products. Nothing to sign. Bring whatever's
-> most comfortable for you — even if that's nothing at all.
+> most comfortable for you. The more you bring, the more precise we can be.
+
+**Changed 2026-09-22 — Ed/Justin, one-line fix, approved.** Was "even if that's
+nothing at all," paired right after the green/blue/red promise — together they
+implied a full breakdown arrives regardless of what someone brings, which talk
+alone can't actually produce. Fixed by restoring the second half of Justin's own
+class line ("the more information you bring, the better our conversation can be"),
+which the draft had kept only the first half of. **Do not trim this back to the
+cleaner-sounding version** — the second sentence is the one doing the honest
+expectation-setting, not decoration. Same pattern as "bring your account
+statements" vs. the room's already-softened version: keeping the part that sounds
+better and dropping the part that makes it true. Second time it's happened here.
 >
 > If it makes sense to keep talking, we'll set up a second visit. If it doesn't,
 > you'll still know more about your own money than you did when you walked in.
