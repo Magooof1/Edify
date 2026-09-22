@@ -294,3 +294,86 @@ outcome?**
 >
 > The "legal duties of care" line here is the setup for the fiduciary-vs-suitability
 > slide already flagged as unused marketing material.
+
+---
+
+## Slide 15 — skipped in dictation
+
+---
+
+## Slide 16 — Fiduciary vs. suitability (and where the buckets are born)
+
+One thing I brought up in the last slide was that there are all these different areas.
+One thing that's really complicated about this industry — and I'll simplify it — is
+that there are **different levels of care**.
+
+For a doctor: if I go to a doctor here in Ohio and a doctor in Kentucky, do they have
+the same standard of care? Yeah — **do no harm.** **It's not the same way when it comes
+to investments.**
+
+**The suitability standard.** Let's say as part of my planning I need help with the
+investment arm. I go to an advisor and say, I have $10,000 to invest, what should I do
+with it? If anybody's filled out a risk questionnaire, you end up somewhere between low
+risk, moderate, or aggressive.
+
+So say it comes back low risk. That advisor says: okay, I have this new bond fund, or
+these individual bonds, which tend to be lower risk — here's how they work. I'd
+recommend you put your $10,000 here.
+
+**So they didn't look at your whole picture, did they?** But they got an idea of what
+your risk tolerance was **in that silo**.
+
+Those are called **brokers**. And **we need brokers** — they issue IPOs, they bring out
+new stock offerings. But they stay in their lane. **Their legal duty of care is not
+required to be what's in your best interest.** It's what fits the suitability standard
+based on how you filled out the questionnaire.
+
+**What a fiduciary does** is their recommendations **must be in the client's best
+interest**. Same example — someone comes in with $10,000. A fiduciary looks at all the
+areas. How close are you to retirement? When are you taking Social Security? What's your
+tax situation? All of it, to find out what's best for you.
+
+**Then he pulls up BrokerCheck on the screen, live, and looks himself up.**
+
+If you go to **brokercheck.finra.org**, you can put in any advisor's name. If they work
+under the suitability standard, they show up as a **broker**. Under the fiduciary
+standard, they show up as an **investment advisor**. That's the difference between the
+two.
+
+Typically, for somebody who wants full planning and wants to look at the full picture —
+out of all those advisors I worked with, when I was choosing for my friend, **I leaned
+toward the ones under the fiduciary standard**, because I wanted them to have her best
+interest and do what was best for her.
+
+Now — just like with CPAs — **not all fiduciaries specialise in retirement planning.**
+And not all fiduciaries, in my opinion, do all three different levels of money
+management. **I call them green, blue and red**, on how your money is actually being
+managed. I'll introduce that later in more detail.
+
+So that was one of my first criteria when I was filtering advisors for her: did they
+fall under investment adviser. A few I'd recommend were CFPs, because a CFP is
+automatically a fiduciary.
+
+> **Three things here that no marketing piece has touched, in order of what they're
+> worth.**
+>
+> **1. He looks himself up on BrokerCheck, live, on the screen.** He hands the room the
+> tool to check him, and uses it on himself first. That is the strongest trust device in
+> the course and probably in the practice — radical transparency aimed squarely at the
+> intimidation barrier Justin named on 2026-09-21. Nobody in this category does it.
+>
+> **2. "We need brokers."** He gives the other side a legitimate role rather than
+> attacking it. That is simultaneously the compliance-safe construction — no disparaging
+> comparative claim — and the more persuasive one, because a man who won't trash his
+> competition reads as trustworthy. It is also exactly the register the "Accept Risk /
+> Buy and Hold" bucket label uses: describe the choice, don't condemn the person.
+>
+> **3. This is where green, blue and red are actually born — and not as a product
+> taxonomy.** They arrive as *the criteria Justin used when picking an advisor for a
+> widowed family friend.* Every marketing piece presents the buckets as a way to sort
+> your money. In the room they are introduced as a way to sort **advisors**, inside a
+> story about someone he cared about. That is a completely different frame and it is the
+> one that has been converting.
+>
+> Note too that the whole slide is a callback to the friend from slide 1. The course has
+> a narrative spine, and the buckets sit at its centre.
