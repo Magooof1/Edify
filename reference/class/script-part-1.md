@@ -168,3 +168,129 @@ make those.**
 > **Matt Brennan is a named private individual.** Fine as a spoken reference to a public
 > news story; a different question in printed or recorded marketing. Ed's call if it ever
 > leaves the room.
+
+---
+
+## Slide 7 — the folder and the book list
+
+Everybody gets a folder with a few handouts, but for the most part everything is in the
+slide deck.
+
+We're going to go through the numbers — but there is an emotional side to this. So I put
+in a book list that a lot of people like to read going into retirement.
+
+The one I focus on most is **Life Reimagined** — *he holds up a physical copy.* It's an
+AARP book, and it's about **the next life phase**.
+
+---
+
+## Slides 8–13 — the old story vs. the next life phase
+
+It starts off by talking about **the old story** — the story we think of with our
+grandparents in retirement. We retire, we sit on the couch, we watch TV, maybe we're on
+the front porch. Picture the grandparent rocking in the rocking chair.
+
+And the way we look at that old story: in childhood and adolescence we have **growth and
+discovery**. In adulthood we're **working**. Then in retirement it's kind of on the
+**downside**.
+
+What does that really look like? **That actually looks like a frown. Who wants their
+retirement to look like a frown?**
+
+The next story is about what that next life phase actually is. Not just retirement —
+**what are the things you've always wanted to do?** Right now you probably have more
+money than you did in the past. You'll have more time. More knowledge.
+
+I'll give you an example. A client of mine came to this class a few years ago. He
+retired early — part of the government, could go at 55. What he always wanted to do was
+**open a gym**. That was his next life phase.
+
+I have a lot of clients who want to travel, spend time with grandkids. Some volunteer.
+
+And I have a family member who said: *"My husband worked 30, 40 years and I was a
+stay-at-home mom. He doesn't have any hobbies and he's bugging the hell out of me."*
+
+So as we get through the numbers — really start thinking about **what are the things you
+want to do next.**
+
+> **Note.** The frown is the device: three life stages drawn as a downward curve, then
+> named. It lands in one sentence and needs no slide. Also note he opens the whole course
+> on *meaning*, not money — the numbers are explicitly framed as being in service of the
+> next life phase. No marketing piece has ever opened this way.
+>
+> The gym client is a real client story. Not a testimonial — he's describing what someone
+> wanted, not praise for Justin — but it is client-derived material and would need Ed's
+> eyes before it ever left the room. Candidate for story-capture-specialist.
+
+---
+
+## Slide 14 — the contractor (the coordination argument)
+
+**Has anybody ever built a house?** Whether you worked with a contractor or built one
+yourself — has anybody built a house from the ground up?
+
+So what do you generally do? You hire a contractor. Then you have all your
+subcontractors — someone who does the masonry, someone who does the plumbing, someone
+who does the electrical. All these different pieces working together to build your
+house.
+
+**But what does a contractor do? They coordinate it.** If your electrical guy doesn't
+know when your plumber's coming in, when your drywall's coming in — everything can be
+disjointed.
+
+Same thing when it comes to retirement planning. **You're always on the top. But most of
+you right now are your own planners.** You probably pick your own investments inside
+your 401(k). You might be working with somebody on insurance. You might be working with
+a tax person. **But they're not all being coordinated.**
+
+That's what a good financial planner does — or you can be your own planner, if someone's
+looking to do it themselves. I'm just going to go through all the areas that need to be
+coordinated.
+
+**The medication example.** Let's say a doctor gives you a medication here in Kentucky.
+Then you're on vacation, or you have a second home down in Florida, and another doctor
+gives you another medication. **What if they have side effects and the doctors don't
+talk?** Same thing with financial planning.
+
+*Then he walks the team diagram, column by column — each one framed as a
+do-it-yourself-to-specialist spectrum, never as a recommendation:*
+
+- **Tax.** Does every accountant do individual tax? No — some do audit, other things. You
+  can use tax software yourself, take it to an accountant, or take it to a CPA. For a lot
+  of people a simple W-2 is fine on your own; someone who owns a business might be more
+  complicated.
+- **Insurance.** If I go buy car insurance from a captive agency — say State Farm.
+  Nothing wrong with State Farm, but they're captive, and they're only going to sell you
+  what? State Farm. Same with life insurance: go to a captive like Western & Southern and
+  you get Western & Southern. **What if you go to an independent agent?** They can shop
+  around, look at what's out there, and get you the best one.
+- **Estate planning.** Can you do your own? Sure — I had somebody go down to the library,
+  fill out a form, and that was their estate planning. On the opposite side, I've worked
+  with people who used an attorney who specialises in wills and trusts. Does everybody
+  need a trust? Do some people just need a will? We'll go through what that means.
+- **Social Security and Medicare.** You can sign up yourself. You can also hire somebody.
+- **Investments.** We're all probably picking our own, maybe inside our 401(k). And we'll
+  talk about **the different legal duties of care** when you're working with somebody.
+
+*The close, and it's the strongest question in Part 1:*
+
+When I'm taking my Social Security, can it be taxed? So does my **tax person** need to
+know when I'm taking Social Security? Does my **advisor** need to know? Does my tax
+person need to know when money's coming out of my accounts, and whether they're taxable?
+
+**If all these areas were working together — don't you think you'd have a better
+outcome?**
+
+> **Why this is the most important slide in Part 1 for marketing purposes.** It builds
+> the entire case for hiring a coordinator without once recommending it. Every column is
+> framed as a spectrum from do-it-yourself to specialist, and he says outright "you can
+> be your own planner." The conclusion is then produced by a question the attendee
+> answers themselves — the same Socratic shape as the 60/40 disqualifier, applied to the
+> whole service rather than one bucket.
+>
+> "What is best for you is going to be different for everybody here" and "it's not a lack
+> of information, it's how you put it together" are both doing work against the
+> intimidation barrier Justin named on 2026-09-21. Neither has ever appeared in a piece.
+>
+> The "legal duties of care" line here is the setup for the fiduciary-vs-suitability
+> slide already flagged as unused marketing material.
