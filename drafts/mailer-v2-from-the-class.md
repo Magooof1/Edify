@@ -23,6 +23,14 @@ hook derived from the class arcs, not the arc itself transplanted. Noted at Pane
 below as the standing principle for anything built from this material going
 forward.
 
+**Revised again 2026-09-22 — Justin killed the cover.** His words: *"People buy
+what is in it for them. By saying look me up first there is no hook."* Correct.
+The BrokerCheck device moved from Panel 1 to Panel 3, next to the CTA, where trust
+is actually a live question. Panel 1 now leads with the coordination question;
+Panel 2 was rebuilt to pick that question up rather than open with it. Full
+reasoning at Panel 1 below, including what was given up by this choice over the
+other candidate ("I'll tell you what you already have").
+
 ---
 
 ## The one-line case
@@ -55,6 +63,12 @@ not contacting them without Justin confirming first.
 ---
 
 ## PANEL 1 — Cover (the three-second panel)
+**Rebuilt 2026-09-22.** Justin killed the BrokerCheck cover: *"People buy what is
+in it for them. By saying look me up first there is no hook."* He's right, and
+Isla should have caught it before it reached him — trust is a step-three question,
+and a cover that opens by proving credibility is answering a question the reader
+hasn't asked yet, the same category error as a cover that opens with a taxonomy.
+The device wasn't wrong, it was misplaced — see Panel 3 below for where it moved.
 
 **Photo:** `justin-portrait-open-collar-hi-res.jpg` — the open-collar portrait, not
 a tie shot. This is the piece's only face, and per `reference/brand-assets/README.md`
@@ -62,40 +76,47 @@ open collar is doing real work against the intimidation barrier on anything cold
 
 **Headline:**
 
-> **LOOK ME UP BEFORE YOU READ ANOTHER WORD OF THIS.**
+> **You have a tax person. Maybe an insurance person. A 401(k) somewhere.**
+> **Do any of them talk to each other?**
 
 **Subhead, small, under the photo:**
 
-> Go to brokercheck.finra.org. Type in Justin McGuffey. It's free, it takes about
-> ten seconds, and it'll tell you things I don't have to.
->
-> Then come back and read the rest.
+> If you had to stop and think about it, that's the answer.
 
-**Why this is the cover, not a candidate for somewhere inside.** It is the only
-device in the whole class that does the cover's one job and the trust job at the
-same time. Every other asset — the tornado, Everest, the contractor — is an
-explanation, and explanations are what the *inside* is for. An instruction this odd
-("leave this piece and go verify me before you keep reading it") is the thing that
-stops a hand over a trash can, because nothing else in that stack of mail asks the
-reader to do that. And it needs no institution behind it — it works precisely
-*because* it doesn't borrow anyone's name. It borrows nothing. It just dares.
+**Why this one, over "I'll tell you what you already have."** Both were on the
+table. The offer line is more directly the piece's unique promise, and it's
+entirely about the reader in the sense that it names a benefit — but cold, on its
+own, it's abstract: *have of what?* It needs the coordination problem established
+first to mean anything. The question does the opposite: it needs no setup, it's
+answerable in the reader's own head in under a second, and the answer most people
+will actually land on — "I'm not sure" — is the doubt the rest of the piece exists
+to resolve. It's a question about *their* situation, not a claim about Justin's,
+which is exactly what Justin's objection was asking for.
 
-**Confirmed independently, 2026-09-22 — Ed.** Ruled clean while this was in
-progress, landing on the same read: the *instruction* to look him up is the safe
-form; the piece must never reproduce his actual BrokerCheck record, since a
-screenshot goes stale and reproducing a regulator's record risks implying
-regulatory endorsement, which the Marketing Rule specifically prohibits. This panel
-already only carries the instruction — no screenshot, no reproduced record — so it
-stands as drafted.
+**What I gave up by choosing it, stated plainly.** The offer — the actual thing
+Justin will do for the reader — no longer arrives until Panel 3. A reader who
+opens the fold gets doubt before they get relief, for two full panels. That's a
+real delay against the more conventional "here's what's in it for you, immediately"
+cover the offer line would have given, and it's a bet that the question is strong
+enough to carry someone through Panel 2 on curiosity about their own situation
+rather than on a stated benefit. I think it's the better bet — cold mail runs on
+"that's me," not on "that sounds nice" — but it's a bet, not a certainty.
+
+**The cost to Panel 2, and how I covered it.** This headline was Panel 2's
+opening line in the prior draft. Promoting it to the cover left a hole there,
+which Panel 2 now fills with more of the coordination material rather than
+repeating the question — see below.
 
 ---
 
 ## PANEL 2 — The correction (what the tornado and the contractor are for)
+**Rebuilt 2026-09-22** to fill the hole left when its question moved to the cover
+— see Panel 1. No longer opens with the question; picks it up as already asked and
+does the explaining the cover has no room for.
 
 **Headline:**
 
-> **You have a tax person. Maybe an insurance person. A 401(k) somewhere. Do any
-> of them talk to each other?**
+> **Here's why that's harder to answer than it sounds.**
 
 **Body:**
 
@@ -108,10 +129,15 @@ stands as drafted.
 > insurance, someone for taxes. Good people, most of them. But is anyone actually
 > coordinating what they're doing with what you're doing?
 >
-> Here's the question that matters: when you take Social Security, does your tax
-> person know? When money comes out of an account, does whoever's managing it know
-> whether that's going to be taxed? If the honest answer is "I'm not sure" —
-> that's not a knowledge problem. It's a coordination problem.
+> It shows up in small ways. A doctor in one state prescribes something; a second
+> doctor somewhere else prescribes something else, and neither one knows about the
+> other. Nobody planned that badly — nobody was even in the room to plan it.
+> Retirement accounts work the same way, quietly, for years.
+>
+> Here's the question that actually matters: when you take Social Security, does
+> your tax person know? When money comes out of an account, does whoever's
+> managing it know whether that's going to be taxed? If the honest answer is "I'm
+> not sure" — that's not a knowledge problem. It's a coordination problem.
 
 **Small photo callout, bottom of panel:** `justin-whiteboard-three-buckets.jpg`,
 caption: *"This is what that conversation looks like when it's three and a half
@@ -158,6 +184,24 @@ re-derive for cold rather than lift.
 > you'll still know more about your own money than you did when you walked in.
 >
 > It's held at our office in Crestview Hills, right behind Thomas More University.
+
+**Trust-closer, directly above the CTA block — moved here 2026-09-22 from the
+cover, per Isla/Justin.** This is the BrokerCheck device from the prior draft,
+relocated rather than cut. Isla's read, which I agree with: trust is a step-three
+question, and this is step three — the reader has just been told what's in it for
+them and is now deciding whether to act on it, which is exactly the moment "you
+don't have to take my word for it" earns its oddness instead of pre-empting a
+question nobody asked yet.
+
+> Before you call or click — you don't have to take my word for any of this.
+> Go to brokercheck.finra.org and type in Justin McGuffey. Ten seconds, free, and
+> it'll tell you things I don't have to.
+
+**Ed's ruling still governs, unchanged in substance, only in location.** The
+instruction is the safe form; the piece never reproduces the actual BrokerCheck
+record — no screenshot, no reproduced regulator content, for the reasons in Ed's
+original ruling (staleness, implied regulatory endorsement). Confirmed this still
+applies at the new placement, not just the old one.
 
 **CTA block:**
 
@@ -328,12 +372,14 @@ different move entirely:
 
 ## What I'm least sure about, in order
 
-1. **The BrokerCheck cover.** No piece in this category has ever asked a stranger
-   to leave the mail and go verify the sender before reading on. It might be the
-   most interruptive, distinctive thing in the stack — or it might just be friction
-   nobody pays before the payoff exists to justify it. This is the single biggest
-   bet in the piece and the one I'd want to see Stage 3 numbers on before I'd defend
-   it a second time.
+1. **The coordination-question cover, now that it's carrying the whole load of
+   getting the piece opened.** Superseded item: BrokerCheck as the *cover* is gone
+   — Justin killed it and he was right, see Panel 1. What replaces it as the
+   biggest bet: a second-person question with no stated benefit attached, betting
+   that "that's me" beats "here's what's in it for me" on a cold list. Bill Jayme's
+   own catalogue leaned on exactly this kind of question-headline, but I don't have
+   a track record for it in this practice specifically, and it's now doing all the
+   work the offer line would have done more plainly. Stage 3 numbers are the read.
 2. **Sending the CTA to a landing page instead of leading with the phone number**,
    given the control's dominant channel was the phone. Both paths are tracked, but
    the emphasis in the layout (URL/QR first, phone second) is my call, not a tested
