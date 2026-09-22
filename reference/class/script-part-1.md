@@ -5,7 +5,17 @@ Dictated by Justin, 2026-09-22, in sections, against the slides in
 
 Lightly cleaned of filler where it doesn't change meaning. Where his phrasing is doing
 work — a device, a framing, a line he's clearly used many times — it's kept verbatim.
-**In progress. Justin will say when it's complete.**
+
+**Capture complete through the conversion arc** (roughly slides 1–59 of 107), which is
+all of it that matters for marketing. Justin, 2026-09-22, on everything after:
+
+> *"The rest of the slides, I do give some examples, but really, if someone's going to
+> work with me, they know it at this point."*
+
+**So the decision is made by the end of the money section — about two hours into a
+three-and-a-half-hour class.** The remaining ninety minutes deliver on the promise
+(income, legacy, the roof, Medicare, estate) but do not do conversion work. See the note
+at the foot of this file for what follows from that.
 
 ---
 
@@ -616,3 +626,28 @@ analysis and tell you how much green, how much blue, and how much red you have."
 >
 > **The mirror is a self-service version of exactly this.** Which means the mirror's job
 > is not to teach the buckets — it is to make a stranger want to know their own mix.
+
+
+---
+
+## What the back half is for — and the question it raises
+
+Justin's own words: *"if someone's going to work with me, they know it at this point."*
+The conversion happens by roughly slide 59. Everything after is content delivery.
+
+**The open question, and it is genuinely open.** If conversion is complete at the
+two-hour mark, the final ninety minutes raise the size of the ask without raising the
+conversion rate. On the record that the size of the ask is what filters
+(`growth-channels.md`, 2026-09-19 and 2026-09-21), that is expensive — a shorter class
+might convert the same people while being far easier to say yes to.
+
+**The counter, which is serious and may be decisive.** The back half may be exactly what
+makes "this is not a dinner seminar, we're not selling you anything" *true* rather than
+merely claimed. He promises a mile wide and an inch deep, and then delivers three and a
+half hours of it while asking for nothing. Cutting the part that doesn't convert could
+turn the class into something that reads as a conversion vehicle — damaging the
+credibility that makes the first two hours work at all.
+
+**This is precisely what Taleb's un-run experiment would answer** (a short, low-threshold
+session into the tired ZIPs). Note that the evidence for running it now comes from Justin
+himself rather than from anyone's theory. **Not a recommendation. Not decided.**
