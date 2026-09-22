@@ -51,7 +51,44 @@ register is doing work against that barrier.
 
 See `.claude/memory/growth-channels.md` (2026-09-21) for the principle itself.
 
+## Logo
+
+`edify-logo-wordmark.png` — supplied 2026-09-22. Wordmark only: "Edify" in heavy
+sans-serif over "Retirement Education" in a lighter weight, dark slate blue on white.
+
+**One real problem and several cosmetic ones. Take them in that order.**
+
+**Real: it's a raster PNG, 1080×1080, RGB with no alpha channel.** That means (a) it
+cannot be enlarged for print without pixelating, and (b) the white background is
+baked in, so it will sit in a white box on any coloured surface. For anything that
+goes to a printer, a vector file is needed — SVG, AI, EPS or PDF — plus a
+transparent-background version. If whoever made this still has the source, that's a
+five-minute export. If not, redrawing a wordmark from type is cheap.
+
+Cosmetic, listed so a designer doesn't have to rediscover them:
+
+- The typeface reads as a system default rather than a chosen one, with no
+  letterspacing adjustment. Fine as a placeholder; not a designed mark.
+- The weight contrast between the two lines is extreme, and the subtitle's tracking
+  is loose against it.
+- The artwork occupies roughly half the canvas and sits high of centre, which will
+  cause avoidable alignment work in every layout it appears in.
+- There is no symbol, only type. Legitimate as a choice, but it means the brand has
+  nothing that works as a favicon, an avatar, or a single small element.
+
+**How much this matters, honestly: less than it feels like it should.** In the 2021
+control that produced $6M, the brand mark appears once, small, inside — the work was
+done by borrowed institutional credibility, not by a logo
+(`reference/winning-mailers/`). Edify also has no separate legal existence; it is a
+brand name over Justin's education work. Fixing the logo is not on the critical path
+for the mirror test, and treating it as a project would be the scope creep this
+workforce is supposed to avoid. Get a vector file; leave the rest until something
+actually needs it.
+
+**Open question for Justin:** the wordmark's blue is close to the Blue bucket's blue.
+Deliberate reinforcement, or an accident worth separating? It matters only where the
+logo and the three circles appear on the same surface.
+
 ## Still missing
 
-Logo files, and anything else Edify-branded. "None exists" remains a valid answer and
-changes what a designer can build.
+A vector version of the logo, per above. Nothing else outstanding.
