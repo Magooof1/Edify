@@ -23,7 +23,16 @@ hook derived from the class arcs, not the arc itself transplanted. Noted at Pane
 below as the standing principle for anything built from this material going
 forward.
 
-**Revised again 2026-09-22 — Justin killed the cover.** His words: *"People buy
+**Cover settled 2026-09-23 — Justin chose Isla's combined version.** Headline is
+the coordination question; subhead is the offer ("I'll tell you what you actually
+have. About an hour, free, nothing to sign."). My question-only cover fixed half
+his objection and left the other half — see Panel 1 for the full account, what the
+combination costs, and the standing check that comes out of two rejected covers.
+Panel 2 now opens with the displaced line; the prior draft's headline there is
+cut, reasoning at Panel 2. One one-word flag for Justin: "actually" vs. "already"
+across cover and Panel 3.
+
+**Revised 2026-09-22 — Justin killed the first cover.** His words: *"People buy
 what is in it for them. By saying look me up first there is no hook."* Correct.
 The BrokerCheck device moved from Panel 1 to Panel 3, next to the CTA, where trust
 is actually a live question. Panel 1 now leads with the coordination question;
@@ -81,31 +90,54 @@ open collar is doing real work against the intimidation barrier on anything cold
 
 **Subhead, small, under the photo:**
 
-> If you had to stop and think about it, that's the answer.
+> *I'll tell you what you actually have. About an hour, free, nothing to sign.*
 
-**Why this one, over "I'll tell you what you already have."** Both were on the
-table. The offer line is more directly the piece's unique promise, and it's
-entirely about the reader in the sense that it names a benefit — but cold, on its
-own, it's abstract: *have of what?* It needs the coordination problem established
-first to mean anything. The question does the opposite: it needs no setup, it's
-answerable in the reader's own head in under a second, and the answer most people
-will actually land on — "I'm not sure" — is the doubt the rest of the piece exists
-to resolve. It's a question about *their* situation, not a claim about Justin's,
-which is exactly what Justin's objection was asking for.
+**Cover settled 2026-09-22 — Justin chose Isla's combined version over my
+question-only one. This section now argues what the piece does, not what I
+originally proposed.** My version fixed half of his objection and I said so at the
+time without following the thought through: he said *people buy what is in it for
+them*, and I fixed *about Justin* → *about them* while leaving *problem* →
+*benefit* unfixed. A cover that names something wrong with the reader's situation
+and stops there is still withholding the payoff — I'd even written down that it
+bought two full panels of doubt before any relief, which was the objection, sitting
+in my own file labelled as a risk rather than treated as one. The combined version
+keeps the hook and adds the payoff in the same glance: the question opens a gap,
+the subhead says it closes.
 
-**What I gave up by choosing it, stated plainly.** The offer — the actual thing
-Justin will do for the reader — no longer arrives until Panel 3. A reader who
-opens the fold gets doubt before they get relief, for two full panels. That's a
-real delay against the more conventional "here's what's in it for you, immediately"
-cover the offer line would have given, and it's a bet that the question is strong
-enough to carry someone through Panel 2 on curiosity about their own situation
-rather than on a stated benefit. I think it's the better bet — cold mail runs on
-"that's me," not on "that sounds nice" — but it's a bet, not a certainty.
+**What the combination costs, because it isn't free.** Two things, both real:
 
-**The cost to Panel 2, and how I covered it.** This headline was Panel 2's
-opening line in the prior draft. Promoting it to the cover left a hole there,
-which Panel 2 now fills with more of the coordination material rather than
-repeating the question — see below.
+1. **More words in a three-second read.** The question is already two lines; the
+   subhead adds a third element with four separate pieces of information in it
+   (what you get, how long, price, commitment). A cover panel that has to be *read*
+   rather than *caught* is slower, and slow is the one thing a mailbox doesn't
+   forgive.
+2. **A subhead competing with a headline can weaken both.** The eye has to pick a
+   starting point. If the offer line is set close in size or weight to the
+   question, they fight, and the reader resolves the fight by discarding the piece.
+   This is a layout problem more than a copy problem, and it needs a real answer
+   at art stage, not a hope: the question dominant, the offer clearly subordinate
+   and visually separated — smaller, italic, set apart from the headline block, not
+   stacked tight beneath it as a second headline.
+
+Neither cost outweighs having the payoff on the cover. But they're the price, and
+whoever art-directs this needs to know they're solving for them rather than
+centering three lines of type and calling it done.
+
+**One-word flag for Justin, not a change I'd make unilaterally.** The cover now
+says *"what you actually have"*; Panel 3's headline says *"what you already have."*
+Both are his, and repeating the promise across cover and offer panel is good, but
+the words should match. My preference is **"actually"** in both places — "already"
+describes an inventory, "actually" implies the gap between what someone thinks is
+true and what is, which is the practice's real conversion mechanism. I've left
+Panel 3 as-is pending his word rather than editing a line he approved.
+
+**Standing check for every cover I build after this one.** Two covers rejected,
+same root cause both times: the first proved credibility, the second posed a
+problem, and neither told a stranger what they get. So, before anything else on
+the next piece: **does the cover tell a stranger what they get?** If it doesn't,
+nothing else about it matters. Recorded here rather than in `.claude/agents/
+jayme.md` — that file is my own configuration and not mine to edit on an agent's
+say-so. If it belongs there permanently, that's Isla's or Justin's edit to make.
 
 ---
 
@@ -116,7 +148,19 @@ does the explaining the cover has no room for.
 
 **Headline:**
 
-> **Here's why that's harder to answer than it sounds.**
+> **If you had to stop and think about it, that's the answer.**
+
+**Which line survived, and why — my call, per Isla.** Two candidates did the same
+job here: this one, displaced from the cover, and the prior draft's *"Here's why
+that's harder to answer than it sounds."* Stacking both would be redundant, so the
+displaced line wins and the other is cut. Reason: it delivers a verdict, where the
+cut line only announces that an explanation is coming — throat-clearing is what
+panel two of a cold piece can least afford. It also now has a job it didn't have
+before. The cover no longer ends on an open question; it ends on an offer, which
+resolves the tension immediately. So Panel 2 has to re-open the doubt before the
+contractor argument can land, and a line that answers the cover's question *for*
+the reader — unflatteringly, in their own voice — does that in nine words. The cut
+line would have spent three sentences getting there.
 
 **Body:**
 
@@ -383,14 +427,13 @@ different move entirely:
 
 ## What I'm least sure about, in order
 
-1. **The coordination-question cover, now that it's carrying the whole load of
-   getting the piece opened.** Superseded item: BrokerCheck as the *cover* is gone
-   — Justin killed it and he was right, see Panel 1. What replaces it as the
-   biggest bet: a second-person question with no stated benefit attached, betting
-   that "that's me" beats "here's what's in it for me" on a cold list. Bill Jayme's
-   own catalogue leaned on exactly this kind of question-headline, but I don't have
-   a track record for it in this practice specifically, and it's now doing all the
-   work the offer line would have done more plainly. Stage 3 numbers are the read.
+1. **Whether the cover's two elements cooperate or compete at art stage.** Both
+   earlier versions of this item are superseded — BrokerCheck-as-cover is gone, and
+   so is the question-only cover. What's left to be unsure about isn't the copy,
+   which is now right: it's that a question headline plus an offer subhead only
+   works if the typography makes the reading order obvious in the first half-second.
+   Set badly, they compete and both lose. This is the piece's biggest remaining
+   risk and it will be decided by a designer, not by this file.
 2. **Sending the CTA to a landing page instead of leading with the phone number**,
    given the control's dominant channel was the phone. Both paths are tracked, but
    the emphasis in the layout (URL/QR first, phone second) is my call, not a tested
