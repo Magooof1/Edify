@@ -2,6 +2,35 @@
 Jayme, 2026-09-22. Draft. NOT cleared by Ed. NOT approved by Justin. Nothing here
 mails, prints, or spends until both sign off.
 
+**OPEN AND STRUCTURAL — RAISED 2026-09-23, NOT RESOLVED. READ BEFORE PRINTING.**
+This piece's offer is *come to our office in Crestview Hills*, as the first step a
+cold stranger takes. Justin's own travel rule, supplied 2026-09-23: *"I find that
+people will come to NKU or Harrison High school if they live within 10 miles. Outside
+of that they will drive to my office but only after my first meeting shows value."*
+
+So the offer asks for the step his experience says people take **second**. Two things
+compound, and the record had neither until now:
+
+1. **The class venues drew from about ten miles.** The Harrison result had been read
+   here and elsewhere as evidence that distance stops binding once someone is engaged.
+   It doesn't say that — those attendees lived near Harrison, and drove to Kentucky
+   for Visit 2 only after the class had shown them value. Corrected in
+   `reference/class/README.md` and `.claude/memory/growth-channels.md`.
+2. **The class venues were also neutral.** A university classroom and a high school
+   are places where nobody can sell you anything. An advisor's private office is the
+   approachability barrier — Justin's second named barrier, distinct from the money
+   one — with a door on it. The class solved both barriers at once; nobody had noticed
+   it was doing that, and this piece solves neither.
+
+Worth noting the retired mirror card offered a twenty-minute **phone call**, which may
+have been quietly solving a problem this piece reintroduced.
+
+**Consequence: this should not drop beyond roughly ten miles of Crestview Hills as
+written.** Whether the fix is a tighter radius, neutral ground for the first visit, or
+a non-physical first step is Justin's call, not a copy decision. Nothing else in this
+file is blocked by it — the copy is Ed-cleared and the layout is built — but the
+venue question decides whether the piece is printable at all.
+
 Status: replaces the rejected three-buckets card as the working concept for the
 2,000–3,000-piece DRA drop into worn Northern Kentucky ZIPs specified in
 `drafts/mirror-mail-test-plan.md`. Does not replace that test plan's instrumentation
