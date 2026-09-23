@@ -163,6 +163,21 @@ Three things follow, and none of them were in the record before:
    is engaged, geography appears to bind less than assumed — which is consistent with
    the reading that the *ask*, not the distance, is what filters.
 
+   **FLAGGED FOR CORRECTION — 2026-09-23 (Vannevar, on facts supplied directly by
+   Justin).** This reading was used in live decision-making: both Isla and Taleb cited
+   it on 2026-09-23 to argue that distance is not a live objection once someone is
+   engaged. Justin's own words, asked directly about travel behavior: "I find that
+   people will come to NKU or Harrison High school if they live within 10 miles.
+   Outside of that they will drive to my office but only after my first meeting shows
+   value." **This inverts the sequence assumed above.** Harrison attendees lived
+   within ~10 miles of Harrison — the class venue itself was local, not a distant
+   draw. They then drove to Kentucky for Visit 2 *because the class had already shown
+   value* — that's the second step, not the first. The evidence in this bullet was
+   always about willingness-to-travel-after-value, never about willingness-to-travel
+   cold. Full record: `.claude/memory/growth-channels.md`, 2026-09-23 entry. The
+   original reading above is left in place, not rewritten, so the correction and its
+   cause stay visible.
+
 ### What the three results together actually say
 
 | Room | Spend | Top of funnel | Downstream |

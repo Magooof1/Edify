@@ -886,3 +886,105 @@ Placed here (growth-channels.md) because it bears on offer/entry-point design;
 cross-referenced in brand-voice.md for anyone designing copy/tone for a first
 interaction. Flag any conflict this surfaces back to Isla — not Vannevar's call to
 resolve.
+
+---
+
+## 2026-09-23 — Five facts from Justin, direct questions, several correcting the record
+
+All supplied by Justin directly, in answer to specific questions put to him. Where an
+existing note is corrected, the correction is recorded here with what it corrects and
+by whom the original read was made — the earlier text is not rewritten out.
+
+### 1. DRA list thresholds — floor $250K IPA, ceiling ~$5M IPA, IPA governs
+
+Justin, verbatim: "I typically do 250k IPA or above and stop at around 5M. IPA I
+believe is more accurate for this than Net worth." Full fact and gap-note logged in
+partners-venues.md (DRA entry, same date) — cross-referencing rather than duplicating.
+
+**Two findings from this, not just the fact itself:**
+- **The list spans a 20x range in household assets and every piece of creative built
+  so far has treated it as one audience.** A $300K household and a $4M household get
+  identical copy. Not previously noted anywhere in this record.
+- **It supports the underserved-segment finding below (item 4).** A $250K–$750K
+  household sits squarely inside a band many RIAs turn away on stated minimums —
+  which is what makes "I don't have enough money to have an advisor" (item 3, barrier
+  1) a *belief about qualification* held by people who, on Justin's own list
+  criteria, already qualify.
+
+### 2. Travel radius — corrects an inference already used in live decision-making
+
+Justin, verbatim: "I find that people will come to NKU or Harrison High school if
+they live within 10 miles. Outside of that they will drive to my office but only
+after my first meeting shows value."
+
+- **Class venue (NKU, Harrison HS): ~10-mile draw.**
+- **Office (Crestview Hills): no cold draw.** People go there only after a first
+  meeting has already shown value — never as a first step.
+
+**This inverts a sequence the record had assumed, and that assumption was already
+acted on.** `reference/class/README.md` ("The class is portable, and it has already
+crossed the river" section) reads the Harrison result as evidence that "once someone
+is engaged, geography appears to bind less than assumed," and both Isla and Taleb
+used that reading on 2026-09-23 to argue distance isn't a live objection. Justin's
+answer corrects it: Harrison attendees lived within ~10 miles of Harrison itself —
+the class venue was local. They then drove to Kentucky for Visit 2 *because the class
+had already shown value*, which is the second step, not the first. The evidence was
+always about willingness-to-travel-after-value, never about willingness-to-travel
+cold. **Flagged in place in `reference/class/README.md`, same date** — the original
+reading is left visible with the correction attached, not silently rewritten.
+
+### 3. The two barriers are two, not one — a flattening error, worth recording as a pattern
+
+Justin, correcting Isla directly: "But I think you are just assuming they think they
+don't have enough money. Some think advisors are unapproachable. It isn't necessarily
+money."
+
+Justin first named both barriers on 2026-09-21 (see that entry above — three
+problems, deliberately not merged). Isla then spent two turns on 2026-09-23
+collapsing both into the money belief and arguing the underserved segment purely in
+those terms. **Recording the collapse as the error, not only the corrected fact** —
+merging two distinct barriers into the more tractable one is a pattern likely to
+recur, not a one-off.
+
+- **Barrier 1 — qualification.** "I don't have enough money to have an advisor." A
+  belief about whether they qualify.
+- **Barrier 2 — approachability.** Advisors are unapproachable. Not about money.
+  **Information does not cure it** — someone can know they qualify and still not
+  walk in.
+
+These need different answers in copy. Naming a low minimum answers barrier 1 only;
+it does nothing for barrier 2.
+
+### 4. The underserved segment — confirmed as (b), not (a)
+
+Asked directly whether he meant (a) households below the list's floor, or (b)
+households already on the list who wrongly believe they don't qualify, Justin
+answered: **"I mean b."**
+
+Combined with item 1 above, this is now a supported position, not an inference: **the
+people Justin wants are already receiving his mail and reading past it.**
+
+**Cross-reference, same finding from the opposite direction:** Taleb's 2026-09-19
+finding already on record above ("Jayme's mechanism read on the control mailer")
+— "list quality and willingness-to-clear-the-offer's-bar are different variables — a
+household can be strong on the first while used up on the second" — reached the same
+shape arguing about why rooms were emptying. Worth holding as the same finding,
+reached twice independently.
+
+### 5. The real-estate mailer Justin receives — settles a disputed reframe
+
+Asked which kind of real-estate piece he personally gets, Justin: **"My address with
+value."** It is the **variable-data merged kind** — his own address, an estimated
+value of his own home — not a street-wide "just sold" card.
+
+**Corrects a reframe Taleb argued on 2026-09-23:** that these pieces aren't
+personalized at all, and that the working mechanism is a proof point rather than
+personalization. That reframe does not describe the artifact Justin is actually
+responding to — his is individually merged, not a neighborhood broadcast. Taleb's
+underlying point (proof beats argument) may still hold on its own merits, but the
+evidence it was built on was about a different piece than the one Justin receives.
+Recording both the reframe and its correction, not overwriting either.
+
+**Constraints observed:** nothing above is about an individual client — list
+criteria and travel/behavior facts only. Where a note above is Isla's or Taleb's
+inference rather than Justin's own statement, it's marked as such.

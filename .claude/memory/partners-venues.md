@@ -104,3 +104,13 @@ been rotating ZIPs across mailings, weighted back toward his strongest territory
 cause, compounded by other advisors now mailing the same area. Do not read this as
 ruling out list fatigue — an earlier version of this note did, and that read was
 corrected by Justin.
+
+**IPA/net-worth thresholds — NEW, 2026-09-23, first time either select has carried a
+number.** Justin, verbatim: "I typically do 250k IPA or above and stop at around 5M.
+IPA I believe is more accurate for this than Net worth." **Floor: $250,000 IPA.
+Ceiling: ~$5,000,000 IPA. IPA governs; net worth is secondary,** not co-equal as this
+entry previously implied by listing both with no hierarchy. Worth noting the gap
+existed: these fields have been named four separate times across this file and
+growth-channels.md (2026-09-12, 2026-09-19 x2) with no value ever attached until now.
+Full findings (the 20x asset-range spread within one list, and how this confirms the
+underserved-segment question) in growth-channels.md, 2026-09-23 entry.
