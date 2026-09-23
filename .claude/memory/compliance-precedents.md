@@ -923,3 +923,25 @@ actually have" as neutral.
 
 **Status:** not urgent, not resolved. Flagged for Ed/Justin whenever a piece uses that
 framing. Cross-ref class-content.md, 2026-09-23 entry.
+
+**Relationship to the 2026-09-18 "bucket-to-hat mapping" / Portfolio-Medics-funnel
+question (above, in the 2026-09-18 entry) — Isla's ruling, 2026-09-23, not Justin's
+instruction and not Ed's; Ed may take a different view once either question is
+actually live, and should feel free to.** Two questions, not one — related but
+separately triggered, and Vannevar was right to cross-reference rather than merge
+them:
+
+- **2026-09-18** asks what *kind* of marketing a given piece is. A funnel that
+  converts on Blue may be advisory marketing in substance, which changes whose rules
+  govern and whether Portfolio Medics' posture (no pre-approval, correct disclosure
+  where its name appears) still covers it. **Triggers on what the funnel converts
+  to.**
+- **2026-09-23 (this entry)** asks whether a *neutrality claim* obliges disclosure of
+  the differential compensation behind it — triggers on a piece saying, in whatever
+  words, "I'll implement whatever you actually have," **regardless of what it
+  converts to.** A piece could raise either one alone.
+
+**Disposition, so this isn't rediscovered or split months apart:** both share the
+same underlying structure (Justin wears two hats that pay differently), so they
+should go to outside counsel **in the same conversation**, as two questions, not
+one. Answering only one would leave Justin with half a position.
