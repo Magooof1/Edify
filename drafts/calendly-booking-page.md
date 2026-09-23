@@ -43,9 +43,14 @@ the mailer.
 > Not a class. Not a sales pitch. A visit — about an hour, one-on-one, at our office
 > in Crestview Hills, right behind Thomas More University.
 >
+> *Investment advisory services are offered through Portfolio Medics, LLC, an
+> SEC-Registered Investment Adviser. Insurance business is conducted through Trulip
+> Investment Management, LLC. This is a free educational visit — not a solicitation,
+> and not individualized advice. Full disclosures: [LINK].*
+>
 > We'll sit down and look at what you've already got — no products, nothing to sign,
-> nothing to buy. Bring whatever's most comfortable for you: statements, questions, or
-> nothing at all.
+> nothing to buy. Bring whatever's most comfortable for you — statements, questions,
+> or nothing at all. The more you bring, the more precise we can be.
 >
 > It's free. If it makes sense to keep talking afterward, we'll set up a second visit.
 > If it doesn't, you'll still leave knowing more about your own money than you did
@@ -160,8 +165,8 @@ explicitly ruled pointer-style-acceptable, not an added marketing element.
 > You're set for [Day, Date] at [Time], at our office in Crestview Hills —
 > [ADDRESS], right behind Thomas More University. [Directions link]
 >
-> It's just you and Justin, about an hour, on the couch. Nothing to bring, nothing to
-> prepare — though if you'd like to bring statements or questions, that's welcome too.
+> It's just you and Justin, about an hour, on the couch. Bring whatever's most
+> comfortable for you — the more you bring, the more precise we can be.
 >
 > Need to change the time? [Reschedule link] · [Cancel link]
 >
@@ -182,11 +187,12 @@ back through Ed — that's the rule, not a suggestion.
   call schedules a free educational conversation — it isn't a solicitation or an offer
   of specific advice" — adapted for an in-person visit rather than a call. Ed's call on
   exact wording, same as everywhere else.
-- **The open entity-name item Isla is raising with Justin directly bears on this
-  page.** I have not put any entity name — 2021 or otherwise — into this draft. The
-  "[LINK]" placeholders for full disclosures point at wherever the resolved block ends
-  up living (presumably the mailer's landing page, since that's upstream of this page
-  in the funnel), not at text I've written here.
+- **Entity question resolved 2026-09-22 — this item is closed.** Insurance business is
+  conducted through **Trulip Investment Management, LLC**. Disclosure wording pulls
+  from **Block A** in `drafts/disclosure-blocks-v1.md`, not the superseded variants
+  below it. The "[LINK]" placeholders for full disclosures point at wherever the
+  resolved block ends up living (presumably the mailer's landing page, since that's
+  upstream of this page in the funnel).
 - **Edge case worth flagging, not resolving:** the funnel as designed always routes a
   digital visitor through the landing page (which carries the full, always-rendered
   disclosure block) before they reach this Calendly page. But if this link is ever
@@ -220,8 +226,8 @@ already planned.
   helper-text support on custom questions, UTM pass-through if wanted).
 - The dedicated event link itself — needs building, and needs to be genuinely distinct
   from any link used on the FB/mirror funnel or any future drop.
-- Final disclosure wording — blocked on the entity-name resolution Isla is raising with
-  Justin. Placeholders only, nothing final pasted.
+- Final disclosure wording — pull from **Block A** in `drafts/disclosure-blocks-v1.md`
+  (approved, entity-corrected 2026-09-22). No longer blocked.
 - Address and directions link for the confirmation email.
 - Tracked phone number for the "questions before you book" line, shared with the
   mailer's own phone instrumentation.

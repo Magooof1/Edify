@@ -297,16 +297,17 @@ full ruling.)*
 
 ### Section 6 — Disclosure slot
 
-*Canonical source: `drafts/disclosure-blocks-v1.md`, Variant A (full long-form
-block) — edit there, not here. Language pending Justin's compliance sign-off.*
+*Canonical source: `drafts/disclosure-blocks-v1.md`, **Block A** (the approved 2021
+mailer block, entity corrected 2026-09-22) — edit there, not here.*
 
 **[DISCLOSURE BLOCK — ALWAYS RENDERED. Per Ed's placement call: full block, unabridged,
 visible at all times. No accordion, no "important information" expandable section, no
 click-to-expand of any kind. Whoever builds this in Squarespace should treat this as a
 hard requirement, not a design default to override.]**
 
-Base text is Variant A from the canonical `drafts/disclosure-blocks-v1.md`,
-adapted for a webpage ([card/email/page] → "page"). **Corrected 2026-09-18
+Base text is **Block A** from the canonical `drafts/disclosure-blocks-v1.md`
+(**corrected 2026-09-23, Ed** — this pointer previously named "Variant A", which
+that file now marks superseded and says not to build from), adapted for a webpage ([card/email/page] → "page"). **Corrected 2026-09-18
 (v2.2):** the prior pointer sent readers to `drafts/mirror-card-v2.md`'s copy,
 which still named "Trulip Retirement Planning, LLC" as the insurance/planning
 entity — that company doesn't exist. Variant A instead names **Trulip Investment

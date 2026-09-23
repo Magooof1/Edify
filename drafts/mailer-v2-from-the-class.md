@@ -168,7 +168,7 @@ line would have spent three sentences getting there.
 > find a plumber or an electrician on your own, but because somebody has to
 > coordinate them. Otherwise the drywall goes up before the wiring's done.
 >
-> Most people are their own contractor when it comes to retirement. You probably
+> When it comes to retirement, you're probably your own contractor. You probably
 > picked your own investments inside your 401(k). Maybe you've got someone for
 > insurance, someone for taxes. Good people, most of them. But is anyone actually
 > coordinating what they're doing with what you're doing?
@@ -292,8 +292,11 @@ call, not a settled one, and it's the item I'd want Justin or Ed to push on hard
 
 ## PANEL 4 — Disclosures only
 
-Full Variant A block, cloned verbatim from `drafts/disclosure-blocks-v1.md` at send
-time — not re-typed here, per that file's own canonical-source rule. Same
+Full **Block A** — the approved 2021 mailer block, entity corrected 2026-09-22 —
+cloned verbatim from `drafts/disclosure-blocks-v1.md` at send time, not re-typed
+here, per that file's own canonical-source rule. **Do not clone from the superseded
+"Variant A" section further down that file** (Ed, 2026-09-23: the old pointer named
+the section the file itself marks "do not build from it"). Same
 open items as every other piece in the queue: the three "CONFIRM EXACT WORDING"
 markers, Portfolio Medics' state footprint, the physical address for any digital
 CAN-SPAM-adjacent touch this drives to.
@@ -461,3 +464,42 @@ different move entirely:
   already drafted in `drafts/mirror-landing-page-v2.md` and needs its own
   reconciliation pass against this card's language (URL, headline register,
   "visit" vs. "meeting") before the two are sent out as one funnel.
+
+---
+
+## Ed's clearance pass — 2026-09-23
+
+Routed as one funnel with `drafts/calendly-booking-page.md`. **Ed flags; he does not
+approve. Everything below is applied to the drafts pending Justin's word.**
+
+**Applied here:** the Panel 2 population claim ("Most people are their own
+contractor…") and the Panel 4 disclosure pointer, which named the superseded "Variant
+A" section rather than Block A. Both marked at their locations above.
+
+**Ruled clean, explicitly rather than deferred:**
+
+- **The whiteboard photo.** Unlabeled circles with a caption about the conversation's
+  length do not describe Green. Ed distinguished it from the 2026-09-18 case that did
+  trigger, where the picture carried a printed "CAN'T LOSE VALUE" label. Settled — not
+  "probably fine."
+- **Panel 3's bare colour words**, inside a promise rather than a description.
+- **Funnel geofence:** the card alone doesn't trigger it; the QR/URL destination does
+  (the mirror's Q1 describes Green explicitly), so the funnel is OH/KY-fenced
+  regardless. Moot under NKY-ZIP distribution, and on record for the day this card
+  points somewhere else.
+- **BrokerCheck** at its Panel 3 location — instruction-only, record never reproduced.
+  Original ruling unchanged.
+- No advisory-services-directly problem; no testimonial content; no performance
+  figures; Portfolio Medics correctly kept off the front panels.
+
+**Open, not copy — these block print, not clearance:**
+
+1. URL registration/hosting and the tracked phone number.
+2. The no-pitch substantiation record under Rule 204-2 — a dated internal policy note
+   in Trulip's own compliance file, plus a line in whatever script governs the visit.
+   `drafts/no-pitch-policy-note.md` is the draft; it needs Justin's signature.
+3. A separate dated 204-2 log entry each for the mailer, the booking page and the
+   landing page — three advertisements, not one.
+
+**Still unresolved, Justin's call:** "what you **actually** have" (cover) vs. "what you
+**already** have" (Panel 3). Recommendation remains "actually" in both.
