@@ -904,3 +904,22 @@ compliance questions.
 
 **Status:** raised, not resolved. Ed's to work through; none of the four is Vannevar's
 or Isla's to decide.
+
+---
+
+## 2026-09-23 — Flagged, not resolved: differential-compensation disclosure across the three buckets
+
+**What's on record.** Justin confirmed 2026-09-23 (class-content.md, same date) that he
+implements all three buckets himself and does not steer clients toward any one — they
+land wherever their own risk tolerance puts them: *"I don't care if you have green, blue
+or red. I do all 3. I won't even steer them one way or another."*
+
+**The open question this raises, separate from steering.** The three buckets compensate
+Justin differently: insurance commissions (Green) through Trulip Investment Management,
+LLC, versus advisory fees (Blue) through Portfolio Medics. Bucket-neutral implementation
+answers the steering question; it does not by itself answer whether that differential
+compensation needs to be disclosed wherever a piece describes "we implement whatever you
+actually have" as neutral.
+
+**Status:** not urgent, not resolved. Flagged for Ed/Justin whenever a piece uses that
+framing. Cross-ref class-content.md, 2026-09-23 entry.

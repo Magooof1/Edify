@@ -988,3 +988,47 @@ Recording both the reframe and its correction, not overwriting either.
 **Constraints observed:** nothing above is about an individual client — list
 criteria and travel/behavior facts only. Where a note above is Isla's or Taleb's
 inference rather than Justin's own statement, it's marked as such.
+
+---
+
+## 2026-09-23 (later) — Competitive read (nobody arrives holding Blue) and a mailer pattern across two drafts
+
+### Nobody arrives holding Blue — Justin's competitive read, with its basis
+
+Asked directly whether competitors offer tactical management, Justin: *"I've worked
+with over 2k advisors as a wholesaler. They don't do blue. There are firms who have
+tactical like LPL but it underperforms so they don't really offer it. There are market
+timers. But I can honestly say that no one will come to my class and have blue unless
+they are a credited investor who is with a hedge fund."*
+
+**Record the basis alongside the claim.** Direct observation from inside the
+distribution channel across ~2,000 advisors — not inference. **Supersedes a structural
+argument Taleb made 2026-09-23** (not previously logged in this file): that advisors
+avoid build-your-own formats because giving away a plan weakens their close. Justin's
+correction: those advisors think the plan is the prize; he doesn't, and will give the
+plan away free, because its conclusion points at something they can't deliver.
+
+**Isla's caveat, recorded as hers, now answered.** The Blue-realization strategy rests
+on this claim, and if competitors do offer tactical management the edge narrows.
+Justin answered it directly with the wholesaler basis above.
+
+**Not usable as marketing copy.** "The other advisors can't do this" is disparagement
+and unverifiable in an ad. Strategy insight only — do not lift into any draft.
+
+### The mailer has been built from the wrong end of the class, twice — a process pattern, not an incident
+
+- **First attempt** built from the three buckets — the *conclusion* of a two-hour
+  argument. Rejected by Justin 2026-09-19: *"We will get crickets."*
+- **Second attempt** (`drafts/mailer-v2-from-the-class.md`) built from the contractor
+  analogy and the coordination question — the *middle* of the class. Justin,
+  2026-09-23: *"This seems like it has too many words."* 447 words of read-copy across
+  three panels.
+- **Both assume a reader who has already sat down.** The class opening — the founding
+  story, the tornado, "this is not that" — is the only part of the material that works
+  on a stranger (full detail, class-content.md, 2026-09-23 entry), and was never used
+  in either attempt.
+
+Cross-reference: the coordination hook's first line excludes the underserved segment
+identified in the 2026-09-23 entry above (item 4, "the underserved segment") — a
+reader with no tax person and no insurance person correctly concludes the piece isn't
+about them.

@@ -174,3 +174,74 @@ so completion requires no interaction with anyone.
 
 **Compliance items raised from this capture:** logged in `compliance-precedents.md`,
 2026-09-22 entry — not restated here.
+
+---
+
+## 2026-09-23 — Founding story, bucket neutrality, and the tornado: three items from Justin, direct
+
+### The founding story — source, a misread corrected today, and the qualifier that must travel with it
+
+**Source, already captured in full 2026-09-22:** `reference/class/script-part-1.md`,
+slide 1. Not restated here — the substance: ~15 years in financial services; early
+career traveling the country working with advisors at Edward Jones, LPL, Raymond James,
+and banks; about ten years in, a family friend whose husband had just died asked him for
+help finding someone to guide her retirement; he'd worked with roughly 2,000 advisors by
+then, went through his own criteria, and "out of thousands came back with only a handful
+I'd recommend." His own line: "That's why we created this course." **Unused in any
+marketing piece as of this date** — this is the practice's "why," in Justin's own
+framing, sitting untouched in the source file since it was transcribed.
+
+**Correction, recorded because it happened today, not a new fact about the script
+itself.** Isla proposed "2,000 advisors" as a *credential* — a trust device. Justin
+corrected it by pointing at the script directly: **the number is not a boast; it is the
+setup for a disappointing finding.** It exists to make "only a handful" credible, and
+what makes the story land is the widow's request he couldn't easily answer. Flattened to
+a credential, it stops working. Mark this as Justin's correction of a proposed reading,
+not a revision of the transcript.
+
+**The disparagement qualifier is load-bearing and must travel with the line wherever
+it's used.** Justin's own words, from the script: *"It doesn't mean there was anything
+wrong with the other people. Some of them focused on retirement planning, some did
+not."*
+
+**Also unused, same opening: the mailbox line.** *"You've probably had a dinner seminar
+show up in your mailbox. This is not that."* Cross-reference brand-voice.md, 2026-09-19
+entry (dinner seminars declined on principle) — this is Justin's own spoken version of
+that same standing brand decision, sitting unused while multiple mailer drafts were
+built without it. See growth-channels.md, 2026-09-23 entry ("mailer built from the wrong
+end of the class, twice") for the pattern this is part of.
+
+### Bucket neutrality — Justin implements all three and does not steer
+
+Justin, verbatim, 2026-09-23: *"I don't care if you have green, blue or red. I do all 3.
+I won't even steer them one way or another. They will just come to their own conclusion
+based off their risk tolerance. Some people are fine with red."*
+
+**Resolves a tension Isla raised.** If nobody arrives holding Blue (see
+growth-channels.md, 2026-09-23 entry, "nobody arrives holding Blue"), an exercise that
+always concludes "you need Blue" would be a funnel wearing a worksheet rather than
+education. It isn't, because Justin implements all three and lets risk tolerance decide
+where someone lands. The two facts are compatible, not in tension: one is about what
+people *arrive* with, this is about where they *land*.
+
+**Design constraint that follows — hard, not a preference.** Any class exercise or
+marketing instrument built on this material must be able to land honestly on "what you
+have is fine." A structure that can only produce one answer destroys the differentiation
+the whole brand rests on.
+
+**Open item, flagged for Ed, not resolved, not urgent — also logged in
+compliance-precedents.md, 2026-09-23 entry.** Implementing all three means the three
+compensate Justin differently: insurance commissions (Green) through Trulip Investment
+Management, LLC, versus advisory fees (Blue) through Portfolio Medics. A
+conflict-disclosure question, not a steering question.
+
+### The tornado — the second unused arresting device from the same ten minutes of class
+
+Source: `reference/class/script-part-1.md`, slide 4 (full text and note already there,
+not duplicated here). The Financial House frame is taught by **destroying** a house, not
+drawing one — the room names a natural disaster, the roof fails first, then the walls,
+and what survives is the foundation, which is why money is the foundation and why the
+course starts there. The source file already flags it as the most memorable thirty
+seconds of the opening, with no marketing use to date. Worth recording alongside the
+founding story above: both of Justin's arresting devices sit in the first ten minutes of
+a 3.5-hour class, and neither has ever left the room.
