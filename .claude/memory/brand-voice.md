@@ -84,6 +84,29 @@ account are **Justin's data.** The three limits and the two rules are **Isla's
 reasoning**, laid alongside the evidence — not settled findings, and not to be
 mistaken for either the eval data or Justin's own words in any future retelling.
 
+## 2026-09-25 (later) — Standing rule: never say "safe," "safe money," or "safe space"
+
+Full competitive research: `growth-channels.md`, "Competitive finding: 'safe money'
+is occupied territory," 2026-09-25 (Taleb). One line here since this file is what
+gets read before briefing creative:
+
+**"Safe money" is a saturated national category owned by the annuity-seminar
+industry** (Safe Money Marketing, Safe Money Resource, franchise "Safe Money Events"
+sold to thousands of agents) — the lowest-trust, most product-pushy segment of
+Justin's own competitive set, and precisely the dinner-seminar world he has
+deliberately differentiated from (2026-09-19 entry, below). Justin reached for
+"owning the safe space" as a name for his position; that phrase is contaminated
+turf, not available vocabulary. **Never use "safe," "safe money," or "safe space" as
+brand language, at any altitude, cold or warm.** Use the words already on file: the
+STANDING positioning statement above.
+
+Also on record there: nobody large in the category (Ramsey, Orman, Ken Fisher, the
+annuity-seminar world) runs quiet — independent, competitive-side corroboration of
+"aspiration is the crowd, relief is the open position" (STANDING section, rule 2
+above). And a named competitor on the feeling-first model, Roger Whitney ("The
+Retirement Answer Man") — proof the model works at scale, and proof Justin's edge is
+regional distribution, not novelty of the idea.
+
 ## 2026-09-25 — Three extensions to the standing positioning statement
 
 Justin asked explicitly that all three be remembered. They extend the STANDING

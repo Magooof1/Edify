@@ -1051,6 +1051,10 @@ adds an altitude rule for cold vs. warm copy that sits beside, not against, the
 
 ## 2026-09-25 (later) — Strategic finding, open question: "what is our land?"
 
+**RESOLVED same day — see "RESOLVED: the land is YouTube, scoped local" entry near
+the end of this file.** Left in place below as the reasoning that produced the
+decision, not superseded.
+
 **Logged as an open question with candidates, not a settled answer or a scope
 commitment.** Justin asked directly for this to be recorded. It sits beside the
 positioning entry immediately above but is a different kind of thing — that one says
@@ -1148,3 +1152,114 @@ Justin: this may eventually belong there, most likely as a named line under Stag
 "Found" door (item 1 above, the owned-audience candidate) or as its own cross-cutting
 note once the open question resolves toward one candidate — but that's a judgment
 call for the humans running the routing, not a memory-curation decision.
+
+---
+
+## 2026-09-25 (still later) — RESOLVED: the land is YouTube, scoped local. Three cautions and the Shorts question, not yet in ROADMAP.md.
+
+Resolves the open question immediately above. Justin's decision, verbatim: *"Let's
+continue to pay the rent but focus more of the efforts on owning the land only
+locally northern Ky and tri state Ohio. Also, I think you tube is the way to go bc it
+easily translates to the class."* Candidate 4 above (the class itself, made
+permanent) wins.
+
+**The full decision — its three conditions (local scope, funded by time not the mail
+budget, one asset for two years), the signal that counts (a booked meeting traceable
+to YouTube at zero incremental spend, against the ~$3,333-per-buying-unit mail
+baseline — never subscribers or views), the twelve-week cheapest-read test, and the
+two things that would make the thesis wrong — are recorded in `ROADMAP.md`, Stage A,
+"Found" door. Cross-reference, not duplicated here.** This entry holds three things
+Isla flagged that cut against the decision and aren't yet folded into that ROADMAP
+entry, plus the open Shorts question ROADMAP.md points here for.
+
+1. **The room's conversion mechanism may not survive the camera.** The class converts
+   through a live Socratic exchange — Justin asks, the room answers wrong out loud,
+   they feel it (the 60/40 disqualifier, `class-content.md`, 2026-09-18/22). On video,
+   nobody answers. A recording of a Socratic experience is a lecture, and the
+   mechanism the eval data identifies (2026-09-12 entry, above) may not survive the
+   camera. Untested, not disproven.
+2. **Sloan's sample-couple redesign happens to close that hole — unnoticed until
+   now.** *Predict, then reveal* is how a good explainer video works natively; she
+   designed a video-native format while solving a room problem, with neither format
+   the stated goal at the time. Consequence: the class dry run already recommended
+   elsewhere is now testing two things at once — the room format and the future video
+   format. Recorded so its value is visible and it isn't rediscovered as a separate
+   idea later.
+3. **A cost the "funded by time, not the mail budget" framing undercounts.** Justin's
+   time on camera is not idle production capacity. **It competes directly with Justin
+   seeing clients**, and he is the scarcest resource in the practice — see Stage B's
+   constraint in `ROADMAP.md`. Any weekly time budget for this needs to come from a
+   named place, not be treated as free.
+
+**Open, not decided — YouTube Shorts (Isla's position, logged as a position, not a
+ruling).** Justin raised Gary Vaynerchuk's short-form advice. **Shorts are a good
+cheap test and a poor asset here**, for three reasons:
+- **They distribute nationally and randomly.** Justin just scoped the land locally.
+  Shorts are the least geo-targetable format there is; reach in Texas builds nothing
+  he can convert.
+- **They reward loud.** Vaynerchuk's model is attention arbitrage, optimized for
+  retention hooks. Justin's whole position is quiet — the same trap as borrowing
+  someone's tactics without their economics: Vaynerchuk monetizes attention at scale,
+  Justin monetizes roughly 25 relationships a year within driving distance of
+  Crestview Hills.
+- **A short interrupts; it is not somewhere to go.** Justin's own framing of the land
+  is a place people return to. Shorts are structurally the opposite.
+
+**Where Shorts do earn a place:** the cheapest possible way to find out whether
+Justin is watchable on camera at all, cut from class footage that already exists, and
+as discovery feeding long-form. Tactic, not asset. `video-repurposer` already exists
+for this and the Core Four already specifies three clips a week (`ROADMAP.md`,
+section 2).
+
+**Attribution.** Justin's decision is his own words, verbatim above. The three
+cautions and the Shorts position are Isla's. Nothing about real clients.
+
+---
+
+## 2026-09-25 (still later) — Competitive finding: "safe money" is occupied territory; nobody in the category runs quiet
+
+Taleb's research, requested ahead of the land decision above. Record as a hard
+competitive fact, true regardless of any decision made about it — not contingent on
+the YouTube/local-land resolution.
+
+**"Safe money" is a saturated national marketing category, owned by the
+annuity-seminar industry.** Safe Money Marketing, Safe Money Resource, and turnkey
+"Safe Money Events" are sold as franchise seminar systems to thousands of insurance
+agents/advisors — dinner seminars and annuity pitches, twenty-plus years, at scale.
+Sources: prnewswire.com (Safe Money Marketing), globenewswire.com (Safe Money
+Resource), tuckeradvisors.com.
+
+**Why this matters enough to record permanently.** Justin reached for "owning the
+safe space" as a name for his strategic position. That phrase is contaminated turf
+held by the lowest-trust, most product-pushy segment of his own competitive set —
+precisely the dinner-seminar world he has spent years differentiating from on
+principle (`brand-voice.md`, 2026-09-19: never ran a dinner seminar, wanted to be an
+education brand). **Standing rule, cross-referenced in brand-voice.md: never reach
+for "safe," "safe money," or "safe space" as brand language, at any altitude.** The
+words this practice actually uses are already on file — brand-voice.md, STANDING
+positioning statement, 2026-09-25: "the relief of finding out what you didn't know
+you were missing."
+
+**The more valuable half of the same scan — corroboration, not a new finding.**
+Everyone large in this category — Ramsey, Orman, Ken Fisher, the annuity-seminar
+world — competes on volume, fear, or authority. **Nobody is running quiet.**
+Structural: loud is what scales on national paid media. Independently corroborates
+"aspiration is the crowd, relief is the open position" (brand-voice.md, STANDING,
+rule 2) from the competitive side — that rule's existing evidence came from Justin's
+own eval forms; this is a second road to the same place.
+
+**Named competitor, not previously on record: Roger Whitney, "The Retirement Answer
+Man."** CFP, ~30 years, 9M+ podcast downloads, positioned explicitly on retirement
+anxiety and "retirement is not a math problem." Source: rogerwhitney.com. Two
+readings, both worth keeping:
+- Proof the model (advisor owns the feeling, not the returns) works and compounds at
+  national scale.
+- Proof the model is **not undiscovered, only under-distributed regionally.** Justin
+  cannot claim novelty on the underlying idea. What's open is regional distribution —
+  which is exactly what the 2026-09-25 land decision above scopes to (Northern
+  KY/tri-state Ohio): compete on locality, not on having invented the feeling-first
+  positioning.
+
+**Attribution.** All findings and sources in this entry are Taleb's research. The
+cross-references to the positioning statement and the land decision are Vannevar's
+placement, not new reasoning.
