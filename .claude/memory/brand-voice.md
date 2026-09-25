@@ -2,6 +2,88 @@
 
 Maintained by Vannevar. Decisions, not opinions; each entry says who decided and when.
 
+## STANDING — What this practice sells (read this before briefing anything) — 2026-09-25
+
+Justin, on record: "Remember this bc I'll forget what feeling we are selling." Not a
+dated note to scroll past — the thing anyone briefing any piece (mailer, script, class
+handout, landing page) should hit first. Pointers to this section live in
+`growth-channels.md` and `class-content.md`.
+
+**The positioning statement** (Isla's formulation, accepted by Justin, 2026-09-25):
+
+> What this practice sells is the relief of finding out what you didn't know you were
+> missing.
+
+Not a plan. Not a class. Not a sorted page. Not "Blue." Those are all delivery — the
+product is the end of a low-grade suspicion that something is wrong and you can't see
+it. Family, less stress, time to yourself (Justin's own list of what people actually
+care about) are real and are what this makes possible, but **they arrive second.**
+Nobody relaxes into a phase they're quietly worried about.
+
+**What this resolves.** Justin, 2026-09-25, after seeing four mailer concepts: "What
+are we really trying to sell here… Are we selling the nail? Or are we selling what the
+nail can do for them?" Isla's answer, which he accepted: **every piece this workforce
+has built is the nail** — buckets, the coordination argument, the confession, and most
+plainly "you'll leave with your money sorted onto one page." Nobody wants a sorted
+page. **On record against Isla specifically:** she proposed that worksheet promise as
+a breakthrough two days earlier (2026-09-23) and was wrong about what it was — the same
+mechanism-over-outcome error, in its purest form to date.
+
+**Evidence — and its limits, stated precisely so this doesn't get overclaimed:**
+- **Directly supporting, already on file:** the 2026-09-12 eval-form finding
+  (`growth-channels.md`) — "the split is discovery vs. confirmation... converters
+  discovered a category they lacked; non-converters had known worries confirmed." Same
+  mechanism, in Justin's own data, different words. Also the 2026-09-12 anonymized
+  client who'd attended four prior seminars and never once heard Blue described.
+- **Justin's own account, 2026-09-25 (no client-identifying detail — keep it that way
+  in any retelling):** a client with ~$5M, who had been to many events, kept saying "I
+  don't know what I don't know" — searching for something he felt was missing. The
+  events hadn't fixed it, because his problem was never a shortage of information.
+- **Three limits — hold these precisely, don't round them off:**
+  1. The eval data is checkboxes, not language. It confirms the *mechanism* (discovery
+     of a gap); it cannot confirm the *phrasing* — "I don't know what I don't know"
+     rests on one conversation with one man.
+  2. Nobody has ever interviewed a non-converter — still an open gap (flagged
+     2026-09-12, `growth-channels.md`).
+  3. Sub-group (a) from the 2026-09-12 read exists — people the Blue story doesn't
+     fit, whom the eval form correctly filters out. "Everyone has a gap" is not
+     universal; copy shouldn't claim it is.
+
+**Two rules that follow — both new:**
+
+1. **The altitude rule.** The 2026-09-12 eval-form instruction ("lead with the missing
+   category") describes what converts someone already in the room — it does not
+   describe what gets them into the room, and the two have been collapsed all week. To
+   a cold reader, "you're missing a bucket" is a taxonomy claim about something
+   they've never heard of and can't evaluate in three seconds. **So: the cold piece
+   sells the feeling; the class delivers the specific thing.** Same mechanism,
+   different altitude. This corrects how the 2026-09-12 instruction has been *applied*
+   to cold acquisition, not the finding itself — that still stands for warm audiences
+   (see 2026-09-16 entry below, and `growth-channels.md`, 2026-09-12).
+2. **The trap.** "Sell the feeling" collapses by default into a couple on a sailboat,
+   grandkids on a dock, "retire with confidence" — the single most crowded image in
+   this category, the commoditized outside Justin has already been burned by (see
+   `growth-channels.md`, 2026-08-25 format-crowding entry and 2026-09-19
+   institutional-camouflage/crowding entries). **Aspiration is the crowd. Relief is
+   the open position.** Standing warning for anyone briefing creative.
+
+**The device Justin already owns and has never used this way.** The Financial House
+(roof, walls, foundation, YOU at the centre) is a completeness instrument, not a
+teaching metaphor — a literal answer to "I don't know what I don't know," and visual,
+which matters given Justin's read that people buy with their eyes and justify with
+data afterward. Full record: `class-content.md`, 2026-09-23 entry (tornado/Financial
+House). **It opens every class and has never led a single marketing piece** — every
+mailer has led with the buckets, which are one room inside the foundation and arrive
+an hour into the class. Record this inversion as a finding — same shape as "the mailer
+has been built from the wrong end of the class, twice" (`growth-channels.md`,
+2026-09-23) — this makes three.
+
+**Attribution, precisely, per Justin's constraint:** the positioning statement itself
+is **Isla's formulation, accepted by Justin.** The eval findings and the $5M-client
+account are **Justin's data.** The three limits and the two rules are **Isla's
+reasoning**, laid alongside the evidence — not settled findings, and not to be
+mistaken for either the eval data or Justin's own words in any future retelling.
+
 ## 2026-09-16 — "Blue Bucket" is the mechanism, not the public headline
 
 Justin: "Our marketing theme is around 'Blue Bucket' I assume." Isla's answer, on

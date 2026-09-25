@@ -1032,3 +1032,17 @@ Cross-reference: the coordination hook's first line excludes the underserved seg
 identified in the 2026-09-23 entry above (item 4, "the underserved segment") — a
 reader with no tax person and no insurance person correctly concludes the piece isn't
 about them.
+
+---
+
+## 2026-09-25 — Standing positioning statement: what this practice sells (pointer)
+
+Full entry lives in `brand-voice.md` ("STANDING — What this practice sells," 2026-09-25)
+— read that before briefing any piece, not a summary here. One line for anyone landing
+in this file first: **the product is the relief of finding out what you didn't know you
+were missing, not the plan/class/worksheet/bucket that delivers it** (Isla's
+formulation, accepted by Justin). It reframes the "wrong end of the class, twice"
+pattern immediately above as a third, more general instance — every mailer to date has
+sold the mechanism (buckets, a sorted page) rather than the feeling it produces — and
+adds an altitude rule for cold vs. warm copy that sits beside, not against, the
+2026-09-12 eval-form finding earlier in this file.

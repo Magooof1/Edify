@@ -245,3 +245,10 @@ course starts there. The source file already flags it as the most memorable thir
 seconds of the opening, with no marketing use to date. Worth recording alongside the
 founding story above: both of Justin's arresting devices sit in the first ten minutes of
 a 3.5-hour class, and neither has ever left the room.
+
+**Cross-reference, 2026-09-25:** `brand-voice.md` ("STANDING — What this practice
+sells") names the Financial House specifically as a completeness instrument — a literal
+answer to "I don't know what I don't know" — and records that it has never led a single
+marketing piece even though it opens every class. Read that entry before briefing any
+piece; it's the standing positioning reference for the whole workforce, not just a note
+about this device.
