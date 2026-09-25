@@ -160,6 +160,16 @@ concrete happens.
 
 ## PANEL 2 — Reason to believe
 
+> **DOES NOT PRINT AS WRITTEN — CORRECTED 2026-09-25.** Justin was never a retail
+> broker. He held two wholesaler roles (Protective Life via ProEquities, Western &
+> Southern via Touchstone) selling variable and fixed annuities **to advisors**, and had
+> no individual clients until he became an IAR. The paragraph below beginning *"I started
+> as a broker, under the suitability standard"* asserts a client relationship that did
+> not exist. See the correction at the top of `drafts/insider-material-boundary-map.md`
+> for what is true and why the replacement is stronger. Panel 2 needs rebuilding on the
+> real history before this piece goes anywhere.
+
+
 **Headline:**
 
 > **I used to pay for those.**

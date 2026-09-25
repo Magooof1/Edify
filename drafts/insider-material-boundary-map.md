@@ -12,6 +12,78 @@ bring it back in a thinner disguise.
 
 ---
 
+## CORRECTION, 2026-09-25 — the employment history was wrong, and it breaks item 5
+
+**Justin, asked to confirm the sequence:**
+
+> *"I was a wholesaler and was at Protective life selling variable annuities and fixed.
+> registration there was with Pro Equities. Then I left Protective and went to Western
+> and Southern, also selling variable and fixed. My registration there was with
+> Touchstone. I was not an advisor working with individual clients until I became an
+> investment advisor and let my license expire. But I was never registered again once I
+> left as a wholesaler."*
+
+**What this establishes:**
+
+- **He was never a retail broker.** Two wholesaler roles — Protective Life (registered
+  through ProEquities) and Western & Southern (registered through Touchstone) — selling
+  variable and fixed annuities **to advisors**, not to consumers.
+- **He never had individual clients** until he became an investment adviser
+  representative.
+- **Clean break, confirmed twice.** Licence allowed to expire, never re-registered.
+
+### What breaks
+
+**Item 5 — which Ed called the cleanest item on the list — now asserts a relationship
+that did not exist.** The form in this file reads:
+
+> *"I did the best I could as a broker — but the role only let me offer what was on the
+> approved list, not necessarily what was best for the client."*
+
+**He had no clients.** The clause "what was best for the client" imports a retail
+advisory relationship he never held, and "as a broker" describes a role he never
+occupied in the sense a reader will take it.
+
+**Where the error entered, stated precisely because it matters for how this workforce
+operates.** Justin's own words were *"I did the best I could as a broker but I was
+limited by what I could offer"* — accurate shorthand from someone who held a
+registration. **Ed's modified form added "as a broker" in the retail sense and "for the
+client," and that is where a true sentence became a false one.** Nobody caught it
+because nobody knew the employment history until now. Justin's shorthand was fine; the
+elaboration was not.
+
+**This is also in `drafts/mailer-v5-the-suspicion.md` Panel 2 and
+`drafts/mailer-v4-the-confession.md` Panel 2, both verbatim. Neither may print.**
+
+### What replaces it is stronger, not weaker
+
+The corrected story is **more** coherent with the confession, not less. He was the
+manufacturer's representative — the man two insurance companies sent to get advisors to
+write their annuities — **and he funded the dinner seminars where those annuities got
+sold.** The sponsorship item and the employment history are the same story. They were
+never two stories.
+
+The fiduciary contrast survives in a cleaner form: not *a broker limited by an approved
+list*, but **years on the side that makes and distributes the products, now on the side
+required to put the client first.**
+
+**"Working alongside advisors at Edward Jones, LPL, Raymond James, and banks" remains
+true** — that is exactly what a wholesaler does — and is now clearly legible as the
+wholesaler relationship rather than an unexplained association.
+
+**Open for Ed: whether Protective Life and Western & Southern can be named.** Naming his
+own former employers is biography rather than the counterparty-characterisation problem
+Ed ruled on for the broker-dealer trips, and it would align the copy with a public
+record showing ProEquities and Touchstone. Ed's call, not made here.
+
+### Why this vindicates the reconciliation step
+
+Ed flagged four BrokerCheck items. Three looked like formalities. **One of them just
+caught a false statement about Justin's career that three agents and Isla had all passed
+through** — including one Ed himself had called the cleanest line available.
+
+---
+
 ## The test — where "about me" stops being about me
 
 **Delete the counterparty's motive from the sentence and see what survives.**
