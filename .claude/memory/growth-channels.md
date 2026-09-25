@@ -1046,3 +1046,105 @@ pattern immediately above as a third, more general instance — every mailer to 
 sold the mechanism (buckets, a sorted page) rather than the feeling it produces — and
 adds an altitude rule for cold vs. warm copy that sits beside, not against, the
 2026-09-12 eval-form finding earlier in this file.
+
+---
+
+## 2026-09-25 (later) — Strategic finding, open question: "what is our land?"
+
+**Logged as an open question with candidates, not a settled answer or a scope
+commitment.** Justin asked directly for this to be recorded. It sits beside the
+positioning entry immediately above but is a different kind of thing — that one says
+what the practice sells; this one asks what compounds.
+
+### The finding
+
+Justin, 2026-09-25, on identity rather than metrics: *"if you talk to Ray Kroc and ask
+him what business he's in, he would not say hamburgers. He would say real estate. I
+would argue that most advisors say that they're in the financial services business. I
+would argue now I'm in the marketing business."*
+
+**Isla's agreement, with the constraint already on record:** conversion runs ~90% once
+someone is in the room (see 2026-09-12 eval-form entry above); nothing about
+investment or planning skill determines whether this business grows. Attention is the
+scarce input. Cross-reference: `ROADMAP.md` names top-of-funnel as Stage A's
+constraint — Justin reached the same place independently, from identity rather than
+from the scoreboard. Worth holding as independent confirmation, not the same finding
+twice.
+
+**Isla's sharpening, recorded as the load-bearing part.** Kroc's insight wasn't
+"promotion matters" — it was that **the thing that compounds is not the thing you
+sell.** Burgers were customer-facing; land was where value accrued, and every new
+franchise made the existing portfolio worth more. The useful question is not *am I in
+marketing* but:
+
+> **What is our land? What makes the next room cheaper to fill than the last one?**
+
+**Current answer: nothing does.** Every mail drop starts from zero into a more
+fatigued list — a rental that gets more expensive each cycle, consistent with the
+cost-per-unit erosion already on record above (~$500-1,000/unit historically vs.
+~$3,333/unit on the most recent $10K mailer). Cross-reference: `reference/class/
+README.md`'s three-results table.
+
+**Isla's pushback on Justin's own framing, recorded because it cuts against the
+enthusiasm.** "I'm in the marketing business" is right about where effort should go
+and wrong if it becomes where the value is. Kroc's franchisees still had to make
+burgers people would buy. The ~90% booking rate is a **product** advantage, not a
+marketing one, and the no-pitch discipline (see Core Four table, `ROADMAP.md`) is an
+operating choice, not a message. Marketing is the constraint; it is not the edge.
+Decide you're in marketing and let the class drift, and this is Kroc without the
+burgers.
+
+### The open question, with candidates (candidates, not recommendations)
+
+**Test for anything claiming to be "land": does it make the next room cheaper to fill
+than the last?**
+
+1. **An audience he owns** — a list, a newsletter, a YouTube library. Closest
+   structural match to Kroc's land: owned, appreciating, makes each subsequent launch
+   nearly free. **Status: permission already held, nothing built.** The Step 2 form's
+   newsletter opt-in is live and unexercised (Justin's decision 2026-09-22: keep the
+   permission, build it eventually, not urgent — with the standing caution that
+   unexercised permission decays). Sloan's YouTube live-build series is parked (see
+   "Found" door, `ROADMAP.md` Stage A).
+2. **Other people's rooms** — credit unions, employers, unions who fill the seats.
+   The truest Kroc analogue: literally other people's land, and one good relationship
+   repeats annually. **Carries a standing objection from Justin himself (2026-09-19,
+   logged above):** *"What I don't like about the credit union is it requires to get
+   permission from them. My old strategy I just bought a list and mailed without a
+   gatekeeper."* Recorded with the candidate, not smoothed over — it is a real
+   objection, not a small one.
+3. **Referrals from existing clients** — the cheapest land he already owns and has
+   never developed, against a ~$22M book. `referral-ritual-drafter` exists; nothing
+   built yet (see referral ritual status, `ROADMAP.md` Stage A "Told" door).
+4. **The class itself, made permanent** — the 3.5-hour Saturday experience happens
+   once and disappears. Recorded, it would fill rooms for free, indefinitely — exactly
+   what an education brand is for. Counter, recorded honestly: slow, platform-
+   dependent, and most advisor channels of this kind return nothing.
+
+**Not land, recorded so they don't get miscounted:** the class curriculum (a real
+asset, but it converts rooms rather than filling them) and brand recognition
+(compounds only with repetition into a market already fatigued, per the format-
+crowding finding, 2026-08-25 above).
+
+### The framing worth keeping
+
+**Mail is rent. Land is capex.** Both are needed and they're funded differently. Most
+solo practices never build the land because the rent always feels more urgent — a fair
+description of how this workforce has spent its time so far. Do not let the land
+question kill the mailer, and do not let the mailer keep displacing the land.
+
+**Attribution:** the Kroc framing and "I'm in the marketing business" are Justin's own
+words. The land question, the four candidates, the pushback, and the rent/capex
+framing are Isla's reasoning, recorded as reasoning attached to Justin's finding, not
+as settled fact. Nothing about real clients.
+
+**Vannevar's placement note:** filed here rather than as a new file because it's
+strategic diagnosis of the same kind already living in this file (Taleb's verdicts,
+the offer-threshold and format-crowding entries), findable by anyone asking "what
+should we be doing," not "what did we try." Cross-referenced from nowhere else yet —
+**not added to `ROADMAP.md`**, which is the operating plan; restructuring its stages
+or plays on an open question is Justin's call, not this curator's. Flag for Isla/
+Justin: this may eventually belong there, most likely as a named line under Stage A's
+"Found" door (item 1 above, the owned-audience candidate) or as its own cross-cutting
+note once the open question resolves toward one candidate — but that's a judgment
+call for the humans running the routing, not a memory-curation decision.
