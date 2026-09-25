@@ -74,6 +74,48 @@ pipeline against a $22M book.
   - **Found** — YouTube and the mirror. No per-piece cost, no mailbox to share,
     and it delivers Blue without a room at all. Blocked on plumbing that has sat
     in the queue for weeks, not on strategy: Calendly and Meta verification.
+
+    **Promoted 2026-09-25 — this door is now the land.** Justin's decision, after
+    working the Kroc question (what makes the next room cheaper to fill than the
+    last?): *"Let's continue to pay the rent but focus more of the efforts on
+    owning the land only locally northern Ky and tri state Ohio. Also, I think
+    you tube is the way to go bc it easily translates to the class."*
+
+    Three conditions carried with that decision, and they are the whole plan:
+
+    - **Local, not national.** Northern Kentucky and tri-state Ohio. Owning the
+      position nationally is a media company; owning it here is reputation, which
+      one person can build. What the content is *about* is local even where the
+      distribution isn't.
+    - **Funded by time, never by the mail budget.** Mail is rent, this is capex.
+      Bezos had investors; Justin has his own book. Nothing here authorizes
+      reducing mail spend or deprioritizing the class — the rent keeps getting
+      paid.
+    - **One asset, boring, for two years.** The failure mode is diffusion, not
+      impatience. The newsletter stays parked exactly as Justin decided
+      2026-09-22. YouTube only.
+
+    **The signal that counts, and it is not subscribers.** At least one booked
+    meeting traceable to YouTube with zero incremental ad spend, trending toward
+    a cost per booked meeting below the ~$3,333-per-buying-unit mail baseline.
+    View counts and subscriber counts are the vanity version of the mistake this
+    workforce exists to catch.
+
+    **Cheapest early read:** run the Core Four content cadence already in section
+    2 for one full quarter and see whether *anything* happens — a comment, a DM,
+    an unprompted "I saw your video" at a class or a visit. Twelve weeks, no new
+    commitment, no cash beyond time.
+
+    **Two things that would make this wrong, both on record:** the bottleneck may
+    be exposure rather than trust, in which case owning a feeling doesn't move the
+    number that's actually broken; and this demographic may simply not watch
+    long-form video from a stranger. Untested, not disproven.
+
+    **Open: whether Shorts belong in this.** Justin raised Gary Vaynerchuk's
+    short-form advice. Isla's position is in `.claude/memory/growth-channels.md`
+    — shorts are a good cheap *test* of whether Justin works on camera and a poor
+    *asset* for a locally-scoped practice, because they distribute nationally,
+    reward loud, and interrupt rather than give somewhere to go. Not decided.
   - **Told** — the referral ritual. A few a quarter convert today, at smaller
     client sizes than the classes; Justin's own read is that it's
     under-developed rather than maxed.
