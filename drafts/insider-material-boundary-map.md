@@ -192,6 +192,38 @@ Asserts a specific state of mind held by an identifiable class.
 
 ## Four things Justin must do himself
 
+**1. BrokerCheck — PARTLY ANSWERED, 2026-09-25. The gate is open; three consistency
+items remain.**
+
+**Justin, asked directly whether the record carries disclosure events: "No events. Also
+this is public."**
+
+**That was the decisive one and it is clean.** The whole frame turned on it: a piece
+that says *go look me up* while omitting something a reader would find reads as
+concealment even when the omission is innocent. There is nothing to find. **The insider
+frame lives, and the BrokerCheck device is safe to use.**
+
+**But "public" cuts both ways, and it raises the stakes on the rest rather than
+lowering them.** Anyone can pull this report, which is exactly why the remaining three
+items are about his copy matching his record — a prospect who checks will be comparing.
+None is a disclosure problem; all three are accuracy problems, and all three are
+two-minute confirmations from a document he now has in front of him:
+
+- **The exact U5 termination date** versus when he became IAR-only. Item 1's clean
+  before/after binary has to match the file rather than a rounded version of it.
+- **Employer of record during the travelling years must support "alongside," not "at"**
+  Edward Jones / LPL / Raymond James / the banks. This is the phrase Ed flagged as the
+  one a careless edit turns into a mismatch out of nothing — and mailer v5's Panel 2
+  uses it verbatim.
+- **Whether the wholesaler role carried its own registration**, and how that fits the
+  single "I was a broker, I'm not one now" story. Two distinct registered stints, or a
+  gap, means the binary needs adjusting.
+
+**Still outstanding and unchanged: item 2 below (Portfolio Medics).** That is now the
+only real gate on the full version of mailer v5.
+
+**Superseded — the original instruction, kept for the reasoning:**
+
 **1. Pull his own BrokerCheck / IAPD report — before deciding, not before publishing.**
 
 *Isla's amendment to Ed's sequencing.* Ed said "before finalizing." That's too late. If
