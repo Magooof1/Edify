@@ -93,6 +93,17 @@ is named again under "least sure about," below.
 
 ## PANEL 2 — Reason to believe
 
+> **FLAGGED 2026-09-25 — DOES NOT PRINT. Superseded, not rewritten here.** This panel
+> states Justin was a retail broker limited by an "approved list," which implies a
+> client relationship he never had. Justin confirmed 2026-09-25 that he held two
+> wholesaler roles (Protective Life via ProEquities, Western & Southern via
+> Touchstone) selling annuities **to advisors**, and had no individual clients until
+> he became an IAR. The correction and the rebuilt version live in
+> `drafts/insider-material-boundary-map.md` (top of file) and
+> `drafts/mailer-v5-the-suspicion.md` Panel 2. This file (v4) is already superseded by
+> v5 and isn't being rewritten — flagging only so nobody builds from this panel by
+> mistake.
+
 **Headline:**
 
 > **Here's how I know the difference.**

@@ -275,7 +275,30 @@ either a larger run or a longer measurement window than a first test will have.
 
 ---
 
-## What I'm least sure about, in order
+## Addendum, 2026-09-25 (later) — an argument I didn't know I had
+
+Justin's employment history came back corrected after this file was written: he was
+never a retail broker, only a wholesaler to advisors, and Panel 2 of both v4 and v5
+stated something false as a result — see `drafts/insider-material-boundary-map.md`
+(top of file) and the rebuild in `drafts/mailer-v5-the-suspicion.md`.
+
+**This piece was the only version of the confession-frame family that could not have
+carried the error**, and not by luck — it's the direct consequence of the cut argued
+above. Removing the insider material entirely, on argument-as-layout grounds, also
+removed the only place a wrong fact about Justin's registration history could have
+sat. The kicker line that replaced it (boundary-map item 8, "you've probably had a
+dinner-seminar mailer... this isn't that") states nothing about what Justin did or
+was, only what the piece isn't — so there was nothing in it to be wrong.
+
+I'm recording this because it's worth having as a data point the next time the
+"remove biography, it's argument-as-layout" instinct gets second-guessed as too
+aggressive a cut: in this instance, the aggressive cut is also the one that turned
+out to be structurally immune to a real error nobody caught for two drafts. That's
+not an argument that it's always the right call — the persuasion trade-off named
+above ("What I'd expect this to beat, and what I'd expect it to lose to") still
+stands on its own terms — but it is one more mark in the ledger for the format that
+carries fewer factual claims about Justin's own history, independent of whether this
+specific fact would recur.
 
 1. **Whether removing the insider material entirely, instead of trimming it to one
    line as instructed, is the right call or me overriding a decision that wasn't

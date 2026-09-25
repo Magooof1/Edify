@@ -7,14 +7,23 @@ Nothing here mails, prints, or spends.
 **Built from:** `.claude/memory/brand-voice.md` (the 2026-09-25 positioning statement
 and its three same-day extensions — this is the brief, everything below is
 consequence), `drafts/insider-material-boundary-map.md` (Ed's boundary ruling on
-Justin's own broker/wholesaler history, unchanged, still governs every sentence about
-his past), `drafts/mailer-v4-the-confession.md` (superseded by this draft, kept for the
-record), and `drafts/disclosure-blocks-v1.md` (Block A, cloned verbatim below, not
+Justin's own broker/wholesaler history — **the 2026-09-25 correction at the top of
+that file governs Panel 2 below and supersedes item 5 as originally ruled**),
+`drafts/mailer-v4-the-confession.md` (superseded by this draft, kept for the
+record — its Panel 2 carries the same false line, flagged there separately, not
+rewritten), and `drafts/disclosure-blocks-v1.md` (Block A, cloned verbatim below, not
 rewritten).
 
 **What changed and why, in one line:** v4 sold the nail (a sorted page). This sells the
 relief of finding out what you didn't know you were missing, and uses the confession
 only to answer *why Justin would know that*, not as the hook itself.
+
+**Revision note, 2026-09-25 (later):** Panel 2 below has been rebuilt on Justin's
+corrected employment history (two wholesaler roles, no retail clients, confirmed
+2026-09-25). The version this replaced stated he'd been a retail broker limited by an
+"approved list" — untrue, and unknown to be untrue until Justin confirmed his
+registration history. See Panel 2 for what changed and why the corrected version is
+structurally stronger, not just accurate.
 
 ---
 
@@ -160,66 +169,105 @@ concrete happens.
 
 ## PANEL 2 — Reason to believe
 
-> **DOES NOT PRINT AS WRITTEN — CORRECTED 2026-09-25.** Justin was never a retail
-> broker. He held two wholesaler roles (Protective Life via ProEquities, Western &
-> Southern via Touchstone) selling variable and fixed annuities **to advisors**, and had
-> no individual clients until he became an IAR. The paragraph below beginning *"I started
-> as a broker, under the suitability standard"* asserts a client relationship that did
-> not exist. See the correction at the top of `drafts/insider-material-boundary-map.md`
-> for what is true and why the replacement is stronger. Panel 2 needs rebuilding on the
-> real history before this piece goes anywhere.
+> **REBUILT 2026-09-25** on the corrected employment history — see the correction at
+> the top of `drafts/insider-material-boundary-map.md`. The prior version asserted a
+> retail broker/client relationship Justin never had; that version does not print, in
+> this file or in v4. **Still not approved. Comes back to Justin, not Ed, per the
+> brief.** Two variants below — naming Protective Life and Western & Southern, or not —
+> because Ed has not ruled on whether naming his own former employers is open. Pick
+> one before this goes anywhere near print; don't let both survive into a final layout.
 
-
-**Headline:**
+**Headline (unchanged):**
 
 > **I used to pay for those.**
 
-This is the confession, exactly as v4 built it, now doing a different job: not the
-cover's hook, but the answer to "why would this particular guy be the one who'd
-actually tell me that." It also does the connective work between panels — the reader
-just read that nobody taught them anything; Panel 2 explains, without ever saying it
-outright, that the people who *were* in the room with them for years were paid to sell,
-not to teach, and Justin was one of the ones funding the machine that did the selling.
-The reader draws that line themselves. Nothing in the copy asserts it.
+Still does the same two jobs it did in the prior draft: it's the answer to "why would
+this particular guy actually tell me that," not the cover's hook, and it's the
+connective tissue between panels — the reader just read that nobody taught them
+anything; Panel 2 explains, without saying it outright, that the people funding the
+rooms they sat in for years were paid to sell, not to teach, and Justin ran that
+budget. The reader draws the line themselves.
 
-**Body:**
+**What changed underneath the headline, and why it's a better panel, not just a
+corrected one.** The old middle paragraph ran on a fiction — a broker limited by an
+"approved list," implying a client relationship. The real story is tighter: Justin
+spent years on the side of the business that **makes and distributes** the product —
+selling annuities to the advisors who sold them to the public, never to the public
+himself — and is now on the side required to put the client first. That's not a
+weaker contrast than the broker/approved-list version. It's the same contrast, minus
+the part that wasn't true, and it also finally explains why "alongside advisors at
+Edward Jones, LPL, Raymond James, and banks" is in the piece at all — it's the
+wholesaler relationship, not an unexplained association.
+
+**Body — Variant A, no employers named:**
 
 > You've probably had a dinner-seminar mailer like this one in your stack before. For
 > about ten years, my job was funding them — sponsoring advisor events, working
 > alongside advisors at Edward Jones, LPL, Raymond James, and banks. If the business
 > didn't come, I couldn't sponsor again.
 >
-> I started as a broker, under the suitability standard. I did the best I could — but
-> the role only let me offer what was on the approved list, not necessarily what was
-> best for the client.
+> I was a wholesaler for two insurance companies, selling annuities to advisors — not
+> their clients. That's the side that makes and distributes the product.
 >
-> Today I'm an investment adviser representative, under the fiduciary standard. And I
-> stopped running dinner seminars — I started teaching a free class instead.
+> Today I'm an investment adviser representative, held to the fiduciary standard —
+> required to put the client first. I stopped running dinner seminars. I started
+> teaching a free class instead.
 
-**110 words including the headline.** Every sentence maps to a boundary-map item
-already ruled on, unchanged from how v4 used them:
+**104 words including the headline.**
+
+**Body — Variant B, employers named:**
+
+> You've probably had a dinner-seminar mailer like this one in your stack before. For
+> about ten years, my job was funding them — sponsoring advisor events, working
+> alongside advisors at Edward Jones, LPL, Raymond James, and banks. If the business
+> didn't come, I couldn't sponsor again.
+>
+> I was a wholesaler — first at Protective Life, then Western & Southern — selling
+> annuities to advisors, not their clients. That's the side that makes and distributes
+> the product.
+>
+> Today I'm an investment adviser representative, held to the fiduciary standard —
+> required to put the client first. I stopped running dinner seminars. I started
+> teaching a free class instead.
+
+**108 words including the headline.** Both variants are at or under the 110-word
+budget the prior Panel 2 set.
+
+Every sentence maps to a boundary-map item:
 
 - "I used to pay for those" / "my job was funding them" — item 8's register plus
   item 2, restated in Justin's own action, no motive attributed to any advisor who
-  took a sponsorship.
+  took a sponsorship. **Unchanged from the prior draft** — this paragraph was never
+  the broken part.
 - "Working alongside advisors at Edward Jones, LPL, Raymond James, and banks" — item
   6, the exact phrase Ed flagged as the one a careless edit turns into a BrokerCheck
   mismatch. **Kept intact, word for word.** Do not compress "alongside... at" to "at."
 - "If the business didn't come, I couldn't sponsor again." — item 2, **Isla's
   preferred form**, not Ed's original rewrite. States a consequence to Justin,
   attributes motive to nobody.
-- The suitability/fiduciary pair — item 1, near-verbatim.
-- The limitation sentence — item 5, the cleanest item on the whole list, near
-  as-written.
-- The close — items 9 and 4, compressed to fit budget, same as v4.
+- **New:** "I was a wholesaler for two insurance companies [or: first at Protective
+  Life, then Western & Southern], selling annuities to advisors — not their clients."
+  Replaces the broken item-5 sentence. Passes the boundary-map test cleanly: delete
+  any counterparty's motive and every clause still stands, because none of them ever
+  had one attached. States only Justin's own role and who his customer was (advisors,
+  not consumers) — never implies he sold annuities to the public.
+- "That's the side that makes and distributes the product." — new, carries the
+  fiduciary contrast that item 5 used to carry, in the form the correction argues is
+  stronger: not *a broker limited by an approved list*, but *years on the
+  manufacturing-and-distribution side, now on the side required to put the client
+  first.*
+- The fiduciary-standard sentence — item 1, near-verbatim, with "required to put the
+  client first" added from the correction's own language so the contrast lands
+  without re-adding "for the client" to the wholesaler paragraph, which is exactly
+  where the false version went wrong.
+- The close — items 9 and 4, compressed to fit budget, same as the prior draft.
 
-**Deliberately left out, same as v4 and for the same reason:** item 3 (the BD trips)
-and the "2,000 advisors" bracket. Panel 2 is doing five jobs in 110 words already —
-connect to the cover, confess, explain the limitation, mark the transition, close on
-the class. A sixth (a specific advisor count) would either blow the budget or thin
-something that's doing more work per word. If Justin wants either back, they're clean
-adds at ~15–20 words each — I'd take them from Panel 3's margin before I'd cut anything
-here.
+**Deliberately still left out, same reasoning as before:** item 3 (the BD trips) and
+the "2,000 advisors" bracket. Panel 2 is doing the same five jobs in roughly the same
+word count — connect to the cover, confess, establish the wholesaler/fiduciary
+contrast, mark the transition, close on the class. If Justin wants either detail
+back, they're clean adds at ~15–20 words each — I'd take them from Panel 3's margin
+before I'd cut anything here.
 
 ---
 
@@ -265,11 +313,12 @@ account statements" draft created.
    chosen buckets to discuss — the class itself, or a post-visit piece. It's wasted,
    and still risky, on a cold cover-level ask that never gets that specific.
 
-**Total across all three panels: 204 words** (43 cover + 110 Panel 2 + 51 Panel 3).
-46 words under the 250-word target, which I'd hold in reserve rather than spend —
-either to restore the BD-trips detail or the "2,000 advisors" line if Justin wants
-either back, or simply left unspent. A shorter piece that hits harder beats a fuller
-one that doesn't.
+**Total across all three panels, updated for the rebuilt Panel 2: 198 words**
+(43 cover + 104 Panel 2 Variant A + 51 Panel 3), or **202 words** with Variant B
+(employers named). Either way, comfortably under the 250-word target, which I'd hold
+in reserve rather than spend — either to restore the BD-trips detail or the "2,000
+advisors" line if Justin wants either back, or simply left unspent. A shorter piece
+that hits harder beats a fuller one that doesn't.
 
 **Why NKU, why a class, not the office — unchanged from v4, Sloan's design, not
 mine.** The class happens on neutral ground, solving the venue problem that killed v2
@@ -349,6 +398,16 @@ is resolved.
 3. **Naming Edward Jones, LPL, Raymond James in cold print** — still unconfirmed
    whether the class-deck's Portfolio Medics clearance travels to a mailed piece.
    Carried over from v3/v4, still open.
+3a. **New, 2026-09-25: whether Protective Life and Western & Southern can be named in
+    Panel 2 (Variant B) is open, not cleared.** Isla's view in the boundary-map
+    correction is that naming Justin's own former employers is biography rather than
+    the counterparty-characterisation problem Ed ruled on for the broker-dealer trips
+    (item 3), and that it aligns the copy with a public record already showing
+    ProEquities and Touchstone. But Ed has not ruled on it specifically, and it's a
+    different question from item 6 (naming the broker-dealers he wholesaled
+    *alongside*, already flagged above) — this is naming the two carriers who
+    *employed* him. Variant A avoids the question entirely; run Variant A unless Ed
+    clears naming.
 4. **"No pitch" on the cover and Panel 3 is a printed representation, twice now.**
    `drafts/no-pitch-policy-note.md` still only covers the one-hour office visit. It
    needs to be extended to cover the class and this mailer's language specifically, or
