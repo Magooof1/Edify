@@ -1216,6 +1216,68 @@ cautions and the Shorts position are Isla's. Nothing about real clients.
 
 ---
 
+## 2026-09-25 (still later) — Second payoff path for the land: content-as-credential, the "back door" into companies (Justin)
+
+Extends the land decision immediately above — same YouTube bet, a different route
+to payoff. Not a new decision; nothing approved, no company contacted.
+
+**Justin's observation, verbatim:** "I would argue that the silent way
+individually with the right delivery could get us in the back door of companies
+who want education in their office. Without the beurocrocy of going head to head
+with other advisors." (Transcription note: "could get is in" = "could get us in.")
+
+**What it adds — Isla's reading.** The land was justified as consumer discovery:
+one retiree watches, one retiree books. This names a second audience for the same
+content — an HR director, plant manager, or owner who sees Justin can genuinely
+teach and puts him in front of employees. One video produces a room, which is
+literally the test the land decision was set against: what makes the next room
+cheaper to fill than the last (`ROADMAP.md`, Stage A).
+
+**It dissolves Justin's own standing objection to the employer/institutional
+door.** He killed the cold credit-union/institutional approach on 2026-09-19
+specifically because it required asking permission — "my old strategy I just
+bought a list and mailed without a gatekeeper" (see the 2026-09-19
+venue-diversification entry above). Content-as-credential inverts the direction:
+he never asks; they find him and reach out. Pull, not push — the first version of
+this door that doesn't require the thing he already said he won't do.
+
+**Design consequence, already routed to Sloan — flagged, not built.** If this is
+a real second path, some content has to be answerable to a non-retiree viewer: an
+HR director with an aging workforce is a different audience from a 58-year-old
+with an untouched 401(k). Cheap to build in now, expensive to retrofit.
+
+**Isla's three flags — record as flags, nothing decided:**
+1. **The compliance shape is different from a public class and hasn't been
+   examined.** Teaching employees of a company Justin doesn't advise raises live
+   questions: whether it reads as soliciting plan participants; what the employer
+   assumes by choosing who educates its people; what happens when a participant
+   becomes an individual meeting. A room of 401(k) holders taught by someone whose
+   business includes rollovers is the scenario DOL PTE 2020-02 exists for. Needs
+   Ed **before a first conversation with any company**, not after airing content.
+   Logged flagged-not-resolved in `compliance-precedents.md` (2026-09-25 entry),
+   which cross-references the existing 2026-09-19 plan-advisor/participant-advisor
+   rollover-conflict entry and the 2026-09-22 class-script entry (item 2) — same
+   underlying concern, third occurrence.
+2. **Sits adjacent to a deliberate stage gate.** `CLAUDE.md` defers 401(k)
+   plan-sponsor outreach to Growth & Pipeline, behind Stage B. Teaching a
+   lunch-and-learn is not becoming the plan advisor — but it is one short step
+   away and drifts there naturally if nobody's watching for it.
+3. **"Wait to be found" cannot be the whole plan.** Best kind of lead when it
+   arrives; also the slowest and least controllable. Good as a compounding
+   second path to the land; not something to count on this year — recorded so the
+   pull mechanism doesn't quietly become the business-development plan.
+
+**Attribution.** The observation and the back-door framing are Justin's. The
+B2B-credentialing reading, the three flags, and the connection to his own
+2026-09-19 gatekeeper objection are Isla's. Cross-ref: `ROADMAP.md` Stage A
+"Found" door — the land decision this extends; not duplicated here.
+
+**Constraints, restated.** Nothing approved. No company contacted, no scope
+committed. Per standing rule, no external relationship (employer, union, credit
+union) gets touched without Justin confirming first. Nothing about real clients.
+
+---
+
 ## 2026-09-25 (still later) — Competitive finding: "safe money" is occupied territory; nobody in the category runs quiet
 
 Taleb's research, requested ahead of the land decision above. Record as a hard

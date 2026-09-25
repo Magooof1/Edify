@@ -974,3 +974,41 @@ it need Ed's eyes before any copy approaches it:
 
 **Status:** not urgent — no draft currently uses this language. Flagged so it's
 caught before it's written, not after.
+
+---
+
+## 2026-09-25 (later) — Flagged, not resolved: B2B content-as-credential (employer lunch-and-learns) — third occurrence of the plan-advisor/participant-advisor rollover conflict
+
+**Source:** `growth-channels.md`, 2026-09-25 entry, "Second payoff path for the
+land: content-as-credential, the 'back door' into companies" — Justin's
+observation that well-made YouTube content could get him invited into companies
+to teach employees, without a cold pitch. Not Ed's ruling; Isla's flag, raised
+before any company is contacted.
+
+**Why this is logged here too, not only in growth-channels.md.** Third
+occurrence of the same underlying concern:
+1. **2026-09-19** (above, this file) — the employer/credit-union
+   venue-diversification channel raised the plan-advisor/participant-advisor
+   rollover conflict generally, queued to Justin's existing compliance-email item.
+2. **2026-09-22** (above, this file), item 2 — the class-script capture flagged
+   the same conflict specifically for rollover-advocacy content delivered to a
+   room that then converts to individual meetings.
+3. **This entry** — same fact pattern, reached through a different door (content
+   pulling an employer invitation rather than a cold institutional pitch). The
+   route in doesn't change the underlying question.
+
+**The concern, stated once for this occurrence.** Teaching employees of a
+company whose 401(k) plan Justin does not advise raises: whether it reads as
+soliciting plan participants; what the employer assumes by choosing who
+educates its people; and what happens when a participant becomes an individual
+meeting with rollover advice on the table. This is the scenario **DOL PTE
+2020-02** (the prohibited-transaction exemption governing rollover advice)
+exists to address — worth having the citation on file since the underlying
+concern keeps recurring without one attached to it.
+
+**Status:** flagged, not resolved. Needs Ed **before a first conversation with
+any company** under this specific "invited in by content" path — not just
+before content airs. Cross-ref the 2026-09-19 and 2026-09-22 entries above; this
+does not reopen or restate them, it links a third occurrence to the same open
+item already on Justin's compliance-email queue (`ROADMAP.md`, section 4,
+item 3).
