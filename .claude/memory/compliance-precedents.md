@@ -945,3 +945,32 @@ them:
 same underlying structure (Justin wears two hats that pay differently), so they
 should go to outside counsel **in the same conversation**, as two questions, not
 one. Answering only one would leave Justin with half a position.
+
+---
+
+## 2026-09-25 — Flagged, not resolved: "I wish I'd learned this sooner" (client quote and urgency framing)
+
+**Source and full context:** `brand-voice.md`, 2026-09-25 entry, item 3 — extends
+the standing positioning statement. Not Ed's ruling; Isla's flags, raised early so
+they aren't discovered mid-draft.
+
+**What prompted it.** Justin reported, unprompted: "I have many people that come to
+me and say, I wish I would have learned this sooner... they were never taught
+this." Valuable as a positioning insight (see brand-voice.md), but two things about
+it need Ed's eyes before any copy approaches it:
+
+1. **The quote itself is a testimonial.** "Clients tell me they wish they'd learned
+   this sooner" is a statement about a client's experience with the adviser and
+   carries the full SEC Marketing Rule testimonial apparatus (disclosure,
+   substantiation, the works). **The underlying insight is free to use in copy; the
+   quote, or anything close to a paraphrase of it attributed to clients, is not** —
+   route through the testimonial-endorsement-checker first.
+2. **"You'll wish you'd started sooner" drifts toward urgency/scarcity framing**,
+   which Ed has a standing hard wall against (2026-09-12 entry, this file — "no
+   urgency framing, ever," in the mirror-instrument review). The fact pattern is
+   arguably different from that wall's origin: a 50-65 audience does have a real
+   and narrowing planning window, which is a genuine constraint rather than a
+   manufactured one. That distinction is **Ed's to rule on, not assumed here.**
+
+**Status:** not urgent — no draft currently uses this language. Flagged so it's
+caught before it's written, not after.

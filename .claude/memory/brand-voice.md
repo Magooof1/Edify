@@ -84,6 +84,108 @@ account are **Justin's data.** The three limits and the two rules are **Isla's
 reasoning**, laid alongside the evidence — not settled findings, and not to be
 mistaken for either the eval data or Justin's own words in any future retelling.
 
+## 2026-09-25 — Three extensions to the standing positioning statement
+
+Justin asked explicitly that all three be remembered. They extend the STANDING
+positioning statement above — cross-referenced, not restated, and not to be
+duplicated elsewhere.
+
+### 1. Why education-based marketing is expensive here, and the rule that follows
+
+Justin's question, verbatim: "we're trying to educate people on something that's
+complex. Isn't that really expensive to do historically?"
+
+**Isla's answer.** Yes — his own numbers are the case in point: ~$10k to fill a room
+with 3-4 people, plus 3.5 hours of a Saturday. But the expense is **per impression,
+not per client** — conversion runs ~90% booking. **The economics break at the top of
+the funnel, not the bottom**, which is why fixes attempted at the bottom keep missing.
+
+**The operating rule that follows (Isla's formulation):**
+
+> You do not have to educate anyone to make them feel the gap. You only have to
+> educate them to close it.
+
+Creating the *suspicion* something is missing takes one good question. *Closing* it
+takes three and a half hours. Teaching stays in the room, where it converts.
+Marketing's job is to create the suspicion, not to teach. **Same finding as the
+altitude rule above (STANDING section, rule 1), reached from the cost side rather
+than the audience side — treat as one finding, not two.**
+
+### 2. Invariants — Justin's Bezos question, answered
+
+Justin raised Bezos's principle (build on what customers want that will never
+change) and doubted it transfers to a service. **It transfers completely** — never
+about goods; about not going obsolete.
+
+**The invariants for this audience** — all feelings, which independently confirms
+the positioning statement above:
+- Nobody will ever wish they felt *less* sure they'd covered everything.
+- Nobody will ever wish they felt *more* foolish in a financial conversation.
+- Nobody will ever wish they'd been sold to when they came to learn.
+- Nobody will ever wish they understood *less* of what's being done with their money.
+
+**The contrast worth holding:** the category markets on what changes — this year's
+tax law, current rates, the current product. True, dull, and **worthless in
+eighteen months** — attention re-rented from zero every season. Anything built on
+an invariant is an asset; for a solo practice, one evergreen piece beats a new
+mailer every spring.
+
+**Two limits — Isla's, so this isn't overread.** An invariant says *what* to
+optimize, not *how* — "people want faster delivery" didn't build the warehouses;
+"we sell relief" doesn't yet say how to produce that suspicion cheaply, still
+unsolved. And **every competitor shares the same invariants** — the invariant is
+the promise, the method (the house, the buckets, the free visit, a class that
+genuinely doesn't pitch) is the moat.
+
+### 3. "I wish I would have learned this sooner" — the most important of the three
+
+Justin, 2026-09-25: "I have many people that come to me and say, I wish I would
+have learned this sooner. And not necessarily just about the blue bucket, just
+about in finance in general. Like, they were never taught this."
+
+**Why it matters — Isla's reasoning:**
+
+(a) **Confirms the positioning statement from a second, independent, and stronger
+direction** than the original evidence above (the one $5M client, "I don't know
+what I don't know"). This is many people, spontaneously, across classes — the same
+feeling at two points in time: "I don't know what I don't know" before, "I wish
+I'd learned this sooner" after.
+
+(b) **The more valuable half is "they were never taught this."** It relocates
+blame from the person to the system — the answer to the 2026-09-21 approachability/
+intimidation barrier (this file, below) is **absolution, not reassurance.** It's
+also the inverse of the category's register, which implies the reader *should*
+have already known ("are you making these five mistakes?").
+
+(c) **It is itself an invariant**, per item 2 above — personal finance is
+structurally never adequately taught in school.
+
+(d) **The felt gap is broader than the product's scope.** Justin was explicit: not
+just Blue — finance in general. **Unresolved, double-edged, flagged not settled:**
+may mean the class over-delivers against expectations (an asset), or may mean a
+piece that promises general financial education and delivers a retirement class is
+a trap. Nobody has examined this yet.
+
+**Two compliance flags — Isla's, for Ed later, not resolved and not urgent. Full
+entry: `compliance-precedents.md`, 2026-09-25.**
+1. The quote itself is a testimonial under the SEC Marketing Rule — the insight is
+   free to use, the quote is not.
+2. "You'd wish you'd started sooner" drifts toward the urgency/scarcity framing Ed
+   has a standing hard wall against (`compliance-precedents.md`, 2026-09-12) — a
+   genuine closing window is a different case from that wall's original one, but
+   it's Ed's call, not decided here.
+
+**One observation, recorded without recommending anything:** if people wish they'd
+learned this sooner, the population that would benefit most is younger than
+Justin's 50-65 target — a market he's deliberately not serving. No scope is being
+opened; recorded once so it isn't rediscovered as a novel idea later.
+
+**Attribution.** The three questions/observations that open each section are
+Justin's own words. The reasoning, the limits, and the two compliance flags
+throughout are **Isla's** — not settled findings, and not Ed's rulings.
+**Constraint held:** no client named or counted — "many people" stays unquantified,
+per how Justin himself put it.
+
 ## 2026-09-16 — "Blue Bucket" is the mechanism, not the public headline
 
 Justin: "Our marketing theme is around 'Blue Bucket' I assume." Isla's answer, on
