@@ -126,7 +126,28 @@ great deal. It is not the same as being found.
 
 ---
 
-## Five decisions needed before a first video is filmed
+## DECIDED BY JUSTIN, 2026-09-25 — all five
+
+1. **Solo camera.** Not a recorded room. Controllable, re-shootable, scales; no releases,
+   no class date, no one-off.
+2. **Path 2's signal: one unprompted inbound inquiry from an employer within twelve
+   months.** Parallel to path 1's booked-meeting-at-zero-spend.
+3. **"Not a real couple" stands as the disclaimer shape** — Ed still supplies exact
+   wording.
+4. **No employer-facing language anywhere** — description, pinned comment, channel about
+   — until Ed has scoped the PTE 2020-02 / employer-education question.
+5. **Sloan's costless side door is approved.** One description line; the discipline is
+   "one asset" in production, not in metadata.
+
+**A consequence of (1) worth holding onto.** Justin also declined the class dry run (see
+`drafts/class-sample-couple-build-v1.md`). Those two answers combine better than either
+alone: **filming solo is itself the rehearsal.** A retake costs a few minutes; a live room
+cannot be re-run. The format now gets seasoned in front of a lens, where mistakes are
+free, before it is ever performed in a room where they aren't.
+
+---
+
+## The five as originally posed
 
 1. **Which artifact — a recorded room, or a from-scratch solo-camera build?** Different
    production, different Ed review (a room recording puts real attendees' faces and

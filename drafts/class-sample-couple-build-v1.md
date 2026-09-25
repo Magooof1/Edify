@@ -188,6 +188,33 @@ but the remaining risk isn't room composition, it's **execution seasoning.** The
 hours this touches are a script Justin has run for years and refined against real
 faces. The Johnsons' version has none of that mileage on day one.
 
+### DECLINED BY JUSTIN, 2026-09-25 — no dry run
+
+Justin, asked directly: *"Let's not do this."* **No free-audience rehearsal.** Both the
+Harrison pilot and the cheaper dry run below are off.
+
+**Defensible, and here is the reasoning for it.** This is a reskin of slides 27–59, not a
+new class. Justin has taught the material for years and knows it cold; the Johnsons carry
+content he already delivers, in the order he already delivers it.
+
+**What is given up, recorded so it isn't rediscovered as a surprise:**
+
+- **Nobody learns whether the two worksheet passes earn their 5–10 minutes** until it is
+  happening in front of paying-to-reach attendees. Sloan's own stated uncertainty.
+- **No free read on pacing.** Taleb's execution-seasoning concern stands unaddressed: the
+  first live run of the new spine is a real room.
+- **The no-editorialising risk is untested.** Beat 8 and the no-poll rule are the
+  mitigations, and neither has been rehearsed under the live temptation they exist for.
+
+**What substantially covers it anyway — Justin's other decision the same day.** He chose
+**solo camera** for the YouTube asset (`drafts/youtube-asset-architecture-v1.md`).
+Filming is itself the rehearsal: a retake costs minutes, a live room cannot be re-run. The
+beat sequence gets exercised in front of a lens before it is performed in a room.
+
+**Consequence for sequencing:** film before the next live class, not after.
+
+---
+
 ### ISLA'S AMENDMENT 2 — that pilot costs ~$10,000 nobody counted
 
 Harrison has to be *filled*, and filling it means a mail drop — roughly $10k, per the
