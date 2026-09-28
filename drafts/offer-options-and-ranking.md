@@ -12,6 +12,13 @@ offer, creative).
 
 ---
 
+**DECISIONS ARE AT THE BOTTOM OF THIS FILE.** Three lever decisions were taken
+2026-09-28 — format, list density, response rate — see
+"THE THREE LEVER DECISIONS." Everything above them is the analysis they came from,
+including corrections to my own arithmetic. Read the decisions first.
+
+---
+
 ## ISLA'S VERDICT: don't spend anything yet
 
 Jayme's recommendation is a two-cell test at roughly $5,000–7,500. **I would not fund it
@@ -465,3 +472,273 @@ Kitces on marketing ROI (seminars at $1.76 per $1 of revenue against $0.34 for
 referrals; ~71% of marketing cost is advisor and staff time). **Advertising, not data:**
 competitor listings. Egress blocked several primaries — re-check anything second-hand
 before quoting it.
+
+---
+
+# THE THREE LEVER DECISIONS — decided 2026-09-28
+
+**Justin's instruction: "Lets check each lever off 1 by 1 and just make the best
+decisions we can."** Worked one at a time, in order, on the numbers above. These are
+decisions, not experiments — at this volume most of them cannot be tested, which is
+stated on each one rather than hidden.
+
+**The formula all three work on:**
+
+> **cost per unit = cost per piece ÷ (response rate × list density)**
+
+**Where the arithmetic starts:** April 2026 as run — 11,597 pieces, $8,063 mail,
+~$1,937 fixed (list, design, venue, materials), 3 units, **~$3,333 a unit.**
+2021 was **~$909 a unit** (11 units on ~10,000 pieces). The gap is **3.7x.**
+
+---
+
+## LEVER 1 — FORMAT: move to a card. DECIDED: yes, for cost, not for volume.
+
+**The decision.** Stop mailing the folded multi-panel self-mailer. Mail a card.
+
+**Why it holds either way — this is the whole reason it's decided without a test.**
+Justin named the real constraint: increasing production doesn't mean there are enough
+55–65 households inside ten miles to mail to. So there are two worlds, and the decision
+is the same in both:
+
+| | What the card buys |
+|---|---|
+| **Universe has headroom** | Same mail budget reaches **15,387 pieces, +33%** → ~4.0 units → **~$2,512 a unit** |
+| **Universe is already exhausted** | Same reachable households, **~$1,945–2,269 saved per drop** |
+
+Print is where all the variance sits — **$0.331 a piece against a card's $0.135–$0.163,
+2.0–2.4x** — while postage at **$0.365** is already efficient and barely moves with
+format. A cheaper piece is not a smaller ambition; it is the only term of the three that
+needs no creative breakthrough.
+
+**Card size is a separate, ~$250 question and is not decided here.** The 11 × 6 runs
+**$252 more per 9,000 than the 8.5 × 5.5 — 5.3% of total cost — for roughly 40% more
+surface at the same postage.** Since Block A needs 6 × 9 or larger to sit legibly, the
+disclosure decides the size, not the cost. **Go bigger if the disclosure needs it.** All
+scenarios below are priced at the conservative $0.524.
+
+**The named risk, and it is real.** A folded piece has more physical heft than a card,
+and **Justin's one great result was folded** (11 × 17, NKU 2021). This is a judgment,
+not a finding.
+
+**Why the risk doesn't tip it:** the folded format was constant across the winning years
+**and** the losing ones. Whatever collapsed, format is the one variable that didn't
+change. Holding onto it costs ~$2,000 a drop to preserve a feature the evidence never
+credited.
+
+**A format split test is not available.** Two cells at this volume expect ~1.8 units
+each. Unreadable. Don't pretend otherwise by running one.
+
+**The one number that would change this:** the DRA universe count — households within
+10 miles, in band, $250k+ IPA. If the count is well above 15,000, the card buys reach.
+If it is near 11,000, the card buys savings. Either way, mail the card.
+
+---
+
+## LEVER 2 — LIST DENSITY: tighten to 54–64. DECIDED, with the tension named.
+
+**The decision.** Pull **54–64, not 50–65, and not 55–63.**
+
+**Why not 55–63, which is what the attendee data literally shows.** Seven attendees
+clustered 55–63 inside a 50–65 select. **n=7 can establish that the middle band
+produces. It cannot establish that the edges don't** — with seven bodies, empty outer
+cells are the expected result even if those households respond at the same rate. A year
+on each side is a cheap hedge against reading noise as a boundary.
+
+**Break-even is wide, which is why this is safe.** Tightening from 50–65 to 54–64 wins
+unless the dropped outer bands carry **more than ~50% of total response.** Nothing
+suggests they do.
+
+**What it's worth:**
+
+> 6,500 pieces × $0.524 = **$3,406** + $1,937 fixed = **$5,343.**
+> Keep 80% of response → **2.4 units** → **~$2,226 a unit.**
+
+**Combined with Lever 1: ~$3,333 → ~$2,226 a unit, with no improvement in response at
+all.** A third off, from the two terms nobody had touched.
+
+**The tension, stated because it is the honest objection.** This lever improves
+efficiency and **reduces absolute output.** Going from 3 units to 2.4 is the wrong
+direction on the thing Justin actually cares about — bodies in the room. It is right
+only if the money saved goes somewhere that produces more than 0.6 units, and by the
+arithmetic here, it does.
+
+**AMENDED SAME DAY — see "CORRECTION TO LEVERS 2 AND 3" at the end of this
+file. The decision survives; its shape changed, and the break-even I stated was
+loose.**
+
+**The one number that would change this:** the DRA count at both bands — 50–65 and
+54–64, same radius, same IPA floor. If 54–64 is only marginally smaller, the tightening
+buys almost nothing and the simpler pull wins.
+
+---
+
+## LEVER 3 — RESPONSE RATE: change creative and offer together, and measure upstream because the outcome is unreadable.
+
+**The decision, in two parts.** Change **both** creative and offer — not one, not
+sequentially. And **instrument the funnel at Stage 3, because the stage everyone cares
+about cannot be read at this volume.**
+
+**AMENDED SAME DAY — the multiplier table below mixes two bases and should not be
+quoted. Corrected table at the end of this file.**
+
+**What response is worth once Levers 1 and 2 are in:**
+
+| Response vs today | Cost per unit |
+|---|---|
+| Flat | ~$2,226 |
+| **×2** | **~$1,589** |
+| ×3 | ~$1,059 |
+| ×4 | ~$794 — **2021 economics** |
+
+**The unreadability problem, which governs everything else here.** At 6,500 pieces,
+flat response expects **1.68 bookings** and a doubling expects **3.36.** Those two
+distributions overlap almost completely. **A drop that doubles response and a drop that
+changes nothing produce the same-looking result.** Any plan that reads bookings as a
+verdict is reading noise.
+
+**The resolution: measure the stage that has volume.** Stage 3 — landing page reached —
+runs roughly **25 visits at flat response against ~50 at double.** That difference *is*
+readable. The bookings number stays as the outcome; the visits number is the instrument.
+
+**Non-negotiable, and this is the part that actually has to get built:** a unique URL,
+a QR code, a tracked phone line, and a source field on every inbound. Without all four,
+the drop teaches nothing regardless of how it performs. **No drop goes out without
+them.**
+
+**Offer selection defers to Jayme's ranking above: mirror-then-visit over "Part One."**
+A shorter free class is still a free class — it stays inside the genre the market has
+gone numb to, and shortening the threshold doesn't escape a crowded category.
+
+**The metric, carrying Jayme's correction: cost per client, not cost per booking.**
+Justin's show rate is 3/3 and 4/4 — ~100% — so the people who do respond are
+class-shaped bodies that show up. Optimising for cheap bookings from a different kind of
+respondent would be a false economy.
+
+**The one thing that would change this:** nothing available in a single drop. This lever
+is the hardest of the three and the least measurable, which is exactly why Levers 1 and
+2 were decided first and independently of it.
+
+---
+
+## WHAT THE THREE DECISIONS ADD UP TO
+
+**Mail becomes a channel worth running carefully at ~$1,500–2,000 a unit. It does not
+become 2021 again.** Format and list tightening get about a third of the way; response
+would have to roughly quadruple to close the rest, and nothing here suggests it will.
+
+**This is the fourth independent route to the conclusion the land decision came from —**
+and the only one that came out of Justin's own numbers rather than an argument.
+(The other three: category crowding confirmed by two other advisors; the Kroc question —
+nothing makes the next room cheaper than the last; Taleb's scan — everyone competes
+loud, nobody runs quiet.)
+
+**What this does not license.** These decisions make the mail cheaper per unit. They do
+not make it the engine. Rent, not land.
+
+---
+
+# CORRECTION TO LEVERS 2 AND 3 — same day, 2026-09-28
+
+**Found by Vannevar on the way into memory,** checking the arithmetic rather than
+filing it. He flagged that Lever 3's multiplier table mixes two bases. It does. Chasing
+that down turned up a larger error in Lever 2 that the mixed table was hiding.
+
+## 1. The two bases, named
+
+The 6,500-piece tightened drop has two possible unit counts, and they are the optimistic
+and pessimistic bounds of Lever 2 itself:
+
+| | Units from 6,500 pieces | What it assumes |
+|---|---|---|
+| **Optimistic** | **2.4** (= 3 × 80%) | The tightening keeps 80% of *absolute* response on 56% of the pieces — per-piece response rises 43% |
+| **Conservative** | **1.68** (= 6,500 × 3 ÷ 11,597) | The tightening buys **no per-piece lift at all** — response just scales with volume |
+
+I used 2.4 for the flat row and 1.68 for the multipliers. **The corrected table, on both
+bases, at $5,343 a drop:**
+
+| Response vs today | Conservative (1.68 base) | Optimistic (2.4 base) |
+|---|---|---|
+| Flat | ~$3,180 | ~$2,226 |
+| ×2 | ~$1,590 | ~$1,113 |
+| ×3 | ~$1,060 | ~$742 |
+| ×4 | ~$795 | ~$557 |
+
+**2021 economics (~$909 a unit) arrives at about ×3.5 conservative, ×2.5 optimistic.**
+The earlier "×4 = 2021" was the conservative case stated as the only case.
+
+**The readability finding survives, which is the point that mattered.** Even on the
+optimistic base — 2.4 expected flat against 4.8 doubled — a single drop misreads roughly
+one time in four in each direction. **A doubling still cannot be distinguished from
+nothing at this volume.** Lever 3's instrumentation decision stands unchanged.
+
+**But the ~25 vs ~50 landing-page visits were not a measured ratio.** They assume a
+visits-per-booking multiple nobody here has ever observed — Stage 3 has never been
+instrumented, which is the reason for instrumenting it. **The defensible statement is
+that Stage 3 carries roughly an order of magnitude more events than a booking does,
+which is what makes it readable.** The specific numbers should not be quoted.
+
+## 2. The larger error: Lever 2's break-even was wrong, and the fixed cost is why
+
+I wrote that tightening wins "unless the dropped outer bands carry more than ~50% of
+total response." That was loose, and it left out the thing that actually governs it.
+
+**~$1,937 of every drop is fixed** — list, design, venue, materials. It does not shrink
+when the mailing does. So a smaller drop spreads the same fixed cost over fewer pieces,
+and **on the conservative base the tightened drop is worse than the broad one on both
+things Justin cares about:**
+
+| | Pieces | Units | Cost per unit |
+|---|---|---|---|
+| Broad band, full budget (Lever 1 only) | 15,387 | ~4.0 | **~$2,512** |
+| Tightened, conservative base | 6,500 | 1.68 | **~$3,180** |
+| Tightened, optimistic base | 6,500 | 2.4 | ~$2,226 |
+
+**Fewer bodies and a higher cost per unit, unless the density lift is real.** I presented
+only the optimistic column.
+
+**And the marginal frame, which I never ran and which is the correct one.** Once the
+$1,937 is paid, a marginal piece costs $0.524 and carries no fixed-cost burden. At
+today's blended rate a marginal unit costs about 3,866 × $0.524 ≈ **$2,026** — *cheaper*
+than the blended cost per unit either way. **So the real break-even is not 50%: the outer
+bands need to carry less than their share of the pieces (~44%) of the response before
+dropping them improves cost per unit** — and even then, a marginal unit at $2,000–4,500
+may be worth buying outright, given what a client is worth.
+
+## 3. The corrected decision — LEVER 2 RESTATED
+
+**Band tightness is a priority ordering, not an exclusion.**
+
+1. **54–64 over 55–63 stands, unchanged and for the original reason.** n=7 can show the
+   middle band produces; it cannot show the edges don't.
+2. **Mail 54–64 first, inside ten miles.**
+3. **If that universe doesn't absorb the mail budget, widen — band or radius — rather
+   than bank the money.** Under-mailing to preserve a boundary drawn from seven data
+   points pays the full $1,937 fixed cost on a thin drop. That is the expensive mistake,
+   not mailing a 52-year-old.
+4. **Don't leave budget unspent to protect the tightening.** The freed money is only a
+   saving if it goes somewhere that produces more than the pieces it replaced.
+
+**What this dissolves:** the tension I named — efficiency up, bodies down — was an
+artefact of treating the tightening as a cap. Ordered rather than capped, output doesn't
+fall.
+
+**What it sharpens:** open number (b) — the DRA count at both bands, same radius, same
+IPA floor — is no longer a nice-to-have. **It decides how many pieces the tightened pull
+can even produce**, and therefore whether step 3 fires.
+
+**Levers 1 and 3 are unaffected.** Lever 1 never depended on the density assumption —
+that was the reason it was decided first. Lever 3's instrumentation requirement gets
+stronger, not weaker: the whole reason this correction was possible on paper is that
+nothing downstream has ever been measured.
+
+## 4. The process note, because this is the fifth question
+
+**Pre-flight question 5 is "verified or inferred?" and it is scoped to facts about
+Justin's business.** It did not catch a mixed base in my own arithmetic. A memory curator
+filing the entry caught it.
+
+**Widen the check:** question 5 now reads *every fact **and every number** — did someone
+verify it, or reason to it?* Specifically: **when a table shows a baseline and multiples
+of it, they must come off one stated base, and the base must be named in the table.**
+This is now in `.claude/memory/recurring-failures.md` as its own class.

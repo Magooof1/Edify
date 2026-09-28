@@ -243,10 +243,14 @@ drawn from a failure that actually happened here, not invented:
 4. **Is the honest half still attached?** When a promise got shorter, did the qualifier
    that made it true survive the trim? *(Four occurrences of keeping the half that sounds
    better.)*
-5. **Verified or inferred?** Every fact about Justin's business, history or licensing —
-   did he say it, or did someone reason to it? *(He was never a retail broker. Three
-   agents and Isla passed that through, including a line Ed called the cleanest
-   available.)*
+5. **Verified or inferred?** Every fact **and every number** — did Justin say it, or did
+   someone reason to it? *(He was never a retail broker. Three agents and Isla passed
+   that through, including a line Ed called the cleanest available.)* **Widened
+   2026-09-28, because the fact half didn't cover arithmetic:** when a table shows a
+   baseline and multiples of it, **they must come off one stated base, and the base must
+   be named in the table.** *(Isla's three-lever table used one base for the flat row
+   and a different one for the multipliers. Vannevar caught it while filing it, not
+   Isla while writing it.)*
 
 **And the rule that keeps this list alive:** when a check misses something it should have
 caught, **widen the check** — don't just fix the instance. A check scoped to the last
