@@ -123,6 +123,60 @@ Under a dilution diagnosis the levers rank like this:
 - **A different channel** leaves the pool entirely. Largest. **This is what the land
   decision already chose**, and the 4–5x number is independent support for it.
 
+### REAL PRINT AND POSTAGE NUMBERS — Justin's 2024 quotes, 9,000 pieces
+
+| Format | Print | Postage | Total | Per piece | Postage share |
+|---|---|---|---|---|---|
+| 11 × 6, 4/4, bleed | $1,467 | ~$3,500 | $4,967 | **$0.552** | 70% |
+| 8.5 × 5.5, 4/4, bleed | $1,215 | ~$3,500 | $4,715 | **$0.524** | 74% |
+
+**Three things fall straight out of this, and the first corrects me.**
+
+**1. "Make the piece cheaper" is not a lever. Isla overstated it.** I wrote that halving
+cost per piece does the same work as doubling response, and pointed at the postcard as
+the way to do it. **The gap between the two formats is $252 on 9,000 pieces — 5.3% of
+total cost.** Print is only a quarter to a third of the spend. **Postage is 70–74% of
+it,** and postage doesn't care much what you print.
+
+**2. Size is nearly free, which inverts an argument already in play.** The 11 × 6 card
+costs **$252 more than the 8.5 × 5.5 across 9,000 pieces** and gives roughly 40% more
+surface. Postage is quoted the same for both. So:
+
+- Jayme's cost case for the smaller postcard is worth about five percent, not a
+  meaningful saving.
+- **The disclosure-fit problem costs about $250 to solve.** The mockup showed Block A
+  needs 6 × 9 or larger to sit legibly; at these numbers that is a rounding error, not
+  a constraint. Go bigger.
+
+**3. The numbers don't reconcile, and the gap is worth ~$4,760 a drop.**
+
+A postcard mails all-in at **~$0.52.** Justin's recent drops ran **10,000 pieces for
+~$10,000 — about $1.00 a piece.** At postcard economics, $10,000 buys roughly **19,000
+pieces, not 10,000.**
+
+**What that would be worth, at today's unchanged response rate of 1 per 3,333:**
+
+| | Pieces | Units | Cost per unit |
+|---|---|---|---|
+| Recent drops, as run | 10,000 | 3 | ~$3,333 |
+| Same $10,000 at postcard economics | ~19,000 | **~5.7** | **~$1,746** |
+
+**That is close to halving cost per unit with no improvement in response, no new
+creative, and no new offer.** It is simply buying twice the reach for the same money.
+
+**This is a question, not a conclusion.** The $10,000 may legitimately contain things
+these quotes don't: a folded self-mailer rather than a postcard (the 2021 control was
+11 × 17 folded, and far dearer than a card), the DRA list, design, venue, materials, or
+a different vendor's pricing. **Nobody has itemised a drop.** Until someone does, the
+honest statement is that there is roughly $4,760 per drop that the print-and-postage
+arithmetic doesn't explain — and that is the largest single number anyone has surfaced
+in this project.
+
+**What to ask High Note:** an itemised quote for 19,000 of the 11 × 6 card, all-in,
+against an itemised breakdown of what the last $10,000 drop actually bought.
+
+---
+
 ### ISLA'S REFRAME — we have been working one lever out of three
 
 **Cost per unit is a product, not a rate:**
