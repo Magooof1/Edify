@@ -54,12 +54,17 @@ three-lever table priced the flat row off one unit count (2.4, assuming the list
 tightening lifts per-piece response) and every multiplier off a different one (1.68,
 assuming it doesn't), so "×4 gets back to 2021 economics" was the pessimistic case
 presented as the only case. Chasing it down exposed a second error the mixed table had
-hidden: the break-even for tightening the age band was stated as ~50% of response when
+hidden — Isla, chasing the mixed base, found that the break-even for tightening the age
+band was stated as ~50% of response when
 the governing term is the **fixed ~$1,937 per drop**, which penalises small mailings —
 so the tightened pull can produce fewer bodies *and* a worse cost per unit than the broad
 one. **Vannevar caught it while filing the entry. Isla did not catch it while writing
 it, and pre-flight question 5 was scoped to facts about Justin's business, so it did not
-look at arithmetic at all.** Question 5 widened in `CLAUDE.md` to cover numbers, with the
+look at arithmetic at all.** **The check was still one hop short, which is Vannevar's own
+point and belongs here:** he caught only the mixed base, and he had already filed the
+wrong break-even — and the efficiency-versus-bodies tension it produced — into memory as
+a *decision* before the correction ran. A curator reproducing one number is not a curator
+auditing the reasoning that number sits in. Question 5 widened in `CLAUDE.md` to cover numbers, with the
 one-stated-base rule. Correction and corrected decision:
 `drafts/offer-options-and-ranking.md`, "CORRECTION TO LEVERS 2 AND 3."
 

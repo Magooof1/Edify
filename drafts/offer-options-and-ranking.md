@@ -742,3 +742,49 @@ filing the entry caught it.
 verify it, or reason to it?* Specifically: **when a table shows a baseline and multiples
 of it, they must come off one stated base, and the base must be named in the table.**
 This is now in `.claude/memory/recurring-failures.md` as its own class.
+
+## 5. The summary line was optimistic too — restated
+
+Vannevar flagged that "~$1,500–2,000 a unit" sits inside the optimistic rows and is worse
+than Lever 1 alone under the conservative reading. Correct. Restated:
+
+**The restated Lever 2 removes the conservative case rather than tolerating it.** The
+~$3,180 figure is what under-mailing costs — paying the full $1,937 fixed on a thin drop.
+Ordered rather than capped, the budget is fully spent either way, so:
+
+| With no improvement in response at all | Cost per unit |
+|---|---|
+| Today, as run | ~$3,333 |
+| **Levers 1 + 2, no density lift** | **~$2,512** — Lever 1's number; the ordering can't do worse |
+| **Levers 1 + 2, density lift real** | **~$1,760** — the inner band's rate across a full drop |
+
+**So the corrected range is ~$1,800–2,500 a unit, not ~$1,500–2,000.** The floor is a
+third off today's cost and needs no assumption about density or creative; the ceiling
+needs the tightening to actually work.
+
+**The fourth-route conclusion holds, and the correction strengthens it.** 2021 was ~$909.
+At ~$1,800–2,500 the remaining gap is 2.0–2.8x, all of it in response — the least
+controllable and least measurable term. **Mail is worth running carefully. It is not the
+engine.** Rent, not land.
+
+## 6. Lever 3 re-priced on a full drop — Vannevar's second flag, and it moves in Justin's favour
+
+He caught that Lever 3's table was priced on the 6,500-piece / $5,343 drop, which section
+5 has just reclassified as the under-mailing case. Correct. Re-priced on a full-budget
+drop — 15,387 pieces, $10,000 all-in:
+
+| Response vs today | Conservative (3.98 units flat) | Optimistic (5.68 units flat) |
+|---|---|---|
+| Flat | ~$2,512 | ~$1,760 |
+| ×2 | ~$1,256 | ~$880 |
+| ×3 | ~$838 | ~$587 |
+| ×4 | ~$628 | ~$440 |
+
+**2021 economics (~$909) now arrives at about ×2.8 conservative, ×2.05 optimistic** —
+against ×3.5 and ×2.5 on the thin drop. **Response is worth more on a full drop, because
+the $1,937 fixed cost is spread over more pieces.** That is the same fixed-cost mechanism
+that broke Lever 2's original break-even, pointing the same direction: **don't under-mail.**
+
+**Readability improves and the conclusion still holds.** ~4.0 units flat against ~8.0
+doubled misreads roughly one time in five each way, against one in four on the thin drop.
+Better, and still not a verdict. **Stage 3 instrumentation stays non-negotiable.**

@@ -1401,10 +1401,19 @@ piece drop ($3,406 + $1,937):
 | Tightened, **conservative** base (no per-piece lift; response scales with volume) | 6,500 | 1.68 | **~$3,180** |
 | Tightened, **optimistic** base (keeps 80% of absolute response on 56% of pieces) | 6,500 | 2.4 | ~$2,226 |
 
-**On the conservative base the tightened drop is worse on BOTH things Justin cares about
-— fewer bodies and a higher cost per unit.** Only the optimistic column was presented
-originally. The earlier "~$3,333 -> ~$2,226 with no response improvement at all" is the
-optimistic case only; the conservative case is ~$3,180, which is worse than Lever 1 alone.
+**On the conservative base the tightened 6,500-piece drop is worse on BOTH things Justin
+cares about — fewer bodies and a higher cost per unit.** Only the optimistic column was
+presented originally. The earlier "~$3,333 -> ~$2,226 with no response improvement at
+all" is the optimistic case only. **Restated later the same day (Isla, section 5 of the
+correction): the ~$3,180 row is not a live scenario under the ordered decision — it is
+what UNDER-MAILING costs (full ~$1,937 fixed on a thin drop).** Ordered rather than
+capped, the budget is fully spent either way, so the live range is the two rows below.
+
+| With no improvement in response at all | Cost per unit |
+|---|---|
+| Today, as run (April 2026) | ~$3,333 |
+| Levers 1+2, **no density lift** | **~$2,512** (Lever 1's own number; the ordering cannot do worse than it) |
+| Levers 1+2, **density lift real** | **~$1,760** (the inner band's rate across a full drop) |
 
 **Marginal frame (never run originally, and the correct one):** once the ~$1,937 is paid,
 a marginal piece costs $0.524 and carries no fixed-cost burden. A marginal unit runs about
@@ -1433,6 +1442,11 @@ here on Isla's correction, not by Vannevar's judgment.)
 
   **2021 economics (~$909) arrives at about x3.5 conservative, x2.5 optimistic.** The
   earlier "x4 = 2021" was the conservative case stated as the only case.
+  *(Flag, Vannevar: this table is priced on the 6,500-piece, $5,343 drop. Isla's later
+  restatement (Lever 2 above) treats that thin drop as the under-mailing case, and the
+  correction section did not re-price Lever 3 on a full-budget drop. Table kept as
+  corrected and as sourced; not re-derived here. Isla to say whether it should be
+  re-based.)*
 - **The unreadability governs everything, and it survives the correction:** on the
   conservative base, 1.68 flat vs 3.36 doubled; **even on the optimistic base, 2.4 flat
   vs 4.8 doubled, a single drop misreads about one time in four in each direction. A
@@ -1462,16 +1476,23 @@ correction was possible on paper only because nothing downstream has ever been m
 
 ### What the three add up to
 
-Mail becomes worth running carefully at **~$1,500-2,000/unit. It does not become 2021
-again.** *(Flag, Vannevar: this range was written before the correction and Isla's
-correction section did not restate it. It sits inside the optimistic-base rows and is
-not clearly supported by the conservative base, where flat is ~$3,180. Isla/Justin to
-restate or confirm; do not quote as settled until then.)* This is the **FOURTH independent route** to the conclusion the land (YouTube)
-decision came from (2026-09-25, above), and **the only one that came out of Justin's own
-numbers rather than an argument.** The other three: category crowding confirmed by two
-other advisors (2026-08-25); the Kroc question — nothing makes the next room cheaper
-than the last (2026-09-25); Taleb's scan — everyone competes loud, nobody runs quiet
-(2026-09-25). **Rent, not land** — cheaper per unit, not the engine.
+Mail becomes worth running carefully at **~$1,800-2,500/unit, with no improvement in
+response at all. It does not become 2021 again.** **RESTATED 2026-09-28** (Isla,
+correction section 5); the first-filed "~$1,500-2,000" was optimistic and is superseded,
+do not quote it. The floor of the range (~$2,512, about a third off today's ~$3,333)
+needs no assumption about density or creative; the ceiling (~$1,760) needs the
+tightening to actually work.
+
+This is the **FOURTH independent route** to the conclusion the land (YouTube) decision
+came from (2026-09-25, above), and **the only one that came out of Justin's own numbers
+rather than an argument.** **It holds, and the correction strengthens it:** 2021 was
+~$909, so at ~$1,800-2,500 the remaining gap is **2.0-2.8x, all of it in response** —
+the least controllable and least measurable of the three terms (see Lever 3: a single
+drop cannot read a doubling). The other three: category crowding confirmed by two other
+advisors (2026-08-25); the Kroc question — nothing makes the next room cheaper than the
+last (2026-09-25); Taleb's scan — everyone competes loud, nobody runs quiet
+(2026-09-25). **Mail is worth running carefully; it is not the engine. Rent, not land**
+— cheaper per unit, not the engine.
 
 ### Two corrections to the prior record — do not re-quote the originals
 
