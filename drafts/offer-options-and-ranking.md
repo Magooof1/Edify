@@ -20,6 +20,61 @@ different words. One of them may relocate the entire problem.
 
 ---
 
+## ANSWERED BY JUSTIN, 2026-09-28 — read this before the questions below
+
+| Drop | Spend | Pieces | Sign-ups | **Attended** | Date |
+|---|---|---|---|---|---|
+| Harrison, Ohio | ~$10k | ~10,000 | 3 | **3** | April 2026 |
+| IWU West Chester | ~$10k | ~10,000 | 4 | **4** | April 2025 |
+
+**Show rate: 100%. Everyone who registered came.**
+
+### What that settles
+
+**The show-up hypothesis is dead, and with it an entire class of fixes.** Reminder
+sequences, confirmation cadence, easier venues, shorter notice — none of it is the
+problem, because nobody is failing to show. **The constraint is entirely upstream, at
+the mailbox.**
+
+It also says something good that the record hadn't captured: **a 100% show rate is
+remarkable**, and it means the handful of people who do respond are highly
+self-selected and serious. That is consistent with the ~90% booking rate. **The funnel
+is not leaky. It is narrow at the very top and excellent everywhere after.**
+
+**The arithmetic, stated plainly:** roughly **7 people from roughly 20,000 pieces** —
+about **1 response per 2,850 households**, at about **$2,850 per body**.
+
+### Ages: "55–63 mostly"
+
+Select is 50–65. Attendees cluster 55–63.
+
+**ISLA WAS WRONG ABOUT THIS, AND WRONG LOUDLY.** I amplified the age-band narrowing
+(2021 mailed 50–70; the current select is 50–65) as *"a higher-probability cause than
+category crowding, genre fatigue, and everything in the creative"* and called it the
+cheapest suspect in the file.
+
+**Justin's own data weakens it.** Attendees sit comfortably **inside** the current band
+and top out at 63 — two years below his ceiling. If the 65–70 cohort were the missing
+responders, we would expect the band to press against 65. It doesn't. **Extending back
+to 70 probably would not recover them.**
+
+**What the age data does support is smaller and still worth money:** the outer edges of
+the band — 50–54 and 64–65 — appear to produce nothing. Tightening the DRA pull to
+roughly **54–64** would mail the same budget into a denser population. **Caveat that
+matters: this is seven people. Directional at best.** It is cheap to act on and should
+not be mistaken for a finding.
+
+### Still open, and now the most valuable unknowns in the file
+
+1. **The 2021 control's piece count and attendance.** It produced $6M. Without its
+   numerator we cannot measure how far response has actually fallen — only that it has.
+   This is now the single most useful number Justin could supply.
+2. **Lead time** — how long before each class the mail dropped. Justin has offered this.
+   It is a real variable nobody has looked at.
+3. Competitor mail, still outstanding.
+
+---
+
 ## The three numbers Justin already has
 
 **1. Registered vs attended, per drop, and how many dates were offered.**
