@@ -1,6 +1,7 @@
 # Mailer v5b — The Suspicion, Lean (Cell B)
 
-Jayme, 2026-09-25. Draft. **NOT sent to Ed. NOT cleared. NOT approved by Justin. Does
+Jayme, 2026-09-25; front and back revised 2026-09-28 to name the subject (retirement
+money), in step with v5. Draft. **NOT sent to Ed. NOT cleared. NOT approved by Justin. Does
 NOT route to Ed automatically** — per Isla's brief, this comes back to Justin first,
 same as v5. Nothing here mails, prints, or spends.
 
@@ -139,22 +140,24 @@ him, not mine to make silently by picking the version that's easiest to defend.
 > **Nobody sat you down at twenty-five and explained how any of this actually works.
 > That's not on you.**
 
-**Subhead — one edit, and here's the reasoning for it:**
+**Subhead — revised 2026-09-28 (identical to v5's, kept in sync on purpose):**
 
-> *I run a free class built around one idea: what nobody got around to explaining. No
-> product, no pitch.*
+> *I run a free class on how retirement money actually works — the part nobody got
+> around to explaining. No product, no pitch.*
 
-I cut "the whole picture" rather than replace it. Isla's flag was right that it's the
-weakest phrase in the piece — abstract enough that any advisor could print it, and it
-borrows the Financial House's completeness idea while leaving the house itself out.
-Looking for a better word, I noticed the sentence already has one: "what nobody got
-around to explaining" is doing the same job "the whole picture" was doing, more
-concretely, two words later in the same sentence. Cutting the redundant phrase
-solved the word-choice problem by subtraction instead of finding a new abstraction to
-replace an old one. Same fix applied to the back panel's offer headline, below, so the
-piece uses one payoff phrase throughout instead of two.
+**Why it changed.** The earlier version ("...built around one idea: what nobody got
+around to explaining. No product, no pitch.") fixed the abstraction by subtraction —
+cutting "the whole picture" because "what nobody got around to explaining" was already
+doing its job — but it left the panel with no subject at all. "Any of this" (headline)
+and "what nobody got around to explaining" (subhead) had no antecedent; the only place
+the topic appeared was the logo. The subtraction argument still holds for "the whole
+picture" and I'm not restoring it. The subject is now named instead, in the subhead
+only, and the headline is untouched. Full reasoning, including why this is not the
+eyebrow line Justin rejected and why I'd keep "That's not on you" as is, is under
+Panel 1 in `drafts/mailer-v5-the-suspicion.md`; not repeated here so the two files
+can't drift.
 
-37 words, front and back combined so far: front is 37 words on its own.
+Front is 40 words (18 headline + 22 subhead), was 37.
 
 ---
 
@@ -168,16 +171,26 @@ lead):**
 
 **Offer headline:**
 
-> **Come find out what nobody got around to explaining.**
+> **Come find out what nobody got around to explaining about retirement money.**
 
 Deliberately reuses the cover subhead's phrase rather than introducing new language —
 repeating the one payoff line right before the ask is a plain direct-response habit,
 not an accident of running low on words.
 
+**Revised 2026-09-28: the back names the subject too, and here the case is stronger
+than on v5.** On a postcard the back is the address side, which is the side facing up
+when it lands in a stack about as often as the cover is. This draft doesn't specify
+the address block or which face leads (a layout question, not solved here), but if
+the back is the first thing read, "what nobody got around to explaining" with no
+noun is the same defect the front had. Three words fix it. The body's "just laid out
+in front of you" had also lost its noun when "the whole picture" was subtracted, and
+only parsed by borrowing the headline; "just the explanation" gives it one and calls
+back to "explaining."
+
 **Body:**
 
-> Free class. [date/time — TBD], [venue — TBD]. No product, no pitch — just laid out
-> in front of you, in one sitting.
+> Free class. [date/time — TBD], [venue — TBD]. No product, no pitch — just the
+> explanation, laid out in front of you, in one sitting.
 >
 > Bring nothing — or bring whatever's most comfortable for you.
 >
@@ -234,15 +247,15 @@ whoever builds this, not solved here.
 
 ## Word count
 
-**Front: 37 words.** Kicker line: 16 words. Offer headline: 9 words. Body: 37 words.
-**Back (excluding disclosures, same convention v5 used): 62 words.**
+**Front: 40 words** (revised 2026-09-28, was 37). Kicker line: 16 words. Offer
+headline: 12 words (was 9). Body: 39 words (was 37).
+**Back (excluding disclosures, same convention v5 used): 67 words** (was 62).
 
-**Total: 99 words**, against a 150-word ceiling and against v5's 204. 51 words under
-budget — more slack than v5 had (46), which tracks: this piece cut a whole panel, not
-just trimmed one. Per v5's own principle, I'd hold the slack in reserve rather than
-spend it. If Justin wants the compact insider line back, it's a 27-word add that would
-bring the total to 126 — still under budget — but see the PM-gate caveat above before
-treating that as a free add.
+**Total: 107 words** (was 99), against a 150-word ceiling. 43 words under budget.
+The named subject cost eight words across the piece. Per v5's own principle, I'd hold
+the slack in reserve rather than spend it. If Justin wants the compact insider line
+back, it's a 27-word add that would bring the total to 134 — still under budget —
+but see the PM-gate caveat above before treating that as a free add.
 
 ---
 
@@ -365,6 +378,11 @@ Same posture as v5.
    construction, not yet reviewed by Ed in this exact form. The subhead edit ("what
    nobody got around to explaining" standing alone) is a small change to already-
    flagged language, not new territory, but it hasn't had its own look either.
+   **Updated 2026-09-28:** the subhead now names the subject ("how retirement money
+   actually works — the part nobody got around to explaining"), which makes the
+   "nobody explained" claim more specific than the vague version. I read it as
+   rhetorical and in Justin's first-person voice, same as the headline, but Ed should
+   see the subhead itself, not just the headline.
 2. **The kicker line ("you've probably had a dinner-seminar mailer... this isn't
    that") is boundary-map item 8, cleared as written — but this is its first
    appearance as a standalone line without the confession paragraph that followed it
@@ -385,8 +403,10 @@ Same posture as v5.
 ## What I cut, stated plainly
 
 - **All insider/confession material** — the full reasoning above, not a length trim.
-- **"The whole picture"** — replaced by subtraction, not substitution, everywhere it
-  appeared in v5.
+- **"The whole picture"** — cut by subtraction, not substitution, in the first pass.
+  (v5 has since been brought in line with this; as of 2026-09-28 both files use the
+  same subhead, and both now name the subject, retirement money, which the
+  subtraction pass had left out.)
 - **The bi-fold format** — replaced with a two-sided postcard.
 - **Justin's photo, from Panel 2 to the back panel, doing a smaller job** (presence,
   not credibility-through-history).
