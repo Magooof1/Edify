@@ -68,7 +68,23 @@ not be mistaken for a finding.
 
 **11 buying units.** Against 4 (IWU, April 2025) and 3 (Harrison, April 2026).
 
-**The decline is roughly 4–5x, and that number matters more than its precision.**
+**Piece count confirmed by Justin, 2026-09-28: ~10,000 in 2021 too. The comparison is
+clean — same volume, same spend, same offer shape.**
+
+| | Units | Pieces | 1 unit per | Cost per unit |
+|---|---|---|---|---|
+| NKU, spring 2021 | **11** | ~10,000 | **909** | **~$909** |
+| IWU West Chester, Apr 2025 | 4 | ~10,000 | 2,500 | ~$2,500 |
+| Harrison, Apr 2026 | 3 | ~10,000 | 3,333 | ~$3,333 |
+
+**The decline is 3.7x over five years — and it has not stopped.** 11 → 4 is 2.75x by
+2025; 4 → 3 is another 25% in the single year after. Whatever is happening is still
+happening.
+
+These figures also reconcile exactly with what was already on record independently
+(historical $500–1,000 per unit, recent ~$3,333), which is a good sign that the numbers
+are real rather than remembered.
+
 
 | | Units | Pieces | ~1 unit per |
 |---|---|---|---|
@@ -83,7 +99,7 @@ rather than shallower. At 10,000 pieces the fall is ~3.7x; at 7,000 it is ~5x.
 **Either way the order of magnitude holds: this channel got about four to five times
 worse. It did not die.**
 
-### What a 4–5x dilution is consistent with, and what it rules out
+### What a 3.7x dilution is consistent with, and what it rules out
 
 **Consistent with:** category crowding and list fatigue — a finite pool of attention
 split among more advisors mailing the same households with the same offer. Roughly
@@ -106,6 +122,31 @@ Under a dilution diagnosis the levers rank like this:
   two-cell test below.
 - **A different channel** leaves the pool entirely. Largest. **This is what the land
   decision already chose**, and the 4–5x number is independent support for it.
+
+### ISLA'S REFRAME — we have been working one lever out of three
+
+**Cost per unit is a product, not a rate:**
+
+> **cost per unit = cost per piece ÷ (response rate × list density)**
+
+Every hour of this project has gone into **response rate** — creative, offer, headline,
+panel structure. That is one term of three, and it is the hardest one to move. A 3.7x
+recovery from creative alone would be extraordinary.
+
+**The other two are more controllable and nobody has touched them:**
+
+- **Cost per piece.** Halving it does exactly the same work as doubling response.
+  Three units off a $5,000 drop is ~$1,667 per unit — most of the way back to viable
+  **with no improvement in response at all.** This is an argument for the postcard that
+  nobody made: Jayme argued it on format and friction, not economics. **It needs
+  checking rather than assuming** — a 6×9 oversized card may not be much cheaper than a
+  folded self-mailer once postage class is counted. That is a High Note question.
+- **List density.** Attendees cluster 55–63 against a 50–65 select. Tightening the pull
+  concentrates the same spend on households that actually respond. Same multiplier,
+  different term.
+
+**Justin does not need to get back to 11 units. He needs to get back to ~$900 a unit.**
+Those are different problems, and the second has three ways in rather than one.
 
 ### One correction to prevent a bad model
 
