@@ -73,3 +73,38 @@ When a new realization lands, the question is not "what rule do we add" but **"w
 existing check should have caught this, and why didn't it."** Widen that check. Add a new
 one only when the failure genuinely belongs to no existing class. Add the instance under
 its class here; keep this file short.
+
+
+---
+
+## Two corrections to this file, 2026-09-28 (Isla)
+
+Vannevar flagged both when he built it. Neither was his to resolve.
+
+**1. The "wrong end of the class" count was inconsistent across the record, and this
+file inherited the inconsistency.** `growth-channels.md` says twice; `brand-voice.md`
+says three but counts a different third. **The honest number is four instances of one
+class**, and the count mattered less than the enumeration:
+
+- The **buckets** — the conclusion of a two-hour argument (mailer v1).
+- The **contractor and coordination question** — the middle (mailer v2).
+- The **opening** — the founding story and the tornado, untouched until Justin pointed
+  at his own class script.
+- The **Financial House** — a completeness instrument that opens every class and has
+  never led a marketing piece.
+
+Treat four-instances-one-class as the corrected record. The earlier counts in
+`growth-channels.md` and `brand-voice.md` are not wrong about what they list; they are
+each counting a subset.
+
+**2. Class 3 — dropping the half that makes a promise true — has no source entry
+anywhere in memory.** It is recorded here from Isla's account alone. **The pattern with
+the most occurrences of any in this file is the one least documented**, which is its own
+finding: Ed caught three of the four in the course of reviewing specific pieces, so each
+was logged as a piece-level fix rather than as a recurring class. Nobody ever stood back
+and named it.
+
+Anyone closing this gap should pull the instances from `compliance-precedents.md` and
+the mailer and booking-page drafts and give them a home. **Until then, treat this class
+as real but under-evidenced** — the instances are described accurately, the citations do
+not yet exist.
