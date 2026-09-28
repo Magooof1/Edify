@@ -64,6 +64,56 @@ roughly **54–64** would mail the same budget into a denser population. **Cavea
 matters: this is seven people. Directional at best.** It is cheap to act on and should
 not be mistaken for a finding.
 
+### The 2021 control's numerator — supplied by Justin, 2026-09-28
+
+**11 buying units.** Against 4 (IWU, April 2025) and 3 (Harrison, April 2026).
+
+**The decline is roughly 4–5x, and that number matters more than its precision.**
+
+| | Units | Pieces | ~1 unit per |
+|---|---|---|---|
+| NKU, spring 2021 | **11** | *unknown* | — |
+| IWU West Chester, Apr 2025 | 4 | ~10,000 | 2,500 |
+| Harrison, Apr 2026 | 3 | ~10,000 | 3,333 |
+
+**Caveat, and it is the one remaining gap:** the 2021 piece count is unknown. That piece
+was an 11×17 folded self-mailer — more expensive per piece than a standard one — so at a
+similar spend it may have mailed **fewer** pieces, which would make the decline steeper
+rather than shallower. At 10,000 pieces the fall is ~3.7x; at 7,000 it is ~5x.
+**Either way the order of magnitude holds: this channel got about four to five times
+worse. It did not die.**
+
+### What a 4–5x dilution is consistent with, and what it rules out
+
+**Consistent with:** category crowding and list fatigue — a finite pool of attention
+split among more advisors mailing the same households with the same offer. Roughly
+four-to-five-way dilution is exactly the shape you would expect.
+
+**Not consistent with:** the creative getting worse (Justin supplied evidence the design
+improved while results fell), or the ask being too long (the 2021 control was a
+**four-hour** Saturday class — longer than today's).
+
+**And note what was already tried and did not fix it: fresh geography.** Both recent
+drops were new territory — West Chester and Harrison, Ohio — and returned 4 and 3.
+**So the pool is not merely used up around his office; the crowding is broad.**
+
+### The consequence for where effort goes, stated plainly
+
+Under a dilution diagnosis the levers rank like this:
+
+- **Better creative** wins a larger share of a smaller pool. Real, marginal.
+- **A different offer** leaves the crowded genre. Larger, and untested — this is the
+  two-cell test below.
+- **A different channel** leaves the pool entirely. Largest. **This is what the land
+  decision already chose**, and the 4–5x number is independent support for it.
+
+### One correction to prevent a bad model
+
+**$6M across 11 units is about $545,000 per unit. That is not a repeatable average.** It
+is one or two very large households inside a group of eleven. Nobody should plan on the
+assumption that eleven units produces six million; the right reading is that eleven
+units gave enough shots for one outsized outcome to land.
+
 ### Still open, and now the most valuable unknowns in the file
 
 1. **The 2021 control's piece count and attendance.** It produced $6M. Without its
