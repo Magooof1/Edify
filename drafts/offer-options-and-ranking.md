@@ -148,7 +148,51 @@ surface. Postage is quoted the same for both. So:
   needs 6 × 9 or larger to sit legibly; at these numbers that is a rounding error, not
   a constraint. Go bigger.
 
-**3. The numbers don't reconcile, and the gap is worth ~$4,760 a drop.**
+**3. ISLA'S $4,760 GAP WAS WRONG. Justin itemised the drop and the real picture is
+smaller and more specific.**
+
+**April 2026, Harrison — actual:** 11,597 pieces, **$3,835 print, $4,228 postage**,
+mail subtotal **$8,063** = **$0.695 a piece.** Roughly $1,937 sits outside print and
+postage if the drop really ran ~$10,000 — list, design, venue, materials.
+
+| | Per piece | Against the postcard quotes |
+|---|---|---|
+| **Postage** | **$0.365** | **Lower than the $0.389 quoted. Already efficient.** |
+| **Print** | **$0.331** | **2.0–2.4x a postcard's $0.135–$0.163** |
+
+**I had the diagnosis backwards.** I assumed postage was the fixed floor and the
+overspend was unexplained. **Postage is the efficient part. All the variance is in
+print** — the piece Justin mails costs twice to two-and-a-half times what a postcard
+costs to produce, which is what a folded, multi-panel piece on heavier stock costs.
+
+**What switching format is actually worth, at unchanged response:**
+
+| | Pieces | Units | Cost per unit |
+|---|---|---|---|
+| As run, April 2026 | 11,597 | 3 | ~$3,333 |
+| Same mail budget, 8.5 × 5.5 card | 15,387 (**+33%**) | ~4.0 | **~$2,512** |
+| Same mail budget, 11 × 6 card | 14,607 (**+26%**) | ~3.8 | ~$2,646 |
+
+**Real, and about a quarter off cost per unit. Not a fix.** Print saving on this drop
+would have been roughly **$1,945–$2,269**.
+
+**The sobering arithmetic, and it should be stated plainly rather than buried.**
+
+Getting back to 2021 economics (~$909 a unit) needs **3.7x**. **Format gives about
+1.33x.** That leaves **2.8x still to find from response** — from creative, offer and
+list density combined. **No single lever available does it, and the format lever, which
+is the only one that needs no test and no creative breakthrough, is worth about a
+quarter of the distance.**
+
+**The honest reading: mail is unlikely to return to 2021 economics.** It can plausibly
+get from ~$3,333 to somewhere near $2,000 a unit on format and list tightening alone,
+which makes it a channel worth running rather than one worth abandoning — but it does
+not make it the engine it was. **That is independent support for the land decision, and
+it arrives from the arithmetic rather than from the argument.**
+
+**What to ask High Note:** an itemised quote for the same mail budget spent on the
+11 × 6 card, and what the ~$1,937 outside print and postage actually covers.
+
 
 A postcard mails all-in at **~$0.52.** Justin's recent drops ran **10,000 pieces for
 ~$10,000 — about $1.00 a piece.** At postcard economics, $10,000 buys roughly **19,000
