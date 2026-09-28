@@ -66,6 +66,16 @@ the surface; one mistake underneath — neither told a stranger what they get.
 So, on every piece, before layout, before the body panels, before anything:
 
 > **Does the cover tell a stranger what they get?**
+> **And can they tell what it's about — with the logo covered?**
+
+**Widened 2026-09-28, because the first version missed a third failure.** v5's cover
+passed the original check and still never named its subject: *"how any of this actually
+works," "what nobody got around to explaining"* — no antecedent anywhere on the panel,
+with the topic appearing only in a small logo read after both lines, if at all. Justin
+caught it by asking whether a reader would understand what we were talking about.
+
+A check written to catch the last failure catches only the last failure. **Both halves
+now, every time: what do they get, and what is it about.**
 
 If it doesn't, nothing else about the piece matters, because nothing else will be
 read. A cover may open a gap, and should — but it has to show the reader, in the same

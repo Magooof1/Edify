@@ -18,6 +18,12 @@ rewritten).
 relief of finding out what you didn't know you were missing, and uses the confession
 only to answer *why Justin would know that*, not as the hook itself.
 
+**Revision note, 2026-09-28:** cover subhead and Panel 3 headline/body revised so the
+piece names its subject (retirement money). Cover headline, Panel 2, offer and
+disclosures untouched. v5b's front and back revised in step. See the "Revised
+2026-09-28" notes under Panel 1 and Panel 3. Still not approved, still comes back to
+Justin.
+
 **Revision note, 2026-09-25 (later):** Panel 2 below has been rebuilt on Justin's
 corrected employment history (two wholesaler roles, no retail clients, confirmed
 2026-09-25). The version this replaced stated he'd been a retail broker limited by an
@@ -140,15 +146,47 @@ be reassured about; this removes the blame instead.
 
 **Subhead — the payoff, at feeling altitude, no taxonomy:**
 
-> *I run a free class built around one idea: showing you the whole picture — no
-> product, no pitch, just what nobody got around to explaining.*
+> *I run a free class on how retirement money actually works — the part nobody got
+> around to explaining. No product, no pitch.*
 
-Answers "what do I get" in the same glance the headline opens the gap. No bucket
-names, no colors, no "sorted onto one page" — the altitude rule says the cold piece
-sells the feeling and the class delivers the specific thing, and that governs this
-whole piece, not just the headline. "The whole picture" is intentionally the softest,
-least mechanistic version of the offer I could write that still says something
-concrete happens.
+**Revised 2026-09-28 (subject named).** The prior subhead ("...showing you the whole
+picture — no product, no pitch, just what nobody got around to explaining") left the
+panel with no subject anywhere except the logo: "any of this" in the headline and
+"what nobody got around to explaining" in the subhead both had no antecedent, and
+"nobody explained how any of this works" is equally true of Medicare, taxes and estate
+planning. Fixed here, in the subhead only; the headline is untouched.
+
+Three things the rewrite does. (1) **"how retirement money actually works" echoes the
+headline's "how any of this actually works" on purpose** — the repeated frame is what
+tells the eye that "any of this" *means* retirement money, without a caption or
+eyebrow. (2) **"the part nobody got around to explaining"** replaces "what nobody got
+around to..." — "the part" says there is a specific missing piece, which is the
+suspicion mechanism (something you assumed was covered isn't), and it stays honest
+about scope: the class covers the part, not everything. (3) It drops "built around one
+idea" (five words), which was throat-clearing; net cost against v5b's subhead is +3
+words, against the old v5 subhead −3.
+
+No bucket names, no colors, no "sorted onto one page" — the altitude rule says the cold
+piece sells the feeling and the class delivers the specific thing, and that governs
+this whole piece, not just the headline. Naming the *subject* is not naming the
+*taxonomy*: "retirement money" is the topic, the buckets are the class's content.
+
+**Why this is not the eyebrow line Justin rejected.** That line ("A free class for
+people within ten years of retirement") was a qualifier label in the exact register
+every competitor mails — audience plus category, stated as a header. This is a
+sentence in a voice, the audience is not named (the list already does that
+qualifying), and the clause after the dash is one no competitor prints.
+
+**On "That's not on you" arriving before the accusation.** I'd keep it. The
+headline's first sentence already carries the accusation by implication — *nobody
+explained it to you* is heard as *so you may not know it* — and the absolution answers
+that. Naming the subject in the subhead sharpens the charge a beat after the
+absolution has fired, which makes the absolution land harder rather than softer, not
+the reverse. The residual weakness is real: a reader who scans only the headline never
+gets the subject, and gets a vaguer version of the same charge. The cheap fix for that
+is a test cell with "any of this" swapped for "retirement money" in the headline, not
+a decision to make on taste here — and Justin told me to leave the headline alone, so
+I have.
 
 **What I rejected for this slot, and why:**
 
@@ -275,9 +313,20 @@ before I'd cut anything here.
 
 **Headline:**
 
-> **Come see the whole picture.**
+> **Come find out what nobody got around to explaining about retirement money.**
 
-Deliberately not "come see what you're missing" — that phrasing edges toward
+**Revised 2026-09-28.** Was "Come see the whole picture." Two reasons it changed.
+First, "the whole picture" no longer appears on the cover (the subhead was rewritten
+above), so the body's "Same idea as the cover" would have pointed at a phrase that
+isn't there; and it was the abstraction Isla flagged as too soft. Second, and this is
+the antecedent question the brief asked me to settle: **this panel names the subject
+too, even though the cover now does.** The offer panel is the response panel — it's
+the piece that gets torn off, kept on a counter, or handed to a spouse who never saw
+the cover, and "Free class" with no noun is a dead end for that reader. Three words
+is cheap insurance; the cover carrying it is not enough for the one panel that has to
+stand alone.
+
+Still deliberately not "come see what you're missing" — that phrasing edges toward
 diagnosing the specific reader from across a mailbox, the same failure mode Ed ruled
 out on the mirror card (2026-09-12: never assert a fact about the specific reader).
 This states what happens, not what's wrong with them.
@@ -285,13 +334,13 @@ This states what happens, not what's wrong with them.
 **Body:**
 
 > Free class. [date/time — TBD], [venue — TBD]. Same idea as the cover: no product,
-> no pitch. Just the whole picture, laid out in front of you, in one sitting.
+> no pitch. Just the explanation, laid out in front of you, in one sitting.
 >
 > Bring nothing — or bring whatever's most comfortable for you.
 >
 > RSVP: [tracked phone number] or [tracked URL / QR].
 
-**51 words including the headline.** "Bring whatever's most comfortable for you" is
+**57 words including the headline** (was 51). "Bring whatever's most comfortable for you" is
 Justin's own class-close language, per the brand-voice.md 2026-09-22 capture — not
 invented, reused because it already solved the friction problem the old "bring your
 account statements" draft created.
@@ -313,9 +362,13 @@ account statements" draft created.
    chosen buckets to discuss — the class itself, or a post-visit piece. It's wasted,
    and still risky, on a cold cover-level ask that never gets that specific.
 
-**Total across all three panels, updated for the rebuilt Panel 2: 198 words**
-(43 cover + 104 Panel 2 Variant A + 51 Panel 3), or **202 words** with Variant B
-(employers named). Either way, comfortably under the 250-word target, which I'd hold
+**Total across all three panels, updated 2026-09-28 for the named subject: 201 words**
+(40 cover + 104 Panel 2 Variant A + 57 Panel 3), or **205 words** with Variant B
+(employers named). Against the ~200 working budget that is about one word over on
+Variant A and five on B (B was already two over before this revision). If it has to
+come back under, the cheapest cut is "Same idea as the cover:" in Panel 3 (five words;
+the cover already says "no product, no pitch") — not taken here because the brief said
+nothing else changes. Against the original 250-word target, still under, which I'd hold
 in reserve rather than spend — either to restore the BD-trips detail or the "2,000
 advisors" line if Justin wants either back, or simply left unspent. A shorter piece
 that hits harder beats a fuller one that doesn't.
@@ -392,6 +445,12 @@ is resolved.
    the tension with the 2026-09-12 "never assert a fact about the specific reader"
    rule is close enough that it shouldn't be assumed cleared just because I believe it
    clears.
+1a. **Added 2026-09-28: naming the subject makes the "nobody explained" claim more
+   specific.** "Nobody explained how any of this works" was a vague universal;
+   "the part [of how retirement money works] nobody got around to explaining" is a
+   specific one, and reads slightly more like a factual claim about what the public
+   was taught. I read it as rhetorical, in Justin's first-person voice, same register
+   as the headline it sits under, but Ed should see the subhead, not just the headline.
 2. **Panel 2's assembly is new, even though every sentence in it is individually
    cleared.** Same flag as v4 carried: the combination hasn't been reviewed as a
    combination, only its parts have.
@@ -465,8 +524,8 @@ challenger is strongest. Worth saying again because it hasn't stopped being true
    which is the whole argument above for a cheap parallel digital read before
    committing print volume.
 2. **Whether cutting all bucket language from Panel 3 makes the offer feel vaguer than
-   it should, not just more disciplined.** "The whole picture, laid out in front of
-   you" is intentionally soft — that's the positioning memo's instruction, not an
+   it should, not just more disciplined.** "The explanation, laid out in front of
+   you" (previously "the whole picture") is intentionally soft — that's the positioning memo's instruction, not an
    accident — but there's a real risk that "soft" reads to a skeptical reader as
    "nothing specific is actually going to happen here." I don't have a way to resolve
    that tension from principle alone; it's the kind of thing the two-cell test above
@@ -487,7 +546,10 @@ challenger is strongest. Worth saying again because it hasn't stopped being true
 
 - **The entire "sorted onto one page" / worksheet-as-payoff mechanism.** That was the
   breakthrough I handed Isla two drafts ago and it was the worst offender — nobody
-  wants a sorted page. Replaced with "the whole picture" everywhere it appeared.
+  wants a sorted page. Replaced with "the whole picture" in the first pass of this
+  draft; on 2026-09-28 that phrase was itself cut (too abstract, and it left the
+  cover with no subject) and replaced by "what nobody got around to explaining" plus
+  the named subject, retirement money.
 - **Every instance of green/blue/red, on every panel, including the offer panel.**
   v4 kept bucket language on the cover subhead and the offer. Both are gone here —
   the altitude rule governs the whole cold piece, not just the headline.

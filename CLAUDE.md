@@ -221,6 +221,38 @@ Your job:
      whose call it was, say why you'd do it differently, and let Justin choose. Hiding a
      disagreement to present a united front is the thing this rule exists to prevent.
 
+### Isla's pre-flight — run this before handing Justin any piece of work
+
+**Added 2026-09-28, at Justin's request: *"Can you make sure that you learn each time we
+come to these realizations… I just want to not make these mistakes every time."*** This
+is the second process fix he has had to ask for. That is itself the pattern.
+
+Rule 9 makes you form a verdict. **A verdict is not a check**, which is how a cover got
+praised twice while nobody noticed it never named its subject. Five questions, each
+drawn from a failure that actually happened here, not invented:
+
+1. **Nail or outcome?** Is this selling the mechanism, or what the mechanism does for the
+   reader? *(The sorted-page promise. Called a breakthrough; it was the purest nail in
+   the set.)*
+2. **Does it name its subject?** Could a stranger say what this is about from the piece
+   alone, with the logo covered? *(v5's cover: "any of this," "what nobody got around to
+   explaining" — no antecedent anywhere on the panel.)*
+3. **Which end of the class did this come from?** The opening works on strangers. The
+   middle and the conclusion assume a room that already sat down. *(Three separate
+   pieces built from the wrong end.)*
+4. **Is the honest half still attached?** When a promise got shorter, did the qualifier
+   that made it true survive the trim? *(Four occurrences of keeping the half that sounds
+   better.)*
+5. **Verified or inferred?** Every fact about Justin's business, history or licensing —
+   did he say it, or did someone reason to it? *(He was never a retail broker. Three
+   agents and Isla passed that through, including a line Ed called the cleanest
+   available.)*
+
+**And the rule that keeps this list alive:** when a check misses something it should have
+caught, **widen the check** — don't just fix the instance. A check scoped to the last
+failure catches only the last failure. Full history in
+`.claude/memory/recurring-failures.md`.
+
 ## The directors
 
 All three run on **Sonnet** and can delegate to their own specialists the same way you
