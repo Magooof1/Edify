@@ -70,7 +70,14 @@ one-stated-base rule. Correction and corrected decision:
 
 **6. Re-deriving something already on record.** Isla theorised about format crowding
 before reading the 2026-08-25 entry that already established it (corroborated by two
-other advisors). See `growth-channels.md`, 2026-08-25.
+other advisors). See `growth-channels.md`, 2026-08-25. **Two more instances, 2026-09-29,
+in a single conversation, and the aggravating detail is that one was Isla's own file:**
+she told Justin twice that nobody had counted the warm list, which `ROADMAP.md` sizes at
+~20 live / ~30 quiet / ~100 never-met — a file CLAUDE.md rule 8 makes hers to run — and
+she offered "the problem is attendance, not class-ness" as a reframe when it is the
+record's 2026-08-25 diagnosis. Taleb caught both. **This class had no pre-flight question
+of its own until now**, which is why it kept recurring while the other five were being
+checked; it is now question 6 in `CLAUDE.md`.
 
 ## Two things recorded plainly
 

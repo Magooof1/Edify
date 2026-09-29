@@ -318,7 +318,9 @@ attendance 15–20%) because seminar-marketing companies sell seminars.
 
 **The strongest external evidence points at a lever Justin has ruled out.** Duflo & Saez
 (*QJE* 2003) found a modest cash reward multiplied attendance at a free university
-benefits fair more than fivefold. Bhattacharya et al. (*Review of Financial Studies*
+benefits fair **at least threefold** (the abstract as returned by search says
+"more than tripled"; the record said fivefold and nobody has opened the paper — corrected
+2026-09-29, treat as at-least-tripled until it is read). Bhattacharya et al. (*Review of Financial Studies*
 2012) found ~5% take-up of free unbiased advice among ~8,000 brokerage customers, with
 those who needed it most least likely to accept. **Value at the door — a meal or money —
 is the best-evidenced attendance lever in this domain, and it is off the table by

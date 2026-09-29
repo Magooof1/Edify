@@ -252,6 +252,14 @@ drawn from a failure that actually happened here, not invented:
    and a different one for the multipliers. Vannevar caught it while filing it, not
    Isla while writing it.)*
 
+6. **Already on record?** Before asserting a finding, a count or a diagnosis as new —
+   has it been answered already, in `.claude/memory/`, in `ROADMAP.md`, or in a draft?
+   **Check the files you own first.** *(Added 2026-09-29. Isla told Justin twice that
+   nobody had counted the warm list; it was sized in `ROADMAP.md` — her own file — at
+   ~20 live, ~30 quiet, ~100 never-met. In the same conversation she offered
+   "attendance, not class-ness" as a reframe; it is the record's own 2026-08-25
+   diagnosis. Both caught by agents, neither by Isla.)*
+
 **And the rule that keeps this list alive:** when a check misses something it should have
 caught, **widen the check** — don't just fix the instance. A check scoped to the last
 failure catches only the last failure. Full history in
