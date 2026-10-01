@@ -1659,7 +1659,90 @@ it.**
 
 ---
 
-## 2026-10-01 (later) — Practice economics (the payback table), THE BUDGET CONSTRAINT covers all ~$29K, and class frequency is dead as a lever
+## 2026-10-01 (later) — Practice economics (the payback table), THE BUDGET CONSTRAINT covers all ~$29K, and class frequency is dead as a lever  **[PARTLY SUPERSEDED 2026-10-01 — READ THE CORRECTIONS BLOCK IMMEDIATELY BELOW BEFORE QUOTING ANYTHING IN THIS ENTRY]**
+
+### CORRECTIONS BLOCK, 2026-10-01 (Justin / Isla; filed by Vannevar)
+
+**The original text below is left visible on purpose, with each correction attached
+inline, because the wrong version was acted on (three revision briefs, one wasted
+pass). Where the inline text and this block disagree, this block governs.**
+**Data handling for every correction here:** book-level and segment-level aggregates
+only. No household rows, no per-household dollar figures, no demographics tied to amounts.
+
+**A. THE FALSE FACT — "YouTube is excluded outright" is WRONG.**
+
+Section 2 below records, on Justin's instruction, that the whole ~$29,000 is restricted
+to public workshops, networking events, mailers, folders, room rentals and client
+appreciation, and that "YouTube is excluded outright." **Justin has since said he told
+Isla wrong.** Justin, 2026-10-01: **"I can still do YouTube or any other channel. The
+10bps is just a perk and they want it used in a certain way. We could do fb ads etc with
+it. I just can't use it to buy equipment etc."**
+
+**The operative rule (supersedes the section 2 permitted/not-permitted lists):**
+- **IN: channel, media and service spend.** Any channel, **YouTube included.** Paid ads
+  including Facebook (Justin established that 2026-09-12; see the "$7K perk CAN fund FB
+  ads" note earlier in this file). A spend reaching a booked meeting. Workshops,
+  networking events, mailers, folders, room rentals, client appreciation.
+- **OUT: capital equipment.**
+- The perk is **administered** (Justin confirmed), so the constraint is external, but it
+  is a constraint on **what is bought, not on which channel.**
+
+**Un-voided — every item CONTINGENT on Justin confirming the formulation above:**
+- Sloan's **editing-and-packaging retainer** (a service, not equipment).
+- The **service half of Sloan's shoot-day line**; **the kit itself stays out.**
+- **Taleb's land tranches and intent-search line.**
+- **Jayme's hours/production reserve.**
+- **Isla's production-capacity recommendation: an editor is in, a camera is out.**
+- **The three directors' votes to loosen the land's "funded by time, never cash"
+  condition are no longer void. The condition is a live question again, not a settled
+  impossibility.** Nobody has decided whether to loosen it.
+
+**B. The process failure — a recurrence of a logged failure, recorded plainly (Isla's,
+at her request).** This file already carries **"STANDING RULE — Justin, 2026-09-19:
+'Always go with the non strict version going forward'"** (see "The remaining $7,000
+(2026)"), written to stop exactly this, and records that Isla asserted the strict
+reading against the mirror mail test on 2026-09-19 and was wrong. **On 2026-10-01 she
+asserted the strict reading again, on the same perk, and was wrong again — then pushed
+it into three revision briefs before confirming it with Justin.** **Shape:** Isla twice
+stated a constraint she had not confirmed (she characterises it as once too loose, once
+too strict; see flag H4) instead of stating her reading in one line and asking. Filed as
+`recurring-failures.md` class 10; cross-references classes 5 and 9.
+
+**C. Five smaller corrections to this entry.**
+1. **AUM is $22,000,000** (Justin). The $20,133,000 used throughout is **the sample,
+   about 91.5% of the book**; about $1,867,000 is undescribed. **Recurring revenue at 1%
+   is about $220,000/year, not $201,330.** Derived figures that moved: the 10-bp budget
+   computation ("roughly $20,000" in the open question below) is **$22,000** at the
+   confirmed AUM. The payback table uses the sample's mean household, which is a sample
+   figure; the book's household count and mean are not stated.
+2. **The two stable segment findings become bounds, not point estimates**, because the
+   undescribed ~$1,867,000 could fall either way. **Defensible form: solo-decision-maker
+   households 40-49% of AUM; female-controlled 24-33%.** The sample point estimates were
+   44% and 27%. (Method: lower bound dilutes the sample share over $22M; upper bound
+   assigns all undescribed AUM to the segment.) The earlier entry's section 6 ("44-47%",
+   "26-27%") is a sample figure and is left unedited; quote these bounds instead.
+3. **The 2027 money is perk/co-op money with an administrator** (Justin confirmed). That
+   **closes the OPEN QUESTION in section 2 below** (Justin's instruction called it
+   "flag F"; in this file's lettering F is the class-frequency flag and the open question
+   is an unlettered paragraph, so it is marked inline there). The ~$22,000 figure
+   **coincides with 10 bp of a $22M book.**
+4. **The 2021 return figure is overstated.** "About 9.1x the spend annually" came off
+   year-level AUM. **Crediting the mailer rather than the year gives about 6.0x (Jayme's
+   correction). 6.0x is the defensible figure.** Base, so it is not mixed: the record's
+   ~$6M credited to the 2021 mailer x 1%, over one $10,000 drop; Jayme notes a two-class
+   year may have cost ~$20K (flag E). Derived by Vannevar, not stated by anyone: 6.0x
+   against the unchanged 0.77x is roughly an **8x** decline, not 12x. Direction unchanged.
+5. **"Class frequency is dead" is wrong a second time. Final form:** ex-2021, **yield per
+   class is roughly flat** — about **$0.63M per class in two-class years against about
+   $0.70M in one-class years.** So frequency is **neutral on efficiency and roughly linear
+   on absolute output**: proportionally more classes produce proportionally more AUM for
+   proportionally more money. **Not a dead lever — an output lever with no efficiency
+   gain.** **Not established:** n=5 years, about a third of AUM undated. **Supersedes both
+   Isla's "dead" framing (section 3 below) and the earlier "weak positive signal"
+   wording** (`recurring-failures.md` class 9(c); flag F below).
+
+**D. New finding, with its own section (section 4 below):** an open, pre-registered test
+of Justin's own 2021 explanation against his April 2025 class.
 
 **Data handling, same rule as the entry above.** Book-level and segment-level aggregates
 only. No household rows, no per-household dollar figures, no demographics tied to
@@ -1674,6 +1757,9 @@ Isla's.
 - **AUM: $20,133,000 across 26 households** (mean about $774,000; median $600,000).
   Recurring revenue at 1% = **about $201,330/year.** Described by Justin as a partial
   sample; see flag A.
+  > **[CORRECTED 2026-10-01 (Justin): AUM is $22,000,000.]** $20,133,000 is the sample,
+  > about 91.5% of the book. **Recurring revenue at 1% = about $220,000/year, not
+  > $201,330.** The mean/median above are sample figures. See corrections block C1.
 - **Annuity premium: $4,200,000.** Insurance beyond that: "not much." **None of the
   households are annuity-only.** So Green (insurance) is **a cross-sell into the AUM
   book, not an acquisition channel — it monetises existing clients and does not bring
@@ -1695,6 +1781,11 @@ Isla's.
 - **2021 returned about 9.1x the spend annually, recurring. Current drops return about
   0.77x annually.** A real **12x decline, and still a good business.** The channel went
   from extraordinary to ordinary-good. It did not go to broken.
+  > **[CORRECTED 2026-10-01: 9.1x is overstated (year-level AUM).]** Crediting the mailer
+  > rather than the year gives **about 6.0x (Jayme); 6.0x is the defensible figure.** The
+  > "12x decline" is correspondingly about 8x (Vannevar's arithmetic: 6.0 / 0.77); the
+  > 0.77x is unchanged and is still one hypothetical mean client. Direction unchanged.
+  > See corrections block C4 and flag E.
 
 **What this changes.** The 2026-09-28 lever decisions stand but **change meaning**:
 cutting cost from about $3,333 to about $2,226 a unit is compounding returns on a
@@ -1717,7 +1808,7 @@ households.** Consequence on record: **every per-unit figure in this project is
 per-person, and cost per acquired household is roughly 1.5x the quoted per-unit cost.**
 See flag C: the file's earlier text labels units as households.
 
-### 2. THE BUDGET CONSTRAINT — Justin's correction; it voids large parts of four spend plans
+### 2. THE BUDGET CONSTRAINT — Justin's correction; it voids large parts of four spend plans  **[CONTAINS A FALSE FACT, CORRECTED 2026-10-01 — "YouTube is excluded" and the VOIDED list are superseded; see corrections block A. Do not quote this section as the rule.]**
 
 Justin, 2026-10-01: **"Next yrs 22k has the same contraints as this yrs 7k."**
 
@@ -1729,8 +1820,21 @@ Justin, 2026-10-01: **"Next yrs 22k has the same contraints as this yrs 7k."**
   reaches a booked meeting.
 - **Not permitted:** website design, or general digital lead-gen. **YouTube is excluded
   outright.**
+  > **[WRONG 2026-10-01 — Justin: "I can still do YouTube or any other channel... We
+  > could do fb ads etc with it. I just can't use it to buy equipment etc."]** The
+  > operative rule is channel/media/service spend IN (YouTube included), capital
+  > equipment OUT. See corrections block A. **Not addressed by Justin's correction:** the
+  > "website design" and "general digital lead-gen" exclusions above; status unknown,
+  > flagged (H2), not ruled.
 
 **VOIDED — recorded so nobody re-proposes it:**
+> **[UN-VOIDED 2026-10-01, EACH ITEM CONTINGENT on Justin confirming the formulation in
+> corrections block A.]** Sloan's retainer, the service half of her shoot-day line (kit
+> stays out), Taleb's land tranches and intent-search line, Jayme's reserve, Isla's
+> production-capacity recommendation (an editor is in, a camera is out), and the three
+> land-condition votes are **no longer void.** Wrong text kept below because it was acted
+> on.
+
 - Sloan's editing-and-packaging retainer and her shoot-day/kit line.
 - Taleb's land tranches and most of his intent-search line.
 - Jayme's hours/production reserve.
@@ -1743,11 +1847,17 @@ Justin, 2026-10-01: **"Next yrs 22k has the same contraints as this yrs 7k."**
   option available**, since none of this pot can touch YouTube.
 - **Ed's counsel/Portfolio Medics bundle is probably also outside the permitted
   categories** (not a workshop cost). **Flagged, not ruled.**
+  > **[2026-10-01: basis changed.]** This was reasoned from the workshop-only list. Under
+  > the corrected rule (services in, equipment out) it is open again. Still **not ruled**
+  > (H3).
 
 **What survives, better than it went in: Jayme's plan.** He put nearly everything into
 mail and a response path, held cash, and refused to pre-buy hours or production. **Under
 the real constraint he was right for reasons he did not have.** (Flag D: the "response
 path" may touch the website-design exclusion; not ruled.)
+> **[2026-10-01: the "right for reasons he did not have" conclusion rested on the false
+> constraint and is no longer supported.]** Whether Jayme's plan still beats the
+> un-voided alternatives is not a curator's call.
 
 **OPEN QUESTION — it decides whether the land can ever be bought, and needs Justin's
 answer, not an inference:** is the 2027 ~$22,000 **perk/co-op money with an
@@ -1756,8 +1866,15 @@ choosing to run under the same rules** (constraint self-imposed, changeable by
 decision)? The standing policy (2026-08-25, top of file) sets next year's budget at 10 bp
 of end-of-year AUM, which at the AUM above computes to roughly $20,000 — consistent with
 $22,000, which is why the distinction is not obvious.
+> **[CLOSED 2026-10-01 (Justin): the 2027 money is perk/co-op money with an
+> administrator.]** The constraint is external, **but it is a constraint on what is
+> bought (no capital equipment), not on which channel**, so the land question is **no
+> longer settled against buying**; whether to loosen the time-funded condition is open
+> and undecided (corrections block A, contingent on Justin's confirmation). The
+> "roughly $20,000" above was computed off the $20.133M sample; at the confirmed $22M it is **$22,000**, so the figure
+> coincides with 10 bp of the book.
 
-### 3. Class frequency is dead as a lever — killed by Justin's own outcome data
+### 3. Class frequency is dead as a lever — killed by Justin's own outcome data  **[WRONG, SUPERSEDED 2026-10-01 — see corrections block C5; do not quote "dead"]**
 
 Two-class years: **2019, 2021, 2023.** One-class years: **2018, 2022, 2024** (class count
 limited by budget). AUM acquired (sampled, by acquisition year):
@@ -1780,12 +1897,48 @@ limited by budget). AUM acquired (sampled, by acquisition year):
   and 3, and the 2026-08-25 "Saturation cause."
 - Check: the year figures reconcile to the 45% / 3% / 7% / 5% / 5% / 2% shares and the
   32% undated remainder in the entry above (against $20.133M).
+  > **[Note 2026-10-01: those shares and the table's dollars are of the $20.133M sample
+  > (about 91.5% of the $22M book), not of the book.]**
+
+> **[FINAL FORM 2026-10-01 — supersedes the section 3 heading, the "Record: the number of
+> rooms does not predict dollars" bullet's outcome claim, and the earlier "weak positive
+> signal" wording.]** Ex-2021, **yield per class is roughly flat: about $0.63M per class in
+> two-class years (2019, 2023: about $1.26M across two classes) against about $0.70M in
+> one-class years (2018, 2022, 2024).** Frequency is therefore **neutral on efficiency and
+> roughly linear on absolute output** — more classes, proportionally more AUM for
+> proportionally more money. **Not a dead lever; an output lever with no efficiency
+> gain.** **Not established:** n=5 years (2021 excluded), about a third of AUM undated,
+> year AUM includes non-class sources, 2020 and 2025 not supplied. Untouched by this
+> correction: the directors' cost-side objection to "more rooms" and the explanation of
+> the 2021 vintage itself (market conditions plus first-mover timing; see section 4 for
+> an open test of the first half).
+
+### 4. OPEN TEST (new 2026-10-01) — a possible counter-example to Justin's own 2021 explanation
+
+Taleb surfaced and **pre-registered** this contradiction. Justin's explanation of 2021
+(2026-10-01 entry above, section 1: "market turmoil... If things aren't broken why move")
+predicts that mail landing in a visibly broken market pulls. **The February-April 2025
+drawdown was roughly 17-19% (Justin's sources are second-hand, Grade D; not sourced by
+Vannevar) and it overlapped the April 2025 class, which drew four attendees from about
+10,000 pieces (0.04%; see the Ohio benchmark-gap note earlier in this file) and closed no
+AUM in the sample.** If the mail was in homes during that drawdown, the market-turmoil
+explanation has a counter-example in Justin's own history.
+
+- **Status: an open test, not a refutation.** **Whether the mail was in homes during the
+  drawdown is unverified, and only Justin can say.**
+- **Related, already on record:** the 2022 hole in section 3 of the earlier entry ("2022
+  was also a down year... 2023 should show a bump. It does not"). Both are unresolved.
+- **Cross-reference:** 2026-10-01 entry above (sections 1 and 3, "If things aren't
+  broken why move"); the first-mover/crowding explanation (2026-08-25 "Saturation
+  cause") is the other candidate and is not touched by this test.
 
 ### Vannevar's flags — for Isla/Justin, not resolved here
 
 - **A. Book or sample?** Justin calls the $20.133M a partial sample; the revenue line
   treats it as the book; earlier entries cite a ~$22M book. Annual revenue above is for
   the 26 households as supplied. Whole-book revenue is unconfirmed.
+  **[ANSWERED 2026-10-01 (Justin): book is $22,000,000; the $20.133M is the sample (about
+  91.5%); recurring revenue about $220,000/year. Corrections block C1.]**
 - **B. "One client" from April 2026.** The 2026-08-25 record has that drop's closed unit
   as a pension-to-annuity rollover (~$6,000 one-time commission, no ongoing AUM), a
   pending ~$1M prospect that may not close, and one dead lead. The 15.5-month figure
@@ -1805,23 +1958,57 @@ limited by budget). AUM acquired (sampled, by acquisition year):
   (superseded in part by the loose-reading rule); and the 2026-08-25 policy that the year's
   remainder goes to "experimentation/pivoting into new channels" against the permitted
   list. Not ruled on.
+  **[2026-10-01: the "constraint" this flag tests is corrected (block A). The
+  website-design exclusion is not addressed by Justin's correction; still not ruled (H2).]**
 - **E. Bases of the 12x.** 9.1x is year-level AUM acquired ($9.13M x 1% = $91,300) over
   one $10,000 drop; 2021 was a two-class year and part of any year's AUM arrives with no
   spend. 0.77x is one hypothetical mean client over one drop (n=1). Also current AUM by
   acquisition year, so survivors only, and gross fee, not net of any firm split or cost to
   serve. The ~$6M "2021 NKU class" figure measures something else (see 2026-10-01 entry
   flag on different bases). Direction is not in doubt; the 12x is not a precise number.
+  **[RESOLVED IN PART 2026-10-01: 9.1x replaced by 6.0x (mailer-credited; Jayme); about 8x
+  decline. The 6.0x still rests on the ~$6M figure whose own base is flagged above, and on
+  one $10,000 drop (Jayme: a two-class year may have cost ~$20K).]**
 - **F. Class-frequency read.** Partial sample, 32% of AUM undated, and year AUM includes
   non-class sources (a quarter to a third arrived with no marketing spend). Excluding
   2021, the two-class years average about $1.26M against about $0.70M for one-class years,
   and 2019 beats every one-class year; the data supports "2021 explains the gap," which is
   Justin's conclusion, more firmly than it supports "rooms never matter." 2020 and 2025
   were not supplied.
+  **[SUPERSEDED 2026-10-01: the "weak positive signal" read is replaced by the final form
+  in section 3 (flat yield per class; output lever, no efficiency gain).]**
 - **G. recurring-failures.md** has no entry for the process failure in section 1 (nearest:
   class 8, and class 6 for carrying a named gap as an open item). Filing it is Isla's
   call.
+  **[2026-10-01: the section 1 (payback-without-denominator) failure is still unfiled as
+  its own entry. The separate 2026-10-01 budget-constraint failure is filed as
+  `recurring-failures.md` class 10.]**
+- **H. Added 2026-10-01 with the corrections (Vannevar's flags, none resolved here).**
+  - **H1. Downstream drafts carry the false rule and were not edited** (outside this
+    pass): `drafts/clean-slate-29k-sloan.md`, `drafts/clean-slate-29k-taleb.md`,
+    `drafts/clean-slate-29k-jayme.md`, `drafts/clean-slate-29k-ed-rulemap.md` (the
+    "Perk fit [RECORD]" line), and `drafts/non-class-segment-thesis-v1.md` (the
+    "Excluded outright" table row). Several also carry "class frequency is dead" and
+    the 9.1x / $20,133,000 figures.
+  - **H2. Website design and general digital lead-gen** were listed as excluded in section
+    2. Justin's correction speaks to channels and equipment, not these. Status unknown.
+  - **H3. Ed's counsel/Portfolio Medics bundle** was flagged out on the workshop-only
+    reading; open again, not ruled.
+  - **H4. "Once too loose, once too strict."** This file's record shows Isla's strict-reading
+    assertions on 2026-09-12 (the "own budget, not the perk" read), 2026-09-19 and
+    2026-10-01. The "too loose" instance is not identifiable from the file (candidate: the
+    2027 money being treated as unconstrained before Justin's "same constraints" line).
+    Recorded as Isla characterised it; Isla to confirm which.
+  - **H5. The un-voids are contingent.** Nothing un-voided is a live recommendation until
+    Justin confirms the corrections block A formulation.
 
 **Source:** figures and the constraint are Justin's; the payback arithmetic checks
 (10,000 / annual revenue; $333,000 = $10,000 / 3 / 1%), and the framing, retraction and
 process failure are Isla's. Roster not stored. No individually identifying client data
 entered.
+**Corrections source (2026-10-01):** the equipment/channel rule, the $22M AUM, the
+perk/co-op-with-administrator confirmation and the April 2025 mail context question are
+Justin's; the 6.0x is Jayme's; the pre-registered 2025 test is Taleb's; the bounds, the 8x
+and the 40-49% / 24-33% arithmetic are Vannevar's, from stated inputs; the process-failure
+account is Isla's. No household rows, per-household dollar figures or demographics tied to
+amounts entered.

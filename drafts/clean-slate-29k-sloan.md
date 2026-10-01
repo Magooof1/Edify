@@ -1,3 +1,5 @@
+> **THIRD PASS, same day, CONTINGENT.** The second pass assumed YouTube was excluded from the pot. Justin has since said it is not: "I can still do YouTube or any other channel... We could do fb ads etc with it. I just can't use it to buy equipment etc." Section 00 in the REVISION block restores what I removed on that bad brief (U1, the service half of U2, U3, U6). **It rests on Justin confirming the formulation, which Isla is getting. It is not settled.** Everything else in the second-pass revision below is kept as Plan B, the fallback if he does not confirm.
+
 > **REVISED 2026-10-01, second pass. Read the REVISION block first.** Isla's correction: Justin said "Next yrs 22k has the same contraints as this yrs 7k." The whole ~$29,000 carries the perk's restrictions, so my unrestricted-money plan is void in part. The original first-pass text is kept below the revision, with corrections attached where the revision changes it. Where the two disagree, the revision governs. Still a draft for Isla and Justin, not marketing copy. Nothing was contacted, no vendor was quoted, and every hour and price is still my estimate (E) unless marked.
 
 **DRAFT. Internal strategy for Isla and Justin. Not marketing copy. Sloan, 2026-10-01.** Clean-slate answer to "$29k to the end of 2027, break the traditional rules." Nobody was contacted and no vendor was quoted. No venue, partner, employer, credit union, library, CPA or attorney was approached, and none is named as a target. Every price below is my estimate unless marked. Jayme, Taleb and Ed are answering separately; I have not read or written their answers. Ed's items are in section 9.
@@ -6,7 +8,59 @@
 
 # REVISION (second pass): the whole $29,000 is restricted
 
+## 00. THIRD PASS (contingent): the second brief was wrong too
+
+**What changed.** Justin, 10/01, relayed by Isla: "I can still do YouTube or any other channel. The 10bps is just a perk and they want it used in a certain way. We could do fb ads etc with it. I just can't use it to buy equipment etc." Operative reading: **in** is channel, media and service spend (YouTube, Facebook ads, workshops, events, mailers, folders, rooms, any spend that reaches a booked meeting); **out** is capital equipment. **Contingent on Justin confirming that formulation. Sections 0-12 below are Plan B, kept in full, if he does not.**
+
+**My part, plainly.** I accepted "YouTube excluded outright" from the brief against a record that pointed the other way. Justin's standing rule of 9/19 is "always go with the non strict version," and his 9/12 ruling put Facebook ads inside the perk. The perk entry in `growth-channels.md` calls YouTube's exclusion a "practical implication (flagged, not decided)," and I read it as decided. That is pre-flight 6 failing a third time. **Record conflict for Vannevar or Isla to reconcile, not me:** that entry now conflicts with Justin's 10/01 words. I edited no memory file.
+
+**What I removed on the bad brief, and where it stands:**
+
+| Item | Second pass | Now (contingent) |
+|---|---|---|
+| U1 editing and packaging retainer, $9,000 | void | **Restored.** A service, not equipment. Original tranche gates stand (original text, kept below) |
+| U2 shoot-day device plus kit, $2,000 | void | **Split.** Paid, booked, cancellable shoot sessions, $1,000 (8 x $125, E): **restored.** The $1,000 kit is equipment: **stays out.** Use gear he owns; a $25-60 mic, if he wants one, is his own money, not the pot's |
+| U3 attribution plumbing, $600 | out of the pot | **Restored.** Subscription, phone service and URLs are services, not equipment |
+| U6 gated reserve, $3,000 | removed | **Restored.** Released in July only to scale what H1 supports; never to ads in my lane |
+| "Funded by time, never cash" (the three votes) | void | **Reopened, Justin's call.** The perk is not the mail budget, which was the condition's target. Open unless the spring mailer is paid from this money |
+| R1 roundtable, $1,200 | out | **Stays $0.** Research is not channel, media or a spend that reaches a meeting. Restore only if Justin says the loose reading covers it |
+| U5 trailer cards, $400 | removed | **Stays removed**, on the other grounds (9 hours, no measurable yield, his gatekeeper objection). The laundering reason falls |
+| R2, R3, R4, power-law, the shoot, the widow story | changed | **Unchanged.** Those corrections came from the record, not from the brief |
+
+**Plan A, if confirmed.** $20,000 allocated by me, $9,000 not allocated, $29,000 total.
+
+| Line | Pool | $ (E) | Justin-h (E) |
+|---|---|---|---|
+| U1, editing and packaging, in gated tranches | Q4 2026: 3 videos, $825. 2027: $8,175 | 9,000 | in the course rows below |
+| U2, booked paid shoot sessions (kit out) | Q4: $125. 2027: $875 | 1,000 | inside the course rows |
+| U3, plumbing | 2026 | 600 | 3 (Q4) |
+| U6, gated reserve | 2027, July | 3,000 | 0 |
+| L3, L4, L5, L6, L7 as in section 2 | 2026: $1,500. 2027: $4,900 | 6,400 | as in section 2 |
+| L2 interviews, F2, F4 | none | 0 | as in section 8 |
+| **Allocated by me** | 2026: $3,050. 2027: $16,950 | **20,000** | |
+| **Not allocated by me** | 2026: $3,950. 2027: $5,050 | **9,000** | |
+
+**The land: my honest hours answer, held as asked.** Paid editing changes the edit burden and not the shoot burden, and the shoot is where I said the stall would be.
+- With an editor, the irreducible Justin cost per video is script review 0.75, shoot 1.0 and Ed's comments and sign-off 0.5, which is 2.25, plus 0.25 to review the cut. **I plan on 2.5 hours a video (E, unmeasured).**
+- **My original U1 figure of 1.75 was too low.** It sat under my own irreducible 2.25. Thirty-one videos is about 78 Justin-hours, not 57, and at best about 70 even fully paid.
+- **Plan A hours:** Q4 about 24.5. 2027 about 94 if every tranche releases (about 1.8 a week), and about 46.5 if only the Q1 chapters ship. Through end 2027 that is about 71-118 hours against 164.
+- **Money buys me one thing against the stall,** a booked, cancellable shoot date, and a $125 fee is a weak commitment. The hours problem is a calendar problem, and nothing in the pot fixes it.
+- **Fundable is not the same as worth buying.** At 3.5 hours unaided, an editor saves about 1.0 hour a video, so $275 buys an hour at about $275 (E). My illustrative value of a Justin-hour is about $110 (about $220,000 book-level recurring revenue / 2,000 hours, E, replace it). So the editor is **a completion argument, not an hour-value argument:** it pays only if edit burden, not the shoot, is what stalls the course. That is testable cheaply.
+- **The Q4 design that tests it:** one batch day of four chapters. **Video 1 unaided, with its hours logged. Videos 2-4 edited, paid from the lapsing 2026 money.** Lapsing money has no other use of mine, so those three cost the practice nothing real. Justin's logged hours on 1 versus 2-4 show what the editor buys, before any 2027 dollar is committed.
+- **Original tranche gates stand:** Q2 releases only if at least 10 of the first 12 shipped within two weeks of plan and hours per video averaged 2.5 or under. Q3 releases on at least 2 traceable Step 2 requests by 30 June; Q4 on at least 4 by 30 September. Under Plan A the gate is now 2.5 hours a video, consistent with the 2.5 planning figure above.
+- **Break-even with money in.** The first 12 chapters cost about $3,675 cash (12 x $275 plus 3 sessions at $125) and about 32 hours (about $3,500 at $110): roughly $7,200, against $18,000 of three-year fees for one median household. That is about a 2-in-5 chance of landing one such household (40%), against 1-in-4 hours-only. Paying costs more in total than not paying; the case for paying is completion risk alone. If the Q4 videos are paid from lapsing 2026 money, the effective cost falls by about $950.
+- **What still stands from the hours answer:** 31 is a ceiling to be earned by tranches, not a target; twelve chapters is the first decision; the stop rule (REVISION 4, term 6) stops hours, not the asset; the near-term expectation is small (REVISION 5).
+
+**Other effects.**
+- **The solo finding is now a bound:** 40-49% of AUM solo-decision-maker, female-controlled 24-33%, because the 26 households are about 91.5% of a $22M book. My 44-47% and 26-27% are the sample points. The read in REVISION 6 does not change: the floor of 40% is large enough for the free edits, and no acquisition re-aim is justified.
+- **Economics:** $201,330 is the 26-household figure. Book-level recurring revenue is about $220,000. I use $220,000 for the hour value above. The 1.6% figure in REVISION 4 becomes about 1.5%.
+- **Facebook ads are now permitted spend,** and that is Jayme's lane. I have not touched it.
+- **For Ed, Plan A:** each video is an advertisement (Rule 204-2); the Green chapter gates on his geofence ruling; counsel and tools may now be payable from this money if the formulation reads as service spend, which is a question for the administrator, not an assumption.
+- **The 2027 "external or self-imposed" question** matters less now. It still decides two things: whether Justin's "time, never the mail budget" condition applies to perk dollars, and whether Ed's counsel and archive costs can come from here.
+
 ## 0. The short version
+
+> **Plan B from here to REVISION 12:** the fallback if Justin does not confirm the 10/01 formulation. Statements in it that "YouTube is excluded" and "U1, U2, U3, U6 are void" describe Plan B, not Plan A.
 
 1. **What this pot allows:** public workshops and networking events (including mailers, folders, room rentals), client appreciation events, and, under Justin's standing loose-reading rule, a spend that reaches a booked meeting. **What it does not:** website design, general digital lead-gen, and YouTube, which is excluded outright.
 2. **U1 ($9,000) and U2 ($2,000) are void.** So are U3's $600 (unlisted), U5's $400, U6's $3,000 and every "held" dollar. My central recommendation, spend on production and buy back Justin's hours, is void with them.
@@ -404,6 +458,8 @@ I will not claim a rule-break I cannot defend. These four lines are the cheap, a
 > **VOID 2026-10-01. There is no unrestricted money.** The $22,000 carries the same restrictions as the $7,000. Every line below is void, changed or removed, as marked above each line. Net: U1, U2, U3, U5, U6 and the $5,000 held leave the plan; U4 survives capped at two rooms (L6); U3's tools move to operating cash or lapse. See REVISION 2 and 3.
 
 > **VOID 2026-10-01.** Production, and YouTube is excluded outright from this money. Two more corrections. (1) "Chapter 1 is the class opening (founding story, the tornado)" below conflicts with the record: Justin withdrew the founding story's widow on 9/23, so Chapter 1 is the house and tornado unless he re-approves it for video. (2) "Saves ~190 h vs unaided" rests on the 8-hour unaided guess I now doubt (REVISION 1.5). The cut of ROADMAP's 3 clips a week stands, and no clips are committed now. The second playlist (decision-aids) is not committed; F4's keyword test still picks titles. A reduced version is reinstated only if the 2027 money is self-imposed and Justin lifts the exclusion (REVISION 9).
+>
+> **RESTORED, CONTINGENT (third pass).** Justin has since said YouTube is not excluded; only equipment is. See REVISION 00: U1 stands at $9,000 in gated tranches, at 2.5 Justin-hours a video (not 1.75), pending his confirmation.
 
 **U1. Production retainer: editing, packaging, clips. $9,000. Justin ~57 h (1.75 h per video, plus 3 h one-time setup). Saves ~190 h vs unaided (E).**
 - 31 long-form videos (12 weekly in Q1, then roughly every two weeks) at about $275 each, plus one clip per video. Editor rate is a search-summary range of $150-300 for a beginner and $300-800 for an intermediate on 10-20 minute long-form (grade C, fetch blocked, no quote obtained).
@@ -418,6 +474,8 @@ I will not claim a rule-break I cannot defend. These four lines are the cheap, a
 - **Kill:** hours per video above 2.5 over a quarter even with the retainer means it is not buying hours, and I stop paying it. A clean zero Step 2 requests by 30 June is a readable result, not a small-sample shrug: if the true rate were one every two months, a zero in six months is roughly a 5% event (reasoned, not measured).
 
 > **VOID 2026-10-01.** Kit, paid operator and cancellation fee are all production. The mechanism survives at $0 as a booked batch date that the Friday routine asks about (REVISION 4, term 3), and it is weaker without the fee.
+>
+> **SPLIT (third pass, contingent).** The paid, booked, cancellable shoot sessions ($1,000) are a service and are restored. The $1,000 kit is equipment and stays out. See REVISION 00.
 
 **U2. Shoot-day commitment device plus kit. $2,000. Justin: inside U1's hours.**
 - $1,000 of kit (audio, light, a stand) and eight booked shoot sessions with a paid operator at about $125 each. Four videos per session, a cancellation fee, and a date on the calendar.
@@ -426,6 +484,8 @@ I will not claim a rule-break I cannot defend. These four lines are the cheap, a
 - **Cap:** no gear spending beyond $1,000. No "studio build."
 
 > **OUT OF THE POT 2026-10-01 (unlisted).** A scheduling subscription, tracked number and URLs are not a workshop, an event or clearly a spend that reaches a booked meeting. Ask the administrator; the default is operating cash, since Calendly was already on Justin's blocking list. The 3 hours stay. Ed's ranking put tools in "2027 or general money," which assumed 2027 was unrestricted (REVISION 9).
+>
+> **RESTORED, CONTINGENT (third pass).** A subscription, phone service and URLs are services, not equipment. See REVISION 00.
 
 **U3. Attribution plumbing. $600. Justin 3 h one-time.**
 - Calendly paid tier (already on Justin's blocking list), a tracked phone number, a unique URL per placement, and a required "which video did you start with?" on the booking form. Justin builds his own Squarespace pages.
@@ -448,6 +508,8 @@ I will not claim a rule-break I cannot defend. These four lines are the cheap, a
 - **Kill:** zero course visits traceable to the card after two talks. Justin's gatekeeper preference is a live objection and his veto.
 
 > **REMOVED 2026-10-01.** Its only stated uses (a second playlist's editing, more rooms) are void or dead.
+>
+> **RESTORED, CONTINGENT (third pass).** Editing is a service, so the reserve has a use again, released in July as originally written. See REVISION 00.
 
 **U6. Gated reserve. $3,000.** Released in July only to scale what H1 data supports: more rooms, or a second playlist's editing. Never to ads. Lapses otherwise.
 
