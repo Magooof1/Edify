@@ -34,7 +34,187 @@ here skips Ed.** Items marked ⚙ are my estimates, not quotes or measurements.
 
 ---
 
-## REVISION 2 — 2026-10-01, second pass after Isla's corrections. Read this first.
+## REVISION 3 — 2026-10-01, third pass: the January drop, the closed net-fee question, the corrected pots. Read this first.
+
+**Where this section and Revision 2 disagree, this section governs.** Status unchanged:
+analysis and a plan. Nothing approved, scheduled or contacted (High Note, DRA and the perk
+administrator stay confirm-first, and every ask of them below is Justin's to make). No
+final copy. Nothing skips Ed. ⚙ marks my estimates, not quotes.
+
+### 3.1 What closed or changed (Justin, via Isla)
+
+1. **Net fee: closed.** The 1% is gross and Justin keeps all of it, no Portfolio Medics
+   split. About **$220,000/year** recurring on $22M. **Step 0.7 is closed.** Struck from
+   Revision 2: every "if he keeps half" figure (R.0 item 1's "1.3x"; R.2's "~$450K" and "1.3x";
+   R.2's flip-list item 1; the "Half the 1%" column in R.5; and R.5's claim that the old 1-2 per
+   1,000 band is the "bottom-right corner" of the break-even table). Tables 1-3 and the R.5
+   gate tables were computed at the full rate and stand. **What stays soft:** k (Step 0.8),
+   placed versus IPA (0.9), the whole-book median as a proxy, and that **no drop has yet
+   paid back**: April 2026 produced one commission and one pending prospect. The tables say
+   what a drop needs, not what one did.
+   **Break-even bookings per 5,000, whole fee, $600K median, three years** (base: cell cost
+   ÷ (k x $18,000), where $18,000 = 1% x $600K x 3 yr): at a $4,700 cell, **0.5 / 1.0 / 2.6**
+   for k = 50% / 25% / 10%; at the top of the price range ($5,530, 3.2 below), **0.6 / 1.2 /
+   3.1**. So **about 0.5 to 3 bookings per 5,000 (0.1-0.6 per 1,000)**. The old 2-per-1,000
+   bar (10 per 5,000) sits 3-20x above that. Bars stay as written in R.5.
+2. **The constraint, looser.** In: channel, media and service spend (mail, FB ads, rooms,
+   appreciation, an editor's labour). Out: capital equipment and website *design*. Digital
+   lead-gen is fine and Justin builds pages himself, so my response path costs service money
+   only. **R.4's strict/loose-only classification is moot** and so are its "depends on who
+   administers 2027" caveats (administered perk/co-op money, constraint on what is bought).
+   Flag D (website design versus the response path) is resolved.
+3. **The pots.** 2026: **$7,000** (spring spent). 2027: **$22,000 including next spring's
+   mailer**, so about **$9,000 discretionary** after the spring mailer ($10,000 ⚙) and the
+   approved shoot ($3,000 ⚙). My U5a/U5b reserves ($11,700) are over by $2,700 and are
+   withdrawn as standing lines (3.4).
+4. **Timing: a January drop, 2026 expense.** Test of Isla's idea that it is "that card,
+   retimed, not a new line of spend": **yes on money, no on readiness** (3.3).
+
+### 3.2 Two errors of mine, caught on this pass
+
+- **My "kill date" was the wrong date.** R.4 said gates not clear by Dec 5 means nothing
+  mails. Dec 5 was the *mail* date. The gate is the **print order**, about 25 days earlier
+  (⚙ lead, High Note unverified). Under the December timing that is **about Nov 9**, not Dec 5.
+- **I priced R1 as a flat card and the piece is not one.** $0.55/piece (⚙) rests on the
+  record's card print of $0.135-0.163. `mirror-card-v2.md` is Ed's four-panel bi-fold
+  (cover / questions / scoring+CTA / disclosures), and the record's one folded print figure is
+  $0.331/piece. Range for 5,000 pieces, all-in with $1,750 fixed and ~$0.385 postage (April
+  actual $0.365 plus ~5.5% July change; second-hand): **$4,425 flat to $5,330 folded**, plus
+  $200 devices. I did not catch it in R.4 because I priced a name ("card") rather than the object.
+
+### 3.3 The card is not finished. Four things to do whatever the month
+
+1. **The cover fails my own check as it stands.** "Two Minutes. Five Questions. Your Own Money,
+   In Your Own Words." names an instrument, not a payoff, and says "money," not retirement.
+   I recommended R1 in Revision 2 without running the cover check on it. A check I run on
+   pieces I write and skip on pieces I inherit is the failure class 5 describes.
+2. **The CTA is the wrong offer.** The card promises a twenty-minute conversation. The visit
+   (an hour, Crestview Hills, the policy note, the Calendly page) is the offer R1 names, and
+   the only one with a note drafted. The card must be re-pointed to the visit.
+3. **Its disclosure panel is the superseded Variant A,** not Block A (canonical, 2026-09-22).
+4. **"It's just you and Justin"** (booking confirmation) is solo-coded. If couples attend
+   together in practice, it is untrue for them and the note should say what happens. Ed's
+   and Justin's call; I flag it because 51-60% of AUM is not solo-decision-maker.
+
+### 3.4 Revised tables (one stated base each)
+
+**2026. Base: $7,000 pot; invoice dated and paid by Dec 31; 5,000 pieces; ⚙ $1,750 fixed +
+per-piece print and postage; devices ⚙ $200.**
+
+| Line | $ | Owner | Release / note |
+|---|---|---|---|
+| January card, 5,000 pieces (flat-card pricing) | 4,500 | Jayme | Print order Dec 4 |
+| Response devices: tracked number, vanity URL, QR, seed addresses | 200 | | With the card |
+| Q4 batch day, three chapters edited | 1,500 | Sloan | **Before Nov 15**; independent of January |
+| Format-price overrun reserve | 800 | | Covers a folded format to within ~$30 ($5,530). If High Note quotes at or under $4,700 all-in: leftover goes to Sloan's line by Dec 11 or lapses. **Not converted to extra pieces**: January plus spring already needs ~19,400 households (below) |
+| **Total** | **7,000** | | |
+
+**2027. Base: $22,000 pot, spring mailer inside it; ⚙ prices; 5,000 / 4,700 / 4,700 pieces.**
+
+| Line | $ | Status |
+|---|---|---|
+| Spring card, T1 (5,000 pieces, fixed cost and device included) | 4,600 | Committed on the gates; order Feb 5 |
+| Spring card, T2 + T3 (~4,700 pieces each, devices included) | 5,400 | **Conditional** on the pooled rule (same piece only) |
+| Photo shoot | 3,000 ⚙ | Approved 2026-08-25. Ed's cap check on the quote (his item 6, [INFERRED]) |
+| Discretionary | 9,000 | Decided by Sloan's Q4 test: editor retainer or Taleb's held pool |
+| **Total** | **22,000** | |
+
+- **My standing claim on the $9,000: none.** U5a (dislocation drop, ~$7,250-7,500) is
+  withdrawn as my line; it is one permitted use inside Taleb's held pool if its Justin-set
+  trigger fires. U5b (scale tranche, up to ~$4,200 for ~7,600 pieces) survives only as a
+  named conditional: pooled count of 15 or more bookings across 15,000 pieces (1.0 per 1,000).
+- **The reconciliation's "binary" is softer in one direction.** It is $9,000 if T1-T3 all run
+  and **up to $14,400 if T2/T3 halt** (their $5,400 returns to the pot), so a retainer and a
+  held pool could both fit. Whether unspent 2027 money carries over is unknown; if it does
+  not, a halted T2/T3 must be re-homed by a stated date (Jun 1), not lapse quietly.
+  "One mailer per spring" is Justin's policy and staging it is a proposal to him.
+- **Households.** January 5,000 + spring 14,400 = ~19,400 distinct households against a DRA
+  in-band count nobody has (open number (a)). If the count is smaller, spring widens radius
+  inside OH/KY or re-mails inside three months. DRA count due Oct 23.
+
+### 3.5 The working-back calendar (anchor: USPS entry Tue Dec 29; in homes ~Jan 4-12)
+
+**L** = lead time (starts now, runs parallel to ideation, not a brake). **J** = judgment
+(comes last, per the 2026-10-01 rule). Order-to-entry **25 days is my assumption, unverified**
+(Taleb's Oct 26 lapse implies about 14; High Note will say, via Justin).
+
+| Date | Step | Type |
+|---|---|---|
+| Thu Oct 1 | Mailbox log starts: every retirement, advisor, insurance and tax piece reaching 5-6 addresses inside the DRA ZIPs, photographed and dated, through January | L |
+| Fri Oct 9 | Justin answers Ed's eight-question answer sheet and checks the Calendly tier; the one Portfolio Medics/counsel email goes (Ed drafts); DRA call; Jayme delivers cover concepts | L, J |
+| Fri Oct 16 | **No-pitch note signed, dated, filed in Trulip's 204-2 file.** Perk administrator answers in writing. Justin confirms and asks High Note (formats, lead, December billing). Justin picks at most two covers | L, J |
+| Fri Oct 23 | Calendly configured; DRA counts back; Jayme's full piece, QR-page copy and booking description in draft | L, J |
+| Oct 26-30 | Three-second test, 6-8 people. High Note reply due. Ed redlines the booking page against the signed note; page snapshot logged Oct 30 | L, J |
+| Mon Nov 2 | Whole package to Ed (card, QR page, booking description, confirmation email) | J |
+| **Fri Nov 6** | **Tripwire:** note unsigned or Calendly unconfigured means fallback prep starts in parallel (Sloan's last-order date); creative continues | |
+| Fri Nov 13 | Ed's flags back; piece count set | J |
+| Fri Nov 20 | Revisions done; Ed's pre-flight complete on final art | J |
+| Wed Nov 25 | **Justin's sign-off** (Thanksgiving is Nov 26) | J |
+| **Fri Dec 4** | **KILL DATE = print order.** December invoice requested; list pulled | gate |
+| Mon-Tue Dec 7-8 | Printer proof; Ed 15-minute "matches cleared art"; Justin approves the proof | J |
+| Wed Dec 9 / Tue Dec 15 | Press / printed pieces at the mail house | |
+| Fri Dec 11 | Absolute backstop, **only if High Note confirms in writing 12 business days or less** | |
+| Fri Dec 18 | Invoice dated and paid, all 2026. Tue Dec 22: mail-house pre-flight, seed addresses in the file | |
+| **Tue Dec 29** | **USPS entry** (Mon Dec 28 alternate) | |
+| Thu Dec 31 | Hard backstop for any 2026 invoice | |
+| Jan 4-12 | Expected in-home (3-10 day standard; Jan 1 and Jan 18 no delivery; holiday slip to Jan 15 plausible). Seeds report real dates | |
+| Tue Feb 2 | **First read**: bookings by link, Stage 3, calls, unsourced share. Fri Feb 5: spring T1 order. Tue Feb 23: tail read. Cost per client: Apr-Jul, after the T2/T3 orders | |
+
+**Runway bought:** **39 days** over Taleb's Oct 26 lapse; **25 days** over the December
+timing (Nov 9). On my 25-day lead, Taleb's Nov 9 in-homes needed an order about Oct 5-11,
+which is this week or already gone. **The runway is not the binding term.** The gates are
+about 2-2.5 hours of Justin's time and a week of Ed's, and the note has been on his list four
+times. More runway makes a fifth slip cheaper, which is why the calendar carries Oct 16 and
+Nov 6 tripwires ahead of the kill date. **Fallback** (the whole $7,000 into the batch day plus
+an appreciation event) needs its own lead time: **kill date = the earlier of Dec 4 and
+Sloan's last-order date minus three days.** I have not asked her.
+
+**Later in-home option (Jan 19-29, nearer the statements and 1099s):** needs the mail house to
+bill postage in December (~$1,925 ⚙ of the cell). Only if High Note says so in writing;
+otherwise that postage is a 2027 expense.
+
+### 3.6 Does January help or hurt? Verdict, and what the January piece says
+
+**Verdict: January over December, on logistics and money, not on response.** Competitor mail
+volume, January versus April, in this market: **unverified, nobody has collected one piece.**
+What exists: USPS Marketing Mail Q2 FY25 (Jan-Mar) 13.03B pieces against Q3 (Apr-Jun) 13.56B,
+all advertisers, quarterly (C, release via search summary); vendor copy saying January is
+best for financial planners with no data cited (D/E, sellers of mail); Mintel on investment/IRA
+mail peaking Jan-Mar, 2010 (C/D, stale). If the vendor advice is as uniform as it looks,
+January may be *more* crowded with advisor mail, not less. The mailbox log is the fix, and it
+reads Oct-Dec by Dec 4 but cannot read April.
+
+**Not "New Year New You."** That is the aspiration crowd, and the vendor case for January is
+the same frame. The January reader holds paper she did not choose (year-end statements; 1099-R
+due Feb 1, 1099-B Feb 16 since Feb 15 is Presidents' Day; IRS dates via search summary). The
+piece promises **knowing, not changing**, and asks no resolution. **Recommended cover:**
+*"Your year-end statement shows what you have. It can't show if anything's missing."* /
+*"Five questions. Two minutes. A look at your own retirement money. No product, no pitch."*
+Cover check, both halves: payoff on the same panel (a look at your own retirement money, free);
+subject named with the logo covered (year-end statement, retirement money). **Alternate:**
+*"No resolutions. Just a straight look at where your retirement money stands."* Barred and
+absent: any deadline or "before April 15," "most people," a performance recap, "your statement
+shows." One reader, "you." **Unverified:** statements arrive mid-to-late January and the mail
+lands before many of them; the e-statement share of 54-64 households. The "missing" line is the
+one Ed should read hardest (it must state a fact about statements, not insinuate about the reader).
+
+**Cell size and gates.** 5,000 holds, unchanged: January moves the rate, not the Poisson
+arithmetic. A January read has an unknown seasonal multiplier, so it is **a baseline, not a
+transferable rate**; the R.5 gate table stands. The pooled rule (R1 + T1) is valid **only if
+the cover is the same piece.** One piece, one reader, no split. The only kill the cell can deliver alone is zero
+at Stage 3 and zero bookings with the seed addresses confirming delivery: change the cover
+once, rerun in a normal month.
+
+**Meta and Edify's missing legal existence.** On record already (`ROADMAP.md`, Next up;
+Ed's section 4): business verification under Trulip Planning, LLC, which holds the brand and
+has documents, with a rename or DBA field to reconcile "Edify." Verification takes 2+ weeks and
+has been parked since 09-18. Flagged, not solved. My section 5 reasons against Meta (no age or ZIP
+targeting under the Special Ad Category) are about targeting and the new money does not touch
+them: no dollar earmarked until the entity question is answered.
+
+---
+
+## REVISION 2 — 2026-10-01, second pass after Isla's corrections. (Revision 3 above governs where they disagree.)
 
 **How the file works now.** The first-pass text below is left in place. Where a corrected
 fact or a dead premise touches a line, that line carries a **[REVISED 2026-10-01]** note
@@ -135,7 +315,8 @@ with 2.7x room and the second with 1.3x. **Size is not the binding term; the cos
 is: ~$18,000 per household at the median, which is ~$12,000 per person-unit.**
 
 **What can flip it, ranked by how much it moves the answer:**
-1. **Net fee.** If half the 1% reaches Justin, every figure in Tables 1-2 doubles. Unknown.
+1. **Net fee.** ~~If half the 1% reaches Justin, every figure in Tables 1-2 doubles. Unknown.~~
+   **[CLOSED 2026-10-01, Revision 3: gross, all Justin's. Tables 1-2 stand at the full rate.]**
 2. **Placed AUM versus list IPA.** The list floor is $250K IPA; the book median is what was
    *placed*. A $250K-IPA household that places $150K breaks even at the top price only on a
    five-year view. Unknown for cold-booked households.
@@ -748,8 +929,9 @@ for a bought shot. Sloan's lane, Justin's call.
 > 54-64, $250K+, in-radius. **0.4 and 0.5: unchanged**, and 0.5 gains two questions: who
 > administers the 2027 money, and does unspent 2027 money carry over. **0.6: ANSWERED** by
 > Justin 2026-10-01 (R.2). **New, in order of how much they move the answer:**
-> - **0.7** What share of the 1% reaches Justin and Trulip after Portfolio Medics' split
->   and platform costs? Every break-even in R.2 and R.5 turns on this.
+> - **0.7** **[CLOSED 2026-10-01, Revision 3: the 1% is gross and Justin keeps all of it.]**
+>   ~~What share of the 1% reaches Justin and Trulip after Portfolio Medics' split
+>   and platform costs? Every break-even in R.2 and R.5 turns on this.~~
 > - **0.8** Of first meetings held in the last two years, from any door, how many became
 >   clients? Count only. This replaces the n=2 Harrison figure and is **k**.
 > - **0.9** At first meetings, roughly what share of a household's stated investable assets

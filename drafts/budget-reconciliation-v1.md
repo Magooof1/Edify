@@ -108,3 +108,94 @@ should be checked before any dollar is earmarked.
    doubles in horizon if he keeps half.
 
 **⚙ = Isla's or a director's estimate, not a quote.**
+
+---
+
+# REVISION 2 — 2026-10-01 (later). The January slot, and one claim of mine that was wrong.
+
+**Governs where it disagrees with the text above.** Sources: `drafts/january-slot-taleb-position.md`
+and Jayme's Revision 3 in `drafts/clean-slate-29k-jayme.md`.
+
+## The claim of mine that was wrong
+
+I wrote that a January drop "can simply **be** that card, retimed — not a new line of spend."
+**Jayme: "true on money, false on readiness."** The card needs four fixes whatever the month,
+and two are his own:
+
+1. **The cover fails his own cover check** — "Two Minutes. Five Questions. Your Own Money, In
+   Your Own Words." names an instrument, not a payoff, and says "money," not retirement. He
+   recommended it in Revision 2 without running the check on an inherited piece.
+2. **The CTA is the wrong offer** — it promises a 20-minute conversation; the offer with a
+   policy note behind it is the hour-long visit.
+3. **The disclosure panel is the superseded Variant A**, not canonical Block A.
+4. **"It's just you and Justin"** in the booking confirmation is solo-coded and untrue for a
+   couple who attend together.
+
+## Take January — and the two directors disagree about why
+
+- **Taleb:** take it for **runway** (about six weeks) and to clear the election and holiday
+  mailbox.
+- **Jayme:** **"The runway is not the constraint."** The gates are ~2–2.5 hours of Justin's
+  time plus about a week of Ed's. **The no-pitch note has been on his list four times.** More
+  runway just makes a fifth slip cheaper.
+
+**Isla's call: both are right and Jayme's reason is the load-bearing one.** Runway does not
+*solve* a gate measured in hours, but it converts a hard deadline into a soft one — which is
+worth having precisely *because* the note has slipped four times. **Take January as slip
+insurance, not as a seasonal experiment.** Jayme's tripwires do the work the runway can't.
+
+## Converged independently, so act on it
+
+**Both recommend a later-January in-home — Taleb the week of 18 Jan, Jayme 19–29 Jan —** on
+the same reasoning: **1099-R is due ~1 Feb and 1099-B ~16 Feb**, so a first-week-of-January
+drop lands *before* the documents it refers to. **Contingent on High Note billing the ~$1,925
+of postage in December**, in writing; otherwise that postage is a 2027 expense and the entry
+date moves back to ~29 Dec.
+
+## The calendar, and the kill date
+
+**Print order Friday 4 December is the kill date** — not the mail date. Jayme caught his own
+error here: his earlier 5 Dec kill was the *mail* date, and the gate sits ~25 days earlier.
+His 25-day print-to-entry lead is **his estimate, not a quote**, and High Note must confirm.
+
+**Dated asks that only Justin can clear:**
+
+| By | What |
+|---|---|
+| **Today** | **Mailbox log starts.** Photograph and date every retirement/advisor/insurance/tax piece reaching 5–6 addresses in the DRA ZIPs. Free, and the only way to read competitor volume — though it reads Oct–Dec by 4 Dec and **cannot read April**. |
+| **Fri 9 Oct** | Ed's eight-question answer sheet; check the Calendly tier; the one Portfolio Medics/counsel email goes; DRA call. |
+| **Fri 16 Oct** | **No-pitch note signed, dated, filed.** Perk administrator answers **in writing**. High Note asked about formats, December lead time and December billing. |
+| **Fri 6 Nov** | Tripwire: note unsigned or Calendly unconfigured → fallback prep starts in parallel. |
+| **Fri 4 Dec** | **Print order. Kill date.** |
+
+## Corrections to my own numbers
+
+- **My $800 flex has a job I didn't know about.** Jayme priced a name instead of an object: the
+  $0.55/piece assumed a *flat* card, but `mirror-card-v2.md` is a four-panel bi-fold. All-in at
+  5,000 pieces runs **$4,425 flat to $5,330 folded** — so the flex is an **overrun reserve, not
+  extra pieces**, and it covers the folded case to within about $30.
+- **My "binary" was too clean.** The 2027 discretionary pot is $9,000 **if spring T1–T3 all
+  run, and up to $14,400 if T2/T3 halt** — so a retainer *and* a held pool could both fit.
+- **Jayme withdrew his dislocation drop** as his own line, conceding it is one use inside
+  Taleb's held pool. That settles the Jayme/Taleb reserve conflict in Taleb's favour, as called.
+
+## New problem nobody had surfaced
+
+**January's 5,000 plus spring's up to 14,400 is ~19,400 distinct households.** The DRA in-band
+count — still unobtained — **may be smaller**, in which case spring must widen the radius inside
+OH/KY or re-mail the same households inside three months. **The DRA call is now on the critical
+path, not a nice-to-have.**
+
+## Jayme's cover, and it is the first copy this week that passes both halves of the check
+
+> **"Your year-end statement shows what you have. It can't show if anything's missing."**
+> *Five questions. Two minutes. A look at your own retirement money. No product, no pitch.*
+
+Payoff on the same panel; subject nameable with the logo covered. **Isla's note for Ed: the
+"missing" line must state a fact about statements, not insinuate about the reader.**
+
+## And one more of mine: the January-trigger idea was already on record
+
+Jayme's pre-flight caught it. **Taleb had already proposed a small January cell timed to
+statement season** — `non-class-segment-thesis-v1.md`, item 2b, at 2,000 pieces. I elaborated
+it as new. **Pre-flight question 6, again.**
