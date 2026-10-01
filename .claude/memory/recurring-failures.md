@@ -68,6 +68,20 @@ auditing the reasoning that number sits in. Question 5 widened in `CLAUDE.md` to
 one-stated-base rule. Correction and corrected decision:
 `drafts/offer-options-and-ranking.md`, "CORRECTION TO LEVERS 2 AND 3."
 
+**8. Asserting the shape of data without having the data.** Added 2026-10-01. Isla
+characterised the practice's value as **power-law distributed** — two households
+dominating — and pushed that premise into all four $29K clean-slate briefs, where it
+shaped every spend plan returned. When Justin supplied the actual book, the distribution
+was ordinary: no household dominates the sample, and the household the briefs treated as
+a large client **is a prospect, not a client.** **Taleb and Jayme both flagged the premise
+as unverified before any money moved, and that check is the only reason nothing was spent
+on it.** Pre-flight question 5 had already been widened to cover facts and arithmetic, but
+a *characterisation of a distribution* is neither, so it passed. Widened again in
+`CLAUDE.md` to cover the shape of data. **Related, same date:** Isla read household size
+by acquisition door three times at three sample sizes and got three different answers,
+then reported each as a finding. That metric is now retired at this n. See
+`.claude/memory/growth-channels.md`, 2026-10-01.
+
 **6. Re-deriving something already on record.** Isla theorised about format crowding
 before reading the 2026-08-25 entry that already established it (corroborated by two
 other advisors). See `growth-channels.md`, 2026-08-25. **Two more instances, 2026-09-29,

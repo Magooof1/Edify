@@ -269,7 +269,11 @@ drawn from a failure that actually happened here, not invented:
    baseline and multiples of it, **they must come off one stated base, and the base must
    be named in the table.** *(Isla's three-lever table used one base for the flat row
    and a different one for the multipliers. Vannevar caught it while filing it, not
-   Isla while writing it.)*
+   Isla while writing it.)* **Widened again 2026-10-01: it also covers the shape of a
+   distribution, not just single facts and arithmetic.** Isla characterised the book as
+   power-law distributed and pushed that premise into four spend-plan briefs **without
+   ever having seen the distribution.** First-party data falsified it. A claim about how
+   data is shaped is an assertion of fact and needs the data, not an intuition.
 
 6. **Already on record?** Before asserting a finding, a count or a diagnosis as new —
    has it been answered already, in `.claude/memory/`, in `ROADMAP.md`, or in a draft?

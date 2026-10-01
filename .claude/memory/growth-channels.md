@@ -1527,3 +1527,131 @@ Other cross-references, no conflicts: the 54-64 pull narrows the 50-65 age selec
 2026-09-19 (a decision, not a contradiction); DRA floor/ceiling and 10-mile radius,
 2026-09-23; High Note and DRA vendor detail, partners-venues.md. Nothing about real
 clients. `ROADMAP.md` not touched — whether these belong there is Isla's/Justin's call.
+
+---
+
+## 2026-10-01 — Why the 2021 vintage dominates: "If things aren't broken why move" (Justin). The mechanism nothing else supplied.
+
+**Data handling, recorded first.** This entry holds **year-level shares of AUM acquired
+and segment-level shares only.** The household-by-household roster Justin supplied in
+conversation was computed in a scratchpad and **is not stored anywhere in this
+repository.** Whether to keep that roster at all is Justin's separate decision, and if
+kept it belongs in Trulip's own file, not here (this repo is pushed to GitHub, and a
+roster of this size is re-identifiable even without names). Per-household figures, and
+any amount tied to a household, were deliberately left out of this entry.
+
+**Basis for every number below:** a **partial, AUM-only sample of 26 households.**
+Shares are of sampled AUM, not of the whole book. Years are the year AUM was acquired.
+
+### 1. The finding, in Justin's words
+
+> **"I think '21 could either be us being early in marketing classes in the area or
+> probably more realistically market turmoil. If things aren't broken why move."**
+
+**"If things aren't broken why move" is the load-bearing sentence.** The trigger for a
+household moving money is **its own picture looking visibly broken** — not education,
+not a class, not a mailer. 2021 follows a roughly 34% drawdown over about 33 days in
+early 2020, plus a pandemic. (Market figures are approximate, Isla's, not sourced by
+Vannevar.)
+
+### 2. The vintage concentration
+
+Share of sampled AUM by year acquired:
+
+| Acquisition year | Share of sampled AUM |
+|---|---|
+| 2018 | 3% |
+| 2019 | 7% |
+| **2021** | **45%** |
+| 2022 | 5% |
+| 2023 | 5% |
+| 2024 | 2% |
+| Year unknown | 32% |
+
+**2022, 2023 and 2024 combined: 12%, against 2021's 45%.** The concentration in this
+practice is **a vintage, not a household.** (Rounds to 99%; years not listed were not
+supplied, so they are not recorded as zero.)
+
+### 3. The hole in the hypothesis — recorded so nobody leans on it too hard
+
+2022 was also a down year (roughly -19%, with bonds falling too). If turmoil alone drove
+behaviour, 2023 should show a bump. **It does not.** What 2020 had that 2022 did not was
+**speed and fear, not magnitude.** Justin's alternative — being early in the area before
+the category filled — is already on record (2026-08-25, "Saturation cause," corroborated
+by two other advisors). **Both are probably doing some of the work, and they are hard to
+separate** at this sample.
+
+### 4. The consequence, and the reason to record this at all
+
+Both candidate explanations are **outside Justin's control, and neither is a creative
+problem.** No mailer recovers a market condition or an eroded first-mover position.
+**Isla's count: the fifth independent arrival at the conclusion the land decision came
+from, and the strongest, because it explains the vintage concentration rather than only
+the unit decline.** Cross-references: 2026-09-25 "RESOLVED: the land is YouTube, scoped
+local," and 2026-09-28 "What the three add up to" (the fourth route; the 2026-09-28
+Lever decisions stand, nothing here reopens them).
+
+**Strategic posture that follows. Isla's reasoning, not a decision:**
+- **Growth rate is substantially a function of market conditions rather than marketing
+  spend.** Buying attention in a calm market buys it at the worst price; the better
+  posture is being **findable and ready when the next dislocation arrives.**
+- A durable always-on asset costs nothing per impression. Mail must be bought fresh,
+  takes about eight weeks, and is least productive in calm markets.
+- **The $7,000 restricted perk:** use-it-or-lose-it pressure is pushing spend into the
+  least productive conditions. Client appreciation is also an allowed use (see "The
+  remaining $7,000 (2026)," above, including the 2026-09-19 standing loose-reading rule)
+  and is indifferent to market conditions. **Flagged as Isla's recommendation, not a
+  decision. Justin has not ruled on it.**
+
+### 5. Two corrections of Isla's — recorded so they are not re-quoted
+
+Both were Isla's and both propagated.
+- **The power-law premise is dead.** Isla asserted that value here is power-law
+  distributed and pushed it into all four $29K briefs. **The realized book does not look
+  like that:** at n=26 no single household dominates the sample, and the household the
+  briefs treated as the second large client **is not a client at all; it is a prospect
+  retiring next year.** That invalidates Taleb's "two households carry most of the book"
+  concentration claim (`drafts/clean-slate-29k-taleb.md`, section 1) and the
+  retention-first case built on it. **Taleb and Jayme both flagged the premise as
+  unverified before money moved.** Do not quote the premise, the claim or the case.
+- **Household size by door is retired as a metric.** Isla read it three times at three
+  sample sizes and got three different answers. **Instruction: do not read size by door
+  at this sample size.** What survived every tranche: **roughly a quarter to a third of
+  AUM arrived with no marketing spend at all, and that share grew as data came in.**
+
+### 6. Two segment findings that never moved across three tranches
+
+- **Solo decision-maker households: about 44-47% of AUM.**
+- **Female-controlled households: about 26-27% of AUM.**
+
+**Justin's correction to Isla's reading.** Isla treated the married-woman-only cases as
+split households whose husband's assets might be captured. Justin: **"Don't look at the
+spouses as opportunity even the ones that are married. The men don't have any."** She is
+not one of two decision-makers; she is the household's entire financial picture.
+**Every creative asset in this project addresses a couple jointly. That is a gap, not
+yet an instruction.** Nobody has been told to change anything.
+
+### 7. Class frequency was budget-constrained, not demand-constrained
+
+Justin ran two classes in some years and one in others **"due to budget."** That answers
+a question the team kept asking. He also ran two classes in years other than 2021, which
+**kills the "2021 was the year with the most rooms" support Isla offered. Do not revive
+it.**
+
+### Vannevar's flags — for Isla/Justin, not resolved here
+
+- **"Fifth independent" is only partly independent.** The first-mover/crowding half of
+  Justin's explanation is the 2026-08-25 finding, which is also the first of the four
+  routes counted on 2026-09-28. The market-conditions half is new. Isla's count, left as
+  she gave it.
+- **The 2026-08-25 "Resolved" label on crowding** (see "Saturation cause," and "Resolved
+  (2026-08-25): why the college-class channel is saturating") now sits beside a second
+  candidate, market conditions, for the vintage concentration. The label is unchanged;
+  whether it should be restated is not a curator's call.
+- **Different bases, do not cross-quote.** The "~$6M from the 2021 class" figure
+  (units from one mailed class) and "2021 = 45% of sampled AUM" (acquisition year, 26
+  households, partial) measure different things.
+- **Sample caution.** n=26, AUM-only, 32% of AUM with unknown acquisition year. Every
+  share above can move materially once the unknowns are dated.
+- **Source:** Justin's quotes and corrections are his; analysis, the posture and the
+  count are Isla's. Roster not stored. No individually identifying client data entered.
