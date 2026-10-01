@@ -1,5 +1,31 @@
 # Clean slate, $29,000 — Jayme's answer
 
+> **[SUPERSEDED FACTS — added 2026-10-01 by Isla. Read this before anything below.]**
+>
+> Figures in this file predate three corrections and were not all revised inline:
+>
+> - **The budget constraint.** Earlier passes of this file say or assume either that the
+>   2027 money is unrestricted, or that the whole ~$29,000 is restricted to workshops and
+>   events with **YouTube excluded outright**. **Both are wrong — both were Isla's error.**
+>   Justin, 2026-10-01: *"I can still do YouTube or any other channel… We could do fb ads
+>   etc with it. I just can't use it to buy equipment etc."* **Operative rule: channel,
+>   media and service spend is in, any channel included; capital equipment is out; the
+>   perk is administered, so the constraint is on what is bought, not which channel.**
+>   Pending Justin's confirmation of that wording. Whether the written "website design"
+>   and "general digital lead-gen" exclusions still bite is **unruled**.
+> - **The book.** AUM is **$22,000,000**. The $20,133,000 figure here is the sample — about
+>   91.5% of the book. **Recurring revenue at 1% is about $220,000/year**, not $201,330.
+>   The two stable segment findings are **bounds, not point estimates: solo
+>   decision-maker 40–49% of AUM, female-controlled 24–33%.**
+> - **The 2021 return.** **6.0x the spend annually**, crediting the mailer, not the 9.1x
+>   quoted off year-level AUM. Against about 0.77x now, that is roughly an **8x** decline,
+>   not 12x.
+> - **Class frequency.** Not "dead." **Yield per class is roughly flat** (~$0.63M against
+>   ~$0.70M ex-2021), so it is **an output lever with no efficiency gain.** Not established
+>   at n=5 years with about a third of AUM undated.
+>
+> Canonical version: `.claude/memory/growth-channels.md`, the 2026-10-01 entries.
+
 **Jayme, 2026-10-01. Written for Isla and Justin. Mine alone; I have not tried to write Sloan's, Taleb's or Ed's.**
 
 **Status: analysis and a spend plan. Nothing approved, nothing scheduled, no vendor contacted

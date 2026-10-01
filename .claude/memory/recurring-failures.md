@@ -97,6 +97,16 @@ while filing. **What survived was the structural point: three-year break-even ne
 about $333,000 of AUM.** New pre-flight question 7 in `CLAUDE.md`: state the weakest
 actionable reading, not the strongest defensible one.
 
+**Correction to class 10, 2026-10-01, by Isla about her own account of it.** Vannevar
+flagged that the file does not support Isla's description of herself as having been
+"wrong in both directions" on the perk, and he is right. **The record shows strict-reading
+assertions only — 2026-09-12, 2026-09-19 and 2026-10-01.** The earlier error was not a
+loose reading of the perk's rules; it was a **category error about which pot the money came
+from** (treating the 2027 figure as Justin's own 10-bp budget rather than administered perk
+money). "Wrong in both directions" sounds like balanced error and flattered the account.
+**The accurate version: one category error, then a third instance of the same
+strict-reading failure that already had a standing rule written against it.**
+
 **6. Re-deriving something already on record.** Isla theorised about format crowding
 before reading the 2026-08-25 entry that already established it (corroborated by two
 other advisors). See `growth-channels.md`, 2026-08-25. **Two more instances, 2026-09-29,
