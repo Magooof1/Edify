@@ -283,6 +283,15 @@ drawn from a failure that actually happened here, not invented:
    "attendance, not class-ness" as a reframe; it is the record's own 2026-08-25
    diagnosis. Both caught by agents, neither by Isla.)*
 
+7. **Strongest or weakest reading?** When a new number permits a range of conclusions,
+   **state the weakest reading that is still actionable — not the strongest one that is
+   still defensible.** *(Added 2026-10-01 after four consecutive instances in one
+   session: non-class households look larger (n=2, washed out); household size by door
+   (three samples, three answers); class frequency declared dead (a weak positive signal
+   excluding 2021); and "mail pays back in 15.5 months," which priced a hypothetical
+   mean-size client when the actual drop had produced a one-time commission and a
+   pending prospect. Every one was the strongest defensible reading of a small sample.)*
+
 **And the rule that keeps this list alive:** when a check misses something it should have
 caught, **widen the check** — don't just fix the instance. A check scoped to the last
 failure catches only the last failure. Full history in

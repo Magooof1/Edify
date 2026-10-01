@@ -82,6 +82,21 @@ by acquisition door three times at three sample sizes and got three different an
 then reported each as a finding. That metric is now retired at this n. See
 `.claude/memory/growth-channels.md`, 2026-10-01.
 
+**9. Taking the strongest defensible reading of a small sample.** Added 2026-10-01, and
+it is the session's dominant pattern rather than an incident — **four instances in one
+day, each one corrected by the next tranche of data or by an agent.** (a) Non-class
+households looked larger at n=2 and washed out by n=5. (b) Household size by acquisition
+door read three ways at three sample sizes; retired. (c) Class frequency declared dead on
+"a one-class year beat a two-class year," when excluding 2021 the two-class years average
+roughly $1.26M against $0.70M — a weak positive signal, not a dead lever. (d) **The worst
+one: "mail pays back in 15.5 months," given to Justin as a headline reversal.** It priced
+a hypothetical mean-size client. The actual April 2026 drop produced one dead lead, one
+commission-only annuity (~$6,000 one-time, no AUM) and **one pending ~$1M prospect that
+may not close** — so that drop is currently underwater and contingent. Vannevar caught it
+while filing. **What survived was the structural point: three-year break-even needs only
+about $333,000 of AUM.** New pre-flight question 7 in `CLAUDE.md`: state the weakest
+actionable reading, not the strongest defensible one.
+
 **6. Re-deriving something already on record.** Isla theorised about format crowding
 before reading the 2026-08-25 entry that already established it (corroborated by two
 other advisors). See `growth-channels.md`, 2026-08-25. **Two more instances, 2026-09-29,

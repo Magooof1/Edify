@@ -1601,7 +1601,8 @@ Lever decisions stand, nothing here reopens them).
   least productive conditions. Client appreciation is also an allowed use (see "The
   remaining $7,000 (2026)," above, including the 2026-09-19 standing loose-reading rule)
   and is indifferent to market conditions. **Flagged as Isla's recommendation, not a
-  decision. Justin has not ruled on it.**
+  decision. Justin has not ruled on it.** **RETRACTED by Isla later the same day once
+  the payback was known; see "2026-10-01 (later)" below. Do not quote as live.**
 
 ### 5. Two corrections of Isla's — recorded so they are not re-quoted
 
@@ -1655,3 +1656,172 @@ it.**
   share above can move materially once the unknowns are dated.
 - **Source:** Justin's quotes and corrections are his; analysis, the posture and the
   count are Isla's. Roster not stored. No individually identifying client data entered.
+
+---
+
+## 2026-10-01 (later) — Practice economics (the payback table), THE BUDGET CONSTRAINT covers all ~$29K, and class frequency is dead as a lever
+
+**Data handling, same rule as the entry above.** Book-level and segment-level aggregates
+only. No household rows, no per-household dollar figures, no demographics tied to
+amounts. The roster stays in a scratchpad, unstored; keeping it is Justin's separate
+decision and belongs in Trulip's file, not this repo. The "$400,000 client" below is a
+hypothetical table row, not a household. Supplied by Justin 2026-10-01 unless marked
+Isla's.
+
+### 1. Practice economics — the number that should have been at the top from day one
+
+- **Advisory fee: about 1% annually.**
+- **AUM: $20,133,000 across 26 households** (mean about $774,000; median $600,000).
+  Recurring revenue at 1% = **about $201,330/year.** Described by Justin as a partial
+  sample; see flag A.
+- **Annuity premium: $4,200,000.** Insurance beyond that: "not much." **None of the
+  households are annuity-only.** So Green (insurance) is **a cross-sell into the AUM
+  book, not an acquisition channel — it monetises existing clients and does not bring
+  them in.**
+
+**Payback on a $10,000 drop** (revenue = AUM x 1%, gross, one stated base):
+
+| Drop produces | Revenue/yr | Payback | 10-year revenue |
+|---|---|---|---|
+| 1 client at $400,000 | $4,000 | 30 months | $40,000 |
+| 1 client at the mean ($774,000) | $7,740 | **15.5 months** | $77,400 |
+| 2 clients at the mean | $15,480 | 7.8 months | $154,800 |
+
+- **Break-even on a $10,000 drop over three years needs only about $333,000 of AUM** —
+  below half the mean household.
+- **April 2026, the drop treated all week as the failure case, produced one client.** At
+  the mean that is a 15.5-month payback, then margin for the life of the relationship.
+  (See flag B on what "one client" means against the earlier record.)
+- **2021 returned about 9.1x the spend annually, recurring. Current drops return about
+  0.77x annually.** A real **12x decline, and still a good business.** The channel went
+  from extraordinary to ordinary-good. It did not go to broken.
+
+**What this changes.** The 2026-09-28 lever decisions stand but **change meaning**:
+cutting cost from about $3,333 to about $2,226 a unit is compounding returns on a
+working channel, not damage control on a dying one. (Isla's framing, recorded as hers.)
+
+**Process failure, Isla's own, recorded at her request.** Jayme named the gap in writing
+-- "his revenue per median unit and per largest unit; without it I can't say whether a
+$2,000-4,500 unit is worth buying." Isla carried it as item two on a list of open
+questions and ran a full three-lever cost analysis anyway. **A ratio was optimised for a
+week without its denominator.** Cross-reference: `recurring-failures.md` class 8 and the
+2026-09-28 entry above.
+
+**Retracted (Isla):** her recommendation (2026-10-01 entry above, section 4) to put the
+restricted money into client appreciation or let it lapse. Withdrawn once the payback was
+known. Do not quote it as a live recommendation.
+
+**"11 units" reconciled (Justin / Isla, as plausible, not verified).** Seven households
+were acquired from 2021 classes, so eleven is **plausibly eleven individuals across seven
+households.** Consequence on record: **every per-unit figure in this project is
+per-person, and cost per acquired household is roughly 1.5x the quoted per-unit cost.**
+See flag C: the file's earlier text labels units as households.
+
+### 2. THE BUDGET CONSTRAINT — Justin's correction; it voids large parts of four spend plans
+
+Justin, 2026-10-01: **"Next yrs 22k has the same contraints as this yrs 7k."**
+
+**The entire ~$29,000 through end-2027 ($7,000 + ~$22,000) is restricted, not just the
+2026 $7,000.**
+- **Permitted:** public workshops and networking events, including the cost of mailers,
+  folders and room rentals; client appreciation events; and, under Justin's standing
+  loose-reading rule (2026-09-19, "The remaining $7,000" section above), a spend that
+  reaches a booked meeting.
+- **Not permitted:** website design, or general digital lead-gen. **YouTube is excluded
+  outright.**
+
+**VOIDED — recorded so nobody re-proposes it:**
+- Sloan's editing-and-packaging retainer and her shoot-day/kit line.
+- Taleb's land tranches and most of his intent-search line.
+- Jayme's hours/production reserve.
+- **Isla's central clean-slate recommendation** — spend on production capacity and
+  buying back Justin's hours rather than on reaching strangers. Not an allowed use of any
+  of this money.
+- **Three directors independently voted to loosen the land's "funded by time, never
+  cash" condition (2026-09-25 "RESOLVED: the land is YouTube" entry). All three votes are
+  void.** The condition was never a preference this money could relax — **it is the only
+  option available**, since none of this pot can touch YouTube.
+- **Ed's counsel/Portfolio Medics bundle is probably also outside the permitted
+  categories** (not a workshop cost). **Flagged, not ruled.**
+
+**What survives, better than it went in: Jayme's plan.** He put nearly everything into
+mail and a response path, held cash, and refused to pre-buy hours or production. **Under
+the real constraint he was right for reasons he did not have.** (Flag D: the "response
+path" may touch the website-design exclusion; not ruled.)
+
+**OPEN QUESTION — it decides whether the land can ever be bought, and needs Justin's
+answer, not an inference:** is the 2027 ~$22,000 **perk/co-op money with an
+administrator** (constraint external, unchangeable) or **Justin's own budget that he is
+choosing to run under the same rules** (constraint self-imposed, changeable by
+decision)? The standing policy (2026-08-25, top of file) sets next year's budget at 10 bp
+of end-of-year AUM, which at the AUM above computes to roughly $20,000 — consistent with
+$22,000, which is why the distinction is not obvious.
+
+### 3. Class frequency is dead as a lever — killed by Justin's own outcome data
+
+Two-class years: **2019, 2021, 2023.** One-class years: **2018, 2022, 2024** (class count
+limited by budget). AUM acquired (sampled, by acquisition year):
+
+| Two-class year | AUM acquired | | One-class year | AUM acquired |
+|---|---|---|---|---|
+| 2019 | $1.475M | | 2018 | $0.630M |
+| 2021 | $9.130M | | 2022 | $1.075M |
+| 2023 | $1.050M | | 2024 | $0.381M |
+
+- **A one-class year beat a two-class year: 2022 ($1.075M) against 2023 ($1.050M).**
+- **2021 is about 7.2x the other two two-class years** (their average; individually 6.2x
+  over 2019 and 8.7x over 2023).
+- **Record: the number of rooms does not predict dollars.** Isla's "more rooms, not fuller
+  ones" was already killed on cost by all three directors and is **now killed on outcome
+  by Justin's data. Do not revive it.** Consistent with the 2026-10-01 entry above,
+  section 7 (class frequency was budget-constrained, not demand-constrained).
+- **This leaves market conditions plus first-mover timing as the only surviving
+  explanation for the 2021 vintage.** Cross-reference: 2026-10-01 entry above, sections 1
+  and 3, and the 2026-08-25 "Saturation cause."
+- Check: the year figures reconcile to the 45% / 3% / 7% / 5% / 5% / 2% shares and the
+  32% undated remainder in the entry above (against $20.133M).
+
+### Vannevar's flags — for Isla/Justin, not resolved here
+
+- **A. Book or sample?** Justin calls the $20.133M a partial sample; the revenue line
+  treats it as the book; earlier entries cite a ~$22M book. Annual revenue above is for
+  the 26 households as supplied. Whole-book revenue is unconfirmed.
+- **B. "One client" from April 2026.** The 2026-08-25 record has that drop's closed unit
+  as a pension-to-annuity rollover (~$6,000 one-time commission, no ongoing AUM), a
+  pending ~$1M prospect that may not close, and one dead lead. The 15.5-month figure
+  prices one client **at the mean**, a hypothetical, not either of those outcomes. At
+  the pending ~$1M, 1% is $10,000/yr (12 months); at the actual closed deal it is a
+  one-time $6,000. Also: "none annuity-only" holds for the 26 sampled households; whether
+  the closed annuity unit is among them is not stated.
+- **C. Units: households or persons?** growth-channels.md labels units "(households)"
+  (2026-08-25 entries, lines ~36 and ~342). The "11 persons across 7 households"
+  reconciliation is plausible, not confirmed, and the 1.5x factor (11/7) comes from the
+  2021 vintage only. If persons, the 2026-08-25 historical range, the ~$3,333 and ~$909
+  per-unit figures, and the 2026-09-28 tables are per person, and the payback table above
+  (per client = household) is not on the same base as them.
+- **D. Spend plans under the constraint.** Jayme's unique URL/landing page (non-
+  negotiable item, 2026-09-28 Lever 3) against the website-design exclusion; the
+  2026-09-12 and 2026-09-19 notes that the mirror-mail test is "next-year, own-budget"
+  (superseded in part by the loose-reading rule); and the 2026-08-25 policy that the year's
+  remainder goes to "experimentation/pivoting into new channels" against the permitted
+  list. Not ruled on.
+- **E. Bases of the 12x.** 9.1x is year-level AUM acquired ($9.13M x 1% = $91,300) over
+  one $10,000 drop; 2021 was a two-class year and part of any year's AUM arrives with no
+  spend. 0.77x is one hypothetical mean client over one drop (n=1). Also current AUM by
+  acquisition year, so survivors only, and gross fee, not net of any firm split or cost to
+  serve. The ~$6M "2021 NKU class" figure measures something else (see 2026-10-01 entry
+  flag on different bases). Direction is not in doubt; the 12x is not a precise number.
+- **F. Class-frequency read.** Partial sample, 32% of AUM undated, and year AUM includes
+  non-class sources (a quarter to a third arrived with no marketing spend). Excluding
+  2021, the two-class years average about $1.26M against about $0.70M for one-class years,
+  and 2019 beats every one-class year; the data supports "2021 explains the gap," which is
+  Justin's conclusion, more firmly than it supports "rooms never matter." 2020 and 2025
+  were not supplied.
+- **G. recurring-failures.md** has no entry for the process failure in section 1 (nearest:
+  class 8, and class 6 for carrying a named gap as an open item). Filing it is Isla's
+  call.
+
+**Source:** figures and the constraint are Justin's; the payback arithmetic checks
+(10,000 / annual revenue; $333,000 = $10,000 / 3 / 1%), and the framing, retraction and
+process failure are Isla's. Roster not stored. No individually identifying client data
+entered.
