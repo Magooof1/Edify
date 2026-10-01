@@ -107,7 +107,7 @@ Each line: dollars, Justin-hours, kill criterion, and where the 2027 answer matt
 | 5 | 60 | 155 | 3.0 |
 | 8 (my first-pass guess) | 96 | 248 | 4.8 |
 
-The 3.5 is itemised, and unmeasured: script review 0.75, shoot 1.0 (a batch day of four takes about 4 hours including setup), trim, captions, title and upload 1.25, Ed's comments and final sign-off 0.5. Thirty-one videos fits an hours budget only if the best case holds, and it was never earned by data: "1 long-form per 2 weeks" is a ⚙ guess in `ROADMAP.md`, Isla's. Twelve is a course with an ending. Thirty-one is a treadmill. **I would rather have a small plan that happens, and so would the record: the only fact we have about this land is that no video had been shot as of 9/25.**
+The 3.5 is itemised, and unmeasured: script review 0.75, shoot 1.0 (a batch day of four takes about 4 hours including setup), trim, captions, title and upload 1.25, Ed's comments and final sign-off 0.5. Thirty-one videos fits an hours budget only if the best case holds, and it was never earned by data: "1 long-form per 2 weeks" is a ⚙ guess in `ROADMAP.md`, Isla's. Twelve is a course with an ending. Thirty-one is a treadmill. **Isla's test is the right one: a small plan that happens beats a large one that doesn't. The only fact we have about this land is that no video had been shot as of 9/25.**
 
 **The terms.**
 1. **Finite.** Twelve chapters, one playlist, the class in its own order, ending at the ask. After chapter 12, no new video until the stop-rule gate (term 6).
@@ -152,14 +152,14 @@ Justin's explanation for 2021, now the only one that survived: *"probably more r
 
 **Where couples are assumed. Verified, not asserted.** I read `script-part-1.md` (slides 1-59 and the close), the drafts, and the sample build. **I could not open the instructor decks** (PDF rendering is unavailable here). Isla's "every class asset, every invite and the sample build" is stronger than I can verify:
 - **The sample build is explicit:** "the Johnsons," 58 and 60, a fictional couple.
-- **One legacy line assumes a spouse** (slide 24): "money we pass first to a spouse, then kids, charities."
+- **One legacy line assumes a spouse** (under "Slides 21-24," the foundation recap; the script does not pin it to one slide): "money we pass first to a spouse, then kids, charities."
 - **Two mail drafts assume a handoff:** v5 and v5b design the piece to be "handed to a spouse who never saw it," and the three-buckets theme notes "a spouse's calendar to check."
 - **Not found:** the script's main teaching voice is singular "you." The stay-warm drafts carry no couple language. The Step 2 form asks concerns, not household. The Step 2 confirmation email is not on record.
 - **Where I expect more and could not read it:** the income, Social Security and legacy sections, roughly slides 60-112. The script covers only 1-59 and 113-117. Justin's dictated Part 2 script would settle it.
 
 **What changes in the class. All free.**
 1. **One protagonist, not a couple.** Justin's own principle for the build was *"They are then like that's me."* A couple protagonist asks the people deciding alone to translate. Mechanically nothing is lost: two of the four accounts are 401(k)s, which are individual by construction, and the CD, bond and recovery-math beats run unchanged. It also removes the build time the "one couple, not two" rule was protecting. **Nothing has been built, so today is the cheapest moment this edit will ever have.** It is reversible, and it is a hypothesis: I have no evidence a single protagonist is better for the room, only that the couple was an assumption. Cost: L5, $300 and 4 hours, only after Justin says yes and Ed phrases "not a real person."
-2. **A language audit of the spouse presumptions,** starting with slide 24 ("to whoever you name first"). Real anecdotes (the family member whose husband is underfoot) stay; they are real.
+2. **A language audit of the spouse presumptions,** starting with the legacy line in slides 21-24 ("to whoever you name first"). Real anecdotes (the family member whose husband is underfoot) stay; they are real.
 3. **One question for Justin, not a content addition:** does the legacy section already cover who acts for you if you cannot? It is the one place where someone with no second person differs structurally. I would not add content without his word.
 4. **The visit invitation gains one sentence: "bring anyone you'd like in the room with you."** It works for couples too, and it makes a solo person's circle (an adult child, a friend) welcome. It touches client privacy, so Ed first.
 5. **Nothing about neutrality changes.** Justin implements all three buckets and does not steer.
@@ -417,16 +417,22 @@ I will not claim a rule-break I cannot defend. These four lines are the cheap, a
   - **Q4 releases only if** at least 4 by 30 September.
 - **Kill:** hours per video above 2.5 over a quarter even with the retainer means it is not buying hours, and I stop paying it. A clean zero Step 2 requests by 30 June is a readable result, not a small-sample shrug: if the true rate were one every two months, a zero in six months is roughly a 5% event (reasoned, not measured).
 
+> **VOID 2026-10-01.** Kit, paid operator and cancellation fee are all production. The mechanism survives at $0 as a booked batch date that the Friday routine asks about (REVISION 4, term 3), and it is weaker without the fee.
+
 **U2. Shoot-day commitment device plus kit. $2,000. Justin: inside U1's hours.**
 - $1,000 of kit (audio, light, a stand) and eight booked shoot sessions with a paid operator at about $125 each. Four videos per session, a cancellation fee, and a date on the calendar.
 - **Rule broken:** "do it yourself until it proves out." Genuinely unusual, and it is a behavioral-economics mechanism, not a production choice. If it works, the money bought a precommitment.
 - **Kill:** two booked sessions cancelled by Justin in a quarter means the device is not working. Stop paying for it. The constraint is not the one I thought, and I say so.
 - **Cap:** no gear spending beyond $1,000. No "studio build."
 
+> **OUT OF THE POT 2026-10-01 (unlisted).** A scheduling subscription, tracked number and URLs are not a workshop, an event or clearly a spend that reaches a booked meeting. Ask the administrator; the default is operating cash, since Calendly was already on Justin's blocking list. The 3 hours stay. Ed's ranking put tools in "2027 or general money," which assumed 2027 was unrestricted (REVISION 9).
+
 **U3. Attribution plumbing. $600. Justin 3 h one-time.**
 - Calendly paid tier (already on Justin's blocking list), a tracked phone number, a unique URL per placement, and a required "which video did you start with?" on the booking form. Justin builds his own Squarespace pages.
 - Without this, every other kill criterion is unreadable. It is the instrument for the signal that counts.
 - **Rule broken:** none; hygiene. **Kill:** none. If it is not built, nothing else in 2027 spends.
+
+> **CHANGED 2026-10-01 -> L6.** Room rental is an allowed use. Capped at two convened rooms: class frequency is dead as a lever, and this must not become "more rooms" by the back door. $2,000 becomes $700; 27 h becomes up to 9 h. "Class history ~90%" in the kill criterion means books a follow-up, not closes. R3's $1,500 is now L4.
 
 **U4. On-demand small rooms. $2,000 (plus R3's $1,500 if it clears). Justin 27 h (6 x 4.5 h).**
 - The existing 3.5-hour class, unchanged, convened when **2 or more households have registered 10 days out**. Venue booked with a free-cancellation term, and I cancel the room, not the date, if the count is short. I have not seen any quotes.
@@ -434,16 +440,24 @@ I will not claim a rule-break I cannot defend. These four lines are the cheap, a
 - **Kill:** after three rooms, if fewer than half of attendees book Step 2 (class history ~90%), the continuity is not surviving the video-first path. Also: if a second room cannot reach two registrants, the course is not producing registrants, which is the same signal as U1's.
 - It does not use the 60-to-90-minute cut. A shortened deck is a new deck for compliance. Justin may choose it later.
 
+> **REMOVED 2026-10-01.** A take-home card that points to the free course is the closest I came to routing video through a workshop line. It needs the course to exist first (Q2 at the earliest), costs 9 hours of talks for an unmeasurable yield, and Justin's gatekeeper objection is live. $400 and 9 h freed.
+
 **U5. Trailer-talk cards for library-type rooms. $400. Justin 9 h (3 talks x 3 h, my estimate). Only with Justin's go; I have not contacted anyone.**
 - A borrowed room cannot hold Step 2. The venue rule bars soliciting in the room (`venue-category-college-type-v1.md`; CHPL explicitly permits business presenters on a general-interest topic, grade B, not opened by me). So **do not convert in the venue.** Use it to hand people toward the owned course. A take-home card points to the free course; the course's own Step 2 does the conversion. The venue sees only education plus a URL.
 - **Rule broken:** none; library talks are conventional. The routing is the twist, and it answers my own 9/28 finding about the Step 2 form.
 - **Kill:** zero course visits traceable to the card after two talks. Justin's gatekeeper preference is a live objection and his veto.
 
+> **REMOVED 2026-10-01.** Its only stated uses (a second playlist's editing, more rooms) are void or dead.
+
 **U6. Gated reserve. $3,000.** Released in July only to scale what H1 data supports: more rooms, or a second playlist's editing. Never to ads. Lapses otherwise.
+
+> **REMOVED AS A HOLD 2026-10-01.** It is now "not allocated by me," $22,600 in total (REVISION 2). The test I set below (a written kill criterion, an hours-per-shot estimate, no buying attention for something unproven) is still the test for whoever takes it.
 
 **Held, unallocated: $5,000.** Not spent in my lane. Open to any director's line that passes this test: a written kill criterion, an hours-per-shot estimate, and no buying attention for a thing I have not shown converts.
 
 ### 4c. Free lines (Justin-hours only)
+
+> **CHANGED 2026-10-01.** F1 is folded into L2. F2 stands (1 h). F3 is deferred: each guest episode is a video, needs L7's relationships and Ed, and has not been earned. F4 stands (3.5 h); the keyword test now picks chapter titles, since the second playlist is not committed.
 
 - **F1. Interviews of clients who arrived without a class.** Taleb's step 1. 3 h, Q4. Research, not copy.
 - **F2. Event-keyed referral ask.** Taleb's 2a. 1 h setup, rides existing meetings. Needs Ed and CRM tags. The record disagrees with itself on whether the referral ritual is live (9/16 vs 9/25), so ask Justin first.
@@ -464,6 +478,8 @@ I will not claim a rule-break I cannot defend. These four lines are the cheap, a
 8. **Client or viewer testimonials and on-camera client stories** until the testimonial rule is settled. Composite and anonymized only.
 9. **A general website rebuild.** Not allowed from the perk and not needed.
 10. **A staff hire.** I flag it in section 7 and price nothing for it.
+
+> **ADDED 2026-10-01.** Add to this list: paid editing, kit, or any YouTube production from this pot (excluded outright); paid promotion of the course; a commitment device that costs money. The coordinator note is in section 6, not "section 7."
 
 ---
 
@@ -492,6 +508,8 @@ All E (my estimates) except where the record gives a figure. "Cost" is hours spe
 - **If hours bind, cut in this order:** R2, R4, U5, F3, F4's seeding, R1. Do not cut U2 or U3.
 - **Not priced and the real missing line:** coordination (invites, room logistics, follow-ups). A part-time coordinator would buy those hours back, and it is outside my lane. It is a hiring decision for Justin, with Ed and Portfolio Medics on what unregistered staff may do with clients.
 
+> **SUPERSEDED 2026-10-01** by REVISION 8 (Q4 24.5 h, 2027 54.5 h; about 79 against 164). "Multiplies Justin's marketing hours by roughly ten" is now roughly six. The coordinator point stands and is Isla's and Justin's call, but a coordinator is not a listed use of this pot either; ask the administrator.
+
 ---
 
 ## 7. How unconventional is this, honestly
@@ -513,6 +531,8 @@ I would be lying if I said it breaks the rules. **Most of the lines are conventi
 
 **One habit I kept and will defend:** the 3.5-hour class is the product, so it is not a sunk cost to strip out. It is the thing that converts at roughly 90% in the room. **One I broke:** scheduling the room first and buying the fill.
 
+> **CORRECTED 2026-10-01.** "Converts at roughly 90% in the room" should read "books a follow-up at roughly 90%": a booking rate, not a close rate (record fix 9/19). In the table above, the U1 and U2 rows are void, U4 is capped at two rooms, U5 is removed, and the "Hold $8,600" row is void. I would now call the whole plan more conventional than the original, which is the honest consequence of a restricted pot. The "genuinely unconventional" claims survive only for L6 and the free items.
+
 ---
 
 ## 8. Cut order, for reconciliation across the four answers
@@ -530,6 +550,8 @@ If any of the $29,000 has to go to another director, release in this order (lowe
 9. U1 Q3-Q4 tranches ($3,600), already gated
 10. **Do not release:** R1, U2, U3, U1 Q1-Q2. If these go, there is no plan.
 
+> **SUPERSEDED 2026-10-01** by REVISION 2 and 8. The cut order is now L7, F4 seeding, L6, L3, L5. The "do not release" list above names three void lines and one removed; the only line I would protect now is L2, because it is the one that learns something.
+
 ---
 
 ## 9. Gates and flags for Ed (raised, not resolved)
@@ -544,6 +566,8 @@ If any of the $29,000 has to go to another director, release in this order (lowe
 8. **Warm-list roundtable (R1):** attendees are prospects who gave personal information; the moderator must not receive the list; any quote used in marketing is a testimonial; recording consent.
 9. **Referral ask (F2):** a question to a client, not a script handed to referrers; the counsel question already queued.
 10. **Calendly, Q5 fix, the no-pitch policy note, Ed re-clearance:** I cannot verify the status of any of them. Taleb's point stands: if they are not clear by early December, nothing lands in January.
+
+> **UPDATED 2026-10-01** by REVISION 10. Items 1-10 stand except as marked there. Items 4, 5 and 6 leave the plan. The Ed list gains the breakfast (my omission), the single-protagonist wording, the "bring anyone" sentence, the widow-story scope and the administrator question.
 
 ---
 
@@ -564,6 +588,8 @@ If any of the $29,000 has to go to another director, release in this order (lowe
 - Whether a Step 2 offer on video clears Portfolio Medics.
 - All third-party policies cited above are B-grade excerpts I did not open.
 
+> **CORRECTED 2026-10-01.** (a) "Unverified and decisive: which class and drop produced the $5M household" is partly settled: it is a prospect, not a client, and the power-law case is dead. The positioning statement's limit 1 ("one conversation with one man") is unchanged. (b) Every hour figure here is still E, and I now doubt the 8-hour unaided estimate (REVISION 1.5). (c) Add as inferred, not verified: whether the $22,000 is 10 bps of ~$22M (Taleb's inference), and whether it is external or self-imposed. (d) I could not open the instructor decks (PDF rendering unavailable); the solo-decision-maker read in REVISION 6 rests on the script text and drafts.
+
 ---
 
 ## 11. Questions only Justin can answer
@@ -577,6 +603,8 @@ If any of the $29,000 has to go to another director, release in this order (lowe
 7. Are you willing to put a free-visit offer at the end of a course, knowing it triggers the Portfolio Medics re-ask?
 8. Do you already pay for Calendly, and is there staff?
 
+> **UPDATED 2026-10-01.** Question 1 is partly answered (that household is a prospect). Question 2 is now larger: see REVISION 11, item 1. Question 6 is now L7's gate. New and reordered questions are in REVISION 11.
+
 ---
 
 ## 12. Self-check (Isla's six) and status
@@ -589,5 +617,7 @@ If any of the $29,000 has to go to another director, release in this order (lowe
 6. **Already on record?** Small rooms (class README), interviews and event-keyed ask (Taleb), decision-aid content (Taleb), libraries (my 9/28 file). New here: the commitment device, rooms at two, hours-per-shot as the kill metric, the perk's near-zero cash price making hours the real cost, the trailer routing, and the tranche-gated answer to the funding condition.
 
 **What I would change in my own plan:** nothing unless Q4 shows otherwise; I hold the course thesis loosely and the gates are written so it can lose. I would ship the plan's structure as-is; every number in it is a placeholder for a Q4 measurement.
+
+> **CORRECTED 2026-10-01.** "I would ship the plan's structure as-is" was wrong: $11,000 of the plan was not an allowed use. The checks that should have caught it were pre-flight 5 (verified or inferred: "unrestricted" was inferred) and 6 (already on record: the photo shoot, the widow withdrawal, the prospect). A fresh self-check, with the verdict, is in REVISION 12.
 
 **Ready for Ed?** No. This is a plan, not a piece. Ed's items are in section 9. Nothing is approved, scheduled or contacted; every line needs Justin's go before it starts.
