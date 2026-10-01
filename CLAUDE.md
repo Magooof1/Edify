@@ -292,6 +292,16 @@ drawn from a failure that actually happened here, not invented:
    mean-size client when the actual drop had produced a one-time commission and a
    pending prospect. Every one was the strongest defensible reading of a small sample.)*
 
+8. **Was the offer decided, or inherited?** Before building any piece, confirm that the
+   thing it asks the reader to do is **a decision someone made**, not an inheritance from an
+   earlier draft. **This question runs first**, because it governs everything the other seven
+   check. *(Added 2026-10-01. Isla built a January mailer carrying a mirror-then-visit offer —
+   no class — assembled from Jayme's #1 ranking, Lever 3's deferral to that ranking, and a
+   reconciliation line that said "Jayme's card." Three sound choices; nobody ever put "no
+   class" to Justin. He asked "so we have decided... come in direct with no class correct?"
+   and the answer was that it had drifted. Every mail-sourced client in the book had come
+   through a class.)*
+
 **And the rule that keeps this list alive:** when a check misses something it should have
 caught, **widen the check** — don't just fix the instance. A check scoped to the last
 failure catches only the last failure. Full history in

@@ -107,6 +107,18 @@ money). "Wrong in both directions" sounds like balanced error and flattered the 
 **The accurate version: one category error, then a third instance of the same
 strict-reading failure that already had a standing rule written against it.**
 
+**11. Building a piece on an offer nobody decided.** Added 2026-10-01. Isla designed and
+published a January mailer whose offer was **mirror-then-visit, no class** — assembled from
+Jayme's top-ranked offer, Lever 3's deferral to his ranking, and a reconciliation line reading
+"Jayme's card." Each step was defensible; **the compound decision was never put to Justin.**
+He caught it himself: *"So lets be clear we have decided the best use for the 7k in January is
+to have them come in direct with no class correct?"* **It had drifted, and the evidence ran the
+other way** — every mail-sourced household in the book arrived through a class, the ~90%
+booking rate is made in the room by the Step 2 Form, and the mechanism behind it (continuity —
+"the next step of something you already began") is precisely what a cold meeting lacks. Justin
+decided the class. **The seven pre-flight questions all audit the artifact; none audited whether
+its premise was chosen.** New question 8 in `CLAUDE.md`, and it runs first.
+
 **6. Re-deriving something already on record.** Isla theorised about format crowding
 before reading the 2026-08-25 entry that already established it (corroborated by two
 other advisors). See `growth-channels.md`, 2026-08-25. **Two more instances, 2026-09-29,
