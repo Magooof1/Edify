@@ -2007,8 +2007,8 @@ explanation has a counter-example in Justin's own history.
 process failure are Isla's. Roster not stored. No individually identifying client data
 entered.
 **Corrections source (2026-10-01):** the equipment/channel rule, the $22M AUM, the
-perk/co-op-with-administrator confirmation and the April 2025 mail context question are
-Justin's; the 6.0x is Jayme's; the pre-registered 2025 test is Taleb's; the bounds, the 8x
+and perk/co-op-with-administrator confirmation are Justin's; the 6.0x is Jayme's; the
+pre-registered 2025 test is Taleb's (the 2025 drawdown figure is second-hand, Grade D); the bounds, the 8x
 and the 40-49% / 24-33% arithmetic are Vannevar's, from stated inputs; the process-failure
 account is Isla's. No household rows, per-household dollar figures or demographics tied to
 amounts entered.

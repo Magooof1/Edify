@@ -108,6 +108,29 @@ record's 2026-08-25 diagnosis. Taleb caught both. **This class had no pre-flight
 of its own until now**, which is why it kept recurring while the other five were being
 checked; it is now question 6 in `CLAUDE.md`.
 
+**10. A logged failure recurring despite a standing rule written to stop it, and an
+unconfirmed rule interpretation propagated into briefs.** Added 2026-10-01. The standing
+rule is Justin's, 2026-09-19: **"Always go with the non strict version going forward"**
+on the perk (`growth-channels.md`, "The remaining $7,000 (2026)"), written after Isla
+asserted the strict reading against the mirror mail test and was wrong. **On 2026-10-01
+she asserted the strict reading again, on the same perk (the whole ~$29,000 restricted
+to workshop-type spend, YouTube excluded outright), and was wrong again.
+She then pushed it into three revision briefs before confirming it with Justin, which
+caused a wasted pass.** Justin: "I can still do YouTube or any other channel... I just
+can't use it to buy equipment etc." Correction filed in `growth-channels.md`, corrections
+block of the "2026-10-01 (later)" entry. **The shape, which is the point:** Isla twice
+stated a constraint she had not confirmed (she characterises it as once too loose, once
+too strict; the file's record shows strict-reading assertions on 2026-09-12, 2026-09-19
+and 2026-10-01, so which instance was "too loose" is unconfirmed) when the move was to
+state her reading in one line and ask. **Cross-references:** class 5 (a fix written to
+the last failure did not stop the next instance of the same class; here the fix was a
+standing rule, written after the 2026-09-19 instance) and class 9 (taking a confident
+reading of an under-confirmed fact; here a restrictive reading of the perk rules, stated
+as settled and briefed out before Justin confirmed it). **Not a
+new rule:** per the standing instruction below, the question is which existing check
+should have caught it. The standing rule already existed in the file; it was not
+applied.
+
 ## Two things recorded plainly
 
 - **Where checks existed, they worked.** Jayme ran the cover check first and said so;
