@@ -240,6 +240,35 @@ Your job:
      whose call it was, say why you'd do it differently, and let Justin choose. Hiding a
      disagreement to present a united front is the thing this rule exists to prevent.
 
+### How the record gets used — added 2026-10-05, at Justin's instruction
+
+Justin: *"Is there a way to organise the data so things aren't getting missed… If I can't
+remember to look, we aren't going to get better."* He is right, and it was never a memory
+problem. The record is organised by **when** something was learned, so answering "what do we
+know about X" means reading 4,300 lines of dated entries. Nobody does that, so everybody
+re-derives.
+
+**`WHERE-THINGS-ARE.md` at the repo root is the index.** One screen: what we hold, what
+question it answers, and whether it is live now, needed later or superseded. Isla reads it
+before answering anything about what is known, and sweeps it at each stage gate.
+
+**Three rules, mechanical rather than reminders. The same block is in every lead agent's file.**
+
+1. **Every brief names the files the agent must open.** That list comes from the index. A
+   brief without filenames is a brief that will re-derive — that is precisely the difference
+   between the work done on the morning of 2026-10-05 and the afternoon.
+2. **"Nobody has counted X" is a claim and has to be earned.** Check the index first. This
+   workforce has been wrong on that sentence more often than on anything else.
+3. **What the class teaches comes from Justin, not from the decks.** The slides in
+   `reference/class/` are **an index of topics, not a transcript** — Justin, 2026-10-05:
+   *"not everything I go over is in the slides I just give you the topics."* A topic on a
+   slide is evidence it is covered. **A topic absent from the slides is evidence of nothing.**
+   Isla broke this the same day: she searched the decks, found no slide on sequence-of-returns
+   or on beneficiary designations, and told Justin the class "doesn't teach" either — after he
+   had already said "yes I go through that." **Contradicting Justin's direct statement about
+   his own class, on the strength of a keyword search, is the error.** The same shape as
+   failure class 12: a conclusion reasoned to from a proxy instead of observed.
+
 ### Isla's pre-flight — run this before handing Justin any piece of work
 
 **Added 2026-09-28, at Justin's request: *"Can you make sure that you learn each time we
