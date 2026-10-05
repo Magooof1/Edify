@@ -147,3 +147,29 @@ on the navy, centred and symmetric — headline, one instruction line, equal ses
 separated by “-or-”, then the register block stacked down the middle, then the all-caps
 “no cost but advanced registration required” line, then a small help line. That composition is
 the catalogue read. A challenger that keeps the control's format keeps it.
+
+
+### How the control uses the crease — confirmed from the open spread, 2026-10-05
+
+The two inside pages treat the mid-height crease **differently, and on purpose.**
+
+- **Inside left ignores it.** The two-column list runs straight through the crease; the page is
+  one tall 8.5 × 11 composition, heading at the top and the disclosure block full-width at the
+  foot. This is the physical confirmation of the measurement that settled the geometry.
+- **Inside right uses it as a hard boundary.** White above (instructor headshot, bio), navy
+  reversed below (SPRING COURSES — the session descriptions). The colour change lands exactly on
+  the fold.
+
+**Also on the control's inside left, in order:** a centred “ABOUT OUR COURSES” heading; a
+full-width **navy band** carrying the single sentence “our comprehensive retirement courses are
+being offered free of charge at Northern Kentucky University as a community service…”; an italic
+intro; then three headed lists — **You Will Learn**, **Who Should Attend?** and **Why Now?**;
+then a puzzle-piece graphic and a stock photo; then the disclosure.
+
+That navy band is worth noting on its own. It is the most prominent sentence on the inside of
+the piece, and what it carries is a claim about NKU's own involvement rather than a description
+of the courses. Any decision about restoring the “community service” language is a decision
+about that bar, not about a phrase buried in body copy.
+
+The instructor headshot is suit-and-tie with a name/title caption beneath it, and a decorative
+seasonal illustration band runs across the foot of the white half.
