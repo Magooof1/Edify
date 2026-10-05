@@ -42,3 +42,42 @@ job it was doing.
   document. This is exactly the document that would mislead you. Don't re-raise it.
 - The piece states "ages of 50 and 70." Justin currently describes his mail target as
   50-65.
+
+---
+
+## 2023 Spring — NKU (a different piece from the control)
+
+`2023-spring-nku-outside.jpg` — supplied by Justin 2026-10-05, photographed flat. **He flagged
+it himself: "I think this is a different one."** He is right. It is the **2023** piece, not the
+2021 control: sessions are 4/20, 4/22 and 4/25/2023.
+
+**What it settles, and what it changes.**
+
+- **Panel orientation: LANDSCAPE, 8.5 wide × 5.5 tall.** Visible directly — the two halves of
+  the sheet are printed **head-to-head** (the green half is rotated 180° against the white
+  half), which is the signature of a half-fold where the lower half folds behind. Isla's
+  artboards were built 5.5 × 8.5 portrait and are rotated 90° from the real piece.
+- **Panel count differs between the two pieces.** This 2023 one reads as an 8.5 × 11 sheet
+  folded once = **4 panels**. The 2021 control PDF is 17 × 11 flat (MediaBox 1224 × 792 pt) =
+  **8 panels**. Both finish at 8.5 × 5.5.
+- **THE FIND THAT MATTERS: two of the three 2023 sessions were WEEKDAY EVENINGS.**
+  - 1 Evening — Thursday 4/20/2023, 5:00–8:45pm
+  - 1 Morning — Saturday 4/22/2023, 8:30am–12:15pm
+  - 1 Evening — Tuesday 4/25/2023, 5:00–8:45pm
+
+  The README's note on the 2021 control describes three **Saturday** sessions. **So Justin has
+  run weekday evening classes at NKU.** When NKU has no second Saturday, an evening is a real
+  option, and it restores the multi-session catalog structure.
+- **Morning session ran 8:30am–12:15pm** (3h45), against the 3½ hours currently on v6.
+- **Outside face layout:** white half carries the SPRING LEARNING PROGRAM laurel mark, the
+  return address (2734 Chancellor Drive, Suite 110, Crestview Hills, KY 41017), the phone
+  (859.547.6441), the Louisville permit indicia and the address area. Green half is the
+  registration panel.
+
+**Barred or dead content visible on it, for the avoidance of doubt:** "Seating is limited so
+please guarantee your reservation today" (scarcity — Ed's 2026-09-12 wall); "New academic
+courses"; the **SPRING LEARNING PROGRAM laurel crest**; "Northern Kentucky University" set
+above the class name; and `www.trulippartners.com/nku`. All of these are on Ed's
+not-available-on-a-rental list (2026-10-02) or are dead URLs.
+
+**Unconfirmed:** whether the return address and phone above are still current. They are 2023.
