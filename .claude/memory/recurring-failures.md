@@ -119,6 +119,59 @@ booking rate is made in the room by the Step 2 Form, and the mechanism behind it
 decided the class. **The seven pre-flight questions all audit the artifact; none audited whether
 its premise was chosen.** New question 8 in `CLAUDE.md`, and it runs first.
 
+**12. Reasoning to an artifact's structure from its header, a photograph or a note, with the
+source file in hand.** Added 2026-10-05. Isla settled the 2021 NKU control's fold geometry
+**twice, wrongly, from photographs**, while `reference/winning-mailers/2021-spring-nku-seminar.pdf`
+sat in the repo and could be measured. Reading 1: five 5.5 x 8.5 portrait panels. Reading 2
+(after Justin photographed the 2023 piece flat): "every artboard is rotated 90 degrees; eight
+8.5 x 5.5 landscape panels" — written in capitals into a canvas note and into the winning-mailers
+README as settled. Both wrong. **Actual (measured by extracting every text run with its full
+transform matrix): 17 x 11 sheet, one vertical fold, one horizontal mail fold, FIVE design
+surfaces — two landscape 8.5 x 5.5 outside panels and three portrait 8.5 x 11 pages.** Five was
+the right count all along; both readings were wrong about the shape.
+  - **The mechanism, which is the part to keep.** The MediaBox *had* been read (1224 x 792 pt =
+    17 x 11) and the eight-panel answer was *inferred* from it: halve twice, get eight 8.5 x 5.5.
+    The arithmetic is right and the conclusion is false, because it assumed every fold is a panel
+    boundary. The decisive evidence was in the file's contents and never looked at: the inside-left
+    bullet list runs continuously through the y=396 crease, so that half is one 8.5 x 11 page, not
+    two panels. A photograph cannot show that; the file can. **A partial read that yields a
+    confident answer is more dangerous than no read, because it feels like evidence.**
+  - **Not the same as the "designed against the control without reading it" failure** (README
+    intro; it has no entry in this file). That one never opened the file. This one opened it,
+    read a header, and reasoned to structure from the header instead of measuring the contents.
+  - **Cost to Justin, not only an internal error.** Isla asserted the eight-panel reading while
+    he was photographing the piece panel by panel at her request — manual work to answer a
+    question his own file already answered.
+  - **Class link: pre-flight Q5 (verified or inferred), third widening in a week** — facts
+    (2026-09-18), arithmetic (09-28), shape of a distribution (10-01), now **the structure of an
+    artifact**. Also class 6 in spirit: the answer was already on hand in `reference/`, and Q6
+    ("already on record?") names `.claude/memory/`, `ROADMAP.md` and drafts but not `reference/`.
+  - **Correction itself:** `reference/winning-mailers/README.md`, section "The control's actual
+    geometry" (not duplicated here).
+
+  **Vannevar's recommendation (Isla to put to Justin; `CLAUDE.md` not touched).** No ninth
+  question. Q5 already asks the right thing and this failure passed it, because "verified" was
+  satisfied by a header read. Adding a fourth clause to Q5 would be class 5 again: a check
+  scoped to the last failure (facts, then arithmetic, then distributions, now structure). **The
+  class is "a conclusion reasoned to instead of observed," and Q5 should state it once instead
+  of accreting instances.** Proposed Q5 rewrite, replacing the widenings:
+
+  > **5. Verified or observed?** For every fact, number, distribution and artifact structure:
+  > did Justin say it, or did I measure it from the source itself? Reasoning from metadata,
+  > a photograph, a description, or our own notes is inference, however sound the arithmetic.
+  > **If the source file is in hand, measure its contents; a header is not a measurement.**
+  > Before asking Justin to do manual work to answer a question, check whether a file already
+  > answers it.
+
+  Plus one-word widening of Q6: "in `.claude/memory/`, `ROADMAP.md`, a draft, **or
+  `reference/`**." Weakest actionable reading: the Q5 rewrite is a judgment about drafting, not
+  a proven fix; its test is whether the next structural claim about a file cites a measurement.
+  **Gap not closed:** the README's 2023 section still gives that piece's fold ("half-fold, lower
+  half folds behind") from a flat photograph only. It is the same source type that failed twice
+  here and has not been measured. The canvas note was corrected the same day
+  (Isla, verified): the capitals note on the January mailer canvas now carries the measured
+  geometry and states plainly that both earlier readings were wrong about the shape.
+
 **6. Re-deriving something already on record.** Isla theorised about format crowding
 before reading the 2026-08-25 entry that already established it (corroborated by two
 other advisors). See `growth-channels.md`, 2026-08-25. **Two more instances, 2026-09-29,
