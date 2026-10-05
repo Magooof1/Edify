@@ -1039,14 +1039,19 @@ enough to keep the effect."
   re-raising it is Justin's time. (Same posture as the 2026-09-16 Portfolio Medics
   pre-approval decision.)
 
+**Operative element map, added later 2026-10-05: see "Resolution of qualifications 1 and
+2; operative element map" at the end of this entry.**
+
 **Three qualifications — factual, not pushback, none of them reopens the decision:**
-1. **"They have been approved" — by whom is unverified. OPEN QUESTION, not a
+1. **ANSWERED 2026-10-05 (Justin) — see "Resolution" entry below.** *Original text:*
+   **"They have been approved" — by whom is unverified. OPEN QUESTION, not a
    contradiction.** `CLAUDE.md` records Justin's 2026-09-16 decision that Portfolio Medics
    does not pre-approve his marketing (disclosure only, where its name appears). So prior
    approval of the 2021 and 2023 pieces may have come from the FMO, from NKU, or may mean the
    pieces ran unchallenged. Justin's current plan to send this piece through PM is a separate
    step from whatever happened in 2021/2023.
-2. **The question worth answering: did NKU review and permit the artwork?** If the
+2. **ANSWERED 2026-10-05 (Justin) as to the name — see "Resolution" entry below.**
+   *Original text:* **The question worth answering: did NKU review and permit the artwork?** If the
    university saw and approved "Northern Kentucky University" above the class name, "New
    academic courses" and the laurel crest, the party who could be misrepresented consented,
    and Ed's implied-sponsorship concern largely resolves on the facts rather than on
@@ -1069,5 +1074,39 @@ contact facts confirmed by Justin 2026-10-05: address still current (2734 Chance
 Suite 110, Crestview Hills, KY 41017); phone is now 513-505-4214 (office line, not the
 tracked phone). Related: `partners-venues.md` (NKU).
 
-**Status:** decision recorded; open questions 1 and 2 are Justin's to answer if he wants
-them closed; item 3 (scarcity) unresolved.
+**Status:** decision recorded; qualifications 1 and 2 answered by Justin later the same
+day (next entry); item 3 (scarcity) unresolved, unaffected.
+
+### 2026-10-05 (later) — Resolution of qualifications 1 and 2; operative element map
+
+**Source:** Justin, relayed by Isla 2026-10-05. Verbatim: *"So PM looked at the original
+when we started doing this with no issue. I have asked NKU and they said we could use
+their name."* These resolve; they do not reopen the standing decision above.
+
+**Qualification 1 ("approved by whom") — ANSWERED.** Portfolio Medics reviewed the
+original piece when this started and raised no issue. **Precision for the file, not for
+the judgment:** "looked at with no issue" is a review having happened, **not a written
+sign-off.** Under Rule 204-2, substantiation is examined as documentation.
+**Isla's recommendation (a recommendation, not a condition):** when Justin sends the new
+piece through Portfolio Medics, get the reply in writing and file it. That converts a
+past non-objection into a current record. It does not reopen the decision.
+
+**Qualification 2 (did NKU permit the artwork) — ANSWERED as to the name.** Justin asked;
+NKU said he may use its name. See `partners-venues.md` (NKU).
+
+**Operative map — Isla's, 2026-10-05, built on facts already in `partners-venues.md`.
+Use this, not Ed's 2026-10-02 undifferentiated list, when sorting NKU-related elements:**
+- **NKU's NAME** — permitted directly by NKU. **Closed.**
+- **Laurel wreath and "SPRING LEARNING PROGRAM"** — per Isla's reading, **not NKU's
+  marks.** `partners-venues.md` records that what Justin does not use are NKU's *marks*
+  (logo and brand assets), and describes the laurel-and-Learning-Program treatment as the
+  piece's own dressing. On that reading the element never needed NKU's permission, and
+  Ed's ruling treated it as borrowed identity when it is Justin's own.
+- **"New academic courses," "offered as a community service," "about your course
+  instructor"** — the only residual items: claims about the *nature of the program*, not
+  uses of NKU's identity. Per Justin, Portfolio Medics looked at the original piece
+  with no issue (see above).
+
+**Unchanged:** qualification 3 (scarcity — "seating is limited," Justin's own "no
+scarcity framing" rule, Ed's 2026-09-12 wall) is unaffected and stays flagged exactly as
+logged. Standing decision stands; agents do not re-raise the NKU framing question.

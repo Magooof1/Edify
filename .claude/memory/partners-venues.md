@@ -35,10 +35,14 @@ gated channel by design — durable if secured, but exactly the kind of dependen
 Justin flagged discomfort with. Jayme, unprompted, refused to present the
 host-institution route as compatible with what Justin said he values.
 
-**Open question, real external relationship — confirm-first standing rule applies,
-not for any agent to research or assume about.** Open question Isla has put to Justin
-directly: did NKU decline to be branded, or has it simply never been formally asked?
-Logged as open, not a finding either way.
+**ANSWERED 2026-10-05 (Justin's own report) — was an open question, real external
+relationship; confirm-first standing rule still applies to contacting NKU.** The question
+Isla had put to Justin: did NKU decline to be branded, or has it simply never been
+formally asked? **Justin asked, and NKU said he may use their name.** Justin, verbatim:
+*"I have asked NKU and they said we could use their name."* Closed in place; not a
+finding by any agent. Operative element map (name vs. the piece's own dressing vs. the
+residual program-nature claims) is in `compliance-precedents.md`, 2026-10-05 entry,
+"Operative map." Form of NKU's permission (written or verbal) was not stated.
 
 **Read the distinction carefully — an earlier version of this note said flatly that
 "NKU branding is not currently used," and that is misleading enough to invert the
@@ -48,14 +52,16 @@ assets. He uses the *name* heavily. The control mailer
 names Northern Kentucky University three times plus the building and street address,
 and dresses the whole piece as a university course catalog: "FREE SPRING LEARNING
 PROGRAM" under a laurel wreath, "new academic courses," "about your course
-instructor." Trulip's own logo appears once, small, inside. Isla told Justin on
+instructor." Trulip's own logo appears once, small, inside. (2026-10-05: NKU has
+since told Justin he may use its name — see the ANSWERED note above.) Isla told Justin on
 2026-09-19 that he was leaving NKU's trust on the table; looking at the actual piece,
 that was wrong, and he corrected it.
 
 This matters because borrowed institutional authority is the load-bearing element in
 Jayme's mechanism read (growth-channels.md, 2026-09-19). An agent reading only "NKU
 branding is not used" would conclude the opposite of what the winning piece actually
-does. The marks are the open question; the name is already doing the work.
+does. The marks are the open question; the name is already doing the work. [2026-10-05: the name is now
+permitted by NKU directly; the marks sentence above is unchanged.]
 
 ## Vendors
 
