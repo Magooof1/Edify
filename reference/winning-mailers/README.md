@@ -74,7 +74,9 @@ it himself: "I think this is a different one."** He is right. It is the **2023**
   (859.547.6441), the Louisville permit indicia and the address area. Green half is the
   registration panel.
 
-**Barred or dead content visible on it, for the avoidance of doubt:** "Seating is limited so
+**SUPERSEDED 2026-10-05 — Justin's standing decision.** The NKU framing elements (the laurel crest, "Spring Learning Program," "new academic courses," "course instructor," "offered at NKU as a community service," catalog styling, NKU above the class name) are **available to the creative team**. Justin: *"I disagree with Ed. Those shouldn't be barred they have been approved. If marketing likes to keep them keep. Ed gets say but in the end I'll send through PM."* Ed still reviews and flags; Justin routes the piece through Portfolio Medics, which is the controlling step. **Do not re-litigate this.** Scarcity ("seating is limited") is a separate question and is NOT covered by this decision — see `.claude/memory/compliance-precedents.md`, 2026-10-05.
+
+**Dead or barred content visible on it — NOTE THE SPLIT ABOVE: the NKU items are no longer barred; the scarcity line and the dead URL still are:** "Seating is limited so
 please guarantee your reservation today" (scarcity — Ed's 2026-09-12 wall); "New academic
 courses"; the **SPRING LEARNING PROGRAM laurel crest**; "Northern Kentucky University" set
 above the class name; and `www.trulippartners.com/nku`. All of these are on Ed's

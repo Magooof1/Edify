@@ -1,5 +1,7 @@
 # Clean slate, $29k: which rule-breaks are available
 
+**SUPERSEDED 2026-10-05 — Justin's standing decision.** The NKU framing elements (the laurel crest, "Spring Learning Program," "new academic courses," "course instructor," "offered at NKU as a community service," catalog styling, NKU above the class name) are **available to the creative team**. Justin: *"I disagree with Ed. Those shouldn't be barred they have been approved. If marketing likes to keep them keep. Ed gets say but in the end I'll send through PM."* Ed still reviews and flags; Justin routes the piece through Portfolio Medics, which is the controlling step. **Do not re-litigate this.** Scarcity ("seating is limited") is a separate question and is NOT covered by this decision — see `.claude/memory/compliance-precedents.md`, 2026-10-05.
+
 > **[SUPERSEDED FACTS — added 2026-10-01 by Isla. Read this before anything below.]**
 >
 > Figures in this file predate three corrections and were not all revised inline:
@@ -167,7 +169,7 @@ This is a preliminary read, not a clearance. Both are my own drafts or Jayme's s
 - Directions and parking.
 
 Not permissible, even though the 2021 control did it:
-- Anything that makes the university the program's source: "Learning Program," "new academic courses," "course instructor," "offered at NKU as a community service," the catalog layout and laurel crest, a university-style listing.
+- ~~Anything that makes the university the program's source: "Learning Program," "new academic courses," "course instructor," "offered at NKU as a community service," the catalog layout and laurel crest, a university-style listing.~~ **← OVERRULED 2026-10-05. Ed's reading is left visible because it is still his reading; it is no longer the operative rule.** See the supersession note at the head of this file.
 - NKU in a headline, a URL, an email address, or a YouTube/bio line that reads as affiliation ("teaches at NKU").
 
 **Controls:**

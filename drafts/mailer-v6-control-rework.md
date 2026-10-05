@@ -175,9 +175,11 @@ close.]`
 | "Protecting your Retirement Plan in a Pandemic" | Cut. Dated. |
 | "The truth about annuities" | Cut. A nail, and it describes a product. |
 | Women's session and the Forbes life-expectancy paragraph | Cut. One class name; unsourced population statistic. |
-| "Offered free of charge at NKU as a community service"; "new academic courses" | Cut pending Justin's word on NKU. May imply a sponsorship that is not there. |
+| "Offered free of charge at NKU as a community service"; "new academic courses" | **RESTORED 2026-10-05 — Justin's word has come. Available to creative; see the supersession note below the table.** |
 | Bio: wife's and daughter's names, residence | Cut. Two descriptions of where he lives are on file (2021 piece: Northern Kentucky; slide 3 of the script: Cincinnati area). |
 | Eleven topic bullets ("You Will Learn") | Compressed to the four parts of the house, inside step 2. |
+
+**SUPERSEDED 2026-10-05 — Justin's standing decision.** The NKU framing elements (the laurel crest, "Spring Learning Program," "new academic courses," "course instructor," "offered at NKU as a community service," catalog styling, NKU above the class name) are **available to the creative team**. Justin: *"I disagree with Ed. Those shouldn't be barred they have been approved. If marketing likes to keep them keep. Ed gets say but in the end I'll send through PM."* Ed still reviews and flags; Justin routes the piece through Portfolio Medics, which is the controlling step. **Do not re-litigate this.** Scarcity ("seating is limited") is a separate question and is NOT covered by this decision — see `.claude/memory/compliance-precedents.md`, 2026-10-05.
 
 ## Printed promises that need an operational counterpart before this mails
 

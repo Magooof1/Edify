@@ -1012,3 +1012,62 @@ before content airs. Cross-ref the 2026-09-19 and 2026-09-22 entries above; this
 does not reopen or restate them, it links a third occurrence to the same open
 item already on Justin's compliance-email queue (`ROADMAP.md`, section 4,
 item 3).
+
+---
+
+## 2026-10-05 — Justin overrules Ed on NKU framing: STANDING decision, do not re-litigate
+
+**Source:** Justin, relayed by Isla 2026-10-05. Verbatim: *"I disagree with Ed. Those
+shouldn't be barred they have been approved. If marketing likes to keep them keep. Ed gets
+say but in the end I'll send through PM."*
+
+**What is overruled.** Ed's 2026-10-02 ruling on NKU framing (full text:
+`drafts/clean-slate-29k-ed-rulemap.md`, Item 2, Branch A; not previously logged in this
+file). Ed listed as not-available-on-a-rental: "offered at NKU as a community service,"
+"new academic courses," "course instructor," the laurel crest, the "Spring Learning
+Program" label, catalog styling, and NKU in a headline, URL or bio line. His reasoning: each
+makes the university read as the program's source; "I won't help find a disclaimer small
+enough to keep the effect."
+
+**The decision (record as fact):**
+- Those elements are **available to the creative team.** If the piece is better with them,
+  keep them.
+- **Ed still reviews and still flags** — advisory only, same as every agent here.
+- **Justin routes the piece through Portfolio Medics himself.** That is the controlling step
+  and it is his to take.
+- **Standing, not per-piece. Agents do not re-raise the NKU framing question.** The cost of
+  re-raising it is Justin's time. (Same posture as the 2026-09-16 Portfolio Medics
+  pre-approval decision.)
+
+**Three qualifications — factual, not pushback, none of them reopens the decision:**
+1. **"They have been approved" — by whom is unverified. OPEN QUESTION, not a
+   contradiction.** `CLAUDE.md` records Justin's 2026-09-16 decision that Portfolio Medics
+   does not pre-approve his marketing (disclosure only, where its name appears). So prior
+   approval of the 2021 and 2023 pieces may have come from the FMO, from NKU, or may mean the
+   pieces ran unchallenged. Justin's current plan to send this piece through PM is a separate
+   step from whatever happened in 2021/2023.
+2. **The question worth answering: did NKU review and permit the artwork?** If the
+   university saw and approved "Northern Kentucky University" above the class name, "New
+   academic courses" and the laurel crest, the party who could be misrepresented consented,
+   and Ed's implied-sponsorship concern largely resolves on the facts rather than on
+   authority. Unanswered. Relates to Ed's own Branch A control 1 (what the rental
+   agreement says about the university's name and marks; Justin holds it) and to the
+   "has anyone at NKU ever asked about the name or logo" question in
+   `drafts/venue-category-college-type-v1.md`.
+3. **Scarcity does NOT travel with this decision. FLAGGED, not decided either way.**
+   "Seating is limited so please guarantee your reservation today" (2023 piece) is not an
+   NKU matter. It is a pressure-tactic question under the SEC Marketing Rule, Ed's
+   2026-09-12 hard wall ("no urgency framing — ever," mirror-instrument entry above), **and
+   Justin's own standing rule ("no scarcity framing; 'first come' is out").** Reversing it
+   would be Justin reversing himself, not overruling Ed. The 2021 "seating is limited" line
+   passed only because COVID made limited capacity a statement of fact.
+
+**Cross-references:** `reference/winning-mailers/README.md` (2021 control and 2023 piece;
+the 2023 section's "barred or dead content" list now stands superseded for the NKU items
+only — scarcity line and the dead `trulippartners.com/nku` URL are unaffected). Venue
+contact facts confirmed by Justin 2026-10-05: address still current (2734 Chancellor Drive,
+Suite 110, Crestview Hills, KY 41017); phone is now 513-505-4214 (office line, not the
+tracked phone). Related: `partners-venues.md` (NKU).
+
+**Status:** decision recorded; open questions 1 and 2 are Justin's to answer if he wants
+them closed; item 3 (scarcity) unresolved.
