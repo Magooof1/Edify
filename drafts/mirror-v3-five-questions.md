@@ -731,7 +731,8 @@ everyone asks" cannot be printed at all.**
   the orphaned 401(k). It has no slot. If Justin wants it, it replaces Q3 and the market-drop
   question moves into the room.
 - **"Who, if anyone, would decide"** (argument 3).
-- **The beneficiary question, which has to go regardless** (not taught).
+- ~~**The beneficiary question, which has to go regardless** (not taught).~~ **WITHDRAWN,
+  see 9.10: the "not taught" finding was a keyword search of an index of topics.**
 - **Continuity is weaker than section 4 claimed.** The questions no longer walk the Step 2
   Form's rows; only the house art matches it. Still a tie-breaker, now a smaller one.
 
@@ -975,6 +976,95 @@ registrations per 1,000.
 7. **Strongest or weakest reading?** Justin's claim is about attendees, treated as strong
    enough to design on, not as measured.
 8. **Offer decided?** Unchanged: free class, mirror is the on-ramp.
+
+---
+
+## 9.10 AMENDMENT, 2026-10-05 (latest): the decks are an index, not a transcript
+
+**Justin:** *"not everything I go over is in the slides I just give you the topics."* Isla
+has retracted two findings I relied on, and I carried both into section 9 as if verified.
+
+**Superseded in section 9 above (do not read these as current):**
+- 9.1 argument 4 and the 9.1 loss list: "the beneficiary question is not taught at all /
+  has to go regardless." **Not established.** Justin had said "yes I go through that."
+- 9.2, "Where each line comes from," the Q3 bullet, and 9.8 flag 4, and 9.9 item 5 ("Not
+  verified: Q3 as a taught slide"): **Justin has confirmed he covers sequence-of-returns.**
+  Q3 stands as drafted and "the class works through each of these" needs no softening on that
+  account.
+- Slide 49's J.P. Morgan 2018 source is what the slide says. Whether it is what Justin
+  quotes in the room is his to say. I did not use it.
+
+**Rule from here, mine as well as Isla's:** presence on a slide is evidence; absence is not.
+Where coverage matters, ask Justin. (The slide numbers I cited for what *is* there remain
+Isla's findings and I still could not render the PDFs.)
+
+### Your view on Q2: you are right, and I think for a sharper reason than the one you gave
+
+Q2 ("how you'd know your savings will last as long as you do") is a level up in abstraction.
+The sharper reason: **it is the only question on the page where the reader's "I can say" cannot
+be checked against anything.** Q1 has a number, Q3 has an effect on that number, Q4 a named
+arrangement, Q5 a plan and a cost. "How I'd know" can be answered with a shrug that feels
+like an answer ("my advisor says I'm fine"). That is the confident-and-wrong invitation I
+said the page must not make, and my wording did not get out of it.
+
+### Where I disagree: do not replace it with legacy. Replace it with the other half of "enough."
+
+Justin's question is "do I have enough." The page's heading is that question in the reader's
+voice. **Once Q2 goes, nothing on the page is about enough**; Q1 is only the *income* half of
+it, and Q3 is how it would move. The missing half is **what goes out.** Income against
+spending is the simplest form of the test, and it is the class's own exercise: "What's My
+Gap?" (Part 2, per the README) and the visit's "if you say you need $5,000 a month..." (script
+slide 117). Both are present topics, which counts as evidence.
+
+**Replacement Q2:**
+
+> **2.** Could you say roughly how much you'll spend each month in retirement?
+> ☐ I can say    ☐ I'd have to find out
+
+It is a number, checkable by the reader in their own head, same level as Q1, and it makes
+Q1 and Q2 a pair: what comes in, what goes out. That carries "enough" more honestly than a
+question about method did. **What I give up:** the explicit longevity frame ("as long as you
+do"). Longevity is class content and is not what anyone arrives with; I accept the loss.
+
+### Legacy: a real choice now, and my recommendation is still to leave it off, for one reason
+
+Your balanced house (foundation, income, legacy, roof, a box in each) is elegant. Two
+arguments against making it the goal:
+
+1. **It re-imports the taxonomy.** The reshape's whole point is that the five questions come
+   from what strangers bring and the house only shows where the answer lives. Choosing
+   questions to fill the walls is the house leading again. Justin's evidence ranks legacy
+   fourth or fifth; it earns a slot if it beats long-term care, not because a wall is empty.
+2. **It works against Ed's new rule.** A fully ticked, fully balanced four-part house is a
+   picture of a finished house. The boxless, labelled legacy wall was a workaround, but it was
+   also the cheapest thing in the art that stopped five ticks from looking complete. If
+   every wall has a box, the rule rests on one key sentence alone.
+
+Neither is decisive, and the first is a view about design, not a measurement. So both
+options go to Justin as real drafts, one slot apart. **Only Q5 differs.**
+
+| | **Set 1 (my recommendation)** | **Set 2 (balanced house)** |
+|---|---|---|
+| Q1 | Monthly income and where it comes from | same |
+| Q2 | **Roughly how much you'll spend each month** | same |
+| Q3 | Sharp drop in the first few years, what it does to income | same |
+| Q4 | Health coverage from the day you stop working, and what it won't pay for | same |
+| Q5 | If you, or your spouse if you have one, needed long-term care, could you say how you'd handle it and roughly what it would cost? | **Could you say who is named to receive each of your accounts?** |
+| Art | Roof ☐ 4 ☐ 5; legacy wall boxless, "not asked on this page" | Roof ☐ 4; legacy wall ☐ 5; **no boxless wall** |
+| Ed's rule (full house not finished) | Art helps, key sentence helps | Key sentence only. Ed should see this one first. |
+| Loses | Beneficiary designation | Long-term care |
+
+**Wording for Set 2's Q5 is Justin's to confirm.** He said he covers designations; I have not
+seen how he teaches it, and a mirror question should match what he says in the room.
+**LTC and legacy are third-tier by Justin's own ranking.** The paper test (9.7) could settle
+the swap cheaply by adding one ask: which of the two would they rather the page asked.
+
+### Everything else in section 9 stands
+
+The heading, sub-line, answer pair, report key, key sentence, Q1, Q3, Q4, the art rules,
+Ed's flags (less the Q3 one), the CMS handling of Q4 and the paper test with its two
+additions. If Justin picks Set 1, 9.2's text with Q2 replaced is the print-ready page; if Set
+2, also replace Q5 and the house art as in the table.
 
 ---
 
