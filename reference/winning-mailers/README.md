@@ -80,4 +80,10 @@ courses"; the **SPRING LEARNING PROGRAM laurel crest**; "Northern Kentucky Unive
 above the class name; and `www.trulippartners.com/nku`. All of these are on Ed's
 not-available-on-a-rental list (2026-10-02) or are dead URLs.
 
-**Unconfirmed:** whether the return address and phone above are still current. They are 2023.
+**Confirmed by Justin, 2026-10-05:** the address is still current — 2734 Chancellor Drive,
+Suite 110, Crestview Hills, KY 41017. **The phone has changed: it is now 513-505-4214.**
+
+**Do not substitute that number for `[TRACKED PHONE]` on the new piece.** They are different
+things. 513-505-4214 is the office line and belongs in the return-address block. The tracked
+phone is a *measurement* instrument — a separate number whose only job is to attribute a call
+to this drop. If the two are the same number, the drop cannot be read.
