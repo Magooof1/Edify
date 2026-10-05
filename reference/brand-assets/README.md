@@ -71,6 +71,53 @@ Also note the board reads “…NNING YOUR RETIREMENT” — the P-L-A is croppe
 itself. The full-resolution original may not carry that crop. Worth checking before anyone
 designs around it.
 
+## The class photograph — supplied 2026-10-05, and it is the cover
+
+`class-in-room-nku.jpg` — **2576 × 1932**. Shot from the back of the room: roughly eight adults
+seated at tables with water bottles, coffee cups and papers; Justin at the front beside a
+projection screen. Most of the frame is backs of heads.
+
+**It does the job the 2021 control's stock classroom photograph did, and it is real.** A stranger
+sees people like them, already seated, from behind their own shoulder. That is what a cold reader
+is asking — “what am I walking into, and will people like me be there” — and it is not a question
+a portrait of the instructor answers.
+
+**It is also the only print-ready photograph in this folder: 8.6 inches at 300dpi.** Both
+whiteboard files top out at 3.4 and 1.9 inches. That ends the resolution problem for the cover.
+
+Crop in use on the January piece — chosen by cutting it and looking, not by arithmetic:
+**source x800–2576, y0–936.** That drops the near-foreground attendee in shorts and the empty
+carpet, which were together the bottom half of the frame.
+
+**Two honest flaws, neither fatal at cover size.** It is a phone snapshot — slightly soft, shot
+from hip height. And Justin's head is clipped by the top edge **in the source**, so no crop fixes
+it. If anyone photographs the February class, one frame from standing height with the presenter
+clear of the top edge would beat this outright.
+
+**Routed to Ed 2026-10-05, not resolved here:** three or four attendees are recognisable in
+profile. Whether appearing in an advertisement (making no statement) is an endorsement under the
+Marketing Rule, what changes if any of them are clients, and what written consent Justin should
+hold for a likeness in mailed advertising.
+
+## The NKU building photograph — HELD, do not use
+
+`nku-student-union-exterior-UNCLEARED.jpg` — 600 × 400. **Two separate problems, both unresolved.**
+
+1. **Provenance.** 600 × 400 is a website image. If it came from NKU's own site there is no
+   licence for it here, and permission to use the **name** is not permission to use their
+   **photograph**. It is also only 2 inches at 300dpi, so it could not run large even if cleared.
+2. **It escalates the institutional implication.** The 2021 control carried no building
+   photograph. A picture of their building says “NKU presents this” more strongly than anything
+   Justin's 2026-10-05 override covered — that override named the laurel, the programme label and
+   the catalogue styling, all of which already existed on the control.
+
+**The cheap fix for (1): Justin photographs the building himself on a visit.** Ours outright, and
+it will be higher resolution than this file. Whether (2) still bites after that is with Ed.
+
+**What it would be good for, once cleared:** a small image beside the location block. A 54–65
+audience driving to a campus they do not know benefits from seeing the door they are looking for.
+A real job — just not a cover job.
+
 ## Portraits
 
 | File | Notes |
@@ -130,8 +177,10 @@ logo and the three circles appear on the same surface.
 ## Still missing
 
 - A vector version of the logo, per above.
-- **A photograph of a class in a room, with people in it.** See below. This is now the more
-  urgent of the two.
+- ~~**A photograph of a class in a room, with people in it.**~~ **SUPPLIED 2026-10-05** — see
+  `class-in-room-nku.jpg` above. Still worth shooting a better frame at the February class.
+- The original full-resolution frame of the writing shot, and a cut-out made from that file.
+- A building photograph Justin owns, if the venue image is wanted.
 
 ---
 
