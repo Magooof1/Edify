@@ -53,13 +53,12 @@ it himself: "I think this is a different one."** He is right. It is the **2023**
 
 **What it settles, and what it changes.**
 
-- **Panel orientation: LANDSCAPE, 8.5 wide × 5.5 tall.** Visible directly — the two halves of
-  the sheet are printed **head-to-head** (the green half is rotated 180° against the white
-  half), which is the signature of a half-fold where the lower half folds behind. Isla's
-  artboards were built 5.5 × 8.5 portrait and are rotated 90° from the real piece.
-- **Panel count differs between the two pieces.** This 2023 one reads as an 8.5 × 11 sheet
-  folded once = **4 panels**. The 2021 control PDF is 17 × 11 flat (MediaBox 1224 × 792 pt) =
-  **8 panels**. Both finish at 8.5 × 5.5.
+- **Panel orientation on the mail face: LANDSCAPE, 8.5 wide × 5.5 tall.** Visible directly —
+  the two halves of the sheet are printed **head-to-head** (the green half is rotated 180° against
+  the white half), which is the signature of a half-fold where the lower half folds behind.
+- **~~Panel count differs between the two pieces.~~ CORRECTED 2026-10-05 — see the geometry
+  section at the bottom of this file. The earlier reading here (“8 panels of 8.5 × 5.5”) was
+  wrong about the shape of the control, and the correction came out of the control's own file.**
 - **THE FIND THAT MATTERS: two of the three 2023 sessions were WEEKDAY EVENINGS.**
   - 1 Evening — Thursday 4/20/2023, 5:00–8:45pm
   - 1 Morning — Saturday 4/22/2023, 8:30am–12:15pm
@@ -89,3 +88,45 @@ Suite 110, Crestview Hills, KY 41017. **The phone has changed: it is now 513-505
 things. 513-505-4214 is the office line and belongs in the return-address block. The tracked
 phone is a *measurement* instrument — a separate number whose only job is to attribute a call
 to this drop. If the two are the same number, the drop cannot be read.
+
+
+---
+
+## The control's actual geometry — settled 2026-10-05, from the PDF itself
+
+**Read this before anyone designs another panel.** The fold question was argued from
+photographs twice and got a different answer each time. The file answers it outright.
+
+Method: every text run in `2021-spring-nku-seminar.pdf` was extracted with its position and
+its full transform matrix, so each run's quadrant **and its rotation** are known.
+
+**What the piece is.** A **17 × 11 sheet, printed both sides** (MediaBox 1224 × 792 pt, two
+pages, set in InDesign). **One vertical fold** down the centre makes an 8.5 × 11 four-page
+piece. **One horizontal mail fold** then brings it to 8.5 × 5.5 for the mailbox.
+
+**So it has FIVE design surfaces — not four, and not eight:**
+
+| Surface | Size | What the control put on it |
+|---|---|---|
+| Mail panel | 8.5 × 5.5 **landscape** | laurel + SPRING LEARNING PROGRAM, NKU above both class names, the course blurb, return address, indicia, address area |
+| Registration | 8.5 × 5.5 **landscape**, prints 180° | three session blocks, “choose the day,” register URL, “no cost but advanced registration required” |
+| Cover | 8.5 × 11 **portrait** | photograph filling the top half; headline, class names and course location below |
+| Inside left | 8.5 × 11 **portrait** | ABOUT OUR COURSES, then two columns — You Will Learn / Who Should Attend — and the full disclosure block at the foot |
+| Inside right | 8.5 × 11 **portrait** | ABOUT YOUR COURSE INSTRUCTOR, then COURSE INFORMATION with a paragraph per session |
+
+**The two pieces of evidence, stated so nobody has to re-derive them:**
+
+1. **The inside halves are full 8.5 × 11 pages, not pairs of small panels.** On inside-left the
+   “You Will Learn” bullet list runs continuously from y=581 down to y=278 — straight through
+   the y=396 crease. No designer starts a bullet one point below a fold. The crease is a crease;
+   the reader opens the piece flat.
+2. **The mail fold is real and it is head-to-head.** Page one's lower-left quadrant is the only
+   block anywhere on the sheet printed at 180° — the same signature visible on the 2023 photo.
+
+**The practical consequence for any new piece.** Five printed surfaces, two of them landscape and
+three of them portrait. A challenger that keeps the control's format keeps that. The portrait
+inside pages are why the control could carry a two-column syllabus and a full disclosure block
+without crowding — and why type on the inside does not have to sit at the 9pt print floor.
+
+**Watch the crease at exactly half height on the three portrait pages.** The control used it well:
+the cover photograph ends on it.
