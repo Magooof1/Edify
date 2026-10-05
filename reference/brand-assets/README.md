@@ -94,10 +94,31 @@ from hip height. And Justin's head is clipped by the top edge **in the source**,
 it. If anyone photographs the February class, one frame from standing height with the presenter
 clear of the top edge would beat this outright.
 
-**Routed to Ed 2026-10-05, not resolved here:** three or four attendees are recognisable in
-profile. Whether appearing in an advertisement (making no statement) is an endorsement under the
-Marketing Rule, what changes if any of them are clients, and what written consent Justin should
-hold for a likeness in mailed advertising.
+**Ed's findings, 2026-10-05 — and they moved the crop.**
+
+- **Securities: clear.** A silent image is neither a testimonial nor an endorsement; both
+  definitions turn on a **statement**, and a person sitting in a room makes none. True even if
+  that person is a client. **But the caption can undo it** — “join people like these,” “our
+  clients,” a pull quote beside the photo, anything naming them as clients. The cover carries no
+  caption and should stay that way.
+- **Likeness: not clear.** Commercial use of a recognisable face wants a signed release per
+  person, and recognisability is judged by people who **know** the person — so “soft” and “in
+  profile” do not help when the mail lands in the same community they live in.
+- **The 2026-08-25 precedent bites:** marketing consent is a separate opt-in obtained **before**
+  the shoot and never asked for once good material exists. This photograph already exists.
+
+**So the crop in use moved to source x1150, not x800** — past the three recognisable faces at the
+left of frame. What remains is four people seen from behind or in deep profile, plus Justin.
+Nobody has to be asked for anything.
+
+**Still open on provenance, and the second one is not a formality:** who took it (copyright sits
+with the photographer absent a written assignment); **was it at NKU** (if it was another venue the
+photograph implies something untrue about this class); which year; and whether the rental
+agreement carries a photography clause. Also check a proof at print size — there is a projected
+slide and whiteboard handwriting in frame, and anything legible is content on the mailer.
+
+**For February, not for this drop:** run both sessions release-first — an opt-in checkbox at
+sign-in and a no-photo seating area. Then the next piece has faces and nobody is asked afterwards.
 
 ## The NKU building photograph — HELD, do not use
 
