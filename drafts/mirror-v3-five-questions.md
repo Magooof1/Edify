@@ -654,5 +654,329 @@ Piece-level: registrations per 1,000, via the unique vanity URL and tracked phon
 with the page marked. **Neither separates the two mirrors** (section 4). The paper test is
 the only instrument that can.
 
+---
+---
+
+# 9. THIRD PASS, 2026-10-05 (later): open on the question people have
+
+**Added after Justin's evidence below. Sections 1-8 above are left in place as the record.
+Where section 9 and sections 2-4 disagree, section 9 is current and sections 2 and 3 are
+superseded as drafts (their reasoning on report keys, Ed's wall and the Q5 bind still
+stands).**
+
+**Justin, 2026-10-05, verbatim:** *"The number 1 question everyone asks is do I have
+enough. The number 2 questions is about health insurance. The full house is important
+but..."*
+
+**Files opened for this pass:** this file; `WHERE-THINGS-ARE.md`; `brand-voice.md` (STANDING
+section, re-read); `compliance-precedents.md` (2026-09-12 mirror box, 2026-09-19 rulings);
+`reference/class/script-part-1.md` (slides 4, 6, 19, 113); Ed's findings and the slide
+extraction as relayed by Isla. **I could not open the slide PDFs myself** (the page renderer
+is not installed here) and there is no text extraction on file, so every slide number below
+is Isla's finding, not mine. Marked where it matters.
+
+## 9.1 Verdict on the reshape: AGREE with the direction, argue with four details
+
+You are right and it is the same error one level up. Section 2 fixed the *order inside the
+instrument* (the taxonomy was the money buckets) and replaced it with the instructor's
+taxonomy (the house). Both are the class's way of organising the answer. A stranger arrives
+with a question, not a taxonomy. The house now has the job it is good at: showing **where an
+answer comes from**, not announcing a tour.
+
+**What Justin's evidence is, at its weakest.** It is his account of what *class attendees*
+ask, across years. That is the best evidence on file and from the person with the most
+exposure, and it is also a selected group: people who came to a class. A cold list may bring
+something else. I am treating it as strong enough to design on, not as a measured result. The
+paper test (9.7) can check it cheaply.
+
+**One thing that must not leak from his sentence.** "The number 1 question everyone asks"
+is Justin's observation. Printed on the mailer it is a population claim, and the "In my
+experience" hedge does not cure it in functional copy (Ed, 2026-09-19). **"Do I have
+enough?" can be printed as the reader's own voice in quotation marks; "the question
+everyone asks" cannot be printed at all.**
+
+### The four arguments with the sketch
+
+1. **"Does it last to 95?" should not name 95.** A number reads as a longevity claim, and
+   the class's longevity slide is a sourced statistic that a one-line question cannot carry.
+   It also drags in the status register ("at 95 you'd..."). "As long as you do" carries the
+   same thing, needs no figure, and avoids the claim.
+2. **A "could you say" question cannot ask "does it last" directly.** "Do I have enough" is
+   an *outcome*; the reader can only tick "I can say yes," which is a confident-and-wrong
+   invitation and, worse, makes the page look like it answers the question. **The instrument
+   cannot answer "do I have enough," and the panel must say so out loud** (Ed's
+   honest-half principle). So the question tests the one thing the reader *can* self-test:
+   whether they could say **how they'd know.** That is also the strongest relief mechanism
+   available on a cold piece: the reader discovers they have an answer to the number but not
+   to the method, or the reverse.
+3. **Keep the market-drop question, and tie it to income, not to "savings."** Section 2's
+   Q1 asked "what would happen to your savings, and who, if anyone, would decide what to
+   do." The new Q3 drops the "who" clause to stay single-barrelled. That loses the seed of
+   the advisor-watching correction, which now lives only in the room. A real loss; I accept
+   it because keeping it makes the question double-barrelled.
+4. **Four parts of the house, five questions, and one wall has no question.** The sketch
+   covers money (foundation), income (wall) and health and care (roof), and **drops legacy
+   entirely.** I think that is right: estate content is taught (Part 2 slide 42: probate,
+   will, power of attorney, trust, per Isla) but it is not what anyone arrives with, and
+   the beneficiary question is not taught at all. But the house art must not pretend. A
+   fill-in house with a boxless wall is exactly the "hole" Ed barred, so the wall is drawn,
+   labelled, and **printed with "not asked on this page."** That also satisfies Ed's new rule
+   that a fully ticked house must not read as finished: it cannot, because one wall says it
+   was not covered.
+
+### What the reshape loses, so Justin chooses it with open eyes
+
+- **The old-job-account question.** Section 2's Q2 ("every account you have, including any
+  left behind at an old job") was the only question aimed at the practice's classic prospect,
+  the orphaned 401(k). It has no slot. If Justin wants it, it replaces Q3 and the market-drop
+  question moves into the room.
+- **"Who, if anyone, would decide"** (argument 3).
+- **The beneficiary question, which has to go regardless** (not taught).
+- **Continuity is weaker than section 4 claimed.** The questions no longer walk the Step 2
+  Form's rows; only the house art matches it. Still a tie-breaker, now a smaller one.
+
+## 9.2 Recommended wording, final print-ready (inside-right, 8.5 x 11 portrait)
+
+Kept from section 2, unchanged: the answer pair, the report key, one box per question, the
+fill-in house, no tally, no color on empty boxes, no storm imagery. Applied from Ed:
+"whole" dropped from the heading, "before you leave" for "at the end," his
+educational-only notice (placeholder below: I do not have his text), "a few minutes" for
+"two minutes."
+
+---
+
+**"Do I have enough?" Five questions to start with.**
+
+*This page can't answer it for you. It shows what you could say from memory today when you
+ask it.*
+
+A few minutes and a pencil. You don't need to know anything about investing, only about your
+own situation.
+
+For each question, tick the first box only if you could answer from memory, right now.
+Otherwise tick the second. "I'd have to find out" is a perfectly good answer. Nothing here
+is graded, and your answers stay with you.
+
+**1.** Could you say how much you'll have coming in each month in retirement, and where each
+part of it comes from?
+☐ I can say    ☐ I'd have to find out
+
+**2.** Could you say how you'd know your savings will last as long as you do?
+☐ I can say    ☐ I'd have to find out
+
+**3.** If the market dropped sharply in your first few years of retirement, could you say what
+that would do to what's coming in?
+☐ I can say    ☐ I'd have to find out
+
+**4.** Could you say how you'll be covered for health care from the day you stop working, and
+what that coverage won't pay for?
+☐ I can say    ☐ I'd have to find out
+
+**5.** If you, or your spouse if you have one, needed long-term care, could you say how you'd
+handle it and roughly what it would cost?
+☐ I can say    ☐ I'd have to find out
+
+---
+
+**Now fill in your house.** If you ticked "I can say," put a check in the matching box.
+Leave the others empty.
+
+```
+                  YOUR HEALTH AND CARE
+                      ☐ 4     ☐ 5
+        ┌───────────────────────────────────┐
+        │  YOUR INCOME   │  WHAT YOU LEAVE  │
+        │     ☐ 1        │  BEHIND          │
+        │                │  (not asked on   │
+        │               YOU  this page)     │
+        ├───────────────────────────────────┤
+        │  YOUR MONEY            ☐ 2   ☐ 3 │
+        └───────────────────────────────────┘
+```
+
+A ticked box and an empty box are both just what you said today. Neither is a finding about
+your retirement, and this page can't tell you whether you have enough.
+
+There's no wrong picture here, just yours.
+
+**Bring this with you.** The class works through each of these, and before you leave you
+choose which one you'd like to talk through.
+
+**Register:** [VANITY URL] · [QR] · [TRACKED PHONE]  *(No cost. Registration required.)*
+
+*[ED'S educational-only notice, his wording, pointer to the disclosure block on the facing
+page.]*
+
+---
+
+### Where each line comes from, and what I checked
+
+- **Heading and sub-line.** "Do I have enough?" is the reader's voice, in quotation marks. The
+  sub-line puts the honest half *first*: the page does not answer it. **Cover check on this
+  panel, both halves:** what they get: a picture of what they could say when they ask it;
+  what it is about, logo covered: "your retirement," Q1-Q5 and the house. Passes.
+- **"Five questions to start with."** Not "five questions everyone should ask": no claim
+  about people, no advice about what to ask.
+- **Ed's rewritten key sentence.** His replacement says the page "can't tell you whether
+  anything is missing." "Missing" is on his own barred list and Isla is flagging it back to
+  him. **I wrote around it** with the reader's own word instead: *"A ticked box and an empty
+  box are both just what you said today. Neither is a finding about your retirement, and this
+  page can't tell you whether you have enough."* It keeps everything his sentence did (it
+  records only what the reader said; it disclaims a verdict) and adds the reverse case, so a
+  fully ticked house cannot read as finished. **None of gap, missing, hole, incomplete,
+  exposed or protected appears on the panel or in the art.** Ed rules; if he prefers his own
+  sentence minus the barred word, that is a one-line swap.
+- **"The class works through each of these."** Isla's slide findings (not mine): Q1 income
+  and Q2 lasting: Part 2 slides 16, 17, 22, 23; health coverage: slides 44-47; long-term care
+  and costs: slides 48-49. For Q3 I can vouch only for the *topic* (market cycles in Part 2's
+  setup per the class README; the Everest "danger zone" frame, script slide 6), **not for a
+  slide that asks "what would a drop in the first few years do to your income."** Justin or
+  Isla should confirm Q3 is taught as such, or soften the line to "the class works through
+  most of these." (Hedge: I would rather soften than assert; "most" here is about the class's
+  coverage, not about people.)
+- **"Before you leave you choose which one you'd like to talk through."** Per Ed's change
+  and the script's close: the Step 2 Form is in the room's hands for the second half and the
+  close is "pick one thing to start with." No claim that the class "starts from what you
+  checked."
+
+### The health coverage question and the CMS regime
+
+I asked the *question* and described no *answer*. Specifically: **Q4 does not name
+Medicare at all**, nor any plan type, nor enrolment, nor any benefit. "How you'll be covered
+for health care from the day you stop working" is the reader supplying the answer.
+"What that coverage won't pay for" asks whether they could say; it describes nothing and
+assumes only that coverage has limits. **Costs of this choice:** the word "Medicare" does not
+appear, which is the word a scanning 63-year-old looks for. **Alternative for Ed, not in the
+draft:** name Medicare in the question ("...from the day you stop working until Medicare
+starts, and what Medicare won't pay for after"). That is the sketch's version, scans better
+and is closer to what Justin's readers literally ask. It is also the one that puts the
+page nearest the CMS line, because "what Medicare won't pay for" starts to describe Medicare.
+My recommendation is the version without the name, and I would test whether anyone *notices*.
+**Flag to Ed: is naming Medicare in a question, with no description of it, inside or outside
+that regime?**
+
+**Two more things for Ed on Q4/Q5:** "what that coverage won't pay for" presupposes limits
+(true of all coverage, and a class topic); "needed long-term care" names the topic and no
+product, and states no cost (the class's slide 49 figure is J.P. Morgan 2018, Justin's call;
+the page does not use it).
+
+## 9.3 Q-by-Q: what each does, and the confident-and-wrong reader
+
+| Q | What the reader could really say | Confident-and-wrong | Caught where |
+|---|---|---|---|
+| 1 | A number, and a list of sources | Counts Social Security as certain when the claiming age is undecided | Class income section |
+| 2 | A method ("my advisor's plan," "a spreadsheet," "the 4% thing") | "My advisor says I'm fine" | The room; the page does **not** try |
+| 3 | Even "it'd come down" is an answer | "I'm mostly bonds" | The class's 60/40 slide |
+| 4 | The employer plan, COBRA, a spouse's policy, "I'll be 65 by then" | "Medicare covers it" | Class Medicare section |
+| 5 | A plan, savings, children | "Medicare covers it" | Class care-facts section |
+
+As in section 2d, every correction stays **out** of the panel. Each would be teaching.
+
+## 9.4 What the new set does to the outside of the piece
+
+The mailing panel's qualifier bullets are the mirror's outward face and the 3-second
+surface. They should now lead with the reader's own question. **An illustration, not a
+request, and not for Ed yet:**
+
+> **This class is for you if…**
+> • You've asked yourself "do I have enough?" and couldn't say how you'd know.
+> • You'd have to look up what comes in each month, or where it comes from.
+> • You're not sure how you'll be covered for health care once you stop working.
+> • You don't know much about investing, and you don't need to.
+
+**The larger flag:** if "do I have enough" and health insurance are what people arrive with,
+they are cover-and-headline questions too, not just mirror content. The cover currently
+reads "Find out if anything's missing from your retirement," and a stranger does not carry
+that question. I have **not** built it because it is a bigger change than the instrument
+(and "missing" is Isla's own cover line, outside the panel Ed barred it from), but the same
+altitude error is probably sitting on the cover. Isla's call whether to ask me to look.
+
+## 9.5 The Foundation fallback: withdrawn, with a real reason
+
+You are right and I should state it plainly: **section 3 does not meet the same standard.**
+It keeps yes/no, keeps the Q1-or-Q2 and Q3-and-Q4 logic, and keeps two classifier labels.
+(I said so in section 3 where it lists "what I left alone," and it was my own choice to
+spare Ed's cleared text, but that makes it a *repair of the old instrument*, not a
+fallback to the same standard.)
+
+I am **withdrawing it as the alternative.** The reasons have changed, not just the
+standard: it is a three-bucket instrument on a cold surface, which Justin's evidence shows
+is further from what people bring than the house was. Its remaining case is "smaller blast
+radius," and that case has weakened, because **both the house and the reshape touch the same
+five dependents, so the cost gap shrinks to Ed-rounds.**
+
+**If Justin wants a real second option, it is a different decision:** keep a money-only
+instrument and rebuild it to the standard above (report key, answer pair, one box per
+question). That would be a **third draft** I have not written (it would reuse the accounts question
+from section 2, including old-job accounts). I will write it if Isla asks; I did not build
+it unasked, and I have not claimed it is better. **The honest state of the table is
+one recommended draft (9.2) and the old instrument for reference.**
+
+## 9.6 Ed's two new build rules, checked against 9.2
+
+| Rule | Check |
+|---|---|
+| A fully ticked house must not read as complete or finished, in art or copy | The legacy wall is drawn but labelled "not asked on this page," so five checks still leave a wall unticked and uncovered by design. The key sentence covers the reverse case in words. **Residual:** five ticks plus a tidy picture can still *feel* finished. Only the paper test shows whether it does. |
+| Barred words on the panel and art: gap, missing, hole, incomplete, exposed, protected | Searched my own text: none appear. **One near-miss:** a boxless wall in the art is, visually, an absence. It is labelled, not shaded, and Ed should look at the art. |
+| (Carried from before) no verdict, no tally, no color on empty boxes, no storm | Unchanged. |
+
+**Two other things I changed because of the rules and want Ed to see:** the heading no
+longer says "Is anything missing?" (barred, and a promise the panel cannot keep), and the
+sub-line states the page's limit first.
+
+## 9.7 What I would test if I could test only one thing (revised)
+
+The paper test in section 4 stands: 8-10 non-clients in the 55-65 band, printed mockup,
+watch for failures, not preference. **Two additions:**
+
+1. **Before showing anything, ask each person what their first question about retirement is,
+   in their own words, and write it down.** That tests Justin's claim on a different
+   population than his classes (strangers, not attendees) in ten minutes. If "do I have
+   enough" and health coverage come up unprompted, the reshape is confirmed where it matters.
+   If not, we have learned the evidence is about attendees. It cannot give a ranking, but it
+   can give a very informative zero.
+2. **Ask whether the first question matched the page's first question.** The strongest
+   single read: did the page say the thing they were already wondering?
+
+**What it cannot read, unchanged:** registrations. January cannot read this either; at the
+record's volumes a split of the drop is single digits per arm. The mirror's measure remains
+the door count of attendees who arrive with the page marked, and the piece-level
+registrations per 1,000.
+
+## 9.8 Flags for Ed (additions to section 5)
+
+1. The key sentence: my replacement versus his, because his uses a word he barred.
+2. Whether naming Medicare in Q4 is inside or outside the CMS regime (9.2); my draft omits it.
+3. The art: boxless legacy wall, "not asked on this page," no shading.
+4. "The class works through each of these" until Q3's slide coverage is confirmed (9.2).
+5. "Do I have enough?" in quotation marks as the reader's own voice. Ed to confirm it is not a
+   promise the page makes.
+6. Q3's "first few years" presupposes that early losses matter. It is a class theme (Everest
+   frame) and an educational framing, not a claim about the reader, but Ed's call.
+7. The panel carries no reference to the class's 4% rule or any longevity figure, on purpose.
+
+## 9.9 Pre-flight, third pass
+
+1. **Nail or outcome?** The panel opens on the reader's own question and names what the page
+   can and cannot do. That is the right altitude.
+2. **Names its subject?** Yes, "your retirement" in the sub-line and the questions.
+3. **Which end of the class?** The opening: what strangers bring. The house is the teaching
+   frame and is demoted to a location device. This pass corrects the earlier one.
+4. **Honest half attached?** The sub-line and the key sentence state the page cannot answer
+   "do I have enough." The danger is the outside copy and cover, not this panel.
+5. **Verified or inferred?** *Verified:* script slides 4, 6, 19 and 113; Justin's quotation;
+   Ed's and Isla's reports of what they changed. *Isla's findings that I cannot re-verify
+   (no renderer, no extraction on file):* the slide numbers for enough, Medicare, estate and
+   care facts, and that no slide teaches checking beneficiaries. *Inferred:* that "how you'd
+   know" is a better self-test than "does it last"; that omitting "Medicare" is safer; that
+   unticked legacy won't read as a hole. *Not verified:* Q3 as a taught slide.
+6. **Already on record?** Used: the altitude rule, Ed's 2026-09-19 population-claim ruling,
+   `WHERE-THINGS-ARE.md`'s list of dependents.
+7. **Strongest or weakest reading?** Justin's claim is about attendees, treated as strong
+   enough to design on, not as measured.
+8. **Offer decided?** Unchanged: free class, mirror is the on-ramp.
+
+---
+
 *Nothing here is approved. Ed's review comes before Justin's, and Justin decides. I flagged
 and argued; the choice between these two drafts is his.*
