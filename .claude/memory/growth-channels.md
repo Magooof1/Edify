@@ -161,6 +161,9 @@ report on them as if they were separable channels.
     invert initiation — reader sends the card back (text a photo / reply), Justin
     calls them. Has its own compliance shape (outbound calling, collecting responses,
     recordkeeping). Under evaluation on the correction variant first.
+    **[AMENDED 2026-10-05 — see "AMENDMENT 2026-10-05" below the same-day CORRECTION.
+    "A lot of hits" is now 1,393 link clicks; "the diagnostic engages" is NOT
+    supported; the entry above is left as originally written.]**
   - **Correction-triggered variant built (2026-09-12, Sloan) —
     `drafts/mirror-card-correction-v1.md`, with Ed for review.** Same five questions
     verbatim from v2 (deliberate — reuses cleared language, keeps Ed's review a
@@ -207,6 +210,12 @@ report on them as if they were separable channels.
     than the DRA list, so it's a floor not a forecast, but it tests the mechanism
     before mail runs. Justin's decision. Also: Justin builds his own Squarespace
     pages — the QR destination for the mirror can be a page he controls.
+    **[AMENDED 2026-10-05 — see "AMENDMENT 2026-10-05" below. Findings (1)-(7) remain
+    valid as an analysis of that page, but the page's identity as the one that ran is
+    still inference; "most hits were never captured" and "four CTAs ≠ booking" rest on
+    a funnel nobody has measured (starts/completions/captures are on Squarespace, not
+    pulled). "Justin tried PDF, meeting, video CTAs — zero booked" is Justin's
+    recollection, not in the Meta data. Original text left as written.]**
   - **CORRECTION to the post-mortem (2026-09-12, same day):** Justin isn't sure the
     page he showed is the version that actually ran — there were several quiz
     versions ("Fb learn more > Quiz," "Quiz 2") and he can't recall which went live,
@@ -217,6 +226,108 @@ report on them as if they were separable channels.
     keeping: had the original test been logged (creative, audience, CTA, spend,
     result), it would be usable data now. This is what Rule 204-2 recordkeeping is
     for beyond compliance.
+    **[AMENDED 2026-10-05 — see the AMENDMENT below. "Can't recall which version ran" is
+    closed for the ad creative (one image, confirmed) but not for the landing page
+    (inferred). The conclusion above stands and is firmer: the amendment supplies the
+    why. "Several versions" were landing pages, not ads. Original text left as
+    written.]**
+  - **AMENDMENT 2026-10-05 — Meta Ads Manager data for the quiz ad, shown by Justin
+    (screenshots). Amends the three FB quiz entries above; none of them is rewritten, so
+    the sequence of what was known when stays legible. Data, not approval.**
+    **The data.** Account "Edify Retirement"; campaign/ad set "Advisor Selection Quiz";
+    three ads, all the same image.
+    | Ad | Spend | Impr. | Reach | Freq. | CPM | Link clicks |
+    |---|---|---|---|---|---|---|
+    | Advisor Selection Quiz | $438.74 | 236,445 | 28,072 | 8.42 | $1.86 | 1,123 |
+    | ...Quiz – Copy | $95.74 | 40,171 | 11,273 | 3.56 | $2.38 | 270 |
+    | ...Quiz – Copy 2 | never delivered | — | — | — | — | — |
+    Totals: **$534.48 spend, 1,393 link clicks, $0.38/link click, 0.50% CTR.** Unique
+    reach is **28,072 to 39,345** (the two ads overlap) — reaches must not be added.
+    **Spend column was unlabelled in the screenshot; verified, not read off a header** —
+    reconciled against CPM both ways ($438.74 / 236,445 x 1,000 = $1.86; $95.74 /
+    40,171 x 1,000 = $2.38). Source is Justin's screenshots only; I have not seen the
+    account.
+    **What this settles or changes — each is a correction to what is written above:**
+    1. **"A lot of hits" is quantified, and smaller than the framing.** The 09-12 entry
+       said nobody knew whether "hits" meant clicks, starts or completions. It means
+       **1,393 link clicks.** Justin said "thousands took it" in conversation; the
+       account does not support that. A link click is arrival at the landing page.
+       Quiz starts and completions are subsets of it, are **unknown**, and are not
+       visible in Meta — they would be in Squarespace.
+    2. **"Read: the diagnostic engages; the ask-for-a-meeting fails" (09-12 data-point
+       entry) is NOT SUPPORTED — mark as such.** At 0.50% CTR the ad was not
+       exceptionally engaging; impressions were simply very cheap. Whether the
+       diagnostic engaged at all is unknown. The phrase "Realization ≠ booking" in
+       that entry inherits the same problem (the post-mortem already said it was never
+       established; this removes the "engages" half too).
+    3. **Creative that ran — CONFIRMED on the ad; page still INFERRED.** The ad is
+       archived at `reference/brand-assets/fb-quiz-ad-2026-ARCHIVE.png`: "Are You
+       Asking the 5 Questions Smart Retirees Never Skip," over a free-guide mock "5
+       Questions Every Smart Retiree Asks **Their Advisor**," TAKE THE QUIZ button.
+       The same-day CORRECTION said Justin could not recall which version ran; **on
+       the ad creative that is now closed.** On the **landing page** it is not: the
+       page he showed was titled "...Asks **Themselves**" while its five questions
+       were all about the advisor. This ad promises a free guide of advisor questions,
+       which is what that page delivered behind an email gate. **Strong inference,
+       not confirmation** — treat the post-mortem as a read of the probable page.
+    4. **There was never a creative test.** All three ads ran the same image; "Copy"
+       and "Copy 2" are duplicates. The CORRECTION's "several quiz versions" ("Fb learn
+       more > Quiz," "Quiz 2") were **landing pages**, not ads. Across $534: one
+       promise, one image, no variant.
+    5. **The $1.86 CPM is the finding, and it points away from the optimistic read.**
+       A tightly targeted US pre-retiree audience (55-65, investable assets,
+       Cincinnati/NKY ZIPs) normally runs far higher. $1.86 at frequency 8.42
+       indicates loose targeting, cheap placements, or optimisation for impressions
+       rather than clicks or leads. **Zero appointments off $534 of
+       probably-mistargeted impressions is not evidence the mirror's mechanism fails.**
+       The CORRECTION already said the FB data tells us nothing either way; this
+       gives the *why*, so that conclusion is firmer, not softer. Caveat on
+       provenance: "normally runs far higher" is a judgment, no benchmark figure
+       checked or on record; and what the ad set's targeting actually was is **not
+       known** (see open items) — "probably mistargeted" is inferred from the CPM.
+    6. **Planning input, weakest reading: $0.38 per link click is a FLOOR, not a
+       forecast** — bought with loose targeting. A properly targeted test should be
+       budgeted at **several times** that ("several" is unquantified). **Do not record
+       it as what a mirror landing-page test would cost.**
+    **STILL OPEN (recorded as open, not answered):**
+    - The ad set's **targeting and placements** (a $1.86 CPM usually means Audience
+      Network or similar was in the mix).
+    - The **actual run dates.** The screenshot's "Sep 5, 2023 – Oct 5, 2026" is the
+      filter range, not the flight.
+    - **Quiz starts and completions** — in Squarespace, not pulled.
+    - **Whether any conversion event was configured.** A "Purchases" column is
+      present; its values were off-screen.
+    **FLAGGED against the record (not resolved here; Isla's/Justin's call):**
+    - **Targeting premise vs. the Special Ad Category entry (2026-09-12 "later,"
+      below).** Justin confirmed from prior experience that Meta puts this account's
+      ads in the Financial Products and Services Special Ad Category, which removes
+      age bands (18-65+ only), ZIP-level targeting and income. If the quiz ad ran
+      under it, the 55-65 / ZIP-level audience in point 5 could not have been set
+      directly — which fits the CPM but means the comparison is "what that audience
+      would cost," not "what we aimed at." Whether the quiz ad ran in that category
+      is unconfirmed.
+    - **Entries elsewhere in this file that now read wrong or looser than before**
+      (none edited): (a) line "Three candidate causes — wrong audience (FB targeting
+      vs. DRA list), CTA too big a jump, or no follow-up mechanism" (09-12 data point
+      entry) — "wrong audience" is now the best-supported of the three but still not
+      measured; (b) "Sloan's read on the FB data — adopted: the FB failure is
+      under-instrumented" — "failure" overstates what the data shows about the
+      mechanism; "under-instrumented" holds and is reinforced (no variant, no
+      captured conversion data, unknown targeting); (c) the 09-12 DECISION's
+      "targeting to mirror the DRA list demographics" and the 2026-09-12 Special Ad
+      Category entry's "raise the impressions floor to ~1,000+ per variant" — the
+      quiz ad had 276,616 impressions, so volume was never the constraint; audience
+      and instrumentation were; (d) the 09-12 post-mortem's "Sloan's call not to
+      change the base card's CTA off the FB result is confirmed" — still stands, and
+      is now confirmed on stronger ground.
+    - **Meta verification sequencing.** The 2026-09-12 "later" entry says verification
+      (2+ weeks) must precede any FB spend; this account has $534 of spend. Run dates
+      are unknown, so I cannot say whether that spend predates the requirement. Not a
+      finding — a question the run dates would answer.
+    - **Other memory files:** `brand-voice.md` ("Revisit after the FB mirror test")
+      refers to the mirror test, which has not run; the quiz was not it. Reads
+      correctly, but note the quiz is not "the FB mirror test." Nothing in
+      `compliance-precedents.md` depends on the quiz result.
   - **DECISION (2026-09-12): test the mirror through Facebook FIRST, before mail.**
     Sloan adapting base card v2 into a landing page (five questions verbatim, three
     boxes, ONE button to the calendar — no video, no course, no PDF, no email gate,
