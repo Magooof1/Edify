@@ -107,9 +107,14 @@ clear of the top edge would beat this outright.
 - **The 2026-08-25 precedent bites:** marketing consent is a separate opt-in obtained **before**
   the shoot and never asked for once good material exists. This photograph already exists.
 
-**So the crop in use moved to source x1150, not x800** — past the three recognisable faces at the
-left of frame. What remains is four people seen from behind or in deep profile, plus Justin.
-Nobody has to be asked for anything.
+**So the crop in use moved to source x1150, not x800** — past the recognisable faces at the left
+of frame. **Stated precisely, because loose wording here imports the exact risk Ed named:** what
+remains is **three attendees, all seen from behind**, plus Justin. Not “profile” — Ed's own rule
+is that profile does not defeat recognition by people who know someone, so describing the
+remainder as profile would have undone the reason for the crop. Verified by cutting the frame and
+looking at it, not inferred. The one partial is the woman at the left edge, who shows a sliver of
+cheek; Justin knows these people and should say whether she is identifiable. If she is, another
+inch costs nothing.
 
 **Still open on provenance, and the second one is not a formality:** who took it (copyright sits
 with the photographer absent a written assignment); **was it at NKU** (if it was another venue the
@@ -133,7 +138,16 @@ sign-in and a no-photo seating area. Then the next piece has faces and nobody is
    the catalogue styling, all of which already existed on the control.
 
 **The cheap fix for (1): Justin photographs the building himself on a visit.** Ours outright, and
-it will be higher resolution than this file. Whether (2) still bites after that is with Ed.
+it will be higher resolution than this file.
+
+**(2) is answered, 2026-10-05 — it largely does not bite once the photo is his own.** Ed's read:
+federal law (17 USC 120) permits photographing a building visible from a public place, so a
+self-taken exterior raises no compliance bar; wayfinding is true, and the 2021 control already
+printed the building name and street address. What is left is a judgment about how much
+institutional feeling the piece should carry, which is Justin's and Portfolio Medics' to weigh —
+not a compliance question. **Conditions:** shoot from a public vantage, keep identifiable people
+out, avoid signage or vehicles carrying NKU's logo, and make sure it is the building the class
+actually meets in. List the photograph explicitly in the Portfolio Medics send.
 
 **What it would be good for, once cleared:** a small image beside the location block. A 54–65
 audience driving to a campus they do not know benefits from seeing the door they are looking for.
@@ -237,6 +251,12 @@ is the live question.
 2. **Stock.** The control's cover was stock classroom photography, and that piece produced $6M.
    Using stock here is not a compromise; it is what the winner did.
 
-The Green/Blue/Red caveat above still stands and still needs Ed. It changes nothing on the
-January piece, which is already a Green piece by its first question and already fences to
-Ohio and Kentucky — but that is his call to make, not a designer's.
+**The Green/Blue/Red caveat is answered, 2026-10-05.** Not live on the January piece: it is
+already a Green piece by its inside question 1 and already fenced to OH/KY, so unlabelled circles
+add no new fence and no new disclosure. Ed's read, for Justin and Portfolio Medics to confirm, is
+that unlabelled coloured circles do not describe Green — they show colours, not a claim.
+**It becomes live again** on any Blue-only piece (a national play, a Meta ad, a cold card with no
+Green content); on any labelling that attaches meaning (caption, legend, alt text, or adjacent
+copy such as “principal-protected” or “the green bucket”); in paid social, where the unit cannot
+carry a qualifier; and on the three-buckets card, where the existing rules already stand.
+Full entry: `.claude/memory/compliance-precedents.md`, 2026-10-05.

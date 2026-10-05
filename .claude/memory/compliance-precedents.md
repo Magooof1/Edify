@@ -31,7 +31,9 @@ content):**
    gray call — needs outside compliance counsel, not just Ed's read.
 3. **Photo/content consent** must be obtained BEFORE any shoot or content-generating
    event. Marketing-use consent must be a separate, opt-in ask — not the default — and
-   never requested after the fact once good material already exists.
+   never requested after the fact once good material already exists. **See also
+   2026-10-05 "Photographing a class" entry (end of file): this rule applied to an
+   already-existing class photo and shaped the remedy (crop, not after-the-fact releases).**
 4. **Recordkeeping applies to informal channels too** — texts, handwritten notes, verbal
    scripts — not just formal marketing materials. These are easy to lose track of; a
    deliberate capture step is needed.
@@ -1110,3 +1112,132 @@ Use this, not Ed's 2026-10-02 undifferentiated list, when sorting NKU-related el
 **Unchanged:** qualification 3 (scarcity — "seating is limited," Justin's own "no
 scarcity framing" rule, Ed's 2026-09-12 wall) is unaffected and stays flagged exactly as
 logged. Standing decision stands; agents do not re-raise the NKU framing question.
+
+---
+
+## 2026-10-05 — Photographing a class: people in the photo (testimonial, privacy, likeness), building photo, bucket circles
+
+**Find this when:** any piece uses a photograph of real attendees (class photo on a mailer
+cover, social, YouTube thumbnail, web); anyone proposes photographing a class; anyone asks
+"can we use this photo of the room"; a building/venue photo is proposed; the Green/Blue/Red
+circles appear in an image. Recurs every time the practice photographs a class.
+
+**Operational version lives elsewhere — not restated here:**
+`reference/brand-assets/README.md`, section "The class photograph" (crop coordinates,
+provenance checks, proof-at-print-size). This entry is the compliance reasoning behind it.
+
+**Source:** Ed's rulings, 2026-10-05, on `reference/brand-assets/class-in-room-nku.jpg`
+(Justin's own past class: ~8 adults seated at tables, shot from the back, Justin at the
+front; three or four attendees recognisable in profile), for the January 2027 NKU mailer
+cover. Routed by Isla as three image questions. Ed's findings below are the precedent.
+Ed advises only; nothing here is approved; final authority is Justin's, and the piece
+routes through Portfolio Medics.
+
+### 1. A silent image is not a testimonial or endorsement (SEC Marketing Rule)
+Both definitions in Rule 206(4)-1 turn on a **statement**: a testimonial is a current
+client's statement about their experience; an endorsement is someone else's statement
+approving, recommending, describing their experience, or soliciting. A person sitting in a
+room makes no statement. **True even if the person photographed is a current client**; the
+(b) disclosure obligations do not attach.
+
+### 2. The caption is what can undo it
+The general prohibition reads the whole ad by overall impression. Each of these is new
+content needing its own pass: "join people like these," "our clients," "attendees love
+it," a pull quote beside the photo, any caption identifying the people as clients. A purely
+descriptive caption ("a past class at NKU") is fine **if true**. The January cover carries
+no caption. (Cross-ref the 2026-09-25 "I wish I'd learned this sooner" entry: client quotes
+are testimonials; a photo next to one makes the pairing the problem.)
+
+### 3. Client privacy is separate from the testimonial question
+Printing a client's face next to the practice, mailed into the community where that person
+lives, may reveal that they are a client. Ed flagged **Portfolio Medics' privacy notice and
+Reg S-P** as worth checking. **Ed did NOT check them. UNVERIFIED, open.**
+
+### 4. Right of publicity is the practical exposure (not a securities question)
+Commercial use of a recognisable likeness gives the person a claim in Kentucky and Ohio;
+Ohio has a statute (ORC Chapter 2741) contemplating written consent. **Ed worked from
+memory and said counsel should confirm current law in both states. UNVERIFIED, open.**
+**Recognisability is judged by people who know the person, not by strangers** — so "soft
+focus" and "in profile" do not help when the mail lands where the attendees live.
+What is wanted: a **separate, signed, dated model release per person** (not a clause in a
+sign-in sheet) naming the person, the event and date, the users and media, the term,
+whether anything was given, a statement that appearing is not an endorsement and implies
+nothing about client status, and an acknowledgement that revocation cannot recall printed
+pieces.
+
+### 5. This record's own rule came back (most important)
+The 2026-08-25 entry, checklist item 3, says marketing consent is a separate opt-in,
+obtained **before** the shoot, and **never requested once good material already exists.**
+This photograph already existed. Asking afterwards is exactly the posture that rule was
+written against, and worse if any subject is a client: an adviser asking a client for a
+favour is a pressure dynamic. **Cross-referenced both ways** (pointer added at 2026-08-25
+item 3). Lesson: the rule was logged under gift/event concepts but applies to any
+content-generating moment, including a past class photographed for another purpose.
+
+### 6. Remedy chosen, at no cost: crop past the faces
+Isla moved the crop past the recognisable faces (source x1150 per the README). What
+remains: four people seen from behind or in deep profile, plus Justin. Ed ranked cropping
+the cheapest clean option and recommended **against blurring** faces: it reads oddly on a
+trust-building cover, does not defeat recognition by hair, clothing and posture, and keeps
+the exposure partly alive while losing the faces anyway.
+
+### 7. DISAGREEMENT, unresolved — Ed vs. Isla, Justin's call
+- **Ed:** a backs-only frame gives up the cover's job — answering "will people like me be
+  there?" — and he called that a real loss he would not minimise.
+- **Isla:** it does not. Grey hair, posture, the way people sit and the water bottles still
+  read as a room of people in their sixties, and a reader looking over a stranger's
+  shoulder puts themselves in the seat more readily than one looking at a stranger's face.
+- **Status: unresolved. Justin decides when he looks at the crop.** Not smoothed over here.
+
+### 8. NKU building photograph
+`nku-student-union-exterior-UNCLEARED.jpg` (600x400 web image) **held on provenance**: no
+licence we can point to, and **permission to use a venue's name is not permission to use
+its photograph.** Ed's read on a **self-taken exterior shot**: no compliance bar — federal
+law permits photographing a building visible from a public place — and the "it escalates
+the institutional implication" worry largely falls away, because wayfinding is true and the
+2021 control already printed the building name and street address. **Conditions:** public
+vantage; no identifiable people; no NKU logo on signage or vehicles; must be the building
+the class actually meets in. (Related: NKU name permission and element map, 2026-10-05
+entry above; `partners-venues.md`, NKU.)
+
+### 9. Green/Blue/Red circles — not live on the January piece
+Confirmed not live: the piece is already Green via its inside question 1 and already fenced
+to OH/KY, so unlabelled circles add no new fence and no new disclosure. **They become live
+again on:** any Blue-only piece (national play, Meta ad, cold card with no Green content);
+any labelling that attaches meaning (caption, legend, alt text, adjacent copy such as
+"principal-protected" or "the green bucket"); paid social where the unit cannot carry a
+qualifier; and the three-buckets card, where existing rules already stand (see 2026-09-18
+entries). Answers the caveat the brand-assets README carried ("Ed's call").
+
+### STANDING OPERATIONAL RULE — run class photography release-first
+Separate opt-in photo-release checkbox at sign-in **plus a no-photo seating area**,
+starting with the **16 and 20 February 2027** sessions. That is what makes faces usable
+next time without anyone being asked after the fact. Consent is obtained before the shoot,
+per item 5.
+
+### Flagged against the existing record (not resolved, not overwritten)
+1. **Deep profile vs. item 4.** The crop's remaining people are described as "from behind or
+   in deep profile." Item 4 says profile does not defeat recognition by people who know the
+   person. Whether any of the four remaining are recognisable to acquaintances is **not
+   established**; the record shows only that the three faces at left were cut. Ed has not
+   ruled on the final crop's residual people. Justin/Ed's call.
+2. **Count of recognisable attendees.** The README says the crop moved past "three
+   recognisable faces"; Ed's finding says "three or four." If a fourth was recognisable,
+   it is unverified that x1150 clears them.
+3. **The README's building-photo section still reads HELD, "Whether (2) still bites after
+   that is with Ed"** — Ed's answer (item 8) is now recorded here but the README has not
+   been updated (deliberately not edited by Vannevar at Justin's instruction).
+   Likewise its circles caveat still says "flag to Ed" (answered, item 9). Same facts, two
+   states of the record until the README is updated.
+4. **The 2026-08-25 family photo shoot** is still logged as "pending Ed's photo-consent
+   process before send" (`growth-channels.md`). Ed's release elements above were written
+   for a class photo; whether they are the intended consent process there is not stated.
+   Not assumed.
+5. **Unchecked or unverified by Ed:** Portfolio Medics privacy notice/Reg S-P (item 3);
+   current KY and OH likeness law (item 4, from memory). Also still open in the README:
+   photographer/copyright, whether the photo was taken at NKU, the year, and whether the
+   rental agreement has a photography clause.
+
+**Status (2026-10-05):** January cover uses the cropped frame, no caption. Nothing
+approved or printed. Item 7 disagreement open for Justin. Release-first rule applies from
+the February 2027 classes.
