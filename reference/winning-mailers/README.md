@@ -130,3 +130,20 @@ without crowding — and why type on the inside does not have to sit at the 9pt 
 
 **Watch the crease at exactly half height on the three portrait pages.** The control used it well:
 the cover photograph ends on it.
+
+
+### One discrepancy between the PDF and the printed piece — noted 2026-10-05
+
+Justin photographed the physical registration panel. It reads **Saturday 4/24/2021** for the
+Financial Empowerment for Women session. The PDF in this folder reads **Saturday 4/23/2021**.
+
+Everything else on the panel matches the PDF word for word. So `2021-spring-nku-seminar.pdf`
+is **a proof, not the file that went to press** — at least one date moved after it was made.
+Treat the PDF as authoritative for **layout and geometry**, which is what it was used for, and
+the physical piece as authoritative for **content**. Don't quote a date out of the PDF.
+
+The registration panel is also now confirmed physically: landscape, 8.5 × 5.5, reversed white
+on the navy, centred and symmetric — headline, one instruction line, equal session columns
+separated by “-or-”, then the register block stacked down the middle, then the all-caps
+“no cost but advanced registration required” line, then a small help line. That composition is
+the catalogue read. A challenger that keeps the control's format keeps it.
