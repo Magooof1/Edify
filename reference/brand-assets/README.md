@@ -18,8 +18,10 @@ Against the failures this workforce has already diagnosed, it does three jobs at
 - **It puts a face on a piece.** The rejected three-buckets card had none, and a warm
   photograph of real people is among the load-bearing elements of the 2021 control
   that produced $6M (`reference/winning-mailers/`).
-- **It shows him teaching**, which is what the education brand actually is and what the
-  control's classroom photograph conveyed without a word of copy.
+- ~~**It shows him teaching**, which is what the education brand actually is and what the
+  control's classroom photograph conveyed without a word of copy.~~ **WRONG — corrected
+  2026-10-05, once the control's photograph had actually been seen.** See the section at the
+  foot of this file.
 - **It carries the three-bucket frame visually**, with no claim made and nothing named.
 
 **One caveat, and it is a real one — flag to Ed before this appears in any cold piece.**
@@ -91,4 +93,44 @@ logo and the three circles appear on the same surface.
 
 ## Still missing
 
-A vector version of the logo, per above. Nothing else outstanding.
+- A vector version of the logo, per above.
+- **A photograph of a class in a room, with people in it.** See below. This is now the more
+  urgent of the two.
+
+---
+
+## Corrected 2026-10-05: the whiteboard shot is not a classroom photograph
+
+Justin photographed the 2021 control panel by panel, which is the first time anyone here
+had seen its cover image. The entry above compares the whiteboard shot to it. The comparison
+does not hold, and the difference matters for the January piece.
+
+| | The control's cover | `justin-whiteboard-three-buckets.jpg` |
+|---|---|---|
+| Setting | a classroom — desks, a window | white studio seamless |
+| People | five adults seated, pens out, a presenter leaning in | Justin, alone |
+| Dress | shirtsleeves | navy suit |
+| What it answers | “what am I walking into, and will people like me be there?” | “who is this man?” |
+
+For a cold reader deciding in two seconds, the first question is the one being asked. The
+second one is not being asked yet.
+
+**It also breaks this file's own rule.** “Open collar over tie for anything cold” is set
+above, and reasoned from Justin naming intimidation as a barrier. The whiteboard shot is a
+suit, and it is currently the cover of the coldest piece in the practice.
+
+**What is still true about it:** the board itself — PLANNING YOUR RETIREMENT, the house with
+**YOU** inside, the three circles — is a picture of his actual method, which almost no advisor
+has. That strength belongs **inside**, beside how-the-class-works, where what-happens-in-the-room
+is the live question.
+
+**What to shoot or source, in order:**
+
+1. **A real class.** Justin has run these for years. If any photograph exists of a room with
+   attendees in it, that is the asset, and nothing needs buying.
+2. **Stock.** The control's cover was stock classroom photography, and that piece produced $6M.
+   Using stock here is not a compromise; it is what the winner did.
+
+The Green/Blue/Red caveat above still stands and still needs Ed. It changes nothing on the
+January piece, which is already a Green piece by its first question and already fences to
+Ohio and Kentucky — but that is his call to make, not a designer's.
