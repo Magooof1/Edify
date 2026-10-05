@@ -35,6 +35,42 @@ visual elements can introduce an implication "without anyone treating it as new 
 needing review."* A photograph is not exempt from review just because it is a
 photograph. Route it before it ships, not after.
 
+## The writing cut-out — supplied 2026-10-05, and it is the better cover frame
+
+`justin-whiteboard-writing-cutout.png` — Justin in profile, mid-stroke, **writing** the house
+on the board. Background knocked out (RGBA, real alpha), so the figure sits on whatever colour
+it is placed on.
+
+**Better than `justin-whiteboard-three-buckets.jpg` for a cold cover, for three reasons:**
+
+- **Action, not pose.** He is doing the thing the class is. The other frame is a man smiling at
+  a camera beside a prop.
+- **No studio rectangle.** The knocked-out background removes the white box, which is most of
+  what made the posed frame read as advertising rather than as a catalogue.
+- **It is not the crowd.** Every seminar mailer in this category runs a stock classroom. The
+  brand-voice rule is that aspiration is the crowd and relief is the open position; a real man
+  drawing a real house is not the crowd.
+
+**It is still a suit**, so the open-collar rule below is still being traded away on the cover.
+That is now a conscious trade for the action frame, not an oversight.
+
+### Resolution — this blocks print, and it is on the critical path
+
+| File | Pixels | Max clean print width at 300dpi | Used at |
+|---|---|---|---|
+| `justin-whiteboard-writing-cutout.png` | 570 × 505 | **1.9 in** | ~6 in |
+| `justin-whiteboard-three-buckets.jpg` | 1024 × 683 | **3.4 in** | ~8.5 in |
+| `justin-portrait-open-collar-hi-res.jpg` | 1359 × 2008 | 4.5 in | fine for a bio portrait |
+
+Both whiteboard files are web-sized. On press they will look soft at best. **What is needed from
+the photographer: the original full-resolution frame of the writing shot, and a cut-out made from
+that file** — the 570px PNG is a derived web asset, not a camera original. Roughly 2,600px on the
+long edge covers any use on this piece.
+
+Also note the board reads “…NNING YOUR RETIREMENT” — the P-L-A is cropped in the source file
+itself. The full-resolution original may not carry that crop. Worth checking before anyone
+designs around it.
+
 ## Portraits
 
 | File | Notes |
