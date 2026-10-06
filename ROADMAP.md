@@ -63,6 +63,34 @@ pipeline against a $22M book.
     A stranger sees "free retirement class," which is what the other eleven
     pieces say. He was paying to compete on the one dimension where he looks
     identical to everyone else.
+
+  **RECONCILED 2026-10-06, because Justin felt the contradiction before anyone
+  fixed the file.** His words, looking at the January front: *"Maybe we're still
+  just playing in the same game we were playing before. Or was that what we were
+  trying to do?"* He was reading his own plan correctly. This entry says the play
+  is retired; the January drop is that play. Three later decisions reinstated it,
+  each of them sound, and nobody came back here:
+
+  - **2026-09-25** — *"continue to pay the rent but focus more of the efforts on
+    owning the land."* Mail is rent. It is not the engine and was never
+    re-promoted to one.
+  - **2026-09-28** — rework the 2021 control rather than design a challenger.
+  - **2026-10-01** — the class, not a mirror-then-visit offer.
+
+  **So the plan and the work are not actually in conflict — the file was just
+  never updated to say so.** January mail is a rent payment: it keeps a room full
+  while the land gets built. What went wrong is that this workforce spent weeks
+  treating a rent payment like a growth bet.
+
+  **And the trap above is the whole of Justin's complaint, written on 2026-09-19
+  and then not applied.** *Differentiated on the inside and commoditized on the
+  outside.* The January piece reproduced it exactly: the mirror, the house and the
+  honest questions are genuinely unlike what competitors send, and every one of
+  them sits behind the fold. A stranger sees a free retirement class, same as the
+  other eleven. **The job of the front is to make the inside visible at the
+  mailbox** — that is the only thing on the outside worth arguing about, and it is
+  what `drafts/mailer-front-v7.md` Option 2 does.
+
 - **Replacing it: three doors to Blue that don't require buying mailbox
   attention.** All three were already in this plan; they are now the plan.
   - **Invited** — a host institution's name on the invitation. Credit unions
