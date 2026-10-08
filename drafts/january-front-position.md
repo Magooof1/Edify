@@ -107,12 +107,10 @@ Justin supplied the 2023 NKU results (full numbers in `drafts/offer-options-and-
 Taleb named this as the first thing that would make him wrong: *"The 2023 NKU drop produced
 about 0.8 units per 1,000 pieces or more, near 2021's 1.1. Then the costume protects and the
 exposed face should keep it."* **Registered: 1.08 per 1,000. Attended: 0.75.** The falsifier
-is met on registrations and sits at its edge on attendance. 2021 and 2023 are statistically
-indistinguishable on room-filling (p about 0.6); the Ohio drops are not (p about 0.012).
+is met on registrations and sits at its edge on attendance. **Whether 2021 and 2023 match is NOT established** (2021's "11 units" may count a different stage; see the correction in `offer-options-and-ranking.md`). **What is established:** 2023 filled a room at about three times the rate of the two Ohio drops (p about 0.007 to 0.012).
 
 **Isla reverses her recommendation.** On 2026-10-06 she told Justin the catalogue look "has
-decayed" and recommended Jayme's Option 2. That was reasoning, not measurement, and the first
-first-party measurement says the opposite **through 2023**. The fall in room-filling appears
+decayed" and recommended Jayme's Option 2. That was reasoning, not measurement. The first first-party measurement says the front was **not failing at NKU in 2023**, though it cannot say it matched 2021. The fall in room-filling appears
 between 2023 and 2025, which is when the venue left NKU for Ohio.
 
 **What this does and does not establish.** It does not show the costume works in 2027: four
@@ -126,3 +124,9 @@ what Justin asked for ("I don't want to change too many variables").
 units; the pooled Ohio rate predicts about 1.75. That is a threefold gap, wide enough to see:
 **two or fewer registered points to an era or crowding effect; five or more points to a place
 effect.** Roughly a one-in-ten call either way, so a lean and not a verdict.
+
+**Correction later the same day.** The addendum above first read as though 2023 matched 2021's
+room-filling. Vannevar showed that comparison may be across different stages. **The reversal
+stands, on weaker footing:** January is at NKU, and NKU's own recent history says the front
+filled rooms. It does not say the front is as strong as in 2021, and it does not say the look
+protects it from RPU.

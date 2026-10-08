@@ -2191,3 +2191,235 @@ pre-registered 2025 test is Taleb's (the 2025 drawdown figure is second-hand, Gr
 and the 40-49% / 24-33% arithmetic are Vannevar's, from stated inputs; the process-failure
 account is Isla's. No household rows, per-household dollar figures or demographics tied to
 amounts entered.
+
+---
+
+## 2026-10-06 — THE 2023 NKU DROP: the missing row, and what it changes (Justin's numbers; Isla's reading; filed by Vannevar 2026-10-08)
+
+**Nothing here is approved. Session-level aggregates only; no household rows.** The full
+table, the per-1,000 arithmetic and the p-values are already in
+`drafts/offer-options-and-ranking.md` (rows under "ANSWERED BY JUSTIN") and the verdict is in
+`drafts/january-front-position.md` (Addendum 2026-10-06). **This entry holds the durable
+facts and the corrections; read those two drafts for the working, do not re-derive.**
+
+### 1. What Justin supplied (2026-10-06)
+
+Spring 2023 NKU mailer, **~12,000 pieces.** "Units" in Justin's usage here = **households**
+(16 people = 9 units).
+
+| Session | Registered | Attended | Clients | Assets |
+|---|---|---|---|---|
+| Sat 4/22/2023 | 9 units (16 people) | 7 units | 3 | $800K ("total assets") |
+| Tue 4/25/2023 | 4 units | 2 | 1 | $250K ("AUM") |
+| **Thu 4/20/2023** | **UNREPORTED** | **UNREPORTED** | **UNREPORTED** | **UNREPORTED** |
+| **Total reported** | **13 units** | **9 units** | **4** | **$1.05M** |
+
+**Thursday is on the mailer and Justin did not report it. It is unreported, not zero.**
+Consequence: every 2023 rate below is a **floor** if Thursday ran and anyone came.
+**Open:** did Thursday run, and with how many.
+
+**2023 spend: not supplied. Open.**
+
+### 2. Tie-out, recorded as verified
+
+$800K + $250K = **$1.05M = the 2023 year-acquired figure already on record to the dollar**
+(2026-10-01 "(later)" entry, section 3 table: 2023 = $1.050M). So **for 2023 the vintage
+was entirely class-sourced** (or Thursday added nothing to the sample). **That retires, for
+2023 only, the caveat that year-acquired AUM includes non-class doors** (flag F and the
+"Not established" line in the 2026-10-01 "(later)" entry). Every other year keeps the
+caveat. The book-level finding that a quarter to a third of AUM arrived with no marketing
+spend is **not touched.**
+
+### 3. Derived, base stated (per 1,000 pieces, 2023 base = 12,000; 2021 and Ohio = ~10,000 each)
+
+| Drop | Registered | Attended | Clients | AUM |
+|---|---|---|---|---|
+| NKU 2021 | 1.10 (11 units) | not supplied | plausibly 0.7 (7 households; unverified) | ~$913K ($9.13M year-acquired) |
+| **NKU 2023** | **1.08** | **0.75** | **0.33** | **~$88K** |
+| IWU West Chester Apr 2025 | 0.40 (4) | 0.40 | not supplied | not supplied |
+| Harrison Apr 2026 | 0.30 (3) | 0.30 | not supplied | not supplied |
+
+Exact conditional tests, **post-hoc, tiny n, Isla's figures as supplied, not recomputed by
+Vannevar:** 2021 vs 2023 indistinguishable (p about 0.6); Ohio pooled (7 on 20,000) vs 2023
+p about 0.012; vs 2021 p about 0.014.
+
+### 4. The weakest reading that is still actionable — and the line beyond it
+
+**Supported:** at NKU, wearing the catalogue look, room-filling in 2023 was at **roughly the
+2021 rate.** The fall appears **between 2023 and 2025.**
+
+**NOT ESTABLISHED (do not quote any of these as findings):**
+- **That the cause is place, era, the costume, or venue prestige.** They are confounded: 2025
+  was IWU West Chester, 2026 was Harrison Junior High (Justin confirmed the pieces carried
+  those institution names). **Whether the 2025/26 pieces also carried the laurel / "Learning
+  Program" styling is unknown; Justin has been asked.** Three data points cannot separate the
+  four.
+- **Unit definitions do not line up.** 2023 = households. 2021's "11 units" is reconciled in
+  the 2026-10-01 "(later)" entry as **plausibly individuals across 7 households, unverified.**
+  2025/26 units are undefined. **A comparability hole, not a resolved one.**
+- **Show rate:** **9 of 13 in 2023** (Sat 7/9, Tue 2/4) against the Ohio drops' 100%. **The
+  100% is the outlier.**
+
+**Hypothesis only, held as weakly as it can be held.** The ~10x AUM gap between 2021 and 2023
+looks mostly like what happens **after the room** rather than getting people into it: clients
+per 1,000 pieces about **0.33 vs a plausible 0.7**; average size about **$262K vs about
+$1.3M.** Both 2021 inputs rest on "7 households," which is plausible-not-verified, and the
+client counts are **n=4 and n=7.** Not a finding.
+
+### 5. Corrections to existing entries — listed, NOT rewritten
+
+(a) **2026-10-01 entry, section 3 ("2023 should show a bump. It does not"),** and the same
+sentence quoted in the 2026-10-01 "(later)" entry, section 4. **True of AUM; its implication
+that the 2023 piece underperformed 2021 at getting people in is not supported by the units.**
+The 2022 half of that "hole" is untouched.
+(b) **Any reading of "the costume did not repeat 2021" or of 5% vs 45% as costume decay.**
+Located: `drafts/january-front-position.md` finding 1 (Taleb's, now answered by the addendum at
+the foot of that file). The 5% / 45% are year-level AUM shares, a different measure from
+units per piece.
+(c) **Taleb's pre-registered falsifier #1 is MET** (registered 1.08 against his "0.8 or more,
+near 2021's 1.1"; attended 0.75 at its edge). Recorded in the addendum to
+`drafts/january-front-position.md`. The original falsifier list was not located as a separate
+file.
+(d) **2026-09-19 "Jayme's mechanism read" entry, "Transferable vs. expired" paragraph** (this
+file, ~line 759-762), which lists "the university-catalog illusion specifically within
+Justin's core NKU territory, since competitors copied it there" under **Expired.** Its
+inference has **contrary first-party evidence through 2023.** Wording check: that paragraph
+says "Expired"; it does not say "not transferable" in those words.
+
+### 6. Isla's reversal, recorded plainly
+
+On 2026-10-06 Isla recommended Jayme's **Option 2** (the Questions front, in
+`drafts/mailer-front-v7.md`) **on the premise that the catalogue look had decayed. That was
+reasoning from the category's crowding, not measurement.** The first measurement says
+otherwise through 2023. **She now recommends Option 1** (the Catalogue with a question).
+Jayme's own stated confidence in Option 2 was about 55/45 (mailer-front-v7.md, section 0).
+**Name collision to hold:** "Option 1 / Option 2" in mailer-front-v7.md are the two **fronts**;
+"Offer 1 / Offer 2" in `offer-options-and-ranking.md` are mirror-then-visit and "Part One."
+Different things.
+
+### 7. Open, recorded as open
+
+- The 2023 spend.
+- The Thursday 4/20 session (ran? attendance? clients?).
+- Whether the 2025 and 2026 pieces carried the laurel styling or only the venue name (asked).
+- **January as a read:** at **5,000 pieces** the 2023 rate predicts about **5.4** registered
+  units and the pooled Ohio rate about **1.75.** **Two or fewer points to an era or crowding
+  effect; five or more to a place effect.** Roughly a one-in-ten call either way (Isla): **a
+  lean, not a verdict.**
+
+### Vannevar's flags — contradictions and base problems, for Isla/Justin; none resolved here
+
+1. **Stage mismatch risk in the headline comparison.** The 2026-10-01 "(later)" reconciliation
+   says **seven households were acquired from 2021 classes, so 11 is plausibly eleven
+   individuals across seven households** — that reads as the **client-side** count, and
+   `offer-options-and-ranking.md` labels 2021's 11 "buying units." The 2023 figure compared
+   to it (13) is **registered.** If 2021's 11 is clients-side, "1.10 vs 1.08 registered" is
+   not like-for-like, and the stage-matched pair would be clients: **~0.7 (7 households)
+   vs 0.33 (4).** That would weaken "roughly the 2021 rate" as stated in section 4. Only
+   Justin can say what the 11 counted.
+2. **2021 AUM base.** The $913K per 1,000 uses **$9.13M year-acquired (which may include
+   non-class sources)**; the record's **defensible** 2021 figure credited to the mailer is
+   **~$6M** (2026-10-01 corrections block C4, Jayme). Derived by Vannevar, not stated by
+   anyone: on ~$6M, 2021 is **~$600K per 1,000, and the 2021-to-2023 AUM gap is ~6.8x, not
+   ~10x.** The 2023 side is class-only (section 2), so the two sides of the "~10x" are on
+   different bases. The decomposition in section 4 inherits this.
+3. **"$800K total assets" vs "$250K AUM."** Supplied with different labels. The tie-out to the
+   year-acquired AUM figure works on the sum, so either the labels are loose or Saturday
+   includes assets not under management. Recorded as supplied; Justin to confirm.
+4. **Harrison piece count.** The 2026-09-28 itemisation on record is **11,597 pieces**
+   ($8,063 mail); the rate above uses the round ~10,000. On 11,597, Harrison is **~0.26 per
+   1,000** and Ohio pooled ~0.32. Direction unchanged.
+5. **`offer-options-and-ranking.md` still carries "Show rate: 100%. Everyone who registered
+   came." and "The show-up hypothesis is dead"** directly beneath the new 9-of-13 paragraph.
+   Both are true of the two Ohio drops only. Not edited (drafts untouched, per instruction).
+6. **`ROADMAP.md` (~line 92) still names `mailer-front-v7.md` Option 2** as what the front
+   should do. Stale against the reversal in section 6. ROADMAP is Isla's.
+7. **Class count for 2023.** The 2026-10-01 "(later)" table records 2023 as a **two-class
+   year**; the mailer listed **three** sessions (Thu 4/20 included). Tied to the Thursday
+   open item.
+8. **`WHERE-THINGS-ARE.md`** (last swept 2026-10-05) does not yet point at this entry; the
+   sweep is Isla's.
+
+**Source:** the 2023 figures, "units = households" and the 2025/26 institution names are
+Justin's (2026-10-06). The per-1,000 arithmetic, p-values, reading, reversal and January
+projection are Isla's (as recorded in the two drafts). The corrections list is Vannevar's
+location work; flags 1-8 are Vannevar's.
+
+---
+
+## 2026-10-06 — RETIREMENT PLANNING UNIVERSITY (competitor material). EVERY POINT UNVERIFIED BY ISLA. (Isla's brief; filed by Vannevar 2026-10-08)
+
+**Provenance, first.** Justin asked "what is Retirement Planning University?" Isla answered
+**from search results only: her fetch of the organizer page failed on DNS, so she never
+opened it.** Every point below is **a search summary, marked unverified-by-Isla.** This
+extends, and does not replace, the earlier mentions: `drafts/clean-slate-29k-jayme.md`
+(~line 874, also via search summary, also unverified), `drafts/venue-category-college-type-v1.md`
+(lines ~77, 128, 200) and `drafts/offer-options-and-ranking.md` ("Retirement Planning
+University runs a two-night course, 6:00-8:30 each night... April 2026 NKU listing showed a
+waitlist"). Nothing is approved; nothing contacted.
+
+**What it appears to be (search summary).**
+- An Eventbrite organizer, "Retirement Planning University," listing **free** Cincinnati-area
+  retirement courses at **NKU and Xavier** (Schiff Family Conference Center, Cintas Center).
+- **NKU sessions** found by Taleb: **24 Mar, 28 Apr, 16 Jun and 8 Sep 2026, all Tuesdays at
+  6pm.** This search also surfaced **Xavier dates Jul-Sep 2026.** **Nothing yet seen for
+  February 2027.** (Justin's 16 February 2027 class is a Tuesday.) Listings are advertising,
+  not attendance.
+- **A two-night course** on 401(k)s, IRAs, brokerage accounts, taxes, health care and estate
+  planning; **"specific financial products will NOT be discussed"**; taught by "a qualified
+  financial professional"; **one-on-one time with the instructor.** **Structurally close to
+  Justin's own offer.**
+
+**Operator — a lead, not a confirmed fact.** The organizer page's disclosures reportedly name
+**Strategic Wealth Investment Group (SWIG)**, a federally registered investment adviser, and
+**Strategic Wealth Designers (SWD)** for insurance, "affiliated but separate." The listings
+call it a **non-profit** and state it is **"not sponsored or presented by any accredited
+University."** Phone 844-476-7353 on the event pages.
+
+**Not the same program — do not conflate.** **Everest Financial Inc. (Fort Mitchell, KY;
+owner Joseph Duffey)** runs its **own** free seminars in Covington and Cincinnati,
+March-June.
+
+**Flag for Ed — a flag, NOT a finding, and not evidence of what Ed should rule.** The
+category's own convention includes an explicit not-a-university disclaimer in the listing; a
+competitor is doing the opposite of what Justin's framing does. Ed's 2026-10-02 position was
+"I won't help find a disclaimer small enough to keep the effect" (see
+`compliance-precedents.md`, 2026-10-05 entry).
+**Tension for Isla/Justin, not resolved here:** that same entry records Justin's standing
+decision (2026-10-05) that **agents do not re-raise the NKU framing question.** Whether this
+competitor disclaimer is a new fact that warrants a forward to Ed, or falls under the standing
+decision, is Isla's and Justin's call. Recorded as flagged per Isla's brief.
+
+### Vannevar's flags — for Isla/Justin; none resolved here
+
+1. **Free or priced is not settled across the record.** This search says "free." Jayme's
+   earlier note (clean-slate-29k-jayme.md, ~line 883) says tuition "includes" a one-on-one and
+   "whether the course is free or priced I could not confirm."
+2. **Which weekday is night two.** Taleb's NKU listings are all Tuesdays; `offer-options-and-ranking.md`
+   says "Tue/Wed 6pm." The second night's day is not recorded in either.
+3. **The waitlist claim** (April 2026 NKU listing) is in `offer-options-and-ranking.md` as
+   Jayme's, itself via search; it is an organiser cap, not attendance, and is not in this
+   search's material.
+4. **Venue-category draft line 128** ("'No pitch' cannot be a moat... Retirement Planning
+   University's listing says specific financial products will not be discussed") rests on the
+   same unopened listing.
+5. **Sloan's/Jayme's "nobody does this" caution** (clean-slate-29k-jayme.md ~line 885) is
+   consistent with this material; a working competitor operating a near-identical structure at
+   NKU is now logged by three agents, always through search summaries. **Nobody has opened the
+   primary.**
+
+### The mailbox log — Justin's answer (2026-10-06)
+
+- **Justin has not started it,** because he is **not in the age group.**
+- He has had **feedback from his parents and in-laws** about the mail they receive. **Content
+  not yet captured.**
+- **Open:** what they said; and whether they will **set aside retirement / adviser mail for six
+  weeks so he can photograph it.** That is the log, run with the right people. (Log spec:
+  `drafts/budget-reconciliation-v1.md` ~line 165; Taleb's ask 2 in
+  `drafts/january-front-position.md`. Note the spec's own limit: it reads Oct-Dec by the 4 Dec
+  print date and cannot read April.)
+- Process note: the log was due to start 1 October. Not started at 2026-10-06.
+
+**Source:** all Retirement Planning University, SWIG/SWD, non-profit and Everest points are
+Isla's brief from search summaries (Taleb found the NKU dates); the mailbox answer is
+Justin's. No client data entered.

@@ -37,17 +37,30 @@ different words. One of them may relocate the entire problem.
 
 *2023, supplied by Justin 2026-10-06: **4 clients** (Sat 3, Tue 1), **$800K + $250K = $1.05M** assets.* That total equals the 2023 year-acquired figure already on record ($1.050M, growth-channels.md 2026-10-01) to the dollar, so for 2023 the vintage was entirely class-sourced, and the Thursday session added nothing or is not in the count.
 
-**Per 1,000 pieces:** registered 1.08, attended 0.75, clients 0.33, AUM about $88K. **2021:** 11 units on ~10,000 = 1.10 (the record's own reconciliation says those 11 are plausibly *individuals* across 7 households, unverified, so 2021 and 2023 units may not be the same thing). **2025/2026:** 0.40 and 0.30.
+**Per 1,000 pieces, 2023:** registered 1.08, attended 0.75, clients 0.33 (4 households), AUM about $88K.
 
-**Exact conditional test, post-hoc, tiny n:** 2021 vs 2023 are indistinguishable (p about 0.6). The two Ohio drops pooled (7 on 20,000) sit well below 2023 (p about 0.012) and below 2021 (p about 0.014). **Weakest reading that is still actionable:** at NKU, wearing the catalogue look, the front was still pulling at roughly the 2021 rate as late as 2023. The fall shows up between 2023 and 2025, which is also when the venue moved to Ohio and, in 2026, to a junior high. Time, place and venue prestige are confounded and three data points cannot separate them.
+**CORRECTED 2026-10-06 (Vannevar caught it; the first version of this block overreached).** The earlier claim that 2021 and 2023 were "indistinguishable" assumed 2021's "11 units" and 2023's "13 units" count the same stage. **They may not.** 2021's 11 is "buying units" (offer-options, 2026-09-28) and the record's own reconciliation reads it as plausibly *individuals across 7 client households*, unverified. 2023's 13 is *registered households*. **2021's registrations and attendance are not on record at all.**
+
+| Matched basis | 2021 | 2023 | Reading |
+|---|---|---|---|
+| **Client households per 1,000 pieces** | 7 on ~10,000 = 0.70 *(unverified)* | 4 on ~12,000 = 0.33 | 2023 about half; p about 0.18, **cannot tell apart** |
+| **Registered households per 1,000** | **not on record** | 1.08 | cannot be compared |
+| **AUM per 1,000, mailer-credited** | about $6.0M on ~10,000 = $600K | $1.05M on ~12,000 = $88K | **about 6.9x**, not 10x |
+| AUM per 1,000, year-acquired | $9.13M = $913K | $88K | 10.4x, but 2021's figure may include non-class sources |
+
+**What still holds regardless of 2021:** 2023 at NKU produced **13 registrations on ~12,000 pieces; the two Ohio drops produced 4 and 3** (record: Harrison itemised at 11,597 pieces, which makes Ohio pooled 7 on 21,597 = 0.32 per 1,000). Exact conditional test, post-hoc, tiny n: **p about 0.007 to 0.012** that the Ohio drops are that low if the rates were equal. Ohio's unit definition is unstated; if those are persons, the households are fewer still, so the gap is a floor.
+
+**Weakest reading that is still actionable:** at NKU in 2023 the catalogue front filled a room at roughly three times the rate of the two Ohio drops. **Whether it matched 2021 is NOT established.** The fall in room-filling appears no later than 2025, which is also when the venue left NKU and, in 2026, became a junior high. Time, place, venue prestige and the 2021-to-2023 change are not separable on this data.
+
+**To close it, only Justin can say:** for the 2021 drop, how many households *registered* and how many *attended*, and what the "11" counted.
 
 **Show rate was not 100% in 2023:** 9 of 13 (Sat 7/9, Tue 2/4). The Ohio drops' 100% is the outlier, not the norm.
 
-**Show rate: 100%. Everyone who registered came.**
+**Show rate: 100%. Everyone who registered came.** *(Ohio 2025 and 2026 only. NKU 2023 was 9 of 13. Scoped 2026-10-06.)*
 
 ### What that settles
 
-**The show-up hypothesis is dead, and with it an entire class of fixes.** Reminder
+**The show-up hypothesis is dead for the Ohio drops, and with it an entire class of fixes** *(scoped 2026-10-06: 2023 at NKU showed 9 of 13, so it is not dead everywhere)*. Reminder
 sequences, confirmation cadence, easier venues, shorter notice — none of it is the
 problem, because nobody is failing to show. **The constraint is entirely upstream, at
 the mailbox.**
