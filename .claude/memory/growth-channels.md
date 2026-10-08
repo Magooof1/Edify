@@ -1389,6 +1389,74 @@ union) gets touched without Justin confirming first. Nothing about real clients.
 
 ---
 
+## 2026-10-08 — BANKED FOR WHEN YOUTUBE RESTARTS: "brand in the age of AI" (Vaynerchuk post). Thesis, not finding. Filed here with the YouTube entries, out of date order, on purpose.
+
+Justin, on sending it: *"Log for that convo when we get there."* A side thought, not a
+request for work. **Nothing approved, nothing measured, no money moves on it.** Read it
+when the YouTube restart is being planned, not before.
+
+**What was shared.** A Gary Vaynerchuk post, "Brand Will Become More Important In The
+Age of AI," sent 2026-10-08. Its argument: as AI agents mediate purchases, people choose
+generically unless they ask for a brand by name — *"I need sneakers versus I need
+Reebok… I need business advice versus I need business advice from GaryVee"* — and
+*"every piece of content you make today is being indexed to show up on the results when
+every single person in the world in four years goes to an AI bot."* (Quotes as relayed
+in Isla's brief; Vannevar has not seen the post itself.)
+
+**Isla's assessment — the useful part:**
+
+1. **Not a new direction.** It restates Justin's own 2026-09-25 decision ("pay the rent /
+   own the land", entry above; `ROADMAP.md`, Stage A, "Found" door) in different
+   vocabulary. Rent and land, generic and brand: same argument. Not a new strategic input
+   and does not need a new plan.
+2. **The agent-disintermediation mechanism is weaker for this practice than it sounds.**
+   That case rests on cheap, frequent, low-stakes choices (a pizza). Choosing a retirement
+   adviser is the opposite on all three axes, and regulated besides. Nobody delegates it
+   to an agent. **Do not cite this entry as evidence that AI will disintermediate adviser
+   selection.**
+3. **The half that lands, and the only reason to keep it: content as corpus, not just as
+   lead generation.** People already ask an AI "how much do I need to retire" and "should
+   I roll over my 401(k)." If what comes back is generic, Justin is not in it. The
+   actionable form is narrow: **build the YouTube live-builds to answer the exact
+   questions people type, in Justin's own words, published where they can be indexed.**
+   An adjustment to the existing plan, not a new one.
+4. **Status: thesis, not finding.** Vaynerchuk runs a media business selling attention
+   advice; "brand is the only thing left" is his standing position, restated annually.
+   Nothing here is measured. (Closest logged failure classes: 8 and 12 in
+   `recurring-failures.md` — a claim reasoned to, not observed; class numbers are
+   Vannevar's placement.)
+5. **One live connection.** "I need a retirement class" versus "I need *Justin's*
+   retirement class" is `ROADMAP.md`'s 2026-09-19 trap — *differentiated on the inside,
+   commoditized on the outside* — in different words, and it reaches the same conclusion about
+   the mailer's exposed face from an unrelated direction. **Corroboration from a different
+   frame, not independent evidence.**
+
+**Explicitly not changed by this:** the January drop. It is rent, it is late, and this
+entry is not a reason to reopen any settled decision about it.
+
+**Record-keeping flags (Vannevar; nothing resolved here):**
+- **No contradiction found.** Closest neighbour is the 2026-09-25 Shorts entry above, the
+  earlier Vaynerchuk input. That one was tactical (Shorts: test, not asset) and Isla read
+  his model as attention arbitrage; this one is strategic. Consistent, but two
+  Vaynerchuk-sourced inputs now sit in the YouTube material, and both are his framing
+  applied to a quiet, local practice.
+- **Not a test of the thesis the record already holds.** `ROADMAP.md` names two ways the
+  land could be wrong: exposure rather than trust, and this demographic not watching
+  long-form from a stranger. Corpus-indexing speaks to exposure; nothing here shows it
+  works for this demographic or this geography. Item 3 is a plausible design adjustment,
+  not evidence for either side.
+- **Compliance unchanged.** "Answer the exact questions people type" still means
+  educational, general content that passes Ed before publishing. A rollover question
+  in particular touches the rollover-conflict concern already logged in
+  `compliance-precedents.md` (2026-09-19 and 2026-09-25 entries). Ed's call, not
+  Vannevar's.
+
+**Attribution.** The post is Vaynerchuk's; sharing it is Justin's. Items 1-5 and the
+"not changed" line are Isla's assessment. Placement and flags are Vannevar's. Nothing about
+real clients.
+
+---
+
 ## 2026-09-25 (still later) — Competitive finding: "safe money" is occupied territory; nobody in the category runs quiet
 
 Taleb's research, requested ahead of the land decision above. Record as a hard

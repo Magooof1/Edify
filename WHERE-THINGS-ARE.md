@@ -80,7 +80,7 @@ and Portfolio Medics' reply, both in writing.
 | After the February classes | Stay-warm cadences for attendees who don't book | `drafts/stay-warm-cadence-v1.md`, `drafts/stay-warm-never-met-v1.md` |
 | Once there are clients to ask | The referral ritual | `drafts/referral-ritual-v1.md` |
 | When YouTube restarts | Asset architecture and the first live-build script | `drafts/youtube-asset-architecture-v1.md`, `drafts/youtube-live-build-01.md` |
-| When YouTube restarts | **Read before scripting:** the content-as-corpus thought — build the live-builds to answer the exact questions people type into an AI, in Justin's words. Banked 2026-10-08 at his instruction (“log for that convo when we get there”). It is a thesis, not a finding. | `.claude/memory/growth-channels.md`, 2026-10-08 |
+| When YouTube restarts | **Read before scripting:** the content-as-corpus thought — build the live-builds to answer the exact questions people type into an AI, in Justin's words. Banked 2026-10-08 at his instruction (“log for that convo when we get there”). It is a thesis, not a finding. | `.claude/memory/growth-channels.md` — search the header “**BANKED FOR WHEN YOUTUBE RESTARTS**”. It is filed in the 2026-09-25 YouTube cluster, not in date order, so do not scan to the end of the file for it. |
 | When a venue beyond NKU is needed | College-type venue research | `drafts/venue-category-college-type-v1.md` |
 | 2027 planning | The $29K clean-slate set (Sloan, Jayme, Taleb, Ed) | `drafts/clean-slate-29k-*.md` |
 | If the class offer is ever bypassed | The non-class segment thesis; Blue-only targeting | `drafts/non-class-segment-thesis-v1.md`, `drafts/taleb-blue-targeting.md` |
