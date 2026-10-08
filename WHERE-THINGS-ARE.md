@@ -62,7 +62,7 @@ Tuesday 16 and Saturday 20 February.
 | Disclosure Block A | `drafts/disclosure-blocks-v1.md` | **Cloned verbatim, never retyped.** |
 | The no-pitch note | `drafts/no-pitch-policy-note.md` | **Unsigned. First domino for Calendly.** Its claims register and two script lines are keyed to the old mirror and need rebuilding. |
 | Why we're mailing at all | `drafts/offer-options-and-ranking.md` | The three lever decisions, with their corrections. |
-| The 2023 NKU drop and Retirement Planning University | `.claude/memory/growth-channels.md`, headings dated 2026-10-06 (end of file); the table in `drafts/offer-options-and-ranking.md` | Half-corrected once already. Read the correction block before quoting any comparison to 2021. |
+| The 2023 NKU drop and Retirement Planning University | `.claude/memory/growth-channels.md`, headings dated 2026-10-06 (end of file); the table in `drafts/offer-options-and-ranking.md` | Corrected once already. **Settled, do not re-ask Justin:** Thursday 4/20/2023 (nothing separate), the 2023 cost (~$10k). **Still open:** 2021's registered/attended households and what its "11" counted; the 2025/26 pieces (Justin is uploading them); a mailbox-log recipient in the NKU ZIPs (his parents and in-laws live elsewhere; do not ask clients). Read the correction block before quoting any comparison to 2021. |
 | The front (outside panels) | `drafts/mailer-front-v7.md`, `drafts/january-front-position.md` | Option 1 recommended by Isla; **Justin has not chosen.** |
 | What the money does | `drafts/budget-reconciliation-v1.md` | $7K 2026, $22K 2027. |
 | The artboards | the Design canvas (Artifact) | Five surfaces at true print size. |

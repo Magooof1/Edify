@@ -2211,14 +2211,26 @@ Spring 2023 NKU mailer, **~12,000 pieces.** "Units" in Justin's usage here = **h
 |---|---|---|---|---|
 | Sat 4/22/2023 | 9 units (16 people) | 7 units | 3 | $800K ("total assets") |
 | Tue 4/25/2023 | 4 units | 2 | 1 | $250K ("AUM") |
-| **Thu 4/20/2023** | **UNREPORTED** | **UNREPORTED** | **UNREPORTED** | **UNREPORTED** |
-| **Total reported** | **13 units** | **9 units** | **4** | **$1.05M** |
+| **Thu 4/20/2023** | **SETTLED, see below: nothing separate** | | | |
+| **Total** | **13 units** | **9 units** | **4** | **$1.05M** |
 
-**Thursday is on the mailer and Justin did not report it. It is unreported, not zero.**
-Consequence: every 2023 rate below is a **floor** if Thursday ran and anyone came.
-**Open:** did Thursday run, and with how many.
+**AMENDED 2026-10-06 (later the same day; filed 2026-10-08). Thursday 4/20/2023 is
+SETTLED.** This entry first recorded Thursday as "UNREPORTED, not zero." Justin then said he
+treats the Saturday and Tuesday sessions as the whole 2023 result: *"I just gave it to you."*
+**Record: Thursday was on the mailer but produced nothing separate (did not run, or drew no
+one).** The $800K + $250K = $1.05M tie-out to the 2023 vintage (section 2) supports that.
+**It is no longer open, and it should not be asked again unless a contradicting number
+appears.** The earlier flag that every 2023 rate below is "a floor if Thursday ran" is
+**retired on the same basis**; the rates below are the 2023 rates. (Held in
+`drafts/offer-options-and-ranking.md`, "Thursday 4/20/2023, settled by Justin".)
 
-**2023 spend: not supplied. Open.**
+**2023 cost, supplied by Justin 2026-10-06 (this replaces "not supplied. Open"):** **about
+$10k for about 12,000 pieces, roughly $0.83 a piece.** Derived by Isla, base stated: **$769
+per registered household, $1,111 per household attended, $2,500 per client household, about
+$105 of client assets per dollar mailed.** Working and the comparison to the other drops are
+in `drafts/offer-options-and-ranking.md` (the "Cost, supplied 2026-10-06" paragraph), not
+repeated here. **Keep the unit-definition caveat against 2021 attached to any "cheapest per
+registered household" reading** (section 4, "Unit definitions do not line up").
 
 ### 2. Tie-out, recorded as verified
 
@@ -2253,7 +2265,11 @@ p about 0.012; vs 2021 p about 0.014.
   was IWU West Chester, 2026 was Harrison Junior High (Justin confirmed the pieces carried
   those institution names). **Whether the 2025/26 pieces also carried the laurel / "Learning
   Program" styling is unknown; Justin has been asked.** Three data points cannot separate the
-  four.
+  four. **Amended 2026-10-06 (later): STILL OPEN, held open until the images arrive.** Justin
+  will upload the 2025 and 2026 pieces. **Reading note:** his answer to the earlier question
+  was "Yes, it was IWU and Harrison Jr High." *Isla* read that as the pieces carrying those
+  institution names; **that reading is Isla's, not Justin's**, and the sentence does not say
+  whether the laurel or "Learning Program" styling was also there.
 - **Unit definitions do not line up.** 2023 = households. 2021's "11 units" is reconciled in
   the 2026-10-01 "(later)" entry as **plausibly individuals across 7 households, unverified.**
   2025/26 units are undefined. **A comparability hole, not a resolved one.**
@@ -2299,9 +2315,11 @@ Different things.
 
 ### 7. Open, recorded as open
 
-- The 2023 spend.
-- The Thursday 4/20 session (ran? attendance? clients?).
-- Whether the 2025 and 2026 pieces carried the laurel styling or only the venue name (asked).
+- ~~The 2023 spend.~~ **Retired 2026-10-06 (later): about $10k, see section 1.**
+- ~~The Thursday 4/20 session.~~ **Retired 2026-10-06 (later): settled, nothing separate; do
+  not ask again unless a contradicting number appears (section 1).**
+- Whether the 2025 and 2026 pieces carried the laurel styling or only the venue name. **Still
+  open; waiting on Justin's upload of the images** (section 4 note).
 - **January as a read:** at **5,000 pieces** the 2023 rate predicts about **5.4** registered
   units and the pooled Ohio rate about **1.75.** **Two or fewer points to an era or crowding
   effect; five or more to a place effect.** Roughly a one-in-ten call either way (Isla): **a
@@ -2336,7 +2354,8 @@ Different things.
    should do. Stale against the reversal in section 6. ROADMAP is Isla's.
 7. **Class count for 2023.** The 2026-10-01 "(later)" table records 2023 as a **two-class
    year**; the mailer listed **three** sessions (Thu 4/20 included). Tied to the Thursday
-   open item.
+   open item. **Amended (later): consistent with Justin's settlement** (Thursday produced
+   nothing separate), so the two-class count stands. Flag closed on that basis.
 8. **`WHERE-THINGS-ARE.md`** (last swept 2026-10-05) does not yet point at this entry; the
    sweep is Isla's.
 
@@ -2419,6 +2438,34 @@ decision, is Isla's and Justin's call. Recorded as flagged per Isla's brief.
   `drafts/january-front-position.md`. Note the spec's own limit: it reads Oct-Dec by the 4 Dec
   print date and cannot read April.)
 - Process note: the log was due to start 1 October. Not started at 2026-10-06.
+
+**AMENDED 2026-10-06 (later; filed 2026-10-08) — the log is still not started, and has no
+viable recipient.**
+
+- **What Justin has, recorded at its weakest:** a few relatives (his parents and in-laws)
+  said, in his words, *"they get a bunch of invites."* That is a sentence of paraphrase. **No
+  description of what the pieces look like was given.** It is consistent with the crowding
+  thesis (many invites reach this age band) and **says nothing about whether the catalogue
+  look stands out from the other invites.** It is not a mailbox log and not a finding. This
+  fills in the "content not yet captured" line above.
+- **They cannot be the log.** Justin's parents and in-laws **do not live in the target ZIPs**,
+  and Justin himself is outside the age band. They therefore cannot serve as the mailbox log
+  for the NKU-area market. The "set aside mail for six weeks and photograph it" ask above
+  is **dropped as to them**: right age, wrong market.
+- **Status: not started, without a viable recipient.** The instrument needs **3-5 non-client
+  people aged 55+ in the DRA ZIPs.** **Finding them is Justin's.** Asking **clients** is not
+  an option the record supports: an adviser asking clients for a favour is the same pressure
+  dynamic flagged in `compliance-precedents.md` (2026-10-05, "Photographing a class",
+  section 5, "This record's own rule came back", and the 2026-08-25 item 3 it points to).
+  Cross-reference, not a ruling on the log itself.
+- **The open question, and the cheapest evidence available:** when the relatives say "a bunch
+  of invites," **do the pieces look like Justin's** (university name, "learning program",
+  laurel) **or like dinner seminars** (restaurant, steak)? One question to people Justin
+  already talks to. **The answer decides whether the catalogue look still stands apart,** which
+  is the premise behind Isla's reversal to Option 1 (see the 2023 NKU entry above, section 6).
+  Open, waiting on Justin.
+
+Nothing here is approved. Source: Justin's answers 2026-10-06, passed on by Isla; no client data.
 
 **Source:** all Retirement Planning University, SWIG/SWD, non-profit and Everest points are
 Isla's brief from search summaries (Taleb found the NKU dates); the mailbox answer is

@@ -35,7 +35,7 @@ different words. One of them may relocate the entire problem.
 | IWU West Chester | ~$10k | ~10,000 | 4 | **4** | April 2025 |
 | NKU, spring 2023 | **~$10k** *(Justin, 2026-10-06)* | **~12,000** | **13 units** (Sat 4/22: 9 units / 16 people; Tue 4/25: 4 units) | **9 units** (Sat 7, Tue 2) | Sat 4/22 and Tue 4/25/2023. **Thu 4/20 was on the mailer; Justin treats Sat and Tue as the whole 2023 result.** |
 
-*2023, supplied by Justin 2026-10-06: **4 clients** (Sat 3, Tue 1), **$800K + $250K = $1.05M** assets.* That total equals the 2023 year-acquired figure already on record ($1.050M, growth-channels.md 2026-10-01) to the dollar, so for 2023 the vintage was entirely class-sourced, and the Thursday session added nothing or is not in the count.
+*2023, supplied by Justin 2026-10-06: **4 clients** (Sat 3, Tue 1), **$800K + $250K = $1.05M** assets.* That total equals the 2023 year-acquired figure already on record ($1.050M, growth-channels.md 2026-10-01) to the dollar, so for 2023 the vintage was entirely class-sourced. Thursday is covered in the note below.
 
 **Per 1,000 pieces, 2023:** registered 1.08, attended 0.75, clients 0.33 (4 households), AUM about $88K.
 
@@ -56,7 +56,7 @@ different words. One of them may relocate the entire problem.
 
 **Cost, supplied 2026-10-06: about $10k for about 12,000 pieces, roughly $0.83 a piece.** On that: **$769 per registered household, $1,111 per household that attended, $2,500 per client household, about $105 of client assets per dollar mailed.** Beside the others: 2021 about $909 per unit (stage unclear), West Chester $2,500 per unit, Harrison $3,333 per unit (unit undefined). **Per registered household 2023 is the cheapest drop on record, but the comparison carries the same unit-definition hole as above.**
 
-**Thursday 4/20/2023, settled by Justin 2026-10-06:** he treats the Saturday and Tuesday sessions as the whole 2023 result. Read as: Thursday produced nothing separate, whether it did not run or drew no one. The $800K + $250K = $1.05M tie-out to the 2023 vintage supports that. Do not ask again unless a number turns up that contradicts it.
+**Thursday 4/20/2023, settled by Justin 2026-10-06:** he treats the Saturday and Tuesday sessions as the whole 2023 result. Read as: Thursday produced nothing separate, whether it did not run or drew no one. The $800K + $250K = $1.05M tie-out to the 2023 vintage is consistent with that. Do not ask again unless a number turns up that contradicts it.
 
 **Payback, weakest reading:** if all $1.05M is fee-bearing at Justin's 1%, that is about $10.5K a year, roughly the mailing's cost back in the first year. **The labels differ** (Saturday "$800K total assets", Tuesday "$250K AUM"), so if part of it is annuity premium rather than managed assets, the fee arithmetic does not hold. n is 4 client households.
 
@@ -72,7 +72,7 @@ problem, because nobody is failing to show. **The constraint is entirely upstrea
 the mailbox.**
 
 It also says something good that the record hadn't captured: **a 100% show rate is
-remarkable**, and it means the handful of people who do respond are highly
+remarkable** *(true of the two Ohio drops; NKU 2023 showed 9 of 13, scoped 2026-10-06)*, and it means the handful of people who do respond are highly
 self-selected and serious. That is consistent with the ~90% booking rate. **The funnel
 is not leaky. It is narrow at the very top and excellent everywhere after.**
 
@@ -304,7 +304,7 @@ units gave enough shots for one outsized outcome to land.
 **1. Registered vs attended, per drop, and how many dates were offered.**
 
 The record conflates "3 sign-ups," "4 attendees" and "3 buying units." **If twelve
-registered and four showed, the constraint is show-up, not the mailbox** — and nothing
+registered and four showed, the constraint is show-up, not the mailbox** *(the hypothetical is no longer wholly hypothetical: 2023 at NKU registered 13 and 9 came; 2026-10-06)* — and nothing
 built this week addresses that. Jayme calls it the single most valuable free datum and
 he's right.
 
@@ -641,7 +641,7 @@ A shorter free class is still a free class — it stays inside the genre the mar
 gone numb to, and shortening the threshold doesn't escape a crowded category.
 
 **The metric, carrying Jayme's correction: cost per client, not cost per booking.**
-Justin's show rate is 3/3 and 4/4 — ~100% — so the people who do respond are
+Justin's Ohio show rate is 3/3 and 4/4 — ~100%; NKU 2023 was 9 of 13 — so the people who do respond are
 class-shaped bodies that show up. Optimising for cheap bookings from a different kind of
 respondent would be a false economy.
 
