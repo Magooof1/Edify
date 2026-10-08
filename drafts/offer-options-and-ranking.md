@@ -33,7 +33,7 @@ different words. One of them may relocate the entire problem.
 |---|---|---|---|---|---|
 | Harrison, Ohio | ~$10k | ~10,000 | 3 | **3** | April 2026 |
 | IWU West Chester | ~$10k | ~10,000 | 4 | **4** | April 2025 |
-| NKU, spring 2023 | not supplied | **~12,000** | **13 units** (Sat 4/22: 9 units / 16 people; Tue 4/25: 4 units) | **9 units** (Sat 7, Tue 2) | Sat 4/22 and Tue 4/25/2023. **Thu 4/20 not reported.** |
+| NKU, spring 2023 | **~$10k** *(Justin, 2026-10-06)* | **~12,000** | **13 units** (Sat 4/22: 9 units / 16 people; Tue 4/25: 4 units) | **9 units** (Sat 7, Tue 2) | Sat 4/22 and Tue 4/25/2023. **Thu 4/20 was on the mailer; Justin treats Sat and Tue as the whole 2023 result.** |
 
 *2023, supplied by Justin 2026-10-06: **4 clients** (Sat 3, Tue 1), **$800K + $250K = $1.05M** assets.* That total equals the 2023 year-acquired figure already on record ($1.050M, growth-channels.md 2026-10-01) to the dollar, so for 2023 the vintage was entirely class-sourced, and the Thursday session added nothing or is not in the count.
 
@@ -53,6 +53,12 @@ different words. One of them may relocate the entire problem.
 **Weakest reading that is still actionable:** at NKU in 2023 the catalogue front filled a room at roughly three times the rate of the two Ohio drops. **Whether it matched 2021 is NOT established.** The fall in room-filling appears no later than 2025, which is also when the venue left NKU and, in 2026, became a junior high. Time, place, venue prestige and the 2021-to-2023 change are not separable on this data.
 
 **To close it, only Justin can say:** for the 2021 drop, how many households *registered* and how many *attended*, and what the "11" counted.
+
+**Cost, supplied 2026-10-06: about $10k for about 12,000 pieces, roughly $0.83 a piece.** On that: **$769 per registered household, $1,111 per household that attended, $2,500 per client household, about $105 of client assets per dollar mailed.** Beside the others: 2021 about $909 per unit (stage unclear), West Chester $2,500 per unit, Harrison $3,333 per unit (unit undefined). **Per registered household 2023 is the cheapest drop on record, but the comparison carries the same unit-definition hole as above.**
+
+**Thursday 4/20/2023, settled by Justin 2026-10-06:** he treats the Saturday and Tuesday sessions as the whole 2023 result. Read as: Thursday produced nothing separate, whether it did not run or drew no one. The $800K + $250K = $1.05M tie-out to the 2023 vintage supports that. Do not ask again unless a number turns up that contradicts it.
+
+**Payback, weakest reading:** if all $1.05M is fee-bearing at Justin's 1%, that is about $10.5K a year, roughly the mailing's cost back in the first year. **The labels differ** (Saturday "$800K total assets", Tuesday "$250K AUM"), so if part of it is annuity premium rather than managed assets, the fee arithmetic does not hold. n is 4 client households.
 
 **Show rate was not 100% in 2023:** 9 of 13 (Sat 7/9, Tue 2/4). The Ohio drops' 100% is the outlier, not the norm.
 
