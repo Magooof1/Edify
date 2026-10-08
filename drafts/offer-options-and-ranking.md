@@ -33,6 +33,9 @@ different words. One of them may relocate the entire problem.
 |---|---|---|---|---|---|
 | Harrison, Ohio | ~$10k | ~10,000 | 3 | **3** | April 2026 |
 | IWU West Chester | ~$10k | ~10,000 | 4 | **4** | April 2025 |
+| NKU, spring 2023 | not supplied | **~12,000** *(Justin, 2026-10-06)* | **not supplied** | **not supplied** | April 2023 (sessions 4/20, 4/22, 4/25) |
+
+*The 2023 row is half-filled on purpose: the denominator is Justin's, the numerator is still missing. Until the sign-ups and attended counts are supplied it cannot be compared to 2021's 11 units. Directional only, from year-acquired AUM on the same sample (growth-channels.md, 2026-10-01): 2023's $1.05M on ~12,000 pieces is about $88K per 1,000 pieces against 2021's $9.13M on ~10,000, about $913K per 1,000 — roughly a tenth. Year-acquired AUM is not class-sourced and a third of the book is undated; do not quote it as a unit rate.*
 
 **Show rate: 100%. Everyone who registered came.**
 
