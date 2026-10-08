@@ -851,5 +851,4 @@ the lever that moved most was the one nobody had been pulling.
 
 **Caveats, all of which matter.** The $11k may not include everything the later drops' ~$10k did
 (Harrison's own breakdown has about $1,937 sitting outside print and postage). Postage was lower in
-2020 (Harrison's actual postage was $0.365 a piece). The 2020 list was probably broader (the piece
-said ages 50 to 70) and unfiltered by assets. So $0.44 is not a price anyone can buy today.
+2020 (Harrison's actual postage was $0.365 a piece). **The 2020 list's size and filters are not on record.** (An earlier version of this line called it probably broader because the piece said ages 50 to 70; the 2021 piece says the same, so that inference did not hold.) So $0.44 is not a price anyone can buy today.
