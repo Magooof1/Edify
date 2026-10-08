@@ -130,3 +130,13 @@ room-filling. Vannevar showed that comparison may be across different stages. **
 stands, on weaker footing:** January is at NKU, and NKU's own recent history says the front
 filled rooms. It does not say the front is as strong as in 2021, and it does not say the look
 protects it from RPU.
+
+**Resolved, same day.** Justin supplied 2021's sign-ups: **11 units signed up**, which is the same
+stage as 2023's 13. On that matched basis **2023 and 2021 are indistinguishable (1.08 against 1.10
+per 1,000 pieces, p about 0.6)**, and the two Ohio drops are well below both (p about 0.009 to
+0.014). Taleb's falsifier #1 is met on a like-for-like count, and the reversal to Option 1 is back
+on firm ground. **Still not established:** attendance in 2021 (Justin does not know); why the Ohio
+drops fell (place, era, venue prestige and the junior high are confounded); and whether anything
+holds in 2027 given Retirement Planning University's NKU sessions since at least March 2026.
+**Also exposed, as a hypothesis at n of 11 and 13 (p about 0.22):** 7 of 11 sign-ups became clients
+in 2021 against 4 of 13 in 2023, which would put the change after the room, not at the front.

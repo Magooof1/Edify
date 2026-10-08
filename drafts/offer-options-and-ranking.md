@@ -39,20 +39,23 @@ different words. One of them may relocate the entire problem.
 
 **Per 1,000 pieces, 2023:** registered 1.08, attended 0.75, clients 0.33 (4 households), AUM about $88K.
 
-**CORRECTED 2026-10-06 (Vannevar caught it; the first version of this block overreached).** The earlier claim that 2021 and 2023 were "indistinguishable" assumed 2021's "11 units" and 2023's "13 units" count the same stage. **They may not.** 2021's 11 is "buying units" (offer-options, 2026-09-28) and the record's own reconciliation reads it as plausibly *individuals across 7 client households*, unverified. 2023's 13 is *registered households*. **2021's registrations and attendance are not on record at all.**
+**CORRECTED 2026-10-06 (Vannevar caught it; the first version of this block overreached).** The earlier claim that 2021 and 2023 were "indistinguishable" assumed 2021's "11 units" and 2023's "13 units" count the same stage. **They may not.** 2021's 11 is "buying units" (offer-options, 2026-09-28) and the record's own reconciliation reads it as plausibly *individuals across 7 client households*, unverified. 2023's 13 is *registered households*. **2021's sign-ups were supplied by Justin on 2026-10-06 (11 units signed up), which restores the match on sign-ups; 2021's attendance is still not on record, because he does not know how many came.**
 
 | Matched basis | 2021 | 2023 | Reading |
 |---|---|---|---|
 | **Client households per 1,000 pieces** | 7 on ~10,000 = 0.70 *(unverified)* | 4 on ~12,000 = 0.33 | 2023 about half; p about 0.18, **cannot tell apart** |
-| **Registered households per 1,000** | **not on record** | 1.08 | cannot be compared |
+| **Signed-up households per 1,000** | **11 on ~10,000 = 1.10** *(Justin, 2026-10-06)* | 13 on ~12,000 = 1.08 | **indistinguishable; p about 0.6** |
+| Attended households per 1,000 | **unknown (Justin does not know)** | 0.75 | cannot be compared |
 | **AUM per 1,000, mailer-credited** | about $6.0M on ~10,000 = $600K | $1.05M on ~12,000 = $88K | **about 6.9x**, not 10x |
 | AUM per 1,000, year-acquired | $9.13M = $913K | $88K | 10.4x, but 2021's figure may include non-class sources |
 
 **What still holds regardless of 2021:** 2023 at NKU produced **13 registrations on ~12,000 pieces; the two Ohio drops produced 4 and 3** (record: Harrison itemised at 11,597 pieces, which makes Ohio pooled 7 on 21,597 = 0.32 per 1,000). Exact conditional test, post-hoc, tiny n: **p about 0.007 to 0.012** that the Ohio drops are that low if the rates were equal. Ohio's unit definition is unstated; if those are persons, the households are fewer still, so the gap is a floor.
 
-**Weakest reading that is still actionable:** at NKU in 2023 the catalogue front filled a room at roughly three times the rate of the two Ohio drops. **Whether it matched 2021 is NOT established.** The fall in room-filling appears no later than 2025, which is also when the venue left NKU and, in 2026, became a junior high. Time, place, venue prestige and the 2021-to-2023 change are not separable on this data.
+**Weakest reading that is still actionable:** at NKU in 2023 the catalogue front filled a room at roughly three times the rate of the two Ohio drops. **Matched on sign-ups, it also matched 2021 (1.08 against 1.10, p about 0.6). It cannot be compared on attendance, and it cannot be compared on what 2021's "unit" meant beyond Justin's own usage (below).** The fall in room-filling appears no later than 2025, which is also when the venue left NKU and, in 2026, became a junior high. Time, place, venue prestige and the 2021-to-2023 change are not separable on this data.
 
-**To close it, only Justin can say:** for the 2021 drop, how many households *registered* and how many *attended*, and what the "11" counted.
+**Closed on sign-ups, 2026-10-06.** Justin: *"2021 - 11 units signed up. I'm not sure how many came."* **Assumption, stated:** I read 2021's "unit" as a household, as in 2023, where he said "16 people registered 9 units." The record's earlier reconciliation (11 individuals across 7 households) was labelled plausible and unverified, and his usage is now the better evidence. **If the 11 were people, 2021's households were fewer and 2023 would exceed it.** 2021 attendance is not worth chasing.
+
+**What the matched basis exposes, as a hypothesis only:** sign-up to client was **7 of 11 in 2021 (7 is itself unverified) against 4 of 13 in 2023.** If real, the front filled rooms the same way in both years and what changed is what happened after the room. Exact test p about 0.22 at these numbers, so it cannot be told apart from chance. Do not build on it.
 
 **Cost, supplied 2026-10-06: about $10k for about 12,000 pieces, roughly $0.83 a piece.** On that: **$769 per registered household, $1,111 per household that attended, $2,500 per client household, about $105 of client assets per dollar mailed.** Beside the others: 2021 about $909 per unit (stage unclear), West Chester $2,500 per unit, Harrison $3,333 per unit (unit undefined). **Per registered household 2023 is the cheapest drop on record, but the comparison carries the same unit-definition hole as above.**
 
