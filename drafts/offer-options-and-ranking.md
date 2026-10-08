@@ -34,6 +34,7 @@ different words. One of them may relocate the entire problem.
 | Harrison, Ohio | ~$10k | ~10,000 | 3 | **3** | April 2026 |
 | IWU West Chester | ~$10k | ~10,000 | 4 | **4** | April 2025 |
 | NKU, spring 2023 | **~$10k** *(Justin, 2026-10-06)* | **~12,000** | **13 units** (Sat 4/22: 9 units / 16 people; Tue 4/25: 4 units) | **9 units** (Sat 7, Tue 2) | Sat 4/22 and Tue 4/25/2023. **Thu 4/20 was on the mailer; Justin treats Sat and Tue as the whole 2023 result.** |
+| Thomas More, spring 2020 *(Justin's partner's campaign; Justin, 2026-10-08)* | **~$11k** | **~25,000** | **43 units** (Tue 2/25: 11; Sat 2/29: 24; 3/30: 8; 69 people) | **not known** | 2/25, 2/29 and 3/30/2020. **Whether the 25,000 and $11k cover one campaign or both is unconfirmed.** |
 
 *2023, supplied by Justin 2026-10-06: **4 clients** (Sat 3, Tue 1), **$800K + $250K = $1.05M** assets.* That total equals the 2023 year-acquired figure already on record ($1.050M, growth-channels.md 2026-10-01) to the dollar, so for 2023 the vintage was entirely class-sourced. Thursday is covered in the note below.
 
@@ -821,3 +822,34 @@ that broke Lever 2's original break-even, pointing the same direction: **don't u
 **Readability improves and the conclusion still holds.** ~4.0 units flat against ~8.0
 doubled misreads roughly one time in five each way, against one in four on the thin drop.
 Better, and still not a verdict. **Stage 3 instrumentation stays non-negotiable.**
+
+
+---
+
+## 2020 added 2026-10-08: pieces, cost, and what the cost curve says
+
+**Justin: "Mailed 25k but only costs 11k so it was cheaper for 2020."** Applied to the 43 units he gave
+(assumption: one mailing; if the 25,000 covers only the first campaign, use the 35 February units).
+
+| Drop | Pieces | Cost | Cost per piece | Sign-ups | Sign-ups per 1,000 | Cost per sign-up |
+|---|---|---|---|---|---|---|
+| Thomas More 2020 | ~25,000 | ~$11k | **$0.44** | 43 (or 35) | **1.72 (or 1.40)** | **$256 (or $314)** |
+| NKU 2021 | ~10,000 | ~$10k | $1.00 | 11 | 1.10 | $909 |
+| NKU 2023 | ~12,000 | ~$10k | $0.83 | 13 | 1.08 | $769 |
+| IWU West Chester 2025 | ~10,000 | ~$10k | $1.00 | 4 | 0.40 | $2,500 |
+| Harrison 2026 | 11,597 | ~$10k | $0.86 | 3 | 0.26 | $3,333 |
+
+**Exact conditional tests, post-hoc, small n:** 2021 against 2020: p about 0.12 on 43, 0.30 on 35. 2023
+against 2020: p about 0.09 on 43. The Ohio drops against 2020: p well under 0.001. **So room-filling shows
+no distinguishable erosion from 2020 to 2023, possibly a mild slope, then a break in 2025.**
+
+**Where the 2020-to-2021 cost per sign-up gap comes from (about 3.6x, $256 to $909):** response was
+1.56x better in 2020 (1.72 against 1.10) and cost per piece was 2.27x lower ($0.44 against $1.00).
+**Roughly two-thirds of the gap is cost per piece, one-third response.** That is the three-lever
+formula in this file (cost per piece divided by response times density), now with a first-party example:
+the lever that moved most was the one nobody had been pulling.
+
+**Caveats, all of which matter.** The $11k may not include everything the later drops' ~$10k did
+(Harrison's own breakdown has about $1,937 sitting outside print and postage). Postage was lower in
+2020 (Harrison's actual postage was $0.365 a piece). The 2020 list was probably broader (the piece
+said ages 50 to 70) and unfiltered by assets. So $0.44 is not a price anyone can buy today.

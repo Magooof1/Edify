@@ -282,3 +282,11 @@ pieces mailed and spend for either campaign, attendance, clients, AUM.
 - **Saturday and Tuesday shares repeat.** Tuesday evening took **31% of sign-ups in 2020 (11 of 35, before
   the shutdown) and 31% in 2023 (4 of 13); Saturday morning took 69% both times.** Two drops, tiny n, but
   an identical split. A reasonable prior for how January's two sessions will divide.
+
+**Pieces and cost, supplied 2026-10-08: about 25,000 pieces for about $11k ($0.44 a piece).** Justin:
+*"Mailed 25k but only costs 11k so it was cheaper for 2020."* **Unconfirmed whether that is the first
+campaign only or both.** On 43 units that is **1.72 sign-ups per 1,000 pieces and $256 per sign-up** (1.40
+and $314 if only the 35 February units belong to the 25,000). Full table and tests in
+`drafts/offer-options-and-ranking.md`, "2020 added 2026-10-08". **The 2020 rate is not distinguishable
+from 2021 or 2023 on room-filling; most of the cost-per-sign-up gap to 2021 is cost per piece, not
+response.**
