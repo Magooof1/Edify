@@ -860,11 +860,7 @@ the lever that moved most was the one nobody had been pulling.
 campaign, and the $11k covers postage, print and design.** Still unconfirmed: whether all three sign-up
 dates (2/25, 2/29, 3/30) belong to it.
 
-**This narrows one claim above.** The later drops' "~$10k" also carried roughly $1,937 outside print and
-postage (list, venue, materials, per Harrison's breakdown), which the 2020 figure may not. On print plus
-postage plus design only, 2021 is about $0.81 a piece, so 2020's $0.44 is about **1.8x** lower, not 2.27x.
-**The earlier "two-thirds cost per piece, one-third response" split should read closer to half and half**
-(response 1.56x, cost 1.8x). Direction unchanged; the cost lever is still at least as big as response.
+**This narrows one claim above, and the right number is a range.** The later drops' "~$10k" also carried roughly $1,937 outside print and postage (Harrison's breakdown lists list, design, venue and materials), which the 2020 figure may not: Justin says 2020's $11k covers postage, print and design. **If design sat inside that $1,937, then 2021 on a like-for-like basis (print, postage, design) costs more than the $0.81 I first used, and the gap widens back toward the original 2.27x. If none of it was design, it is about 1.8x.** So **cost accounts for roughly 58% to 65% of the 2020-to-2021 gap in cost per sign-up, and response for the rest**, and the cost-per-sign-up gap is **about 2.9x to 3.6x** depending on basis. Which end is right needs High Note or Justin: how much of the $1,937 was design. Direction unchanged: the cost lever is at least as big as response.
 
 **Justin on the budget: "No [other claims on the $7K]. I'm thinking we might have to mail more than the 7k."**
 

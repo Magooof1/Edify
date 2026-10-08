@@ -2557,7 +2557,7 @@ Justin's. No client data entered.
 
 ---
 
-## 2026-10-08 — 2020 / THOMAS MORE UNIVERSITY: THE ORIGIN OF THE CONTROL (the 2021 piece is a second run of a 2020 template), the partner's 2020 sign-ups, and what they do to the FIRST-MOVER question (Justin's numbers; Isla's reading; filed by Vannevar) **[AMENDED 2026-10-08, later: 2020 pieces and cost supplied. READ THE AMENDMENT BLOCK BELOW BEFORE QUOTING SECTIONS 2, 4 OR 6. The 10,000-piece placeholder series in section 6 is WITHDRAWN.]**
+## 2026-10-08 — 2020 / THOMAS MORE UNIVERSITY: THE ORIGIN OF THE CONTROL (the 2021 piece is a second run of a 2020 template), the partner's 2020 sign-ups, and what they do to the FIRST-MOVER question (Justin's numbers; Isla's reading; filed by Vannevar) **[AMENDED 2026-10-08, later: 2020 pieces and cost supplied. READ THE AMENDMENT BLOCK BELOW BEFORE QUOTING SECTIONS 2, 4 OR 6. The 10,000-piece placeholder series in section 6 is WITHDRAWN.]** **[AMENDED A SECOND TIME 2026-10-08, later still: scope confirmed as one campaign, the "two-thirds" split is SUPERSEDED, and the question of mailing more than $7K is open. READ THE SECOND AMENDMENT BLOCK, directly below the first, BEFORE QUOTING THE 2.27x, THE TWO-THIRDS, OR "ONE CAMPAIGN OR BOTH".]**
 
 **Find this when:** anyone says "2020", "Thomas More", "origin of the control", "first mover" or
 "early to classes in the area"; treats 2021 as where the catalogue look began or as a clean first
@@ -2584,8 +2584,9 @@ durable facts, the open items and the corrections.**
 > the 43 units: **1.72 sign-ups per 1,000 pieces and $256 per sign-up.** If the 25,000 covers only the
 > first campaign and only the 35 February units belong to it: **1.40 and $314.** (Vannevar re-did the
 > division: 43/25 = 1.72, 35/25 = 1.40, $11,000/43 = $256, $11,000/35 = $314.) **Open and unconfirmed:**
-> whether the 25,000 and the $11k describe one campaign or both, and whether all three dates (2/25, 2/29,
-> 3/30) belong to that mailing. **Section 2's open item "pieces mailed and spend for each campaign" is
+> ~~whether the 25,000 and the $11k describe one campaign or both~~ **[CLOSED 2026-10-08, later still: one
+> campaign, $11k = postage, print and design; second amendment item 1]**, and whether all three dates (2/25, 2/29,
+> 3/30) belong to that mailing **[STILL OPEN]**. **Section 2's open item "pieces mailed and spend for each campaign" is
 > retired only partly: it is now one figure for one unclear scope**, not two figures for two campaigns.
 > Still missing: the second campaign's own pieces and cost, if they are separate.
 >
@@ -2613,7 +2614,7 @@ durable facts, the open items and the corrections.**
 >
 > **5. The cost-per-sign-up gap, decomposed (first first-party example of the three-lever formula).**
 > 2020 to 2021 is about **3.6x ($256 to $909)**: response **1.56x**, cost per piece **2.27x ($0.44
-> against $1.00).** **About two-thirds cost per piece, one-third response** (Vannevar's check: the
+> against $1.00).** ~~**About two-thirds cost per piece, one-third response**~~ **[SUPERSEDED 2026-10-08, later still: like-for-like it is about 1.8x cost per piece, not 2.27x, and closer to half and half; second amendment item 2. Kept visible.]** (Vannevar's check: the
 > two factors multiply to 3.54; on a log split cost per piece is 65%, response 35%; a multiplicative
 > gap has no unique additive split, so "two-thirds" is that convention). Formula and its first filing:
 > the 2026-09-28 "THREE LEVER DECISIONS" entry (this file) and `drafts/offer-options-and-ranking.md`.
@@ -2623,7 +2624,7 @@ durable facts, the open items and the corrections.**
 >
 > **6. Caveats, all of which stay attached.** (a) The **$11k may exclude things the later drops' about
 > $10k included**: Harrison's breakdown has about **$1,937 outside print and postage** (list, design,
-> venue, materials). (b) **2020 postage was lower**: Harrison's actual was **$0.365 a piece** (the 2020
+> venue, materials). **[Bears on item 5; see second amendment items 2 and 3, including whether design sits in the $1,937.]** (b) **2020 postage was lower**: Harrison's actual was **$0.365 a piece** (the 2020
 > postage rate is not on record). (c) **The 2020 list was probably broader** (the piece said ages 50 to
 > 70) **and unfiltered by assets** ("probably": an inference from the age line on the piece, not a recorded statement by Justin; how the 2021 and 2023 lists were
 > filtered is a separate question; the $250K IPA floor is on record for the DRA pulls, 2026-09-23 entry,
@@ -2635,6 +2636,86 @@ durable facts, the open items and the corrections.**
 >
 > **Flagged against the existing record, not written over:** see "Flags added by the amendment" at the
 > foot of this entry.
+
+> ### SECOND AMENDMENT 2026-10-08 (later still): scope confirmed, decomposition corrected, and the open decision on mailing more than $7K (Justin's words; Isla's arithmetic; filed by Vannevar)
+>
+> **Source, not copied here.** The scope answer, the corrected decomposition, the unit-cost table, the
+> marginal view and the error-rate arithmetic are all in the final section of
+> `drafts/offer-options-and-ranking.md`, headed "2020 scope confirmed, and the case for mailing more than
+> $7K". **Read it; this block holds the bases, the open items, and the contradictions only.** Nothing here
+> is approved. No client detail.
+>
+> **1. Scope, confirmed by Justin.** *"1 campaign. Postage and print and design."* The ~25,000 pieces and
+> ~$11k are **one campaign, and the $11k covers postage, print and design.** **Flag 9 (below) is closed
+> on the one-campaign-or-both half, and so is section 2's "one unclear scope".** **Still unconfirmed:
+> whether all three sign-up dates (2/25, 2/29, 3/30) belong to that mailing.** So the **43-vs-35
+> alternative stays open**: 1.72 and $256 on 43 units, 1.40 and $314 on 35. Neither row is retired.
+>
+> **2. A correction to this entry's own decomposition (Isla made it in the draft; echoed here).**
+> The later drops' "about $10k" also carried about **$1,937 outside print and postage** (per Harrison's
+> breakdown), which 2020's $11k may not. Like-for-like, **2021 is about $0.81 a piece on print, postage
+> and design, so 2020's $0.44 is about 1.8x lower, not 2.27x.** The cost-per-sign-up gap therefore splits
+> **closer to half cost, half response** than the two-thirds / one-third in amendment item 5.
+> **Amendment item 5's "about two-thirds cost per piece, one-third response" and its 2.27x are
+> SUPERSEDED, kept visible there, struck and marked, not deleted.** Direction unchanged: cost per piece
+> still moved at least as much as response. (Vannevar's division: $8,063 / 10,000 = $0.806; $0.806 /
+> $0.44 = 1.83. On a log split with response at 1.56x, cost is about 58%, response about 42%; the
+> "half and half" wording is Isla's, and as always a multiplicative gap has no unique additive split.)
+>
+> **3. Three things the correction rests on, checked by Vannevar against the record, none resolved.**
+> (a) **The $1,937 is a residual, not an itemized figure.** The record derives it as roughly $10,000 less
+> Harrison's $8,063 print-plus-postage subtotal, "if the drop really ran ~$10,000"
+> (`drafts/offer-options-and-ranking.md`, April 2026 Harrison block). It is **Harrison's (2026) number
+> applied to 2021** by inference; 2021's own breakdown is not on record. (b) **What the $1,937 contains
+> is described two ways.** The record, and amendment item 6(a) above, say **"list, design, venue,
+> materials"**; the new section lists **"list, venue, materials"** and counts design inside the $0.81.
+> **If design is inside the $1,937, 2021's print-postage-design figure is higher than $0.81 and the
+> 1.8x shrinks, tilting the split back toward response.** Which is right is the question already put to
+> High Note ("what the ~$1,937 actually covers"). (c) **The $0.81 divides by ~10,000 pieces; Harrison's
+> own exact figure is $0.695 on 11,597.** Both are on record and both are right for their year; do not
+> mix them. **Not computed by Vannevar, and not in Isla's draft:** on this basis the like-for-like cost
+> per sign-up gap (about $733 against $256, on 2021's 11 units) would be about 2.9x, not the 3.6x
+> headline in item 5. That is Vannevar's arithmetic on rounded inputs; Isla to confirm before quoting.
+>
+> **4. OPEN, Justin's decision, nothing recommended: mailing more than $7K.** Justin: *"No [other claims
+> on the $7K]. I'm thinking we might have to mail more than the 7k."* What it hinges on, all Justin's or
+> still outstanding:
+> - **Where money above $7K comes from.** The 2026 $7K expires; 2027's $22K carries the spring mailer
+>   (`drafts/budget-reconciliation-v1.md`). **Not on record: whether money above $7K would be
+>   perk-eligible.** The $7K is the restricted-use perk (this file, "The remaining $7,000 (2026)",
+>   2026-08-25, with the 2026-09-19 loose-reading rule); the extra would not automatically carry its
+>   rules or its use-it-or-lose-it pressure.
+> - **When High Note bills postage.** Mail enters 12 to 19 January, so postage may fall in **2027**
+>   whatever the print invoice does. This decides which year's money it is.
+> - **Whether the DRA in-band count in OH/KY supports the volume.** The DRA call is **still
+>   outstanding**. (The count is Ohio and Kentucky only, 10 miles, $250k+ IPA.)
+> - **A bigger January drop draws on the same households the spring drop planned to use.**
+>   Cross-reference the budget-reconciliation note "New problem nobody had surfaced": January's 5,000
+>   plus spring's up to 14,400 is about **19,400 distinct households**, and the in-band count may be
+>   smaller. Every extra January piece is a household spring cannot use or must re-mail within three
+>   months.
+>
+> **5. The argument for a larger drop, as Isla's arithmetic, assumption-bound.** At Harrison's actual unit
+> costs, the **marginal 1,000 pieces cost about $695** (the fixed ~$1,937 is the reason a larger drop's
+> average falls). The case is **information more than yield**: **a 10,000-piece drop roughly halves the
+> chance of misreading whether NKU still works (the 2023 rate) or the Ohio fall is the new normal (the
+> Ohio rate), compared with 5,000.** Yield is the weaker argument because **added households will respond
+> less than average.** **Assumptions, all of which stay attached:** Poisson on **two assumed rates**
+> (1.08 and 0.35 per 1,000), a cut-off chosen to balance the two errors, **list quality ignored, and the
+> changed offer ignored.** (Vannevar spot-checked the 5,000 case only: about 1 in 5 and 1 in 10, as the
+> draft says. The 10,000 and 15,000 cases were not recomputed.) Isla's sentence, not a finding.
+>
+> **6. Flagged against the existing record, none resolved.** (i) **"No other claims on the $7K" against
+> the earlier allocation.** `drafts/budget-reconciliation-v1.md` allocated the 2026 $7,000 as **$4,700
+> for a 5,000-piece card drop, $1,500 for a Q4 video batch day (Sloan), $800 response devices and
+> flex**, under the heading "expiring, no other claims". Justin's "no" now reads as removing outside
+> claims. **It is not stated whether the $1,500 batch day and the $800 flex are released to the mailer
+> or still stand.** That decides how much of the $7K a larger drop would have to find elsewhere. The $800
+> was also re-labelled an **overrun reserve for a folded card**, not extra pieces (same document,
+> "Corrections to my own numbers"). Justin's to say; nothing is reallocated here. (ii)
+> **`WHERE-THINGS-ARE.md`, "2020 template" row** (Isla's file, not touched) still says "unconfirmed
+> whether that is one campaign or both", which this block closes. It also still says "$0.44 a piece"
+> without the like-for-like caveat. Isla's to update.
 
 **What Justin supplied (2026-10-08).** (1) The printer's proof of the **second 2020 campaign**,
 Thomas More University, Crestview Hills; sessions printed Sat 3/28, Tue 3/31, Sat 4/4, Tue 4/7
@@ -2673,7 +2754,8 @@ shutdown.** Justin has not said which campaign any date belongs to.
 - Whether the proof's sessions ran, and in person.
 - ~~**Pieces mailed and spend for each campaign.**~~ **PARTLY RETIRED 2026-10-08 (later):** now one
   figure, about 25,000 pieces for about $11k, for **one unclear scope** (first campaign only, or both).
-  See the amendment block. Per-campaign figures, if the campaigns were separate, still not on record.
+  **[Closed 2026-10-08, later still: one campaign; the open part is only which sign-up dates belong to it.
+  Second amendment item 1.]** See the amendment block. Per-campaign figures, if the campaigns were separate, still not on record.
 - Attendance.
 - Clients and AUM from 2020.
 
@@ -2855,6 +2937,8 @@ against amendment item 4: 2020's room-filling was already near 2021's). Listed, 
    numbers" row says piece counts and spend are missing and no rate exists. Isla's to update.
 9. **Scope of the 25,000 and $11k** decides which row is right (1.72 and $256, or 1.40 and $314), and
    whether the Tuesday/Saturday split (section 5) and the p-values apply to 35 or 43. Justin to say.
+   **[Half closed 2026-10-08, later still: one campaign, $11k = postage, print, design. Still open: whether
+   2/25, 2/29 and 3/30 all belong to it, so 35 versus 43 and the p-values stand as before. Second amendment item 1.]**
 10. **Two "3.x" gaps in the record.** 3.7x (2026 against 2021, $3,333 to $909, 2026-09-28 Baseline)
     and 3.6x (2021 against 2020, $909 to $256, this amendment). Different pairs; do not cross-quote.
 11. **Cost per sign-up in 2021 to 2026 inherits rounded inputs** (about 10,000 pieces, about $10k) from
@@ -2868,6 +2952,13 @@ tilt, the Tuesday/Saturday split, the per-1,000 placeholder and the DBA inferenc
 unchecked. Percentages are arithmetic on those inputs, checked by Vannevar (11/35, 24/35, 4/13,
 9/13). Entries listed in section 8 and flags 1-6 are Vannevar's location work. The partner is not
 named here, by instruction. No client data entered. Nothing approved.
+
+**Source of the 2026-10-08 (later still) second amendment:** the scope answer, the postage-print-design
+coverage and the "mail more than the 7k" are Justin's (quoted). The 1.8x correction, the $0.81, the
+table and the error rates are Isla's, in `drafts/offer-options-and-ranking.md`, final section, read and
+pointed at, not copied. Vannevar re-did $8,063 / 10,000 / $0.44, the log split, and the 5,000-piece
+Poisson case; the 10,000 and 15,000 cases and the "about 2.9x" are not Isla's and are unconfirmed.
+Contradictions and gaps are in item 6. `drafts/` and `reference/` untouched. No client detail. Nothing approved.
 
 **Source of the 2026-10-08 (later) amendment:** the 25,000 pieces and $11k are Justin's (quoted above).
 The per-1,000 and per-sign-up figures, the tests (p values), the "weakest reading", the 1.56x / 2.27x
