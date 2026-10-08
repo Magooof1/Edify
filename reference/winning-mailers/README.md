@@ -179,7 +179,7 @@ seasonal illustration band runs across the foot of the white half.
 
 ## 2025 April — Indiana Wesleyan University, West Chester campus (a THIRD piece)
 
-`2025-04-iwu-west-chester-final-proof.pdf` (+ `-page1.png`, `-page2.png`, `.txt`) — supplied by Justin
+`2025-04-iwu-west-chester-final-proof.pdf` (+ `2025-04-iwu-west-chester-proof-page1.png`, `2025-04-iwu-west-chester-proof-page2.png` and `2025-04-iwu-west-chester-final-proof.txt`) — supplied by Justin
 2026-10-08, filename "Mailer - JUSTIN - Final Proof - SI". **A printer's final proof, not a scan of a
 mailed piece. Whether it printed exactly as shown is unconfirmed.** Result of this drop, from the
 record: **4 sign-ups, 4 attended** (April 5 and 12, 2025, Saturdays 8:30 to noon).
