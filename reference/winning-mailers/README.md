@@ -210,7 +210,7 @@ variable between this drop and the others.
   experience"*; "IAR, IA".
 - **Web address edifyretirement.com**; a QR code; phone 513.505.4214.
 
-**ENTITY WORDING, FLAGGED TO ED AND JUSTIN, NOT RULED ON.** The disclosure block on this proof names
+**ENTITY WORDING. Ed's read is filed in `.claude/memory/compliance-precedents.md`, 2026-10-08. It is a flag, not a ruling, and everything depends on two answers only Justin has: whether this printed as shown, and whether "Trulip Retirement Planning, LLC" ever existed as an entity before the 2026-09-18 correction.** The disclosure block on this proof names
 **"Trulip Retirement Planning, LLC" three times**, including *"Insurance and annuity products are sold
 separately through Trulip Retirement Planning, LLC / Trulip Planning, LLC"* and *"Portfolio Medics, LLC
 and Trulip Retirement Planning, LLC are not affiliated in any way."* `CLAUDE.md` says that company does

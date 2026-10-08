@@ -627,6 +627,10 @@ sent, or launched changes as a result (nothing was launched under the prior
 resolution). This entry is the current record on the entity question; the
 2026-09-16 resolution above is superseded and should not be relied on.
 
+*Pointer added 2026-10-08:* a legacy mailer (April 2025 IWU proof) still carries the
+superseded "Trulip Retirement Planning, LLC" string; see the 2026-10-08 entry at the end of
+this file.
+
 ---
 
 ## 2026-09-18 (later) — Bucket-to-hat mapping correction, plus a second correction minutes later: OH/KY is not a wall
@@ -1068,6 +1072,8 @@ enough to keep the effect."
    Justin's own standing rule ("no scarcity framing; 'first come' is out").** Reversing it
    would be Justin reversing himself, not overruling Ed. The 2021 "seating is limited" line
    passed only because COVID made limited capacity a statement of fact.
+   *Pointer added 2026-10-08:* Ed read the 2025 IWU ribbon and "guarantee your reservation
+   today" as the same category, louder; see the 2026-10-08 entry at the end of this file.
 
 **Cross-references:** `reference/winning-mailers/README.md` (2021 control and 2023 piece;
 the 2023 section's "barred or dead content" list now stands superseded for the NKU items
@@ -1241,3 +1247,130 @@ per item 5.
 **Status (2026-10-05):** January cover uses the cropped frame, no caption. Nothing
 approved or printed. Item 7 disagreement open for Justin. Release-first rule applies from
 the February 2027 classes.
+
+---
+
+## 2026-10-08 — Entity wording on a legacy piece: the April 2025 IWU West Chester proof names "Trulip Retirement Planning, LLC" (plus scarcity ribbon and three outside claims)
+
+**Find this when:** anyone proposes reusing, cloning, quoting or "checking against" the
+disclosure on an older mailer (2021 NKU, 2023 NKU, 2025 IWU, 2026 Harrison); a legacy piece is
+cited as precedent for wording; someone asks whether a past mailer's entity names were
+correct or ever corrected; a "limited availability / guarantee your reservation" ribbon or
+"seating is limited" line is proposed; a bio line says "fiduciary," "independent," "IAR, IA"
+or states years of experience; a headline generalises about "the financial industry."
+
+**Source:** Ed's review, 2026-10-08, of `reference/winning-mailers/2025-04-iwu-west-chester-final-proof.*`
+(described in that folder's README, "2025 April" section), supplied by Justin the same day.
+**A printer's final proof, not a scan of a mailed piece. Whether it printed as shown is
+unconfirmed (Justin to say).** Ed reviewed three items and reported flags only; he did **not**
+review the whole piece. Ed advises only. **Nothing here is approved.** Final authority is
+Justin's, and on the exposure questions counsel's or Portfolio Medics'.
+
+### 1. Entity wording (a real inaccuracy on its face, not a style issue)
+- **What the proof says.** The disclosure names "Trulip Retirement Planning, LLC" **three
+  times**: (a) "Portfolio Medics, LLC and Trulip Retirement Planning, LLC are not affiliated in
+  any way"; (b) "Views expressed by Trulip Retirement Planning, LLC do not reflect the opinions
+  of Portfolio Medics, LLC"; (c) "Insurance and annuity products are sold separately through
+  Trulip Retirement Planning, LLC / Trulip Planning, LLC."
+- **Against the standing record** (`CLAUDE.md`; Justin 2026-09-18 and the 2026-09-18 resolution):
+  that LLC does not exist; the DBA is held by Trulip Planning, LLC (the FMO); the producer of
+  record is Trulip Investment Management, LLC.
+- **Ed's reading.** The two disclaimers (a, b) name a non-entity as the party "not affiliated"
+  and as the party whose "views" are expressed, so **as written they describe no real party.**
+  The insurance line (c) names a non-entity and an FMO that does not transact with clients, and
+  **never names the entity the client actually contracts with.** It sits in the OH/KY
+  insurance-advertising producer-identification area.
+- **What Ed cannot say.** Whether it creates exposure. That depends on (i) whether and how
+  widely it mailed, (ii) the state producer-identification rules as applied, and (iii) how
+  Portfolio Medics treats its own name beside an incorrect Trulip sentence. **All three are
+  counsel's or Portfolio Medics' to judge.** Ed does not know who wrote the Trulip sentences or
+  whether Portfolio Medics reviewed them.
+- **Questions Ed says go to outside counsel:** (1) Does mailing a producer identification that
+  names a non-existent entity, and not the contracting entity, in an OH/KY insurance-adjacent
+  piece require any corrective step, and if so what kind and for which recipients? (2) Was the
+  insurance language on this piece necessary at all, given what the piece describes?
+- **Question for Portfolio Medics:** did they see this block and know the Trulip names were
+  incorrect; do they want the correct entity named wherever their name appears. Per Justin's
+  2026-09-16 position they require a correct disclosure, not pre-approval, so this is a
+  **heads-up question, not a request for sign-off.**
+- **For Justin first:** did it mail as shown? **Unanswered.** Everything above is conditional
+  on it.
+- **The April 2026 Harrison piece is probably the same, by Ed's inference only** (same
+  generation of pre-correction template). **Not seen; not a finding.** Ed will check the same
+  three sentences when Justin sends it.
+- **Standing rule, restated (no change):** ignore every entity name on a legacy piece and never
+  clone its disclosure. January's Block A comes from `drafts/disclosure-blocks-v1.md`.
+
+### 2. Scarcity: same category as the existing wall, louder
+- **The elements.** The red "LIMITED AVAILABILITY / ADVANCED REGISTRATION IS REQUIRED" ribbon
+  (registration panel and again inside), plus "Seating is limited, so please guarantee your
+  reservation today."
+- **Ed's classification.** The same category as the framing barred by Ed's 2026-09-12 wall
+  ("no urgency framing, ever," mirror-instrument entry) and by Justin's own standing rule ("no
+  scarcity framing; 'first come' is out"). **A louder version of the line already logged on the
+  2023 NKU piece (qualification 3, 2026-10-05, flagged and not decided), not a different
+  category.** The 2021 version passed only because COVID capacity limits made it a statement of
+  fact. **January drops it by the existing rule.**
+- **The line Ed drew.** "Advanced registration is required" **on its own is a logistics
+  statement and is not the barred element.** The barred part is the ribbon and "guarantee your
+  reservation today."
+
+### 3. Claims on the outside, keep off future pieces or off until substantiated
+Ed flagged wording only; he did not review the whole piece.
+- **"THE FINANCIAL INDUSTRY FALLS SHORT OF PREPARING PEOPLE FOR RETIREMENT."** A sweeping,
+  unsubstantiated statement about an entire industry, and a disparaging comparison implying
+  Justin's course does better. Unsubstantiated-claim and fair-and-balanced standards apply
+  through Portfolio Medics.
+- **"INDEPENDENT."** Sits uneasily with an IAR of Portfolio Medics who is also paid through the
+  Trulip entities; a reader may take it to mean "no conflicts." **Not to be reused without
+  counsel's view.**
+- **"A fiduciary with over 20 years of experience": the one Ed most wants kept off.** A blanket
+  "fiduciary" label is a status claim. Justin is a fiduciary only in his advisory capacity as an
+  IAR of Portfolio Medics; insurance and annuity business is not advisory. "Over 20 years" is a
+  factual claim that **needs support on file; Justin telling us is not documentation.** "IAR,
+  IA" invites confusion with "Investment Advisor." Ed's alternative: plain "licensed insurance
+  producer," or leave it off.
+- **Not re-raised:** "ALL-IN-ONE" and "ACADEMIC-BASED," because they come with the NKU framing
+  Justin overrode on 2026-10-05 (standing decision; agents do not re-raise).
+
+### Bio years: the figure has moved. Not hardened here.
+The 2021 control says "over 15 years"; the 2025 proof says "over 20 years"; January's draft
+carries a bracketed placeholder (`drafts/mailer-v6-control-rework.md`, the BIO line, marked
+CONFIRM). **The figure is Justin's to confirm with documentation.** This record does not say
+which is right.
+
+### Flagged against the existing record (not resolved, not overwritten)
+1. **"Names have changed since 2021" vs. "does not exist."** The winning-mailers README
+   records Justin's 2026-09-19 resolution that entity names on the 2021 piece reflect a
+   structure that has since changed ("Don't re-raise"). That wording suggests the old names
+   were once current. Ed's finding, and `CLAUDE.md`, say "Trulip Retirement Planning, LLC" does
+   not exist, which is a statement about the entity at any time, not only today. **Whether that
+   LLC ever existed, or was only ever the DBA, in April 2025 is not stated anywhere in the
+   record.** It matters to counsel's question 1. Justin's to say; not inferred here.
+2. **The 2021 control also names an entity that is not the producer of record.** It names
+   Trulip Planning, LLC (the FMO) as selling insurance and annuities. That is a different
+   string from the 2025 one, but on Ed's own reasoning (an FMO that does not transact with
+   clients) it is the same kind of gap. **Ed has not been asked about the 2021 piece, and the
+   README's "don't re-raise" instruction was given about it.** Flagged for Justin and Isla to
+   decide whether the heads-up to Portfolio Medics and counsel should cover it. Not a finding.
+3. **A second "fiduciary" in the 2025 body copy.** The proof's instructor paragraph also says
+   "Justin is a fiduciary Investment Advisor Representative (IAR) and Independent Agent (IA)"
+   (proof text, `.txt` line 172). **Ed named the outside line ("A fiduciary with over 20 years")
+   and "IAR, IA"; he did not mention this sentence.** Not a finding; Ed's rulings should not be
+   read as having covered it.
+4. **README states the entity wording was "flagged to Ed and Justin, not ruled on."** Ed's
+   findings are now recorded here; the README has not been updated (not edited by Vannevar).
+   Same facts, two states of the record until it is.
+5. **Unknown on this record:** who wrote the Trulip sentences; whether Portfolio Medics
+   reviewed them; whether the piece mailed as shown; how many recipients; which states.
+
+**Cross-references.** Entity: 2026-09-18 "Entity correction #2" (the correction this piece
+predates) and the 2026-09-12 (later) entity correction. Scarcity: the 2026-09-12 mirror-
+instrument entry (item 4, "no urgency framing, ever") and qualification 3 of 2026-10-05
+"Justin overrules Ed on NKU framing." Source material:
+`reference/winning-mailers/README.md`, 2025 April section. (The photography entries of
+2026-08-25 and 2026-10-05 are unrelated and deliberately not linked.)
+
+**Status (2026-10-08):** flagged, nothing decided. Open: did it mail as shown (Justin);
+counsel's two questions; the Portfolio Medics heads-up; the Harrison piece (not yet seen);
+bio-years documentation (Justin).
