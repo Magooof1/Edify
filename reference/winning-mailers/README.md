@@ -227,3 +227,58 @@ are not separable on three data points.** A fair statement of what it supports: 
 rooms at NKU in 2021 and 2023 was plainer, older-skewing and quieter than this one.
 
 **Still wanted:** the 2026 Harrison piece, which is not yet supplied.
+
+
+---
+
+## 2020 spring — Thomas More University, the SECOND 2020 campaign: the piece the 2021 control was copied from
+
+`2020-spring-thomas-more-2nd-campaign-proof.pdf` (+ `2020-thomas-more-proof-page1.png`, `-page2.png`,
+`.txt`), supplied by Justin 2026-10-08, filename "trulip_2nd_campaign_2020_proof_r1". **A printer's
+proof, 17 x 11 in (1224 x 792 pt), two pages.** The instructor on it is **Justin's partner, not Justin**:
+Justin joined the practice's classes after him. Sessions printed on this proof: Saturday 3/28 morning,
+**two Tuesday evenings** 3/31 and 4/7 (6:30 to 8:30 pm), Saturday 4/4 morning, at Thomas More University,
+Science Lecture Hall, Crestview Hills. **Those dates fall in the March 2020 shutdown; whether they ran is
+not recorded.**
+
+**Finding: the 2021 "control" is this piece with the name swapped.** Compare the two: the same
+17 x 11 two-page structure; the same older-adult classroom photograph; the same puzzle-piece graphic and
+gesturing-man photograph; the same laurel and "SPRING LEARNING PROGRAM" label; the same copy, *"New
+academic courses in a fun, interactive learning environment, teaching the foundations for a sound
+retirement"*; the same "You Will Learn / Who Should Attend / Why Now" lists; the same "Seating is limited
+so please guarantee your reservation today"; the same URL (trulippartners.com/education), phone and
+indicia. 2021 changed the university to NKU, the instructor to Justin, and added a women's session.
+**So the catalogue look did not start in 2021; the practice has been running it since at least spring
+2020, and the 2021 result is a second run of an existing template, not a first.**
+
+**Entity wording on this proof:** the disclosure reads *"Views expressed by Trulip Planning, LLC..."* and
+*"sold separately through Trulip Planning, LLC"*, **identical to 2021**. The string "Trulip Retirement
+Planning, LLC" appears in this repo's legacy pieces only on the 2025 proof. **Inference, not a finding:**
+that looks like the DBA with "LLC" appended between 2021 and 2025, not a renamed entity. Justin has not
+yet answered whether that entity ever existed.
+
+**Numbers for the first 2020 campaign, from Justin's partner's records, as relayed 2026-10-08.**
+"Units" are households (his usage, consistent with 2023).
+
+| Session | Signed up: people | Signed up: units |
+|---|---|---|
+| Tue 2/25/2020 (evening) | 19 | 11 |
+| Sat 2/29/2020 (morning) | 39 | 24 |
+| 3/30/2020 | 11 | 8 |
+| **Total** | **69** | **43** |
+
+**Not on this proof and not yet reconciled:** the dates 2/25, 2/29 and 3/30 do not appear on it (it
+prints 3/28, 3/31, 4/4, 4/7), so I read 2/25 and 2/29 as the **first** campaign and 3/30 as a session of the
+second, presumably rescheduled during the shutdown. **That is Isla's reading, not Justin's.** Not supplied:
+pieces mailed and spend for either campaign, attendance, clients, AUM.
+
+**What it suggests, at its weakest.** 43 units across three sessions, against 11 in 2021, 13 in 2023 and
+4 and 3 in the Ohio drops. **A rate cannot be computed without the piece count.**
+- **Before the market fell.** The S&P 500 closed at a record on 2026-02-19 (confirmed by a search); the
+  sharp fall began on 2020-02-24 (from Isla's memory, not checked). Sign-ups for the 2/25 and 2/29
+  classes were mostly made before or in the first days of it. That tilts against "market turmoil" as the
+  reason the template did well early, and toward Justin's other explanation, being early to classes in the
+  area. **It does not prove it:** the mail date and piece count are unknown.
+- **Saturday and Tuesday shares repeat.** Tuesday evening took **31% of sign-ups in 2020 (11 of 35, before
+  the shutdown) and 31% in 2023 (4 of 13); Saturday morning took 69% both times.** Two drops, tiny n, but
+  an identical split. A reasonable prior for how January's two sessions will divide.
