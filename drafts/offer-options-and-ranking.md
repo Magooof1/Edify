@@ -852,3 +852,45 @@ the lever that moved most was the one nobody had been pulling.
 **Caveats, all of which matter.** The $11k may not include everything the later drops' ~$10k did
 (Harrison's own breakdown has about $1,937 sitting outside print and postage). Postage was lower in
 2020 (Harrison's actual postage was $0.365 a piece). **The 2020 list's size and filters are not on record.** (An earlier version of this line called it probably broader because the piece said ages 50 to 70; the 2021 piece says the same, so that inference did not hold.) So $0.44 is not a price anyone can buy today.
+
+
+### 2020 scope confirmed, and the case for mailing more than $7K (2026-10-08, later)
+
+**Justin:** *"1 campaign. Postage and print and design."* So the 25,000 pieces and $11k are **one
+campaign, and the $11k covers postage, print and design.** Still unconfirmed: whether all three sign-up
+dates (2/25, 2/29, 3/30) belong to it.
+
+**This narrows one claim above.** The later drops' "~$10k" also carried roughly $1,937 outside print and
+postage (list, venue, materials, per Harrison's breakdown), which the 2020 figure may not. On print plus
+postage plus design only, 2021 is about $0.81 a piece, so 2020's $0.44 is about **1.8x** lower, not 2.27x.
+**The earlier "two-thirds cost per piece, one-third response" split should read closer to half and half**
+(response 1.56x, cost 1.8x). Direction unchanged; the cost lever is still at least as big as response.
+
+**Justin on the budget: "No [other claims on the $7K]. I'm thinking we might have to mail more than the 7k."**
+
+**Arithmetic, at Harrison's actual unit costs ($0.695 a piece plus about $1,937 fixed).** A High Note quote
+will differ; volume breaks should lower the per-piece figure.
+
+| Pieces | Cost | Per piece | Sign-ups at the 2023 rate (1.08 per 1,000) | At the Ohio rate (0.35) | Cost per sign-up, 2023 rate |
+|---|---|---|---|---|---|
+| 5,000 | $5,412 | $1.08 | 5.4 | 1.8 | $1,002 |
+| 7,000 | $6,802 | $0.97 | 7.6 | 2.5 | $900 |
+| 10,000 | $8,887 | $0.89 | 10.8 | 3.5 | $823 |
+| 15,000 | $12,362 | $0.82 | 16.2 | 5.2 | $763 |
+| 25,000 | $19,312 | $0.77 | 27.0 | 8.8 | $715 |
+
+**Marginal view:** each extra 1,000 pieces costs about $695 and, at the 2023 rate, brings about 1.1
+sign-ups ($643 each) and 0.33 clients ($2,100 each), about $88K of assets. **That assumes the added
+households respond like the average. They will not: a wider list is a less dense list, which is the real
+risk.** At the Ohio rate the same $8.9K buys 3.5 sign-ups, about $2,500 each.
+
+**The strongest reason to mail more is information, not yield.** January can tell us whether NKU still
+works (the 2023 rate) or the Ohio fall is the new normal (the Ohio rate). With a cut-off chosen to
+balance the two errors: **5,000 pieces calls it wrong about 1 time in 5 if NKU is still working and 1 in 10 if
+not; 10,000 pieces about 1 in 11 and 1 in 14; 15,000 about 1 in 25 each.** Poisson arithmetic on two
+assumed rates; it ignores list quality and the changed offer.
+
+**Not decided, all Justin's:** where money above $7K would come from (the 2026 $7K expires; 2027's $22K
+carries the spring mailer); **when High Note bills postage** (mail enters 12-19 January, so it may fall in
+2027 whatever the print invoice does); whether the DRA in-band count in OH/KY supports the volume; and
+that a larger January drop draws on the same households the spring drop planned to use.
