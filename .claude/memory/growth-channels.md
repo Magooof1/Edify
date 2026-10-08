@@ -2255,10 +2255,30 @@ Exact conditional tests, **post-hoc, tiny n, Isla's figures as supplied, not rec
 Vannevar:** 2021 vs 2023 indistinguishable (p about 0.6); Ohio pooled (7 on 20,000) vs 2023
 p about 0.012; vs 2021 p about 0.014.
 
+**AMENDED 2026-10-06 (later; filed 2026-10-08) — the 2021 "11" is SIGN-UPS.** Justin: *"2021 -
+11 units signed up. I'm not sure how many came."* The 2021 row's "Registered" cell is therefore
+**a like-for-like count with 2023's 13 registered households** (the "(11 units)" label in that
+cell stands; the "plausibly 0.7" in the Clients cell is a different stage and is **not** the
+sign-up comparison). On the matched basis, as restated by Isla (**not recomputed by
+Vannevar**): **1.10 vs 1.08 per 1,000 pieces, p about 0.6, indistinguishable.** The two Ohio
+drops, **7 on 20,000 or 7 on 21,597** (using the 11,597 Harrison itemisation, flag 4), sit
+well below both: **p about 0.009 to 0.014.** **Attended per 1,000 for 2021 cannot be computed**
+(section 7). The full matched-basis table, with its own arithmetic, is in
+`drafts/offer-options-and-ranking.md` under "CORRECTED 2026-10-06"; **read that block, it is
+not duplicated here.**
+
 ### 4. The weakest reading that is still actionable — and the line beyond it
 
 **Supported:** at NKU, wearing the catalogue look, room-filling in 2023 was at **roughly the
 2021 rate.** The fall appears **between 2023 and 2025.**
+*(Amended 2026-10-06, later: this "supported reading" is **restored on a matched count.**
+Vannevar's flag 1 below had put it in doubt on a possible stage mismatch; Justin's "11 units
+signed up" resolves the stage. **It rests on one assumption, recorded here and not buried:**
+Isla read 2021's "unit" as a **household**, matching Justin's own 2023 usage ("16 people
+registered 9 units"). The 2026-10-01 reconciliation read the 11 as plausibly individuals across
+7 households and labelled that unverified. **Justin's usage is now the better evidence, but it
+is still an inference, not his statement of what a 2021 unit was.** If the 11 were people,
+2021's households were fewer and 2023 would exceed it.)*
 
 **NOT ESTABLISHED (do not quote any of these as findings):**
 - **That the cause is place, era, the costume, or venue prestige.** They are confounded: 2025
@@ -2273,14 +2293,32 @@ p about 0.012; vs 2021 p about 0.014.
 - **Unit definitions do not line up.** 2023 = households. 2021's "11 units" is reconciled in
   the 2026-10-01 "(later)" entry as **plausibly individuals across 7 households, unverified.**
   2025/26 units are undefined. **A comparability hole, not a resolved one.**
+  **Amended 2026-10-06 (later): narrowed, not closed.** The 2021 count is now known to be
+  **sign-ups** (same stage as 2023). What remains is the **household-vs-person assumption**
+  (see the amendment under "Supported" above) and the **undefined 2025/26 units.** The
+  2026-10-01 reading was **not overwritten**; Justin's usage outweighs it as evidence but does
+  not delete it.
 - **Show rate:** **9 of 13 in 2023** (Sat 7/9, Tue 2/4) against the Ohio drops' 100%. **The
   100% is the outlier.**
 
-**Hypothesis only, held as weakly as it can be held.** The ~10x AUM gap between 2021 and 2023
-looks mostly like what happens **after the room** rather than getting people into it: clients
-per 1,000 pieces about **0.33 vs a plausible 0.7**; average size about **$262K vs about
-$1.3M.** Both 2021 inputs rest on "7 households," which is plausible-not-verified, and the
-client counts are **n=4 and n=7.** Not a finding.
+**SUPERSEDED 2026-10-06 (later), kept for the reasoning, not for reuse:** ~~*Hypothesis only,
+held as weakly as it can be held.* The ~10x AUM gap between 2021 and 2023 looks mostly like
+what happens after the room rather than getting people into it: clients per 1,000 pieces about
+0.33 vs a plausible 0.7; average size about $262K vs about $1.3M. Both 2021 inputs rest on "7
+households," which is plausible-not-verified, and the client counts are n=4 and n=7. Not a
+finding.~~ **Why superseded:** it used **mixed bases.** The $262K is 2023's class-only $1.05M
+over 4; the $1.3M is the 2021 year-acquired $9.13M over 7, a figure that may include non-class
+sources, so the "~10x" it explained was itself the mixed-base gap (the mailer-credited gap is
+~6.9x, flag 2).
+
+**Hypothesis only, at its weakest, NOT TO BE BUILT ON (Isla's, 2026-10-06 later):** on the
+matched sign-up basis, **sign-up to client was 7 of 11 in 2021 (the 7 is itself unverified)
+against 4 of 13 in 2023.** If real, the front filled rooms equally and **what changed is what
+happened after the room.** **Fisher exact p about 0.22, so it cannot be told apart from
+chance** (Isla's figure, not recomputed by Vannevar). It also inherits the household-vs-person
+assumption above, and a different "7": the 2021 client-household count comes from the
+2026-10-01 reconciliation, not from Justin's 2026-10-06 answer. Not a finding; no spend,
+script or class change should key off it.
 
 ### 5. Corrections to existing entries — listed, NOT rewritten
 
@@ -2295,7 +2333,9 @@ units per piece.
 (c) **Taleb's pre-registered falsifier #1 is MET** (registered 1.08 against his "0.8 or more,
 near 2021's 1.1"; attended 0.75 at its edge). Recorded in the addendum to
 `drafts/january-front-position.md`. The original falsifier list was not located as a separate
-file.
+file. **Amended 2026-10-06 (later): met on a like-for-like count** (2021's 11 is sign-ups,
+same stage as 2023's 13 registered), subject to the household-vs-person assumption in section
+4. The attended-0.75 edge cannot be matched to 2021 (attendance unknown).
 (d) **2026-09-19 "Jayme's mechanism read" entry, "Transferable vs. expired" paragraph** (this
 file, ~line 759-762), which lists "the university-catalog illusion specifically within
 Justin's core NKU territory, since competitors copied it there" under **Expired.** Its
@@ -2309,6 +2349,14 @@ On 2026-10-06 Isla recommended Jayme's **Option 2** (the Questions front, in
 reasoning from the category's crowding, not measurement.** The first measurement says
 otherwise through 2023. **She now recommends Option 1** (the Catalogue with a question).
 Jayme's own stated confidence in Option 2 was about 55/45 (mailer-front-v7.md, section 0).
+**Amended 2026-10-06 (later): the reversal is back on firm ground on the matched count**
+(2021 sign-ups 1.10 vs 2023 registered 1.08 per 1,000; flag 1 below is closed). "Firm" means
+firm against the specific premise it replaced (that the catalogue look had decayed through
+2023), **not** that Option 1 is proven. **Still genuinely unestablished:** (i) **why the Ohio
+drops fell** (place, era, venue prestige and the junior high are confounded; three data
+points cannot separate them); (ii) **whether anything holds in 2027**, given Retirement
+Planning University's NKU sessions since at least March 2026 (entry below; search-summary
+only, unverified). **Justin has not chosen between the fronts.**
 **Name collision to hold:** "Option 1 / Option 2" in mailer-front-v7.md are the two **fronts**;
 "Offer 1 / Offer 2" in `offer-options-and-ranking.md` are mirror-then-visit and "Part One."
 Different things.
@@ -2318,8 +2366,15 @@ Different things.
 - ~~The 2023 spend.~~ **Retired 2026-10-06 (later): about $10k, see section 1.**
 - ~~The Thursday 4/20 session.~~ **Retired 2026-10-06 (later): settled, nothing separate; do
   not ask again unless a contradicting number appears (section 1).**
+- ~~2021 attendance.~~ **Closed 2026-10-06 (later), as not worth chasing.** Justin: *"I'm not
+  sure how many came."* The attended-per-1,000 comparison with 2021 **cannot be made.** Do not
+  ask again.
 - Whether the 2025 and 2026 pieces carried the laurel styling or only the venue name. **Still
   open; waiting on Justin's upload of the images** (section 4 note).
+- **Why the Ohio drops fell.** Place, era, venue prestige and the junior high are confounded
+  (section 4). Not established.
+- **Whether anything holds in 2027**, given Retirement Planning University's NKU sessions
+  since at least March 2026 (next entry; unverified).
 - **January as a read:** at **5,000 pieces** the 2023 rate predicts about **5.4** registered
   units and the pooled Ohio rate about **1.75.** **Two or fewer points to an era or crowding
   effect; five or more to a place effect.** Roughly a one-in-ten call either way (Isla): **a
@@ -2335,12 +2390,23 @@ Different things.
    not like-for-like, and the stage-matched pair would be clients: **~0.7 (7 households)
    vs 0.33 (4).** That would weaken "roughly the 2021 rate" as stated in section 4. Only
    Justin can say what the 11 counted.
+   **CLOSED 2026-10-06 (later):** Justin said the 11 were sign-ups, so the matched pair is
+   sign-ups, 1.10 vs 1.08. **Residue, not closed:** the household-vs-person reading of "unit"
+   is Isla's inference from Justin's 2023 usage (section 4 amendment). **Record contradiction
+   held, not overwritten:** the 2026-10-01 "(later)" entry and `offer-options-and-ranking.md`
+   (2026-09-28) call 2021's 11 "buying units" and read it as individuals across 7 households;
+   Justin's direct sentence now says sign-ups. The older labels are stale on the stage, and
+   the 2026-10-01 entry has not been edited by this amendment.
 2. **2021 AUM base.** The $913K per 1,000 uses **$9.13M year-acquired (which may include
    non-class sources)**; the record's **defensible** 2021 figure credited to the mailer is
    **~$6M** (2026-10-01 corrections block C4, Jayme). Derived by Vannevar, not stated by
    anyone: on ~$6M, 2021 is **~$600K per 1,000, and the 2021-to-2023 AUM gap is ~6.8x, not
    ~10x.** The 2023 side is class-only (section 2), so the two sides of the "~10x" are on
    different bases. The decomposition in section 4 inherits this.
+   **STANDS (confirmed by Isla 2026-10-06, later):** on the mailer-credited $6M the
+   2021-to-2023 AUM gap is **about 6.9x, not 10x.** (Rounding note: Vannevar's 6.8x above used
+   $88K; $600K over $87.5K is 6.86, so 6.9x is the better rounding. No disagreement.)
+   The decomposition in section 4 is now marked superseded for this reason.
 3. **"$800K total assets" vs "$250K AUM."** Supplied with different labels. The tie-out to the
    year-acquired AUM figure works on the sum, so either the labels are loose or Saturday
    includes assets not under management. Recorded as supplied; Justin to confirm.
@@ -2350,19 +2416,37 @@ Different things.
 5. **`offer-options-and-ranking.md` still carries "Show rate: 100%. Everyone who registered
    came." and "The show-up hypothesis is dead"** directly beneath the new 9-of-13 paragraph.
    Both are true of the two Ohio drops only. Not edited (drafts untouched, per instruction).
+   **Closed 2026-10-06 (later):** Justin has since edited `offer-options-and-ranking.md`; both
+   lines now carry "Ohio 2025 and 2026 only" / "scoped 2026-10-06" annotations.
 6. **`ROADMAP.md` (~line 92) still names `mailer-front-v7.md` Option 2** as what the front
    should do. Stale against the reversal in section 6. ROADMAP is Isla's.
+   **Closed (checked 2026-10-08):** ROADMAP line 92 now says Isla recommends Option 1 and
+   Justin has not chosen.
 7. **Class count for 2023.** The 2026-10-01 "(later)" table records 2023 as a **two-class
    year**; the mailer listed **three** sessions (Thu 4/20 included). Tied to the Thursday
    open item. **Amended (later): consistent with Justin's settlement** (Thursday produced
    nothing separate), so the two-class count stands. Flag closed on that basis.
 8. **`WHERE-THINGS-ARE.md`** (last swept 2026-10-05) does not yet point at this entry; the
-   sweep is Isla's.
+   sweep is Isla's. **Closed (checked 2026-10-08):** the index now points here and carries the
+   2021 sign-ups line.
+9. **(New, 2026-10-08) Ohio p-value range differs between sources.** Isla's restatement:
+   **p about 0.009 to 0.014** (7 on 20,000 or 7 on 21,597). The block in
+   `drafts/offer-options-and-ranking.md` ("What still holds regardless of 2021") says **about
+   0.007 to 0.012**, and this entry's section 3 says 0.012 (vs 2023) and 0.014 (vs 2021).
+   Different comparisons or an unreconciled edit; **Vannevar has not recomputed and does not
+   pick.** Direction is the same in all three. Isla to say which range is current.
+10. **(New, 2026-10-08) "7" appears in two roles.** 7 of 11 (2021 sign-up to client) takes
+   the client-household count from the 2026-10-01 reconciliation, not from Justin's 2026-10-06
+   answer. Marked unverified wherever the 7-of-11 hypothesis is quoted.
 
 **Source:** the 2023 figures, "units = households" and the 2025/26 institution names are
 Justin's (2026-10-06). The per-1,000 arithmetic, p-values, reading, reversal and January
 projection are Isla's (as recorded in the two drafts). The corrections list is Vannevar's
-location work; flags 1-8 are Vannevar's.
+location work; flags 1-8 are Vannevar's. **Amendments marked "2026-10-06 (later)":** the "2021
+- 11 units signed up. I'm not sure how many came." answer is Justin's; the matched-basis
+rates, p-values, 6.9x and the 7-of-11 / Fisher p about 0.22 hypothesis are Isla's, not
+recomputed by Vannevar; flags 9-10 and the closing notes on flags 1, 5, 6, 8 are Vannevar's
+(2026-10-08). No client data entered. Nothing approved.
 
 ---
 

@@ -107,7 +107,7 @@ Justin supplied the 2023 NKU results (full numbers in `drafts/offer-options-and-
 Taleb named this as the first thing that would make him wrong: *"The 2023 NKU drop produced
 about 0.8 units per 1,000 pieces or more, near 2021's 1.1. Then the costume protects and the
 exposed face should keep it."* **Registered: 1.08 per 1,000. Attended: 0.75.** The falsifier
-is met on registrations and sits at its edge on attendance. **Whether 2021 and 2023 match is NOT established** (2021's "11 units" may count a different stage; see the correction in `offer-options-and-ranking.md`). **What is established:** 2023 filled a room at about three times the rate of the two Ohio drops (p about 0.007 to 0.012).
+is met on registrations and sits at its edge on attendance. **Whether 2021 and 2023 match is NOT established** (2021's "11 units" may count a different stage; see the correction in `offer-options-and-ranking.md`). **What is established:** 2023 filled a room at about three times the rate of the two Ohio drops (p about 0.007 to 0.014).
 
 **Isla reverses her recommendation.** On 2026-10-06 she told Justin the catalogue look "has
 decayed" and recommended Jayme's Option 2. That was reasoning, not measurement. The first first-party measurement says the front was **not failing at NKU in 2023**, though it cannot say it matched 2021. The fall in room-filling appears
@@ -133,7 +133,7 @@ protects it from RPU.
 
 **Resolved, same day.** Justin supplied 2021's sign-ups: **11 units signed up**, which is the same
 stage as 2023's 13. On that matched basis **2023 and 2021 are indistinguishable (1.08 against 1.10
-per 1,000 pieces, p about 0.6)**, and the two Ohio drops are well below both (p about 0.009 to
+per 1,000 pieces, p about 0.6)**, and the two Ohio drops are well below both (p about 0.007 to
 0.014). Taleb's falsifier #1 is met on a like-for-like count, and the reversal to Option 1 is back
 on firm ground. **Still not established:** attendance in 2021 (Justin does not know); why the Ohio
 drops fell (place, era, venue prestige and the junior high are confounded); and whether anything
