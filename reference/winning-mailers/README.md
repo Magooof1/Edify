@@ -274,7 +274,7 @@ pieces mailed and spend for either campaign, attendance, clients, AUM.
 
 **What it suggests, at its weakest.** 43 units across three sessions, against 11 in 2021, 13 in 2023 and
 4 and 3 in the Ohio drops. **A rate cannot be computed without the piece count.**
-- **Before the market fell.** The S&P 500 closed at a record on 2026-02-19 (confirmed by a search); the
+- **Before the market fell.** The S&P 500 closed at a record on 2020-02-19 (confirmed by a search); the
   sharp fall began on 2020-02-24 (from Isla's memory, not checked). Sign-ups for the 2/25 and 2/29
   classes were mostly made before or in the first days of it. That tilts against "market turmoil" as the
   reason the template did well early, and toward Justin's other explanation, being early to classes in the

@@ -64,7 +64,7 @@ Tuesday 16 and Saturday 20 February.
 | Why we're mailing at all | `drafts/offer-options-and-ranking.md` | The three lever decisions, with their corrections. |
 | The 2020 template and its numbers | `reference/winning-mailers/README.md`, section "2020 spring — Thomas More"; `.../2020-spring-thomas-more-2nd-campaign-proof.*` | **The 2021 control is a copy of this piece.** 43 units signed up across the partner's three 2020 sessions. Piece counts and spend for 2020 still missing, so no rate. |
 | The 2023 NKU drop and Retirement Planning University | `.claude/memory/growth-channels.md`, headings dated 2026-10-06 (end of file); the table in `drafts/offer-options-and-ranking.md` | Corrected once already. **Settled, do not re-ask Justin:** Thursday 4/20/2023 (nothing separate), the 2023 cost (~$10k). **2021 sign-ups = 11 units (Justin), so the 2021-to-2023 comparison now stands on sign-ups; his 2021 attendance is unknown and not worth chasing.** **Still open:** **the 2025 IWU piece is in** (`reference/winning-mailers/2025-04-iwu-west-chester-final-proof.*`, see its README section; it wore the catalogue look, redesigned), and the 2026 Harrison piece is still to come; a mailbox-log recipient in the NKU ZIPs (his parents and in-laws live elsewhere; do not ask clients). Read the correction block before quoting any comparison to 2021. |
-| The front (outside panels) | `drafts/mailer-front-v7.md`, `drafts/january-front-position.md` | Option 1 recommended by Isla; **Justin has not chosen.** |
+| The front (outside panels) | `drafts/mailer-front-v7.md`, `drafts/january-front-position.md` | Option 1 recommended by Isla and **built on the canvas 2026-10-08** (real 2020 laurel); **Justin has not chosen.** |
 | What the money does | `drafts/budget-reconciliation-v1.md` | $7K 2026, $22K 2027. |
 | The artboards | the Design canvas (Artifact) | Five surfaces at true print size. |
 
@@ -115,7 +115,7 @@ Nothing here is current. Do not lift copy from it.
 
 4,300 lines, chronological. Go to the right one, don't read them all.
 
-- `growth-channels.md` (2,125 lines) — every channel ever tried or considered, what it cost,
+- `growth-channels.md` (about 2,500 lines and growing) — every channel ever tried or considered, what it cost,
   what it returned. **The Facebook history lives here.**
 - `compliance-precedents.md` (1,243) — what Ed has ruled, when, and on what grounds. Check
   before asking him the same question twice.

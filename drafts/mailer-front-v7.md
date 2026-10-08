@@ -1,3 +1,11 @@
+> **STATUS 2026-10-08 (Isla).** Option 1 is built on the Design canvas (panels A and C; B kept as the
+> control-faithful version already there; photograph parked, with no room inside-left). **It is Isla's
+> recommendation and Justin has not chosen.** The laurel is the real 2020 vector artwork, extracted from
+> `reference/winning-mailers/2020-spring-thomas-more-2nd-campaign-proof.pdf`. Rationale and what is not
+> established: `drafts/january-front-position.md`, addenda. Cover bullet 3 was changed from Jayme's
+> "before and after Medicare" to "from the day you stop working", matching the mirror's question 4 and
+> staying clear of the open CMS flag.
+
 # Mailer front, v7: the outside and the cover
 
 **Jayme, 2026-10-06. TWO CHALLENGER FRONTS. Nothing here is approved or cleared, and nothing has

@@ -2554,3 +2554,192 @@ Nothing here is approved. Source: Justin's answers 2026-10-06, passed on by Isla
 **Source:** all Retirement Planning University, SWIG/SWD, non-profit and Everest points are
 Isla's brief from search summaries (Taleb found the NKU dates); the mailbox answer is
 Justin's. No client data entered.
+
+---
+
+## 2026-10-08 — 2020 / THOMAS MORE UNIVERSITY: THE ORIGIN OF THE CONTROL (the 2021 piece is a second run of a 2020 template), the partner's 2020 sign-ups, and what they do to the FIRST-MOVER question (Justin's numbers; Isla's reading; filed by Vannevar)
+
+**Find this when:** anyone says "2020", "Thomas More", "origin of the control", "first mover" or
+"early to classes in the area"; treats 2021 as where the catalogue look began or as a clean first
+test of it; asks why 2021 worked (market turmoil vs being early); cites a per-piece rate for a
+drop before 2021; or asks whether the by-year AUM table is missing a year.
+
+**Nothing here is approved. Aggregates only; no client detail.** The piece itself, its
+side-by-side comparison with 2021, and Isla's reading of the dates are in
+`reference/winning-mailers/README.md`, section "2020 spring — Thomas More University" (and
+`2020-spring-thomas-more-2nd-campaign-proof.*`). **Read that section; this entry holds the
+durable facts, the open items and the corrections.**
+
+**What Justin supplied (2026-10-08).** (1) The printer's proof of the **second 2020 campaign**,
+Thomas More University, Crestview Hills; sessions printed Sat 3/28, Tue 3/31, Sat 4/4, Tue 4/7
+(evenings 6:30-8:30). The instructor on the proof is **Justin's partner**, not Justin. (2) The
+partner's sign-up numbers for 2020, in Justin's words: *"My partner started doing these before me.
+this is his numbers for 2020."* "Units" are households, consistent with Justin's usage for 2023
+(that match is Isla's reading of his usage).
+
+| Date as given | People | Units |
+|---|---|---|
+| 2/25/2020 | 19 | 11 |
+| 2/29/2020 | 39 | 24 |
+| 3/30/2020 | 11 | 8 |
+| **Total** | **69** | **43** |
+
+### 1. The 2021 "control" is a second run of a 2020 template, not a first
+
+Same 17 x 11 two-page layout, photographs, graphics, laurel, "SPRING LEARNING PROGRAM" label,
+copy, lists, scarcity line, URL and indicia. 2021 swapped Thomas More for NKU and the instructor,
+and added a women's session. **Correct anywhere the record treats 2021 as where the catalogue
+look began, or as a clean first test of it.** The entries that read that way are **listed in
+section 8, not rewritten.**
+
+**Precision on "second":** the proof is labelled the *second* 2020 campaign. **The first 2020
+campaign's piece is not on file**, so whether it wore the same template is unknown. "Second run"
+is the earliest the 2021 piece can be; it may be a later one.
+
+### 2. The dates are unreconciled. This is Isla's reading, not Justin's.
+
+2/25, 2/29 and 3/30 are **not on the proof** (it prints 3/28, 3/31, 4/4, 4/7). **Isla reads 2/25
+and 2/29 as the first campaign and 3/30 as a rescheduled session of the second, during the
+shutdown.** Justin has not said which campaign any date belongs to.
+
+**Open:**
+- Which campaign each date belongs to (so whether 35 or 43 units belongs to the first campaign).
+- Whether the proof's sessions ran, and in person.
+- **Pieces mailed and spend for each campaign.**
+- Attendance.
+- Clients and AUM from 2020.
+
+**No rate can be computed without the piece counts. None is derived here.**
+
+### 3. 2020 was a missing year in the AUM table; now half-filled
+
+The by-acquisition-year table (2026-10-01 "(later)", section 3) and its notes say **"2020 and 2025
+not supplied."** What exists now: **2020 sign-ups (43 units / 69 people). What does not: 2020 AUM.**
+The clients from the partner's classes **may sit in the partner's book rather than Justin's sampled
+book. Unknown; ask, do not assume.** Do not read the absence of a 2020 row in the sample as "no
+2020 clients."
+
+### 4. What it suggests for the 2021 explanation, at its weakest
+
+Justin's 2026-10-01 explanation of the 2021 vintage: *"early in marketing classes in the area or
+probably more realistically market turmoil."* (2026-10-01 entry, section 1; the first half is the
+2026-08-25 "Saturation cause".)
+- **S&P 500 record close: 2020-02-19** (confirmed by a search of an August 2020 news item).
+  **The sharp fall began 2020-02-24 — from Isla's memory, NOT CHECKED.**
+- Sign-ups for the 2/25 and 2/29 classes were **mostly made before, or in the first days of, that
+  fall.** That **tilts against turmoil as the reason the template did well, and toward "early to
+  classes in the area."**
+- **Not proven.** The **mail date and piece count are unknown**, and the date-to-campaign mapping
+  is unreconciled (section 2). The 3/30 session (8 units, the smallest) falls inside the fall and
+  the shutdown; it cannot separate the explanations either way.
+- **Scope of the tilt:** it concerns why the *template drew sign-ups in early 2020*. Whether it
+  explains why the **2021 acquisition-year vintage** (45% of sampled AUM) is large is a further
+  step this does not take (see flag 4).
+
+Cross-references: 2026-10-01 entry (sections 1 and 3 — the hole in the turmoil hypothesis is
+untouched); 2026-08-25 "Saturation cause"; 2026-10-01 "(later)" section 4, the pre-registered 2025
+open test (untouched).
+
+### 5. A repeating split, at its weakest
+
+| Drop | Tuesday evening | Saturday morning |
+|---|---|---|
+| 2020, the two February classes | 11 of 35 units = 31% | 24 of 35 = 69% |
+| 2023 NKU | 4 of 13 = 31% | 9 of 13 = 69% |
+
+**Two drops, tiny n, an identical split.** A reasonable prior for how January's two sessions
+(Tue 16, Sat 20 Feb 2027) divide; **not a forecast.** Different venues, different instructors,
+three years apart. The 2020 evening class was the first of the two (2/25), which the 2023 order
+(Saturday 4/22, then Tuesday 4/25) does not match; no effect of that is claimed.
+
+### 6. Sign-ups per drop, with the holes visible
+
+| Drop | Pieces | Sign-ups (units) | Per 1,000 pieces |
+|---|---|---|---|
+| 2020 first campaign (if 2/25 and 2/29) | **NOT ON RECORD** | 35 pre-shutdown; 43 if 3/30 is included | **cannot be computed** |
+| NKU spring 2021 | ~10,000 | 11 | 1.10 |
+| NKU spring 2023 | ~12,000 | 13 | 1.08 |
+| IWU West Chester Apr 2025 | ~10,000 | 4 | 0.40 |
+| Harrison Apr 2026 | ~10,000 (or 11,597) | 3 | 0.30 (0.26) |
+
+2021 to 2026 rows are as already filed (2026-10-06 entry, section 3). **Unit definitions still
+do not line up:** 2023 and 2020 are households by Justin's usage; 2021 is a household
+*assumption* (2026-10-06 amendment); 2025/26 units are undefined.
+
+**The thing the missing number would settle, not a finding.** **If 2020 had mailed roughly 10,000
+pieces** (a placeholder borrowed from the 2021 and Ohio sizes, not a fact), the series would read
+**3.5, 1.1, 1.1, then 0.4 and 0.3 per 1,000** (4.3 at 43 units). **2020's piece count is not on
+record, so this is not stated as a finding.** (Isla's brief wrote the series as "3.5x, 1.1x, 1.1x,
+0.4x, 0.3x"; read here as per-1,000 at the assumed 10,000.)
+
+### 7. Entity wording: a data point for the question Justin has not answered
+
+The 2020 and 2021 disclosures both read **"Trulip Planning, LLC"**, not "Trulip Retirement
+Planning, LLC"; the latter appears among the legacy pieces **only on the 2025 proof.** **Isla's
+inference, not a finding:** that looks like the **DBA with "LLC" appended**, not an entity rename.
+Justin has still not said whether that LLC ever existed. **Cross-reference
+`compliance-precedents.md`, 2026-10-08 ("Entity wording on a legacy piece"), including its
+"Flagged against the existing record" items 1 and 2. That entry is unchanged.** The 2020 wording
+being identical to 2021 adds no information about whether names changed between 2021 and 2025.
+
+### 8. Entries that read 2021 as the beginning or a clean first test. Listed, NOT rewritten.
+
+All in this file unless stated; line numbers as of this filing.
+- **2026-09-19 "Jayme's mechanism read on the control mailer ($6M, NKU 2021)"** (~736-797):
+  "first time this workforce has analyzed an actual winning document"; the mechanism and its
+  "n=1" caveat are drawn from the 2021 piece alone; the "Transferable vs. expired" paragraph
+  (~759-762). **The same template ran under a different university's name in 2020**, so the
+  "n=1" is now **two runs of one design, not two independent winners**, and 2020's per-piece result
+  is unknown.
+- **2026-10-01 entry, sections 1 and 3** (~1725-1761): Justin's "early in marketing classes in the
+  area" is weighed with no 2020 sign-up data; this entry's section 4 now bears on it.
+- **2026-10-01 "(later)", section 3 "FINAL FORM" and section 4** (~2074-2093, 2095-2112): "market
+  conditions plus first-mover timing as the only surviving explanation for the 2021 vintage";
+  "2020 and 2025 not supplied" (~2090, flag F ~2155).
+- **2026-10-06 NKU entry** (~2272, 2329-2343, 2347-2359): "at NKU, wearing the catalogue look";
+  5(b) "the costume did not repeat 2021"; 5(d); the section 6 reversal's premise that the look had
+  or had not decayed. The look has now run since at least spring 2020; its decay or non-decay is
+  not read against any 2020 rate (none exists).
+- **`.claude/memory/partners-venues.md`** (~50-64): the 2021 piece described as the piece that
+  produced $6M and as the source of the "borrowed institutional authority" mechanism.
+- **`.claude/memory/compliance-precedents.md`** (~1090-1116, 2026-10-05 "later"): Justin's *"PM
+  looked at the original when we started doing this."* **Which piece "the original" was (a 2020
+  piece or the 2021 one) is not stated.** Not a correction, a question.
+- Not swept: `drafts/`, `ROADMAP.md`, `WHERE-THINGS-ARE.md` (which already points at the
+  README section and carries "43 units", and is Isla's), and the earlier sections of
+  `reference/winning-mailers/README.md`. Per instruction, `drafts/` and `reference/` were not
+  touched.
+
+### Vannevar's flags, for Isla/Justin; none resolved here
+
+1. **Date typo in the README section** (`reference/winning-mailers/README.md`, ~line 277): it
+   says the S&P 500 "closed at a record on **2026**-02-19". Isla's brief and the context say
+   **2020**-02-19. Not edited (reference/ is off-limits to this pass).
+2. **"Over 15 years" appears identically** in the instructor bio on the 2020 proof (the partner)
+   and on the 2021 piece (Justin). The compliance entry "Bio years: the figure has moved" (2026-10-08)
+   treats the figure as Justin's to document and does not know the 2020 reading. **Whether the
+   2021 figure was Justin's own or inherited from the template is not on record.** Compliance
+   entry unchanged.
+3. **Ed has not seen the 2020 proof.** His 2026-10-08 flag 2 (Trulip Planning, LLC named as
+   seller) applies to it in the same words. Whether to extend the heads-up is Justin's and
+   Isla's call.
+4. **Class year vs acquisition year.** The 2021 vintage (45% of sampled AUM) and Jayme's
+   "~$6M credited to the 2021 mailer" are *year-acquired* figures. **Whether any 2021-dated AUM
+   came from the 2020 classes (by Justin or by the partner) is not on record**, and 2020 AUM is
+   not supplied. This is a question about the attribution, not a claim that it is wrong.
+5. **"Before me" is undated.** Justin's sampled book has 2018 and 2019 vintages (3% and 7%), and
+   2018-2019 are listed as one- and two-class years in the 2026-10-01 "(later)" table. **When Justin
+   began running classes, and whether his 2018/19 vintages came from his own classes, the
+   partner's, or other doors, is not on record.** The README says Justin "joined the practice's
+   classes after him"; no year is attached.
+6. **Units across sources.** The partner's "units" are taken as households on the strength of
+   Justin's 2023 usage. His 2021 "11 units signed up" is also an inference-as-household
+   (2026-10-06). A like-for-like table needs Justin to say what the partner counts.
+
+**Source:** the proof, the partner's numbers, "my partner started doing these before me" and
+"units" are Justin's (2026-10-08). The date reading (flagged unreconciled), the market-timing
+tilt, the Tuesday/Saturday split, the per-1,000 placeholder and the DBA inference are Isla's; the
+2020-02-19 record close was confirmed by search, the 2020-02-24 fall date is Isla's memory,
+unchecked. Percentages are arithmetic on those inputs, checked by Vannevar (11/35, 24/35, 4/13,
+9/13). Entries listed in section 8 and flags 1-6 are Vannevar's location work. The partner is not
+named here, by instruction. No client data entered. Nothing approved.
