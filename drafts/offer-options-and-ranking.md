@@ -33,9 +33,15 @@ different words. One of them may relocate the entire problem.
 |---|---|---|---|---|---|
 | Harrison, Ohio | ~$10k | ~10,000 | 3 | **3** | April 2026 |
 | IWU West Chester | ~$10k | ~10,000 | 4 | **4** | April 2025 |
-| NKU, spring 2023 | not supplied | **~12,000** *(Justin, 2026-10-06)* | **not supplied** | **not supplied** | April 2023 (sessions 4/20, 4/22, 4/25) |
+| NKU, spring 2023 | not supplied | **~12,000** | **13 units** (Sat 4/22: 9 units / 16 people; Tue 4/25: 4 units) | **9 units** (Sat 7, Tue 2) | Sat 4/22 and Tue 4/25/2023. **Thu 4/20 not reported.** |
 
-*The 2023 row is half-filled on purpose: the denominator is Justin's, the numerator is still missing. Until the sign-ups and attended counts are supplied it cannot be compared to 2021's 11 units. Directional only, from year-acquired AUM on the same sample (growth-channels.md, 2026-10-01): 2023's $1.05M on ~12,000 pieces is about $88K per 1,000 pieces against 2021's $9.13M on ~10,000, about $913K per 1,000 — roughly a tenth. Year-acquired AUM is not class-sourced and a third of the book is undated; do not quote it as a unit rate.*
+*2023, supplied by Justin 2026-10-06: **4 clients** (Sat 3, Tue 1), **$800K + $250K = $1.05M** assets.* That total equals the 2023 year-acquired figure already on record ($1.050M, growth-channels.md 2026-10-01) to the dollar, so for 2023 the vintage was entirely class-sourced, and the Thursday session added nothing or is not in the count.
+
+**Per 1,000 pieces:** registered 1.08, attended 0.75, clients 0.33, AUM about $88K. **2021:** 11 units on ~10,000 = 1.10 (the record's own reconciliation says those 11 are plausibly *individuals* across 7 households, unverified, so 2021 and 2023 units may not be the same thing). **2025/2026:** 0.40 and 0.30.
+
+**Exact conditional test, post-hoc, tiny n:** 2021 vs 2023 are indistinguishable (p about 0.6). The two Ohio drops pooled (7 on 20,000) sit well below 2023 (p about 0.012) and below 2021 (p about 0.014). **Weakest reading that is still actionable:** at NKU, wearing the catalogue look, the front was still pulling at roughly the 2021 rate as late as 2023. The fall shows up between 2023 and 2025, which is also when the venue moved to Ohio and, in 2026, to a junior high. Time, place and venue prestige are confounded and three data points cannot separate them.
+
+**Show rate was not 100% in 2023:** 9 of 13 (Sat 7/9, Tue 2/4). The Ohio drops' 100% is the outlier, not the norm.
 
 **Show rate: 100%. Everyone who registered came.**
 

@@ -95,3 +95,34 @@ outside* — and it is Justin's complaint word for word, written three weeks bef
    two drops of roughly $10k each produced **3 buying units and 4 attendees**, the second on a
    fresh Ohio list at a different venue — so not a saturation result. The 2023 count is still
    genuinely missing; the recent ones are not.
+
+
+---
+
+## Addendum 2026-10-06 — Taleb's falsifier #1 is met, and it moves the verdict
+
+Justin supplied the 2023 NKU results (full numbers in `drafts/offer-options-and-ranking.md`):
+~12,000 pieces, **13 units registered, 9 attended, 4 clients, $1.05M**.
+
+Taleb named this as the first thing that would make him wrong: *"The 2023 NKU drop produced
+about 0.8 units per 1,000 pieces or more, near 2021's 1.1. Then the costume protects and the
+exposed face should keep it."* **Registered: 1.08 per 1,000. Attended: 0.75.** The falsifier
+is met on registrations and sits at its edge on attendance. 2021 and 2023 are statistically
+indistinguishable on room-filling (p about 0.6); the Ohio drops are not (p about 0.012).
+
+**Isla reverses her recommendation.** On 2026-10-06 she told Justin the catalogue look "has
+decayed" and recommended Jayme's Option 2. That was reasoning, not measurement, and the first
+first-party measurement says the opposite **through 2023**. The fall in room-filling appears
+between 2023 and 2025, which is when the venue left NKU for Ohio.
+
+**What this does and does not establish.** It does not show the costume works in 2027: four
+years have passed, and Retirement Planning University has been listing NKU sessions since at
+least March 2026. It does not separate the costume from the venue's name or from the Kentucky
+list. **It does remove the premise that the front had already failed.** Option 2 changes the
+outside on intuition; Option 1 changes one variable on the outside on evidence, which is also
+what Justin asked for ("I don't want to change too many variables").
+
+**What January can now read.** At 5,000 pieces the 2023 rate predicts about 5.4 registered
+units; the pooled Ohio rate predicts about 1.75. That is a threefold gap, wide enough to see:
+**two or fewer registered points to an era or crowding effect; five or more points to a place
+effect.** Roughly a one-in-ten call either way, so a lean and not a verdict.
