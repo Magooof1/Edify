@@ -173,3 +173,57 @@ about that bar, not about a phrase buried in body copy.
 
 The instructor headshot is suit-and-tie with a name/title caption beneath it, and a decorative
 seasonal illustration band runs across the foot of the white half.
+
+
+---
+
+## 2025 April — Indiana Wesleyan University, West Chester campus (a THIRD piece)
+
+`2025-04-iwu-west-chester-final-proof.pdf` (+ `-page1.png`, `-page2.png`, `.txt`) — supplied by Justin
+2026-10-08, filename "Mailer - JUSTIN - Final Proof - SI". **A printer's final proof, not a scan of a
+mailed piece. Whether it printed exactly as shown is unconfirmed.** Result of this drop, from the
+record: **4 sign-ups, 4 attended** (April 5 and 12, 2025, Saturdays 8:30 to noon).
+
+**Geometry: the same five-surface structure as the 2021 control.** Page 1 is the outside: mail panel
+(top-left), cover photo and title (top-right and bottom-right, one tall page), registration panel
+(bottom-left, printed 180 degrees). Page 2 is the inside: a tall left page, then an instructor panel
+above a navy registration panel on the right. **Size is the open question:** the PDF measures
+1569.75 x 1026.75 pt = **21.8 x 14.26 in**, not 17 x 11, and every page box is the same. Either the
+proof is scaled or the piece was larger than the 2021 control (panels about 10.9 x 7.1 in). **Ask
+Justin the finished size before the High Note quote**, because it changes postage class and is a
+variable between this drop and the others.
+
+**What it carries, read from the proof:**
+- **The costume, redesigned.** A framed crest ("SPRING / RETIREMENT EDUCATION" over a flower graphic),
+  **"INDIANA WESLEYAN UNIVERSITY WEST CHESTER CAMPUS"** in a navy bar, the course title, and the 2021
+  copy nearly verbatim: *"Academic-based course in a fun, interactive learning environment, teaching
+  the foundations for a sound retirement."* No Edify wordmark on the outside; the return address has a
+  street and a phone and no company name; the wordmark appears once, inside, beside the bio.
+  **That answers the earlier open question: the 2025 piece did wear the catalogue look.**
+- **A far bolder look than 2021 or 2023:** navy and yellow, a **red "LIMITED AVAILABILITY / ADVANCED
+  REGISTRATION IS REQUIRED" ribbon** on the registration panel and again inside, and the line *"Seating
+  is limited, so please guarantee your reservation today."*
+- **A cover photograph of a room that reads, in a 110-dpi render, as mostly people in their 20s and
+  30s.** The 2021 control's classroom was older adults. Isla's read from a render, not a count.
+- **New headline claims:** *"THE FINANCIAL INDUSTRY FALLS SHORT OF PREPARING PEOPLE FOR RETIREMENT. THIS
+  ALL-IN-ONE, INDEPENDENT, ACADEMIC-BASED COURSE..."*; bio text *"A fiduciary with over 20 years of
+  experience"*; "IAR, IA".
+- **Web address edifyretirement.com**; a QR code; phone 513.505.4214.
+
+**ENTITY WORDING, FLAGGED TO ED AND JUSTIN, NOT RULED ON.** The disclosure block on this proof names
+**"Trulip Retirement Planning, LLC" three times**, including *"Insurance and annuity products are sold
+separately through Trulip Retirement Planning, LLC / Trulip Planning, LLC"* and *"Portfolio Medics, LLC
+and Trulip Retirement Planning, LLC are not affiliated in any way."* `CLAUDE.md` says that company does
+not exist and that insurance is offered through Trulip Investment Management, LLC. **This piece predates
+the 2026-09-18 correction, and the standing rule applies exactly as it does to the 2021 PDF: ignore every
+entity name on a legacy piece and never clone its disclosure.** Our Block A comes from
+`drafts/disclosure-blocks-v1.md`. Whether this wording was mailed is Justin's to say.
+
+**What it does and does not tell us.** The 2025 drop wore the catalogue look **and** carried the
+university's name, **and** it got 4 sign-ups against 13 at NKU in 2023. So **the costume alone did not
+carry a drop**. But this piece differs from the NKU 2023 piece in at least six ways at once: state,
+venue, year, the redesign, the photograph's apparent audience, and a much louder scarcity line. **They
+are not separable on three data points.** A fair statement of what it supports: the look that filled
+rooms at NKU in 2021 and 2023 was plainer, older-skewing and quieter than this one.
+
+**Still wanted:** the 2026 Harrison piece, which is not yet supplied.
