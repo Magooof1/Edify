@@ -2389,6 +2389,7 @@ On 2026-10-06 Isla recommended Jayme's **Option 2** (the Questions front, in
 `drafts/mailer-front-v7.md`) **on the premise that the catalogue look had decayed. That was
 reasoning from the category's crowding, not measurement.** The first measurement says
 otherwise through 2023. **She now recommends Option 1** (the Catalogue with a question).
+*[Pointer 2026-10-09: Option 1 and Option 2 both RETIRED by Justin, "Go back to 2023 face." See the 2026-10-09 (last) amendment at the end of this file. Original stands.]*
 Jayme's own stated confidence in Option 2 was about 55/45 (mailer-front-v7.md, section 0).
 **Amended 2026-10-06 (later): the reversal is back on firm ground on the matched count**
 (2021 sign-ups 1.10 vs 2023 registered 1.08 per 1,000; flag 1 below is closed). "Firm" means
@@ -3143,6 +3144,7 @@ invoice total, not on a per-piece price, so they are unaffected unless Justin sa
 **3. Dates and timing, Justin's facts.**
 - *"We do have that Thursday the 18th open"* (February 2027, at NKU). **Tuesday 16 versus Thursday 18 is NOT decided
   and is Justin's call**; it must be settled before the panels are final. Saturday 20 February is unchanged.
+  *[Pointer 2026-10-09: DECIDED, Tuesday 16 and Saturday 20 February; Thursday 18 not chosen. See the last amendment at the end of this file.]*
 - **Isla leans Tuesday, narrowly.** Her evidence, weakest reading: 2020, Tuesday 2/25, four days before Saturday 2/29,
   drew 11 units; 2023, Thursday 4/20, two days before Saturday 4/22, produced nothing separate, **which is one instance.**
   A hint, not a finding; it may say more about two-days-before-Saturday than about the weekday.
@@ -3153,6 +3155,7 @@ invoice total, not on a per-piece price, so they are unaffected unless Justin sa
 
 **4. Related, filed in `recurring-failures.md` the same day:** Isla described the recommended mailer as having a "Do I
 have enough?" front "with results". It has never appeared on a past piece. Class 13, instance (b).
+*[Pointer 2026-10-09 (last): that front (Option 1) is now retired; Justin chose the 2023 face. See the last amendment at the end of this file.]*
 
 ---
 
@@ -3209,3 +3212,29 @@ copies (PDF, text, PNG).** Recorded only that it was redacted; the name and addr
 **8. Open.** Justin to confirm "3/30" = Sat 3/7 and that all 43 units belong to the NKU mailing · whether to keep any
 Tue/Sat prior (item 5) · pieces and spend were given for "1 campaign" and are consistent with this reading but not
 re-asked · attendance, clients and AUM from 2020 still not on record.
+
+---
+
+## 2026-10-09 (last) — AMENDMENT: FRONT DECIDED ("Go back to 2023 face"); DAYS DECIDED (Tue 16 + Sat 20 Feb) (Justin's decisions; filed by Vannevar)
+
+**Sources, pointed at and not copied:** `drafts/mailer-front-v7.md` (carries a SUPERSEDED banner),
+`drafts/january-volume-and-days.md` "The front", `ROADMAP.md`. Nothing else approved. No client detail.
+
+**1. Front: DECIDED (Justin): "Go back to 2023 face."** Option 1 (the "Do I have enough?" headline on the catalogue look)
+and Option 2 are **both retired.** Reason on record: the headline was never on any past piece, so it was the one untested
+change, and every odds figure for the drop assumes the 2023 rate. The canvas (Design artifact, v38) now carries:
+- the 2023 mail panel, SPRING changed to WINTER, no "FREE" (as in 2023);
+- a cover following the **2021** piece, which 2023 copied. **The 2023 cover itself is not on file.**
+- the mirror inside **unchanged**, still headed "Do I have enough? Five questions to start with". That heading is inside, not the face.
+- **Open item:** the stock classroom photo is a low-res placeholder lifted from the 2021 proof. High Note or the designer
+  to supply the original and confirm the licence.
+- Earlier entries calling Option 1 "recommended" or pending now carry dated pointers (originals stand): section 6 of the
+  2023 NKU entry, item 4 of the "14,000 pieces" entry, and `recurring-failures.md` class 13 instance (b). **Not individually
+  pointed:** the 2026-10-06 mailbox-log entry's "premise behind Isla's reversal to Option 1" and the 2026-10-08 "Closed" line
+  that says ROADMAP names Option 1; read both under this entry.
+
+**2. Days: DECIDED (Justin): Tuesday 16 and Saturday 20 February 2027.** Thursday 18 was open and not chosen. Pointer
+added at the "14,000 pieces" entry, item 3.
+
+**3. Still open, Justin "working on this":** whether NKU has **Saturday 27 February** free for a third session · his
+confirmation that the 2020 "3/30" session is Sat 3/7 (same open item as item 8 of the amendment above).

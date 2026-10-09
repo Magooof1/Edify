@@ -1,3 +1,5 @@
+> **SUPERSEDED 2026-10-09. **DECIDED by Justin 2026-10-09: "Go back to 2023 face."** Neither Option 1 nor Option 2. The canvas (v38) now carries the 2023 mail panel (laurel, WINTER, NKU, course title, "New academic courses... a successful retirement") and a cover following the 2021 piece, which 2023 copied (the 2023 cover is not on file). The stock classroom photo is a low-res placeholder; High Note or the designer supplies the original and confirms the licence.**
+>
 > **STATUS 2026-10-08 (Isla).** Option 1 is built on the Design canvas (panels A and C; B kept as the
 > control-faithful version already there; photograph parked, with no room inside-left). **It is Isla's
 > recommendation and Justin has not chosen.** The laurel is the real 2020 vector artwork, extracted from

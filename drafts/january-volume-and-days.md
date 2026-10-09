@@ -13,8 +13,8 @@ is counted. To get 12 *attending*, divide by the show rate: 78% on Saturday in 2
 
 | | |
 |---|---|
-| **Mailer** | The **17 x 11 self-mailer in the 2020 / 2021 / 2023 look**. Not a card, not the 2025 redesign. **Front: see "The front" below. The "Do I have enough?" headline was never on any past piece** (Justin, 2026-10-09; checked against all four). |
-| **Days** | **Two: Tuesday 16 February, 5:30 to 8:45 pm, and Saturday 20 February, 8:30 to 11:45 am.** Thursday 18 is open (Justin, 2026-10-09); Isla still leans Tuesday, see "Dates". **Justin's call.** |
+| **Mailer** | The **17 x 11 self-mailer in the 2020 / 2021 / 2023 look**. Not a card, not the 2025 redesign. **Front: the 2023 face, DECIDED by Justin 2026-10-09** ("Go back to 2023 face"). The "Do I have enough?" headline was never on any past piece, so the odds below now describe the face being mailed. |
+| **Days** | **Two: Tuesday 16 February, 5:30 to 8:45 pm, and Saturday 20 February, 8:30 to 11:45 am.** **DECIDED by Justin 2026-10-09: Tuesday 16.** (Thursday 18 was open.) |
 | **Pieces** | **14,000. DECIDED by Justin 2026-10-09** ("let's shoot for about 14k mailed"). Subject to the DRA count reaching it. |
 | **Dates** | Print order **Fri 4 December** (the kill date). In homes **about 20 to 27 January**: 3 to 4 weeks before each class, which is Justin's own finding. Mail entry about 12 to 19 January. |
 | **Cost** | **$8,540 at Harrison's $0.61 a piece (Justin, 2026-10-09: "61 cents a piece").** Justin wrote $8,530; 14,000 x $0.61 is $8,540. **About $1,540 above the $7K, which Justin covers.** The $0.695 used earlier was Isla's division of an itemised $8,063 by 11,597 pieces; **Justin's per-piece figure governs**, and the gap is noted, not chased. High Note's quote still replaces both if it differs. |
@@ -124,5 +124,5 @@ and every odds figure in this file assumes the 2023 rate, which was earned by a 
   conclusion as Jayme's at 5,000 (`drafts/mailer-front-v7.md`, section 6).
 - The cheap check that exists before print is Jayme's three-second test (same file, section 6). Optional.
 
-**Justin's call. Nothing on the canvas changes until he makes it.**
+**DECIDED 2026-10-09: revert to the 2023 face.** Done on the canvas (v38).
 - The sign-up counts are small; the arithmetic is exact and the inputs are not.

@@ -212,6 +212,7 @@ else."* A rounding gap, not a cost. Source: `drafts/offer-options-and-ranking.md
   course description. Justin: *"The do I have enough was never on the mailer. Check the designs you have."* Every
   odds figure in `drafts/january-volume-and-days.md` assumes the 2023 rate, earned by a face without it. Corrected in
   that draft ("The front"); nothing printed.
+  *[Pointer 2026-10-09 (last): Option 1 is retired; Justin chose "Go back to 2023 face." See `growth-channels.md`, last amendment.]*
   - **Why it files under 13, and where the fit is partial.** Same shape: a noun ("the look with results") kept, the
     qualifier that made it true (this headline is new) dropped between entries. In `drafts/mailer-front-v7.md` the
     sentence was "Justin's validated sentence" (validated as the question people ask, never as a mailer front), and

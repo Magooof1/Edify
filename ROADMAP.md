@@ -89,7 +89,7 @@ pipeline against a $22M book.
   them sits behind the fold. A stranger sees a free retirement class, same as the
   other eleven. **The job of the front is to make the inside visible at the
   mailbox** — that is the only thing on the outside worth arguing about, and it is
-  what both options in `drafts/mailer-front-v7.md` try to do. **Isla recommends Option 1 (catalogue look plus the reader's own question) after the 2023 NKU results**; Justin has not chosen. See `drafts/january-front-position.md`.
+  what both options in `drafts/mailer-front-v7.md` try to do. ~~Isla recommends Option 1~~ **DECIDED by Justin 2026-10-09: "Go back to 2023 face."** Neither Option 1 nor Option 2. The canvas (v38) now carries the 2023 mail panel (laurel, WINTER, NKU, course title, "New academic courses... a successful retirement") and a cover following the 2021 piece, which 2023 copied (the 2023 cover is not on file). The stock classroom photo is a low-res placeholder; High Note or the designer supplies the original and confirms the licence. See `drafts/january-front-position.md`.
 
 - **Replacing it: three doors to Blue that don't require buying mailbox
   attention.** All three were already in this plan; they are now the plan.
