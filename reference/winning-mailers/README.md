@@ -226,7 +226,7 @@ venue, year, the redesign, the photograph's apparent audience, and a much louder
 are not separable on three data points.** A fair statement of what it supports: the look that filled
 rooms at NKU in 2021 and 2023 was plainer, older-skewing and quieter than this one.
 
-**Still wanted:** the 2026 Harrison piece, which is not yet supplied.
+~~**Still wanted:** the 2026 Harrison piece, which is not yet supplied.~~ **Answered by Justin 2026-10-09: "Harrison was a new mailer. I'm going back to the basics."** So both Ohio drops (2025 IWU, 2026 Harrison) used changed mailers, and both moved venue and list. The fall in rate from about 1.1 to 0.3-0.4 per 1,000 came with the mailer change and the move together; the record cannot separate them. January removes both (NKU, 2023 face). The piece itself is no longer needed to decide anything; it would only matter before mailing Ohio again.
 
 
 ---
