@@ -855,8 +855,7 @@ no distinguishable erosion from 2020 to 2023, possibly a mild slope, then a brea
 formula in this file (cost per piece divided by response times density), now with a first-party example:
 the lever that moved most was the one nobody had been pulling.
 
-**Caveats, all of which matter.** The $11k may not include everything the later drops' ~$10k did
-(Harrison's own breakdown has about $1,937 sitting outside print and postage). Postage was lower in
+**Caveats, all of which matter.** ~~The $11k may not include everything the later drops' ~$10k did (Harrison's own breakdown has about $1,937 sitting outside print and postage).~~ **Withdrawn 2026-10-09: the $1,937 was a residual, and Justin says every figure he gives is print and postage, so the comparison is like for like.** Postage was lower in
 2020 (Harrison's actual postage was $0.365 a piece). **The 2020 list's size and filters are not on record.** (An earlier version of this line called it probably broader because the piece said ages 50 to 70; the 2021 piece says the same, so that inference did not hold.) So $0.44 is not a price anyone can buy today.
 
 

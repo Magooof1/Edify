@@ -125,7 +125,7 @@ pipeline against a $22M book.
 
     **The signal that counts, and it is not subscribers.** At least one booked
     meeting traceable to YouTube with zero incremental ad spend, trending toward
-    a cost per booked meeting below the ~$3,333-per-buying-unit mail baseline.
+    a cost per booked meeting below the ~$3,333-per-buying-unit mail baseline *[2026-10-09: that is on Justin's rounded ~$10k; on Harrison's invoice it is $2,688]*.
     View counts and subscriber counts are the vanity version of the mistake this
     workforce exists to catch.
 
@@ -153,7 +153,7 @@ pipeline against a $22M book.
   booking calendar, no class, no venue, nobody's permission. It clears Justin's
   no-gatekeeper constraint completely and it isn't wearing the costume eleven
   competitors are wearing. Shape: 2,000-3,000 pieces into the tired core ZIPs,
-  measured on meetings booked per piece against the recent ~$3,333-per-unit
+  measured on meetings booked per piece against the recent ~$3,333-per-unit *[2026-10-09: ~$2,688 on the invoice]*
   baseline. Not another blind $10k.
 
   **Funding is settled.** Justin, 2026-09-19: "always go with the non strict

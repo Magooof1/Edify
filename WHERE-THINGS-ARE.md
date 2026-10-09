@@ -65,11 +65,10 @@ Tuesday 16 and Saturday 20 February.
 | The 2020 template and its numbers | `reference/winning-mailers/README.md`, section "2020 spring — Thomas More"; `.../2020-spring-thomas-more-2nd-campaign-proof.*` | **The 2021 control is a copy of this piece.** 43 units signed up across the partner's three 2020 sessions. **2020: ~25,000 pieces, ~$11k, so 1.4 to 1.7 sign-ups per 1,000 and $0.44 a piece** (**one campaign; $11k = postage, print and design, which is like-for-like with the later drops: Justin says all his figures are print and postage only.** The old "$1,937 fixed per drop" is **withdrawn**, so what $7K buys is 7,000 to 10,000 pieces, not 5,000). The cost curve is the lever that moved most: see `drafts/offer-options-and-ranking.md`, "2020 added". |
 | The 2023 NKU drop and Retirement Planning University | `.claude/memory/growth-channels.md`, headings dated 2026-10-06 (end of file); the table in `drafts/offer-options-and-ranking.md` | Corrected once already. **Settled, do not re-ask Justin:** Thursday 4/20/2023 (nothing separate), the 2023 cost (~$10k). **2021 sign-ups = 11 units (Justin), so the 2021-to-2023 comparison now stands on sign-ups; his 2021 attendance is unknown and not worth chasing.** **Still open:** **the 2025 IWU piece is in** (`reference/winning-mailers/2025-04-iwu-west-chester-final-proof.*`, see its README section; it wore the catalogue look, redesigned), and the 2026 Harrison piece is still to come; a mailbox-log recipient in the NKU ZIPs (his parents and in-laws live elsewhere; do not ask clients). Read the correction block before quoting any comparison to 2021. |
 | The front (outside panels) | `drafts/mailer-front-v7.md`, `drafts/january-front-position.md` | Option 1 recommended by Isla and **built on the canvas 2026-10-08** (real 2020 laurel); **Justin has not chosen.** |
-| What the money does | `drafts/budget-reconciliation-v1.md` | $7K 2026, $22K 2027. |
+| What the money does | `drafts/budget-reconciliation-v1.md` | $7K 2026, $22K 2027. **Superseded for the $7K 2026-10-09:** all of it goes to the class mailer; the 5,000 pieces, $1,500 batch day, $800 flex and the "$1,937 fixed" are withdrawn. Real prices wait on High Note. |
 | The artboards | the Design canvas (Artifact) | Five surfaces at true print size. |
 
-**Open, waiting on Justin:** DRA counts (OH/KY only, 10 miles, $250k+ IPA) · High Note quote
-at ~5,000 and December billing · the signed no-pitch note · a tracked phone and vanity URL
+**Open, waiting on Justin:** DRA counts (OH/KY only, 10 miles, $250k+ IPA) · High Note quote at several quantities (7,000, 10,000, 12,000) and the date they bill postage and December billing · the signed no-pitch note · a tracked phone and vanity URL
 (**not** the office line 513-505-4214) · provenance of the class photo · NKU's permission
 and Portfolio Medics' reply, both in writing.
 
@@ -122,7 +121,7 @@ Nothing here is current. Do not lift copy from it.
 - `brand-voice.md` (331) — **first section is what the practice sells.** Read the entry, not
   a summary of it, before briefing any creative.
 - `class-content.md` (254) — what happens in the room.
-- `recurring-failures.md` (263) — twelve classes of mistake this workforce has actually made.
+- `recurring-failures.md` (about 300) — thirteen classes of mistake this workforce has actually made.
 - `partners-venues.md` (122) — NKU and anyone else, and what was agreed with them.
 
 ---

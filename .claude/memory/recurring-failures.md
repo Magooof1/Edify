@@ -56,9 +56,12 @@ assuming it doesn't), so "×4 gets back to 2021 economics" was the pessimistic c
 presented as the only case. Chasing it down exposed a second error the mixed table had
 hidden — Isla, chasing the mixed base, found that the break-even for tightening the age
 band was stated as ~50% of response when
-the governing term is the **fixed ~$1,937 per drop**, which penalises small mailings —
+the governing term is ~~the **fixed ~$1,937 per drop**, which penalises small mailings —
 so the tightened pull can produce fewer bodies *and* a worse cost per unit than the broad
-one. **Vannevar caught it while filing the entry. Isla did not catch it while writing
+one~~. **[2026-10-09: THE "FIXED ~$1,937" IS WITHDRAWN. It was a residual (a rounded ~$10k less $8,063),
+not a cost; Justin: "All costs I give you are print and postage." This second error was therefore itself an
+error: the correction to the break-even had no premise. The mixed-base finding (the first half of this class)
+stands. Struck, not deleted; see class 13 and `growth-channels.md`, 2026-10-09.]** **Vannevar caught it while filing the entry. Isla did not catch it while writing
 it, and pre-flight question 5 was scoped to facts about Justin's business, so it did not
 look at arithmetic at all.** **The check was still one hop short, which is Vannevar's own
 point and belongs here:** he caught only the mixed base, and he had already filed the
@@ -171,6 +174,57 @@ the right count all along; both readings were wrong about the shape.
   here and has not been measured. The canvas note was corrected the same day
   (Isla, verified): the capitals note on the January mailer canvas now carries the measured
   geometry and states plainly that both earlier readings were wrong about the shape.
+
+**13. An inferred residual carried forward without its "if" until it governed a budget
+mechanism.** Added 2026-10-09. The record held "~$1,937 fixed per drop (list, design, venue,
+materials)" as a measured cost. It was **Justin's rounded "about $10k" less Harrison's itemised $8,063**,
+and the 2026-09-28 entry labelled it *"if the drop really ran ~$10,000."* Over the next days the "if" was
+lost and the residual became the governing term of the break-even correction (class 7's "second error"), the
+"$0.524 marginal piece", "under-mailing pays the fixed cost", the 5,000-piece January plan and, on 10-08, the
+1.8x correction to the 2020 decomposition. **Caught by Justin's own statement of what his numbers were,
+not by any agent:** design was "None"; *"All costs I give you are print and postage. I've never added anything
+else."* A rounding gap, not a cost. Source: `drafts/offer-options-and-ranking.md`, final section; record changes in
+`growth-channels.md`, 2026-10-09.
+  - **The mechanism, which is the part to keep.** The record **had labelled it conditional at the time, and
+    the label did not travel.** The "if" lived in one entry; every later use quoted the noun ("the fixed
+    cost") without it. A name that describes a thing ("fixed cost: list, design, venue, materials") makes a gap
+    sound like an object. Nobody was wrong about the arithmetic; the object did not exist.
+  - **Same shape as class 8** (the power-law premise): a characterisation pushed into briefs as settled when it
+    was an inference, falsified by Justin's own data. Class 8 widened Q5; this one passed through the widened Q5.
+  - **Pre-flight Q5 ("verified or inferred") was written for exactly this and did not stop it**, because the
+    inference *was* labelled correctly once and then repeated unlabelled. Q5 audits a claim at the moment it is
+    made; it has nothing to say about a claim that was honest when it entered the record and dishonest when it was
+    quoted a week later. This is also class 5 in the file's own terms: a check scoped to the moment of assertion.
+  - **Vannevar's part, stated plainly.** On 2026-10-08 I noted, in the second-amendment item 3(a), that the
+    $1,937 "is a residual, not an itemized figure", and then ran a $0.806 and a 1.83 on it in the same entry.
+    I flagged it as a caveat and used it as an input. Disclosing a doubt is not discharging it (the same
+    point CLAUDE.md rule 9 makes about agents' flags). Class 7 records that I had likewise filed a wrong
+    break-even as a *decision* before the correction ran; this is the second time the curator reproduced
+    an unaudited premise.
+  - **Cost.** A 5,000-piece January plan and its $4,425 to $5,330 pricing were built on it; a 1.8x
+    correction was written into the 2020 reading and had to be withdrawn; roughly eighteen places in
+    `growth-channels.md` carried it. Nothing was spent (the 4 December print order has not happened).
+
+  **Vannevar's recommendation (Isla to put to Justin; `CLAUDE.md` not touched).** No ninth
+  pre-flight question: Q5 is the right home, and a clause per failure is class 5 again. But Q5
+  as written (and as proposed in the class-12 rewrite) tests *the claim*, and this failure was in *the label*.
+  The smallest change that would have caught it is one sentence on residuals and one on governing terms.
+  Proposed wording, to be added to Q5 (or to the class-12 rewrite if that is adopted):
+
+  > **5. Verified or observed?** [class-12 text unchanged] **A figure obtained by subtracting one stated
+  > number from another is a gap, not a measurement, and is called by its derivation ("the difference between
+  > $10k and the $8,063 invoice"), never by what it would be if it were real ("fixed cost"). Before any figure
+  > becomes the governing term of a break-even, a budget or a plan, name the person or document that measured
+  > it. If you cannot, the plan carries its "if" on the same line as the number, every time it is quoted.**
+
+  Weakest actionable reading: this is a drafting judgment, not a proven fix, and it still depends on someone
+  applying it at quoting time, which is the step that failed. **Its test is whether the next residual in the
+  record keeps its derivation as its name.** The alternative I considered and rejected: a mechanical
+  "derived-figures register" in `memory/`. It would be one more file nobody opens, which is the problem
+  `WHERE-THINGS-ARE.md` exists to fix. If Justin prefers a mechanical rather than a wording fix, the honest
+  version is a rule for the curator: **when filing any figure the brief or entry calls a residual, an estimate or
+  "if", write the label into the figure itself, and refuse to build a second figure on it in the same entry.**
+  That one is within the curator's remit; I propose to adopt it, and Isla or Justin can say no.
 
 **6. Re-deriving something already on record.** Isla theorised about format crowding
 before reading the 2026-08-25 entry that already established it (corroborated by two

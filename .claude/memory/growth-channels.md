@@ -1526,13 +1526,24 @@ structure) — one of three, and the hardest to move. The other two had not been
 
 ### Baseline
 
-April 2026 as run: 11,597 pieces, $8,063 mail, ~$1,937 fixed (list, design, venue,
-materials), 3 units, **~$3,333/unit.** 2021 control: **~$909/unit** (11 units, ~10,000
-pieces). **Gap 3.7x.** (Consistent with the ~$500-1,000 historical range and ~$3,333
+**[2026-10-09: THE "~$1,937 fixed" BELOW IS WITHDRAWN. It was a residual (a rounded ~$10k less $8,063), never a
+measured cost; Justin: design was "None", "All costs I give you are print and postage." Struck, not deleted.
+Source: `drafts/offer-options-and-ranking.md`, final section. The $8,063 is the itemised invoice; ~$3,333/unit
+rests on the rounded $10k, while the invoice gives $2,688/unit. See this file's 2026-10-09 entry at the end.]**
+
+April 2026 as run: 11,597 pieces, $8,063 mail, ~~about $1,937 fixed (list, design, venue,
+materials)~~ **[WITHDRAWN 2026-10-09]**, 3 units, **~$3,333/unit** **[on the rounded ~$10k; $2,688 on the $8,063
+invoice, 2026-10-09]**. 2021 control: **~$909/unit** (11 units, ~10,000
+pieces). **Gap 3.7x** **[on the $10k basis; 3.0x on the invoice. Whether 2021's own $10k is an invoice or rounded is not known]**.
+(Consistent with the ~$500-1,000 historical range and ~$3,333
 recent figure in "Cost-per-unit erosion," 2026-08-25.)
 
 ### Lever 1 — FORMAT. DECIDED: folded multi-panel self-mailer -> card. For cost, not volume.
 
+- **[2026-10-09 RE-CHECK FLAG: the figures in this bullet and the $0.524/pc below were priced inside the
+  withdrawn fixed-cost model (the ~$2,512/unit includes the $1,937 in a $10k total). The per-piece print
+  comparison ($0.331 vs $0.135-$0.163) is Justin's quote data and is not touched; the unit-cost and
+  pieces-reached figures need re-pricing once a High Note quote exists. Not rewritten.]**
 - **Holds in both worlds** (Justin's point: more production does not mean enough
   households inside ten miles). Universe has headroom: same mail budget reaches
   **15,387 pieces (+33%) -> ~4.0 units -> ~$2,512/unit.** Universe already exhausted:
@@ -1559,20 +1570,33 @@ improvement" headline, and a standing efficiency-vs-bodies tension) is SUPERSEDE
 quote it.** (Vannevar filed that version before the correction existed; he had checked
 Lever 3's table but not this break-even.)
 
+> **[2026-10-09 WITHDRAWN PREMISE. The "~$1,937 fixed cost per drop" that this restatement is built on was
+> a residual, not a cost (see `drafts/offer-options-and-ranking.md`, final section; this file's 2026-10-09
+> entry at the end). Everything below that only the fixed cost supported is marked in place: the "Why the old
+> break-even was wrong" paragraph and its table, the under-mailing argument, the "marginal frame" and the
+> dissolved tension. They are UNSUPPORTED until a High Note quote shows whether a real fixed cost exists.
+> What does not depend on it: item 1 (the n=7 reason for 54-64) and item 2. Item 4 is untouched as an
+> instruction but lost its premise. Struck, not deleted; nothing re-derived here.]**
+
 **The decision as it now stands:**
 1. **54-64 over 55-63 stands, unchanged, for the original reason:** n=7 can establish
    that the middle band produces; it cannot establish that the edges don't. Empty outer
    cells are the expected result at that n even if those households respond equally.
 2. **Mail 54-64 first, inside ten miles.**
 3. **If that universe doesn't absorb the mail budget, widen band or radius rather than
-   bank the money.** Under-mailing to protect a boundary drawn from seven data points
-   pays the full ~$1,937 fixed cost on a thin drop — the expensive mistake.
+   bank the money.** ~~Under-mailing to protect a boundary drawn from seven data points
+   pays the full ~$1,937 fixed cost on a thin drop — the expensive mistake.~~ **[2026-10-09: the reason given
+   (the full fixed cost on a thin drop) is withdrawn. The instruction itself is a conclusion that only that
+   premise supported: re-check once a High Note quote exists.]**
 4. **Don't leave budget unspent to protect the tightening.** Freed money is a saving
    only if it produces more than the pieces it replaced.
 
-**Why the old break-even was wrong.** The governing term is the **~$1,937 fixed cost per
+~~**Why the old break-even was wrong.** The governing term is the **~$1,937 fixed cost per
 drop**, which does not shrink when the mailing does. Comparison, $5,343 for the 6,500-
-piece drop ($3,406 + $1,937):
+piece drop ($3,406 + $1,937):~~ **[2026-10-09: WITHDRAWN. The "governing term" was a rounding gap, so this
+correction of the break-even has no premise. The original ">~50% of response" break-even was also superseded;
+neither stands. The table below is kept visible, with every $5,343 and every "fixed" assumption in it
+unsupported.]**
 
 | | Pieces | Units | Cost per unit |
 |---|---|---|---|
@@ -1585,8 +1609,11 @@ cares about — fewer bodies and a higher cost per unit.** Only the optimistic c
 presented originally. The earlier "~$3,333 -> ~$2,226 with no response improvement at
 all" is the optimistic case only. **Restated later the same day (Isla, section 5 of the
 correction): the ~$3,180 row is not a live scenario under the ordered decision — it is
-what UNDER-MAILING costs (full ~$1,937 fixed on a thin drop).** Ordered rather than
+what UNDER-MAILING costs (~~full ~$1,937 fixed on a thin drop~~).** **[2026-10-09: the under-mailing
+penalty is WITHDRAWN with the fixed cost; the $3,180 row is not a cost of anything until a quote shows one.]**
+Ordered rather than
 capped, the budget is fully spent either way, so the live range is the two rows below.
+**[Those two rows' ~$2,512 and ~$1,760 are also priced on the $10k including the $1,937: unsupported as priced.]**
 
 | With no improvement in response at all | Cost per unit |
 |---|---|
@@ -1594,17 +1621,21 @@ capped, the budget is fully spent either way, so the live range is the two rows 
 | Levers 1+2, **no density lift** | **~$2,512** (Lever 1's own number; the ordering cannot do worse than it) |
 | Levers 1+2, **density lift real** | **~$1,760** (the inner band's rate across a full drop) |
 
-**Marginal frame (never run originally, and the correct one):** once the ~$1,937 is paid,
+~~**Marginal frame (never run originally, and the correct one):** once the ~$1,937 is paid,
 a marginal piece costs $0.524 and carries no fixed-cost burden. A marginal unit runs about
 3,866 x $0.524 = **~$2,026**, cheaper than the blended figure either way. **Real
 threshold: the outer bands must carry LESS than their share of the pieces (~44%) of the
 response before dropping them improves cost per unit** — and even then a marginal unit at
-$2,000-4,500 may be worth buying outright.
+$2,000-4,500 may be worth buying outright.~~ **[2026-10-09: WITHDRAWN. "Once the ~$1,937 is paid" has no
+referent. With no fixed cost, every piece is a marginal piece and the "$0.524 marginal piece" is just the card's
+unit cost. The ~44% threshold was built on that frame: a conclusion only the premise supported, to be re-checked
+against a quote.]**
 
-**The tension is DISSOLVED, not merely softened.** "Efficiency up, bodies down" (3 units
+~~**The tension is DISSOLVED, not merely softened.** "Efficiency up, bodies down" (3 units
 -> 2.4) was an artefact of treating the tightening as a cap. Ordered rather than capped,
 output doesn't fall. (The original entry preserved this tension in full; it is retired
-here on Isla's correction, not by Vannevar's judgment.)
+here on Isla's correction, not by Vannevar's judgment.)~~ **[2026-10-09: this dissolution rested on the
+fixed-cost correction. It is not restored as a tension either; the question is open, not answered either way.]**
 
 ### Lever 3 — RESPONSE RATE. DECIDED: change creative AND offer together; instrument Stage 3 because the outcome is unreadable.
 
@@ -1623,7 +1654,8 @@ here on Isla's correction, not by Vannevar's judgment.)
   earlier "x4 = 2021" was the conservative case stated as the only case.
   *(Flag, Vannevar: this table is priced on the 6,500-piece, $5,343 drop. Isla's later
   restatement (Lever 2 above) treats that thin drop as the under-mailing case, and the
-  correction section did not re-price Lever 3 on a full-budget drop. Table kept as
+  correction section did not re-price Lever 3 on a full-budget drop. [2026-10-09: the $5,343 includes the
+  withdrawn $1,937, so this whole table is unsupported as priced; not re-derived.] Table kept as
   corrected and as sourced; not re-derived here. Isla to say whether it should be
   re-based.)*
 - **The unreadability governs everything, and it survives the correction:** on the
@@ -1655,6 +1687,10 @@ correction was possible on paper only because nothing downstream has ever been m
 
 ### What the three add up to
 
+**[2026-10-09 RE-CHECK FLAG: the ~$1,800-2,500 range below is the ~$2,512 and ~$1,760 figures, both priced on
+a $10k that included the withdrawn $1,937. The qualitative conclusion (mail is rent, not land) rests on four
+independent routes and is not touched; the range is unsupported as priced. Not rewritten.]**
+
 Mail becomes worth running carefully at **~$1,800-2,500/unit, with no improvement in
 response at all. It does not become 2021 again.** **RESTATED 2026-09-28** (Isla,
 correction section 5); the first-filed "~$1,500-2,000" was optimistic and is superseded,
@@ -1676,7 +1712,10 @@ last (2026-09-25); Taleb's scan — everyone competes loud, nobody runs quiet
 ### Two corrections to the prior record — do not re-quote the originals
 
 1. **"$4,760 unexplained gap per drop" (Isla) — WRONG.** Justin itemised the drop:
-   postage is the efficient part; print is the variance. Remaining gap is ~$1,937 fixed.
+   postage is the efficient part; print is the variance. ~~Remaining gap is ~$1,937 fixed.~~
+   **[2026-10-09: WITHDRAWN. The "remaining gap" was the rounding gap between ~$10k and the $8,063 invoice.
+   Justin: "All costs I give you are print and postage." Correction 1's own premise (the $4,760 was
+   wrong) is not examined here; flagged for Isla.]**
 2. **"Halving cost per piece is available via the small postcard" (Isla) — overstated.**
    The delta between card sizes is 5.3% of cost. The real saving is card-vs-folded, not
    small-card-vs-large-card.
@@ -1691,8 +1730,10 @@ last (2026-09-25); Taleb's scan — everyone competes loud, nobody runs quiet
   tightened pull can even produce, and therefore whether Lever 2 step 3 (widen band or
   radius rather than bank the money) fires. (Supersedes the earlier "if only marginally
   smaller, the simpler pull wins" wording.)
-- (c) **High Note itemised quote** on the 11x6 at the same mail budget, and what the
-  ~$1,937 outside print and postage covers.
+- (c) **High Note itemised quote** on the 11x6 at the same mail budget, ~~and what the
+  ~$1,937 outside print and postage covers~~ **[2026-10-09: that half withdrawn. The question is now
+  whether any fixed cost (plates, setup) exists at all, and the quote at several quantities, with when postage
+  is billed.]**
 
 ### RESOLVED same day — the mixed-base flag (Vannevar, filed and closed 2026-09-28)
 
@@ -2614,7 +2655,7 @@ durable facts, the open items and the corrections.**
 >
 > **5. The cost-per-sign-up gap, decomposed (first first-party example of the three-lever formula).**
 > 2020 to 2021 is about **3.6x ($256 to $909)**: response **1.56x**, cost per piece **2.27x ($0.44
-> against $1.00).** ~~**About two-thirds cost per piece, one-third response**~~ **[SUPERSEDED 2026-10-08, later still: like-for-like it is about 1.8x cost per piece, not 2.27x, and closer to half and half; second amendment item 2. Kept visible.]** (Vannevar's check: the
+> against $1.00).** **About two-thirds cost per piece, one-third response** ~~[SUPERSEDED 2026-10-08, later still: like-for-like it is about 1.8x cost per piece, not 2.27x, and closer to half and half; second amendment item 2. Kept visible.]~~ **[2026-10-09: THAT SUPERSESSION IS WITHDRAWN, and the original reading above STANDS (strike lifted from the original, placed on the supersession). The 1.8x rested on the withdrawn $1,937. Justin: his figures are print and postage with design bundled in the print price, so 2020's $0.44 and the later drops' $0.70 to $1.00 are like for like. Source: `drafts/offer-options-and-ranking.md`, final section.]** (Vannevar's check: the
 > two factors multiply to 3.54; on a log split cost per piece is 65%, response 35%; a multiplicative
 > gap has no unique additive split, so "two-thirds" is that convention). Formula and its first filing:
 > the 2026-09-28 "THREE LEVER DECISIONS" entry (this file) and `drafts/offer-options-and-ranking.md`.
@@ -2622,9 +2663,9 @@ durable facts, the open items and the corrections.**
 > households, 2026-10-06). **Not to be confused with the "gap 3.7x"** in that entry's Baseline,
 > which is 2026 against 2021 ($3,333 to $909), a different gap.
 >
-> **6. Caveats, all of which stay attached.** (a) The **$11k may exclude things the later drops' about
+> **6. Caveats, all of which stay attached.** (a) ~~The **$11k may exclude things the later drops' about
 > $10k included**: Harrison's breakdown has about **$1,937 outside print and postage** (list, design,
-> venue, materials). **[Bears on item 5; see second amendment items 2 and 3, including whether design sits in the $1,937.]** (b) **2020 postage was lower**: Harrison's actual was **$0.365 a piece** (the 2020
+> venue, materials). **[Bears on item 5; see second amendment items 2 and 3, including whether design sits in the $1,937.]**~~ **[2026-10-09: caveat (a) WITHDRAWN. The $1,937 was a residual, not a cost, and Justin says all his figures are print and postage with design in the print price, so the $11k and the later drops' figures are like for like.]** (b) **2020 postage was lower**: Harrison's actual was **$0.365 a piece** (the 2020
 > postage rate is not on record). (c) **The 2020 list was probably broader** (the piece said ages 50 to
 > 70) **and unfiltered by assets** ("probably": an inference from the age line on the piece, not a recorded statement by Justin; how the 2021 and 2023 lists were
 > filtered is a separate question; the $250K IPA floor is on record for the DRA pulls, 2026-09-23 entry,
@@ -2645,14 +2686,23 @@ durable facts, the open items and the corrections.**
 > $7K". **Read it; this block holds the bases, the open items, and the contradictions only.** Nothing here
 > is approved. No client detail.
 >
+> **[2026-10-09 WITHDRAWAL, Vannevar, on the instruction of Isla after Justin's statement. ITEMS 2 AND 3 OF
+> THIS BLOCK (the 1.8x, the $0.81 like-for-like, the 58 to 65% range, the 2.9x to 3.6x gap range) ARE
+> WITHDRAWN; they rested on the "$1,937 outside print and postage", which was a residual, not a cost.
+> Item 5's "marginal 1,000 pieces" framing, item 4's perk-eligibility question and item 6(i)'s $1,500 and $800
+> are also withdrawn or answered, each marked in place. The original reading stands: 2020 to 2021 cost per
+> sign-up fell 3.6x; response 1.56x, cost per piece 2.27x; cost per piece about two-thirds of the gap. Item 1
+> (scope) is unaffected. Source: `drafts/offer-options-and-ranking.md`, final section, "2020 scope confirmed,
+> the '$1,937 fixed' premise withdrawn, and what $7K buys (2026-10-09)". Struck, not deleted.]**
+>
 > **1. Scope, confirmed by Justin.** *"1 campaign. Postage and print and design."* The ~25,000 pieces and
 > ~$11k are **one campaign, and the $11k covers postage, print and design.** **Flag 9 (below) is closed
 > on the one-campaign-or-both half, and so is section 2's "one unclear scope".** **Still unconfirmed:
 > whether all three sign-up dates (2/25, 2/29, 3/30) belong to that mailing.** So the **43-vs-35
 > alternative stays open**: 1.72 and $256 on 43 units, 1.40 and $314 on 35. Neither row is retired.
 >
-> **2. A correction to this entry's own decomposition (Isla made it in the draft; echoed here).**
-> The later drops' "about $10k" also carried about **$1,937 outside print and postage** (per Harrison's
+> ~~**2. A correction to this entry's own decomposition (Isla made it in the draft; echoed here).**~~ **[ITEM 2 WITHDRAWN 2026-10-09, struck to its end below. Premise (the $1,937) withdrawn; Justin says all his figures are print and postage with design in the print price. Item 5 of the first amendment is restored: 2.27x, about two-thirds cost per piece. Vannevar's own $0.806 and 1.83 are arithmetic on a number that was not like for like and are not to be quoted.]**
+> ~~The later drops' "about $10k" also carried about **$1,937 outside print and postage** (per Harrison's
 > breakdown), which 2020's $11k may not. Like-for-like, **2021 is about $0.81 a piece on print, postage
 > and design, so 2020's $0.44 is about 1.8x lower, not 2.27x.** The cost-per-sign-up gap therefore splits
 > **closer to half cost, half response** than the two-thirds / one-third in amendment item 5.
@@ -2660,10 +2710,11 @@ durable facts, the open items and the corrections.**
 > SUPERSEDED, kept visible there, struck and marked, not deleted.** Direction unchanged: cost per piece
 > still moved at least as much as response. (Vannevar's division: $8,063 / 10,000 = $0.806; $0.806 /
 > $0.44 = 1.83. On a log split with response at 1.56x, cost is about 58%, response about 42%; the
-> "half and half" wording is Isla's, and as always a multiplicative gap has no unique additive split.)
+> "half and half" wording is Isla's, and as always a multiplicative gap has no unique additive split.)~~
 >
-> **3. Three things the correction rests on, checked by Vannevar against the record, none resolved.**
-> (a) **The $1,937 is a residual, not an itemized figure.** The record derives it as roughly $10,000 less
+> ~~**3. Three things the correction rests on, checked by Vannevar against the record, none resolved.**~~
+> **[ITEM 3 WITHDRAWN 2026-10-09, with item 2. Its sub-point (a) turned out to be the whole story: the $1,937 was a residual, and Justin has since said it contained no design and no other cost. Sub-points (b) and (c) and the "about 2.9x" range (58 to 65%, 2.9x to 3.6x) are withdrawn with it. The one useful survivor is the pairing warning in (c): $0.81 divides by ~10,000 pieces and $0.695 by 11,597; do not mix them.]**
+> ~~(a) **The $1,937 is a residual, not an itemized figure.** The record derives it as roughly $10,000 less
 > Harrison's $8,063 print-plus-postage subtotal, "if the drop really ran ~$10,000"
 > (`drafts/offer-options-and-ranking.md`, April 2026 Harrison block). It is **Harrison's (2026) number
 > applied to 2021** by inference; 2021's own breakdown is not on record. (b) **What the $1,937 contains
@@ -2675,14 +2726,16 @@ durable facts, the open items and the corrections.**
 > own exact figure is $0.695 on 11,597.** Both are on record and both are right for their year; do not
 > mix them. **Not computed by Vannevar, and not in Isla's draft:** on this basis the like-for-like cost
 > per sign-up gap (about $733 against $256, on 2021's 11 units) would be about 2.9x, not the 3.6x
-> headline in item 5. That is Vannevar's arithmetic on rounded inputs; Isla to confirm before quoting.
+> headline in item 5. That is Vannevar's arithmetic on rounded inputs; Isla to confirm before quoting.~~
 >
 > **4. OPEN, Justin's decision, nothing recommended: mailing more than $7K.** Justin: *"No [other claims
 > on the $7K]. I'm thinking we might have to mail more than the 7k."* What it hinges on, all Justin's or
 > still outstanding:
 > - **Where money above $7K comes from.** The 2026 $7K expires; 2027's $22K carries the spring mailer
->   (`drafts/budget-reconciliation-v1.md`). **Not on record: whether money above $7K would be
->   perk-eligible.** The $7K is the restricted-use perk (this file, "The remaining $7,000 (2026)",
+>   (`drafts/budget-reconciliation-v1.md`). **[ANSWERED 2026-10-09: Justin: if more than $7K is needed,
+>   "I'd just cover the additional cost"; his own money, so the perk-eligibility question does not arise. See
+>   this file's 2026-10-09 entry.]** ~~Not on record: whether money above $7K would be
+>   perk-eligible.~~ The $7K is the restricted-use perk (this file, "The remaining $7,000 (2026)",
 >   2026-08-25, with the 2026-09-19 loose-reading rule); the extra would not automatically carry its
 >   rules or its use-it-or-lose-it pressure.
 > - **When High Note bills postage.** Mail enters 12 to 19 January, so postage may fall in **2027**
@@ -2696,8 +2749,10 @@ durable facts, the open items and the corrections.**
 >   months.
 >
 > **5. The argument for a larger drop, as Isla's arithmetic, assumption-bound.** At Harrison's actual unit
-> costs, the **marginal 1,000 pieces cost about $695** (the fixed ~$1,937 is the reason a larger drop's
-> average falls). The case is **information more than yield**: **a 10,000-piece drop roughly halves the
+> costs, the **marginal 1,000 pieces cost about $695** ~~(the fixed ~$1,937 is the reason a larger drop's
+> average falls)~~ **[2026-10-09: parenthesis WITHDRAWN. With no fixed cost the average does not fall with
+> volume; cost per sign-up is flat in volume. The $695 per 1,000 stands as the invoice unit cost. The case for
+> volume is information, not unit cost, per the draft's final section.]** The case is **information more than yield**: **a 10,000-piece drop roughly halves the
 > chance of misreading whether NKU still works (the 2023 rate) or the Ohio fall is the new normal (the
 > Ohio rate), compared with 5,000.** Yield is the weaker argument because **added households will respond
 > less than average.** **Assumptions, all of which stay attached:** Poisson on **two assumed rates**
@@ -2709,13 +2764,19 @@ durable facts, the open items and the corrections.**
 > the earlier allocation.** `drafts/budget-reconciliation-v1.md` allocated the 2026 $7,000 as **$4,700
 > for a 5,000-piece card drop, $1,500 for a Q4 video batch day (Sloan), $800 response devices and
 > flex**, under the heading "expiring, no other claims". Justin's "no" now reads as removing outside
-> claims. **It is not stated whether the $1,500 batch day and the $800 flex are released to the mailer
-> or still stand.** That decides how much of the $7K a larger drop would have to find elsewhere. The $800
+> claims. **[ANSWERED 2026-10-09: Justin: "I don't know what those are." The $1,500 batch day and the $800 flex
+> were Isla's own allocation lines, not his costs, and are WITHDRAWN, as are the 5,000 pieces and the
+> $4,425 to $5,330 in `budget-reconciliation-v1.md` (that file's banner already says so).]**
+> ~~It is not stated whether the $1,500 batch day and the $800 flex are released to the mailer
+> or still stand. That decides how much of the $7K a larger drop would have to find elsewhere.~~ The $800
 > was also re-labelled an **overrun reserve for a folded card**, not extra pieces (same document,
 > "Corrections to my own numbers"). Justin's to say; nothing is reallocated here. (ii)
 > **`WHERE-THINGS-ARE.md`, "2020 template" row** (Isla's file, not touched) still says "unconfirmed
 > whether that is one campaign or both", which this block closes. It also still says "$0.44 a piece"
-> without the like-for-like caveat. Isla's to update.
+> without the like-for-like caveat. Isla's to update. **[2026-10-09: that row has since gained a caveat saying
+> the $11k "is not strictly like-for-like with the later drops' ~$10k, which also carried list, venue and
+> materials". That caveat rests on the withdrawn $1,937 and now contradicts Justin: it should say like for
+> like. Isla's file, not touched here.]**
 
 **What Justin supplied (2026-10-08).** (1) The printer's proof of the **second 2020 campaign**,
 Thomas More University, Crestview Hills; sessions printed Sat 3/28, Tue 3/31, Sat 4/4, Tue 4/7
@@ -2942,7 +3003,8 @@ against amendment item 4: 2020's room-filling was already near 2021's). Listed, 
 10. **Two "3.x" gaps in the record.** 3.7x (2026 against 2021, $3,333 to $909, 2026-09-28 Baseline)
     and 3.6x (2021 against 2020, $909 to $256, this amendment). Different pairs; do not cross-quote.
 11. **Cost per sign-up in 2021 to 2026 inherits rounded inputs** (about 10,000 pieces, about $10k) from
-    the offer-options table; Harrison alone is exact (11,597 pieces, $8,063 mail plus about $1,937).
+    the offer-options table; Harrison alone is exact (11,597 pieces, $8,063 mail ~~plus about $1,937~~
+    [2026-10-09: that addition withdrawn; the $8,063 is the invoice, the ~$10k is Justin's rounding]).
     The 2020 figure is rounder still (about 25,000, about $11k).
 
 **Source:** the proof, the partner's numbers, "my partner started doing these before me" and
@@ -2959,12 +3021,90 @@ table and the error rates are Isla's, in `drafts/offer-options-and-ranking.md`, 
 pointed at, not copied. Vannevar re-did $8,063 / 10,000 / $0.44, the log split, and the 5,000-piece
 Poisson case; the 10,000 and 15,000 cases and the "about 2.9x" are not Isla's and are unconfirmed.
 Contradictions and gaps are in item 6. `drafts/` and `reference/` untouched. No client detail. Nothing approved.
+**[2026-10-09: the 1.8x, the $0.81, the 58 to 65% range and the 2.9x are WITHDRAWN (premise: the $1,937). See the banner at the head of the second amendment and the 2026-10-09 entry at the end of this file.]**
 
 **Source of the 2026-10-08 (later) amendment:** the 25,000 pieces and $11k are Justin's (quoted above).
 The per-1,000 and per-sign-up figures, the tests (p values), the "weakest reading", the 1.56x / 2.27x
 decomposition and the "two-thirds" are Isla's; Vannevar re-did the divisions and the multiplication
 (checked, no discrepancy) but **did not recompute the p-values.** The caveats in item 6 are as briefed;
-the $1,937 and $0.365 figures are on record in the 2026-09-28 entry and in Harrison's breakdown. Files
+the $1,937 [WITHDRAWN 2026-10-09] and $0.365 figures are on record in the 2026-09-28 entry and in Harrison's breakdown. Files
 read and pointed at, not copied: `drafts/offer-options-and-ranking.md` ("2020 added 2026-10-08") and
 `reference/winning-mailers/README.md` (foot of the 2020 section). `drafts/` and `reference/` untouched.
 No client data entered. Nothing approved.
+
+---
+
+## 2026-10-09 — THE "~$1,937 FIXED PER DROP" IS WITHDRAWN. It was a residual. (Justin's statement; Isla's section; filed by Vannevar)
+
+**Source, not copied here.** The statement, the 2020 correction, the unit-cost table and the volume arithmetic
+are in `drafts/offer-options-and-ranking.md`, the banner at the top and the final section, "2020 scope
+confirmed, the '$1,937 fixed' premise withdrawn, and what $7K buys (2026-10-09)". **Read it; this entry holds
+the record changes, the open number, and the re-check list only.** Nothing here is approved. No client detail.
+
+**1. What happened, plainly.** The record carried "~$1,937 fixed per drop (list, design, venue, materials)" as a
+measured cost. It was **Justin's rounded "about $10k" less Harrison's itemised $8,063 of print and postage.**
+The 2026-09-28 entry labelled it *"if the drop really ran ~$10,000."* In the days after, the "if" was lost, and
+it became the governing term of the break-even correction, the "$0.524 marginal piece", "under-mailing pays the
+fixed cost" and the 5,000-piece January plan. **2026-10-09, Justin:** of the roughly $1,937, design was
+"None"; *"All costs I give you are print and postage. I've never added anything else."* **A rounding gap, not
+a cost.** Whether a real fixed cost exists (plates, setup) is for a High Note quote to show. Where it was
+carried, it is now struck with a dated pointer (this file's 2026-09-28 entry and the 2020 amendments;
+`recurring-failures.md`, class 7 and class 13). Failure class: `recurring-failures.md`, class 13.
+
+**2. The 2020 reading, restored.** My own "second amendment" items 2 and 3 (1.8x, 58 to 65%, 2.9x to 3.6x)
+are withdrawn. **Standing: 2020 to 2021 cost per sign-up fell 3.6x; response 1.56x, cost per piece 2.27x;
+cost per piece about two-thirds of the gap.** Justin: all his figures are print and postage with design
+bundled in the print price, so 2020's $0.44 and the later drops' $0.70 to $1.00 are like for like. (The 43
+versus 35 units question from 2026-10-08 is untouched.)
+
+**3. The open number.** Harrison's itemised invoice is **$8,063** (11,597 pieces, $0.695). Justin has said
+"about $10k." Cost per sign-up for 2026 is **$2,688 on the invoice and $3,333 on $10k.** **Not known: whether the
+2021, 2023 and 2025 totals are invoices or rounded.** (Until then the ~$3,333 baseline and the 3.7x gap
+are on the rounded basis; the invoice basis gives about 3.0x against 2021's ~$909, Vannevar's division, 2,688 / 909.)
+
+**4. What $7K buys with no fixed cost** (from the draft's table, pointed at): **7,000 to 10,070 pieces**
+depending on which unit cost is right ($1.00 gives 7,000; $0.83 gives about 8,430; $0.695 gives about
+10,070), **not 5,000.** **Withdrawn:** the 5,000 and the $4,425 to $5,330 in `budget-reconciliation-v1.md`
+(that file's banner says so); the $1,500 batch day and $800 flex, which were Isla's own allocation lines, not
+Justin's costs (Justin: "I don't know what those are").
+
+**5. Funding, Justin.** If more than $7K is needed: *"I'd just cover the additional cost."* His own money, so
+the perk-eligibility question raised on 2026-10-08 does not arise. Still Justin's, per the draft: the High Note
+quote at several quantities and when postage is billed; whether the DRA in-band count supports the volume;
+that a larger January drop draws on households the spring drop planned to use.
+
+**6. RE-CHECK ONCE A HIGH NOTE QUOTE EXISTS. Listed, not rewritten.** Each is a conclusion that used the
+fixed cost, or a number priced on the $10k that included it:
+- **Three-lever formula, treatment of under-mailing** (2026-09-28 entry): the Lever 2 restatement's item 3
+  ("widen rather than bank"), the "~$3,180 = what under-mailing costs" row, "the tension is dissolved", and
+  the ~44% marginal threshold.
+- **Lever 2 priority ordering** (54-64 first, widen band or radius): the n=7 reason for 54-64 is independent;
+  the instruction to fill the budget rather than leave it unspent leaned on the fixed cost.
+- **Lever 1 pricing:** 15,387 pieces / ~$2,512 per unit and the ~$1,945-2,269 saving (priced inside the $10k);
+  the print comparison ($0.331 vs $0.135-$0.163) is Justin's quote data and is not in question.
+- **Lever 3 table** (priced on the $5,343 drop) and "What the three add up to" (~$1,800-2,500; the "2.0-2.8x,
+  all in response" remainder).
+- **Any "readable cell" argument that used the fixed cost.** The Poisson error-rate arithmetic is independent
+  of it and stands (assumed rates, list quality ignored). The 1.68 and 2.4 unit counts in Lever 3's
+  unreadability argument are piece counts times a rate, not fixed-cost arithmetic, so I read them as
+  independent; but the 5,000-piece "smallest readable cell" sizing in `budget-reconciliation-v1.md` should be
+  checked for which of its inputs were the $0.55 card and the fixed cost.
+- **The ~$3,333-per-unit baseline** wherever quoted: this file (the 2026-08-25 and 2026-09 entries, the
+  2026-10-01 "$3,333 to $2,226" compounding line, lines marked in the 2026-10-01 payback section) and
+  `ROADMAP.md` (the mail baseline, about lines 128 and 156). It is $10k / 3 units on the rounded basis; $2,688
+  on the invoice.
+- **"Correction 1": "$4,760 unexplained gap per drop was WRONG"**: its replacement ("remaining gap ~$1,937") is
+  withdrawn, so what that gap was is now unexplained. Flagged, not resolved.
+
+**7. Flagged against the record, not written over.**
+- `WHERE-THINGS-ARE.md` (Isla's, not touched): the "2020 template" row says the $11k "is not strictly
+  like-for-like with the later drops' ~$10k, which also carried list, venue and materials" (contradicts
+  Justin; should say like for like); the "High Note quote at ~5,000" open item (the draft asks for several
+  quantities and the postage billing date); the "What the money does" row ($7K, $22K) and the "twelve logged
+  failure classes" count (now thirteen).
+- `drafts/offer-options-and-ranking.md` lines about the 2020 caveats (in "2020 added 2026-10-08", "Caveats")
+  still carry the $1,937 as a reason 2020 is not like for like; the file's top banner and final section
+  withdraw it, the paragraph itself was not edited (drafts untouched). Same for `drafts/clean-slate-29k-sloan.md`
+  (two mentions) and the Harrison and lever sections inside the draft.
+- Source of the "$0.83 = 2023, $10k over 12,000" and "$1.00 = 2021 and 2025" rows: Justin's rounded totals, not
+  invoices. The draft says so only as an open question.
