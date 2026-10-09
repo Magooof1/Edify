@@ -13,11 +13,11 @@ is counted. To get 12 *attending*, divide by the show rate: 78% on Saturday in 2
 
 | | |
 |---|---|
-| **Mailer** | The **17 x 11 self-mailer in the 2020 / 2021 / 2023 look**, Option 1 front (`drafts/mailer-front-v7.md`). Not a card, not the 2025 redesign. |
-| **Days** | **Two: Tuesday 16 February, 5:30 to 8:45 pm, and Saturday 20 February, 8:30 to 11:45 am.** |
-| **Pieces** | **About 14,000.** |
+| **Mailer** | The **17 x 11 self-mailer in the 2020 / 2021 / 2023 look**. Not a card, not the 2025 redesign. **Front: see "The front" below. The "Do I have enough?" headline was never on any past piece** (Justin, 2026-10-09; checked against all four). |
+| **Days** | **Two: Tuesday 16 February, 5:30 to 8:45 pm, and Saturday 20 February, 8:30 to 11:45 am.** Thursday 18 is open (Justin, 2026-10-09); Isla still leans Tuesday, see "Dates". **Justin's call.** |
+| **Pieces** | **14,000. DECIDED by Justin 2026-10-09** ("let's shoot for about 14k mailed"). Subject to the DRA count reaching it. |
 | **Dates** | Print order **Fri 4 December** (the kill date). In homes **about 20 to 27 January**: 3 to 4 weeks before each class, which is Justin's own finding. Mail entry about 12 to 19 January. |
-| **Cost** | **About $9,700 at Harrison's itemised $0.695 a piece; about $14,000 at the $1.00 the rounded totals imply.** High Note's quote decides. Above $7K Justin pays the difference himself. |
+| **Cost** | **$8,540 at Harrison's $0.61 a piece (Justin, 2026-10-09: "61 cents a piece").** Justin wrote $8,530; 14,000 x $0.61 is $8,540. **About $1,540 above the $7K, which Justin covers.** The $0.695 used earlier was Isla's division of an itemised $8,063 by 11,597 pieces; **Justin's per-piece figure governs**, and the gap is noted, not chased. High Note's quote still replaces both if it differs. |
 
 ## Why this mailer
 
@@ -32,17 +32,17 @@ result for a card in this market.** With one shot and a December print date, use
 Poisson arithmetic on three assumed response rates per 1,000 pieces. **The January rate is the thing nobody
 knows**, so all three are shown.
 
-| Pieces | Cost at $0.695 | Cost at $1.00 | If the rate is Ohio's (0.35) | **NKU 2023's (1.08)** | 2020's (1.72) |
+| Pieces | Cost at $0.61 (Harrison, per Justin) | Cost at $1.00 | If the rate is Ohio's (0.35) | **NKU 2023's (1.08)** | 2020's (1.72) |
 |---|---|---|---|---|---|
-| 7,000 | $4,865 | $7,000 | 0% | **8%** | 54% |
-| 10,000 | $6,950 | $10,000 | 0% | **40%** | 92% |
-| 12,000 | $8,340 | $12,000 | 0% | **64%** | 98% |
-| **14,000** | **$9,730** | **$14,000** | 0% | **82%** | 100% |
-| 15,000 | $10,425 | $15,000 | 1% | 88% | 100% |
-| 20,000 | $13,900 | $20,000 | 5% | 99% | 100% |
+| 7,000 | $4,270 | $7,000 | 0% | **8%** | 54% |
+| 10,000 | $6,100 | $10,000 | 0% | **40%** | 92% |
+| 12,000 | $7,320 | $12,000 | 0% | **64%** | 98% |
+| **14,000** | **$8,540** | **$14,000** | 0% | **82%** | 100% |
+| 15,000 | $9,150 | $15,000 | 1% | 88% | 100% |
+| 20,000 | $12,200 | $20,000 | 5% | 99% | 100% |
 
 - At the 2023 rate, **50% needs about 11,000 pieces, 80% about 14,000, 90% about 15,400.**
-- **$7K alone buys 7,000 to 10,000 pieces, which is 8% to 40% for 12.** It is a stretch target at $7K.
+- **$7K alone buys about 11,500 pieces at $0.61, which is about 58% for 12** (8% if the price were $1.00). Superseded by the decision: 14,000.
 - **If the true rate is Ohio's, 12 is out of reach at any budget Justin would accept** (about 34,000 pieces). No
   mailer fixes that; January itself tells us which world we are in, and the drop cannot be adjusted after the
   December print order.
@@ -67,7 +67,7 @@ room at about 4.5 hours with prep) **and a thin room**: at 14,000 pieces the 202
 for Saturday and about 5 for Tuesday**, of whom roughly 2 or 3 would come.
 
 **The alternative, stated fairly:** if Justin wants **12 in one room**, one Saturday works only with **about
-20,000 pieces** (about $13,900 to $20,000) for 50% to 90%. That is **$4,000 to $6,000 more** than the two-day plan
+20,000 pieces** (about $12,200 at $0.61) for 50% to 90%. That is **about $3,660 more** than the two-day plan
 for the same odds, to save one evening.
 
 ## Dates, and one risk
@@ -77,16 +77,44 @@ for the same odds, to save one evening.
   showed 2 of 4.
 - **Retirement Planning University has been listing NKU sessions on Tuesdays at 6 pm** (2026 dates only; nothing seen
   yet for February 2027). Check its listings in January.
-- NKU offered Tuesdays 2, 9 and 16 and Thursday 18; 2 and 9 are too early for the lead time, and Thursday 18 would put
-  two classes in three days.
+- NKU offered Tuesdays 2, 9 and 16 and Thursday 18; 2 and 9 are too early for the lead time.
+- **Thursday 18 against Tuesday 16 (added 2026-10-09, Justin: "we do have that Thursday the 18th open").** The record
+  on a weekday before the Saturday: **2020, Tuesday 2/25, four days before Saturday 2/29, drew 11 units**;
+  **2023, Thursday 4/20, two days before Saturday 4/22, produced nothing separate.** Weakest reading: one Thursday,
+  one result, so a hint and not a finding; it may say more about two-days-before-Saturday than about Thursday.
+  Thursday also puts an evening ending 8:45 pm about 12 hours before a Saturday 8:30 am room. Against Tuesday: the
+  Presidents' Day weekend, and Retirement Planning University's Tuesday 6 pm habit at NKU. **Isla leans Tuesday 16,
+  narrowly.** Either is defensible; it is Justin's call, and it must be settled before the panels are final.
+- **Early in the year (Justin, 2026-10-09): this is the first drop since 2020 to mail in January.** 2020 is also the
+  best rate on record (1.4 to 1.7 per 1,000). **Not priced in:** 2020 is confounded with a fresh market, pre-COVID
+  conditions and a lower cost, and it is one year. Read it as an upside scenario, not a reason to cut volume.
 
 ## What this does not know
 
 - **The January response rate.** Everything above is conditional on it.
-- **Unit cost.** $0.695 is Harrison's invoice; $0.83 and $1.00 are rounded totals; High Note's quote at several
+- **Unit cost.** $0.61 is Harrison's per-piece price (Justin); the earlier $0.695 was Isla's division of the invoice; $0.83 and $1.00 are rounded totals; High Note's quote at several
   quantities replaces all of it. **Also not known: when High Note bills postage.**
 - **Whether the DRA in-band count in OH/KY reaches 14,000.** If not, mail what exists and widen the radius; do not
   re-mail the same households. Added households respond less than average, so the odds above are optimistic for the
   last few thousand pieces.
-- **Whether the new mailer front performs like the old one.** It changes one thing on the outside.
+- **Whether the new mailer front performs like the old one.** See "The front" below.
+
+## The front (added 2026-10-09)
+
+Justin: *"The do I have enough was never on the mailer. Check the designs you have."* Checked: the phrase appears
+**0 times in the 2020 and 2021 texts**, and in 2025 only inside a course description ("ensure you have enough money").
+It is on panel A (and on C and the mirror) **only because Isla built Option 1 there on 2026-10-08.** Isla's 12-units
+answer described it as part of the look "with results"; **it is not. It is the one untested change on the outside**,
+and every odds figure in this file assumes the 2023 rate, which was earned by a face without it.
+
+- **Keep it** (Isla's lean): the laurel lockup, NKU and the course title stay; the headline is Justin's own account of
+  the first question people ask, and it adds a reason to open without removing the institutional look. Risk: it
+  makes the catalogue read more like an advertisement (Taleb's attack, `drafts/january-front-position.md`).
+- **Revert to the exact 2023 face**: the conservative choice, and the only one the odds table actually describes.
+- **Split the run**: **not recommended.** At 14,000 and the 2023 rate, each half expects about 7 sign-ups, which
+  reads only a difference of about two to one, and it costs a version change and per-version tracking. Same
+  conclusion as Jayme's at 5,000 (`drafts/mailer-front-v7.md`, section 6).
+- The cheap check that exists before print is Jayme's three-second test (same file, section 6). Optional.
+
+**Justin's call. Nothing on the canvas changes until he makes it.**
 - The sign-up counts are small; the arithmetic is exact and the inputs are not.

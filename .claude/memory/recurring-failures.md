@@ -205,6 +205,26 @@ else."* A rounding gap, not a cost. Source: `drafts/offer-options-and-ranking.md
     correction was written into the 2020 reading and had to be withdrawn; roughly eighteen places in
     `growth-channels.md` carried it. Nothing was spent (the 4 December print order has not happened).
 
+  **Instance (b), 2026-10-09: results carried onto an untested headline.** Answering Justin's 12-units question,
+  Isla called the recommended mailer "the 17x11 self-mailer in your 2020, 2021 and 2023 look, with the 'Do I have
+  enough?' front. It's the only format with results in this market." The headline is on panel A **only because
+  Isla built Option 1 on 2026-10-08**; it appears **0 times** in the 2020 and 2021 texts and in 2025 only inside a
+  course description. Justin: *"The do I have enough was never on the mailer. Check the designs you have."* Every
+  odds figure in `drafts/january-volume-and-days.md` assumes the 2023 rate, earned by a face without it. Corrected in
+  that draft ("The front"); nothing printed.
+  - **Why it files under 13, and where the fit is partial.** Same shape: a noun ("the look with results") kept, the
+    qualifier that made it true (this headline is new) dropped between entries. In `drafts/mailer-front-v7.md` the
+    sentence was "Justin's validated sentence" (validated as the question people ask, never as a mailer front), and
+    Q5 there lists the headline's novelty as inferred, but the inference did not reach the 12-units answer.
+    **Not a clean match:** class 13 is a label that was honest once and lost later; I have not verified that anyone
+    ever wrote "never on a past piece" before 10-09, so this may be a claim that was never checked rather than one
+    that lost its "if". It also resembles class 3 (keeping the half that sounds better) and class 12 (the designs were
+    in `reference/winning-mailers/` and a text search settled it in a minute). Filed under 13 because the damage is
+    evidence from an old piece attached to a changed one; Isla or Justin can move it.
+  - **Weakest actionable reading:** two instances of "a premise quoted without its qualifier", one of them in a
+    session where the class was already logged. Not evidence that the Q5 wording above would have caught it; the
+    question that would have is "what in this sentence differs from the piece the results came from?"
+
   **Vannevar's recommendation (Isla to put to Justin; `CLAUDE.md` not touched).** No ninth
   pre-flight question: Q5 is the right home, and a clause per failure is class 5 again. But Q5
   as written (and as proposed in the class-12 rewrite) tests *the claim*, and this failure was in *the label*.

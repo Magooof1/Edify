@@ -2749,7 +2749,7 @@ durable facts, the open items and the corrections.**
 >   months.
 >
 > **5. The argument for a larger drop, as Isla's arithmetic, assumption-bound.** At Harrison's actual unit
-> costs, the **marginal 1,000 pieces cost about $695** ~~(the fixed ~$1,937 is the reason a larger drop's
+> costs, the **marginal 1,000 pieces cost about $695** **[2026-10-09, later: Harrison's price per Justin is $0.61, so about $610 per 1,000; $695 was Isla's division of $8,063 by 11,597. See the end-of-file entry "14,000 pieces DECIDED".]** ~~(the fixed ~$1,937 is the reason a larger drop's
 > average falls)~~ **[2026-10-09: parenthesis WITHDRAWN. With no fixed cost the average does not fall with
 > volume; cost per sign-up is flat in volume. The $695 per 1,000 stands as the invoice unit cost. The case for
 > volume is information, not unit cost, per the draft's final section.]** The case is **information more than yield**: **a 10,000-piece drop roughly halves the
@@ -3057,7 +3057,7 @@ cost per piece about two-thirds of the gap.** Justin: all his figures are print 
 bundled in the print price, so 2020's $0.44 and the later drops' $0.70 to $1.00 are like for like. (The 43
 versus 35 units question from 2026-10-08 is untouched.)
 
-**3. The open number.** Harrison's itemised invoice is **$8,063** (11,597 pieces, $0.695). Justin has said
+**3. The open number.** **[2026-10-09, later: Harrison's per-piece price is $0.61 per Justin; the $0.695 below is Isla's division, not his figure. See the entry "14,000 pieces DECIDED" at the end of this file.]** Harrison's itemised invoice is **$8,063** (11,597 pieces, $0.695). Justin has said
 "about $10k." Cost per sign-up for 2026 is **$2,688 on the invoice and $3,333 on $10k.** **Not known: whether the
 2021, 2023 and 2025 totals are invoices or rounded.** (Until then the ~$3,333 baseline and the 3.7x gap
 are on the rounded basis; the invoice basis gives about 3.0x against 2021's ~$909, Vannevar's division, 2,688 / 909.)
@@ -3108,3 +3108,45 @@ fixed cost, or a number priced on the $10k that included it:
   (two mentions) and the Harrison and lever sections inside the draft.
 - Source of the "$0.83 = 2023, $10k over 12,000" and "$1.00 = 2021 and 2025" rows: Justin's rounded totals, not
   invoices. The draft says so only as an open question.
+
+---
+
+## 2026-10-09 (later) — JANUARY: 14,000 PIECES DECIDED at Harrison's $0.61; Thursday 18 open; first January mailing since 2020 (Justin's statements; Isla's draft; filed by Vannevar)
+
+**Source, not copied here:** `drafts/january-volume-and-days.md` (Recommendation table, "Dates", "The front") and
+`WHERE-THINGS-ARE.md`. The odds table, the Poisson arithmetic and the one-day-or-two reasoning live there. This entry
+holds the decision, the facts and the conflict only. Nothing else is approved. No client detail.
+
+**1. Volume and cost: DECIDED (Justin).** *"Let's shoot for about 14k mailed then."* and *"Harrison Cost: 61 cents a
+piece. So for 14,000 it would be 8,530."*
+- 14,000 x $0.61 = **$8,540**. Justin wrote $8,530, a $10 slip; noted, not chased. The record carries $8,540.
+- **About $1,540 above the $7K, which Justin covers** (his earlier "I'd just cover the additional cost", entry above).
+- Still conditional, per the draft: the DRA in-band count reaching 14,000 in OH/KY, and High Note's quote (which would
+  replace the Harrison figure if the January printer differs). Not decided: when High Note bills postage.
+
+**2. CONFLICT RECORDED, NOT RESOLVED: Harrison's per-piece price.** Earlier entries give **$0.695**. That was **Isla's
+own division of the itemised $8,063 invoice by 11,597 pieces**, not a price Justin quoted. Justin now says **$0.61**.
+Per Isla's brief, **Justin's per-piece figure governs.** Why the two differ (a price tier, a different quantity, or
+something inside the $8,063 that is not per-piece) is **not known**, and nobody has asked him. Pointers added, dated,
+at the two places in this file that quote $0.695 as Harrison's price (the 2026-10-09 "withdrawn" entry item 3 and the
+marginal-1,000 line in the 2026-10-08 amendment); the originals stand. Two more mentions sit inside an already-struck
+block (the 2026-10-08 item 3(c)) and are left alone. **One more is not struck and has no pointer of its own:** item 4 of
+the 2026-10-09 "withdrawn" entry lists "$0.695 gives about 10,070" as one of three unit-cost options for what $7K buys;
+read it under this conflict (at $0.61, $7K buys about 11,500). The $0.81, $0.83 and $1.00 per-piece figures are Justin's rounded totals
+divided by Vannevar or Isla and are not touched by this.
+**Flag, not a finding:** the Harrison invoice-based cost-per-sign-up figures ($2,688 on $8,063) were built on the
+invoice total, not on a per-piece price, so they are unaffected unless Justin says the invoice itself was wrong.
+
+**3. Dates and timing, Justin's facts.**
+- *"We do have that Thursday the 18th open"* (February 2027, at NKU). **Tuesday 16 versus Thursday 18 is NOT decided
+  and is Justin's call**; it must be settled before the panels are final. Saturday 20 February is unchanged.
+- **Isla leans Tuesday, narrowly.** Her evidence, weakest reading: 2020, Tuesday 2/25, four days before Saturday 2/29,
+  drew 11 units; 2023, Thursday 4/20, two days before Saturday 4/22, produced nothing separate, **which is one instance.**
+  A hint, not a finding; it may say more about two-days-before-Saturday than about the weekday.
+- **Fact (Justin): "this is the first time since '20 where we mailed earlier in the year"**, i.e. the first January
+  drop since 2020.
+- **2020 is the best rate on record** (1.4 to 1.7 sign-ups per 1,000) **but confounded** (fresh market, pre-COVID,
+  lower cost, one year). **Recorded as an upside scenario, not a finding, and not a reason to cut volume.**
+
+**4. Related, filed in `recurring-failures.md` the same day:** Isla described the recommended mailer as having a "Do I
+have enough?" front "with results". It has never appeared on a past piece. Class 13, instance (b).
