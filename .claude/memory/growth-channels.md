@@ -2627,7 +2627,7 @@ durable facts, the open items and the corrections.**
 > division: 43/25 = 1.72, 35/25 = 1.40, $11,000/43 = $256, $11,000/35 = $314.) **Open and unconfirmed:**
 > ~~whether the 25,000 and the $11k describe one campaign or both~~ **[CLOSED 2026-10-08, later still: one
 > campaign, $11k = postage, print and design; second amendment item 1]**, and whether all three dates (2/25, 2/29,
-> 3/30) belong to that mailing **[STILL OPEN]**. **Section 2's open item "pieces mailed and spend for each campaign" is
+> 3/30) belong to that mailing **[STILL OPEN]** **[2026-10-09, later still: all three dates are read as one NKU mailing, 1.40 is now the two-session comparison, not a denominator doubt; the "3/30" = Sat 3/7 reading is Justin's to confirm. See the entry at the end of this file.]**. **Section 2's open item "pieces mailed and spend for each campaign" is
 > retired only partly: it is now one figure for one unclear scope**, not two figures for two campaigns.
 > Still missing: the second campaign's own pieces and cost, if they are separate.
 >
@@ -2700,6 +2700,7 @@ durable facts, the open items and the corrections.**
 > on the one-campaign-or-both half, and so is section 2's "one unclear scope".** **Still unconfirmed:
 > whether all three sign-up dates (2/25, 2/29, 3/30) belong to that mailing.** So the **43-vs-35
 > alternative stays open**: 1.72 and $256 on 43 units, 1.40 and $314 on 35. Neither row is retired.
+> **[2026-10-09, later still: see the entry at the end of this file. 43 units on one NKU mailing is Isla's reading, Justin to confirm; 1.40 is now the two-session comparison, not a scope doubt.]**
 >
 > ~~**2. A correction to this entry's own decomposition (Isla made it in the draft; echoed here).**~~ **[ITEM 2 WITHDRAWN 2026-10-09, struck to its end below. Premise (the $1,937) withdrawn; Justin says all his figures are print and postage with design in the print price. Item 5 of the first amendment is restored: 2.27x, about two-thirds cost per piece. Vannevar's own $0.806 and 1.83 are arithmetic on a number that was not like for like and are not to be quoted.]**
 > ~~The later drops' "about $10k" also carried about **$1,937 outside print and postage** (per Harrison's
@@ -2809,6 +2810,7 @@ is the earliest the 2021 piece can be; it may be a later one.
 2/25, 2/29 and 3/30 are **not on the proof** (it prints 3/28, 3/31, 4/4, 4/7). **Isla reads 2/25
 and 2/29 as the first campaign and 3/30 as a rescheduled session of the second, during the
 shutdown.** Justin has not said which campaign any date belongs to.
+**[WITHDRAWN 2026-10-09, later still: Isla's reading is replaced by the NKU winter proof, three dates on one piece; see the entry at the end of this file and `reference/winning-mailers/README.md`, "2020 winter — NKU". Kept for the record.]**
 
 **Open:**
 - Which campaign each date belongs to (so whether 35 or 43 units belongs to the first campaign).
@@ -2864,6 +2866,7 @@ open test (untouched).
 | Drop | Tuesday evening | Saturday morning |
 |---|---|---|
 | 2020, the two February classes | 11 of 35 units = 31% | 24 of 35 = 69% |
+| *[2026-10-09, later still: superseded. On all three 2020 dates, Saturdays took 32 of 43 (74%) and the Tuesday series 26%; see the end-of-file entry. The 31% / 69% row above stands as written, for the record.]* | | |
 | 2023 NKU | 4 of 13 = 31% | 9 of 13 = 69% |
 
 **Two drops, tiny n, an identical split.** A reasonable prior for how January's two sessions
@@ -2875,7 +2878,7 @@ three years apart. The 2020 evening class was the first of the two (2/25), which
 
 | Drop | Pieces | Sign-ups (units) | Per 1,000 pieces |
 |---|---|---|---|
-| 2020 first campaign (if 2/25 and 2/29) | ~~**NOT ON RECORD**~~ **~25,000 for ~$11k (2026-10-08 later; scope unclear, may be both campaigns)** | 35 pre-shutdown; 43 if 3/30 is included | ~~**cannot be computed**~~ **1.40 (35) or 1.72 (43)** |
+| 2020 first campaign (if 2/25 and 2/29) | ~~**NOT ON RECORD**~~ **~25,000 for ~$11k (2026-10-08 later; scope unclear, may be both campaigns)** | 35 pre-shutdown; 43 if 3/30 is included | ~~**cannot be computed**~~ **1.40 (35) or 1.72 (43)** **[2026-10-09, later still: the 43 / 1.72 is earned with three sessions on one NKU mailing; 1.40 (35 units) is the two-session comparison. See the end-of-file entry.]** |
 | NKU spring 2021 | ~10,000 | 11 | 1.10 |
 | NKU spring 2023 | ~12,000 | 13 | 1.08 |
 | IWU West Chester Apr 2025 | ~10,000 | 4 | 0.40 |
@@ -2965,7 +2968,7 @@ against amendment item 4: 2020's room-filling was already near 2021's). Listed, 
 2. **"Over 15 years" appears identically** in the instructor bio on the 2020 proof (the partner)
    and on the 2021 piece (Justin). The compliance entry "Bio years: the figure has moved" (2026-10-08)
    treats the figure as Justin's to document and does not know the 2020 reading. **Whether the
-   2021 figure was Justin's own or inherited from the template is not on record.** Compliance
+   2021 figure was Justin's own or inherited from the template is not on record.** **[2026-10-09, later still: the 2021 bio is the 2020 bio with the name swapped; see the end-of-file entry.]** Compliance
    entry unchanged.
 3. **Ed has not seen the 2020 proof.** His 2026-10-08 flag 2 (Trulip Planning, LLC named as
    seller) applies to it in the same words. Whether to extend the heads-up is Justin's and
@@ -2999,7 +3002,7 @@ against amendment item 4: 2020's room-filling was already near 2021's). Listed, 
 9. **Scope of the 25,000 and $11k** decides which row is right (1.72 and $256, or 1.40 and $314), and
    whether the Tuesday/Saturday split (section 5) and the p-values apply to 35 or 43. Justin to say.
    **[Half closed 2026-10-08, later still: one campaign, $11k = postage, print, design. Still open: whether
-   2/25, 2/29 and 3/30 all belong to it, so 35 versus 43 and the p-values stand as before. Second amendment item 1.]**
+   2/25, 2/29 and 3/30 all belong to it, so 35 versus 43 and the p-values stand as before. Second amendment item 1.]** **[2026-10-09, later still: see the end-of-file entry; the p-values were not recomputed there.]**
 10. **Two "3.x" gaps in the record.** 3.7x (2026 against 2021, $3,333 to $909, 2026-09-28 Baseline)
     and 3.6x (2021 against 2020, $909 to $256, this amendment). Different pairs; do not cross-quote.
 11. **Cost per sign-up in 2021 to 2026 inherits rounded inputs** (about 10,000 pieces, about $10k) from
@@ -3150,3 +3153,59 @@ invoice total, not on a per-piece price, so they are unaffected unless Justin sa
 
 **4. Related, filed in `recurring-failures.md` the same day:** Isla described the recommended mailer as having a "Do I
 have enough?" front "with results". It has never appeared on a past piece. Class 13, instance (b).
+
+---
+
+## 2026-10-09 (later still) — AMENDMENT: the big 2020 numbers came from ONE NKU mailing with three dates (Justin's upload and statement; Isla's README section; filed by Vannevar)
+
+**Source, pointed at and not copied:** `reference/winning-mailers/README.md`, section **"2020 winter — NKU, the '5th
+campaign'"** (the session table, the shares and the bio comparison live there), and `drafts/january-volume-and-days.md`,
+"Dates", bullet "The 2020 piece is now on file". Files: `reference/winning-mailers/2020-winter-nku-5th-campaign-proof.*`.
+**Justin's words:** *"For that big 2020 class we did 3 dates."* Everything else below is Isla's reading unless marked.
+Nothing here is approved. No client detail.
+
+**1. What the 43 units came from.** An **NKU mailing, Student Union Building, mailed January 2020** (printer's proof
+created 13 Jan 2020), three dates printed: **Sat 2/29**, a **Tuesday two-evening series 2/25 + 3/3**, **Sat 3/7.**
+**Same venue and same season as January 2027.** The 2020 "~25,000 pieces, ~$11k, one campaign" figures stand as filed.
+
+**2. WITHDRAWN: Isla's earlier reading** (2026-10-08, "2020 spring — Thomas More" section and this file's entries that
+repeat it) that 2/25 and 2/29 were a first campaign and "3/30" a rescheduled Thomas More session. **Isla now reads "3/30"
+(a Monday in 2020, on neither piece) as Sat 3/7. That is a reading. Justin to confirm.** Until he does, "all 43 units
+came from the NKU mailing" carries that condition; the 35-unit figure does not depend on it. Whether the Thomas More
+sessions ran remains not recorded.
+
+**3. Numbers (arithmetic re-done by Vannevar, no discrepancy):**
+- Saturdays **32 of 43 = 74%**; the Tuesday series **11 of 43 = 26%** (Sat 2/29: 24; Tuesday series: 11; Sat 3/7: 8).
+  The **second Saturday, a week after the first, still drew 8.**
+- **1.72 per 1,000 (43 / 25,000) was earned with three sessions.** The **two-session comparison** (Sat 2/29 + the Tuesday
+  series) is **35 units = 1.40 per 1,000.** Sat 2/29 alone: 24 / 25,000 = 0.96.
+- **1.40 is therefore a like-for-like comparison for January's two sessions, no longer a "which denominator?" doubt.**
+  The 25,000 and $11k describe the whole one-campaign mailing, which carried all three dates. The p-values filed earlier
+  were **not recomputed here.**
+
+**4. Entries that quote the superseded readings.** Dated pointers added at each, **originals stand, nothing deleted**
+(all in this file unless noted): the 2026-10-08 (later) amendment item 1 and the "(still open)" line in its second-amendment
+restatement; the 2020 section 2 ("The dates are unreconciled"); section 5's table, **"Tuesday took 31% in 2020
+(11 of 35)"** (the 31% / 69% row; the 2023 row, 4 of 13, is untouched and is a different drop); section 6's 2020 row;
+Vannevar's flag 2 (bio) and flag 9; and `compliance-precedents.md`, "Bio years: the figure has moved". **Not individually
+pointed (read them under this entry):** the 2026-10-08 amendment's "Saturday and Tuesday shares repeat" and "1.72 (or
+1.40)" phrasings elsewhere in this file, including the placeholder-series correction (item 2 of that amendment) and the
+2026-10-09 "withdrawn" entry's mentions of "1.4 to 1.7." Search "1.40" and "31%" to find them. `WHERE-THINGS-ARE.md` (Isla's
+file, not touched here) already has the 2020 row pointing at the new README section.
+
+**5. Consequence for the Tuesday/Saturday prior (flagged, not decided).** The "identical 31/69 split in 2020 and 2023"
+that supported a prior for January's two sessions **no longer holds**: 2020 on all three dates is 74 / 26 against 2023's
+69 / 31, and 2020 had two Saturdays. Different years and instructors, n tiny. **Whether to keep a Tue/Sat prior at all is
+Isla's and Justin's call;** this record says only that the evidence for "identical" is gone.
+
+**6. Bio: the 2021 "15 years" is not independent evidence of Justin's years.** The 2021 bio ("over 15 years... Miami
+University of Ohio") is the partner's 2020 bio with the name swapped and "Finance" changed to "Business." So it is
+inherited template copy; **the bio years remain Justin's to confirm with documentation** (see `compliance-precedents.md`,
+"Bio years: the figure has moved"). **The partner is not named in this record, by instruction.**
+
+**7. Redaction.** The 2020 proof carried a real sample addressee on the mail panel. **It has been redacted in the repo
+copies (PDF, text, PNG).** Recorded only that it was redacted; the name and address are not stored here or anywhere in memory.
+
+**8. Open.** Justin to confirm "3/30" = Sat 3/7 and that all 43 units belong to the NKU mailing · whether to keep any
+Tue/Sat prior (item 5) · pieces and spend were given for "1 campaign" and are consistent with this reading but not
+re-asked · attendance, clients and AUM from 2020 still not on record.

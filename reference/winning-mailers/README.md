@@ -231,6 +231,51 @@ rooms at NKU in 2021 and 2023 was plainer, older-skewing and quieter than this o
 
 ---
 
+## 2020 winter — NKU, the "5th campaign": the piece behind the big 2020 numbers
+
+`2020-winter-nku-5th-campaign-proof.pdf` (+ `2020-winter-nku-proof-page1.png`, `-page2.png`, `.txt`),
+supplied by Justin 2026-10-09 with: *"For that big 2020 class we did 3 dates."* Printer's file name
+"Trulip_Planning_5th_Campaign_LTR-Proof"; **created 13 January 2020.** 18 x 12 in page = the 17 x 11 sheet
+plus crop marks; same five-surface layout as the Thomas More proof. **The sample addressee on the mail panel
+was a real name and address and has been redacted from every copy in this repo** (PDF, text, PNG).
+
+**Venue and dates, as printed:** Northern Kentucky University, **The Student Union Building**, the same
+venue as January 2027. Three choices: **Saturday 2/29, 8:30 am to 12:30 pm**; **two evenings, Part 1
+Tuesday 2/25 and Part 2 Tuesday 3/3, 6:30 to 8:30 pm**; **Saturday 3/7, 8:30 am to 12:30 pm.** The
+instructor is Justin's partner. Front: the laurel "FREE WINTER LEARNING PROGRAM", NKU and the course title on
+A; the classroom photograph, "Course Registration Open" and a list of topics on C. **No "Do I have enough?"
+anywhere.** Inside, one teaser bullet: *"The two questions every pre-retiree or retiree wants to know and how
+to answer each"*, not answered on the piece.
+
+**What it corrects.** The Thomas More section below read Justin's three 2020 dates as two from a first
+campaign (2/25, 2/29) and a "3/30" from the Thomas More campaign, rescheduled. **That reading is withdrawn.**
+This piece prints three dates, and Justin says the big class was three dates. **3/30/2020 was a Monday and
+appears on neither piece; Isla reads the "3/30" session (8 units) as Saturday 3/7. Justin to confirm.** If
+so, all 43 units came from this one NKU mailing:
+
+| Session (2020, NKU) | Signed up: people | Signed up: units |
+|---|---|---|
+| Sat 2/29 morning | 39 | 24 |
+| Tue 2/25 + 3/3 evenings (one series) | 19 | 11 |
+| Sat 3/7 morning (Isla's reading of "3/30") | 11 | 8 |
+| **Total** | **69** | **43** |
+
+- **Saturdays took 32 of 43 (74%); the Tuesday series took 26%.** The second Saturday, a week after the
+  first, still drew 8 units.
+- **The 2020 rate came from three sessions, two of them Saturdays.** 43 units on about 25,000 pieces is
+  **1.72 per 1,000** (Justin: "1 campaign"), but a two-session January plan compares to **Sat 2/29 + the
+  Tuesday series: 35 units, 1.40 per 1,000.** Saturday 2/29 alone: 0.96 per 1,000.
+- **Timing:** mailed in January, classes late February to early March: **the closest season to the
+  January 2027 plan of any piece on file.** The sessions ran just before or at the start of the March 2020
+  shutdown (Kentucky restricted gatherings in mid-March, not checked against a source); Sat 3/7 ran, if it is the "3/30" session.
+- **The bio is the partner's, and the 2021 bio copies it:** "over 15 years of experience in the financial
+  services industry and a degree in Finance from Miami University of Ohio". The 2021 piece says the same of
+  Justin, with "Business" for "Finance". **So 2021's "15 years" may be inherited template copy, not evidence
+  of Justin's years.** The bio years stay Justin's to confirm with documentation.
+- **Legacy wording, not reused:** "sold separately through Trulip Planning, LLC" (current copy names Trulip
+  Investment Management, LLC); "Seating is limited so please guarantee your reservation today" (scarcity,
+  which Justin has ruled out).
+
 ## 2020 spring — Thomas More University, the SECOND 2020 campaign: the piece the 2021 control was copied from
 
 `2020-spring-thomas-more-2nd-campaign-proof.pdf` (+ `2020-thomas-more-proof-page1.png`, `-page2.png`,
@@ -267,9 +312,10 @@ yet answered whether that entity ever existed.
 | 3/30/2020 | 11 | 8 |
 | **Total** | **69** | **43** |
 
-**Not on this proof and not yet reconciled:** the dates 2/25, 2/29 and 3/30 do not appear on it (it
-prints 3/28, 3/31, 4/4, 4/7), so I read 2/25 and 2/29 as the **first** campaign and 3/30 as a session of the
-second, presumably rescheduled during the shutdown. **That is Isla's reading, not Justin's.** Not supplied:
+**Not on this proof:** the dates 2/25, 2/29 and 3/30 do not appear on it (it prints 3/28, 3/31, 4/4, 4/7).
+~~I read 2/25 and 2/29 as the first campaign and 3/30 as a session of the second, presumably rescheduled
+during the shutdown.~~ **Withdrawn 2026-10-09: the three dates are the NKU winter piece above.** Whether
+these Thomas More sessions ran is not recorded. Not supplied:
 pieces mailed and spend for either campaign, attendance, clients, AUM.
 
 **What it suggests, at its weakest.** 43 units across three sessions, against 11 in 2021, 13 in 2023 and
@@ -286,7 +332,7 @@ pieces mailed and spend for either campaign, attendance, clients, AUM.
 **Pieces and cost, supplied 2026-10-08: about 25,000 pieces for about $11k ($0.44 a piece).** Justin:
 *"Mailed 25k but only costs 11k so it was cheaper for 2020."* **Unconfirmed whether that is the first
 campaign only or both.** On 43 units that is **1.72 sign-ups per 1,000 pieces and $256 per sign-up** (1.40
-and $314 if only the 35 February units belong to the 25,000). Full table and tests in
+and $314 if only the 35 February units belong to the 25,000; **superseded 2026-10-09, see the NKU winter section: 1.40 is now the two-session comparison, not a denominator doubt**). Full table and tests in
 `drafts/offer-options-and-ranking.md`, "2020 added 2026-10-08". **The 2020 rate is not distinguishable
 from 2021 or 2023 on room-filling; most of the cost-per-sign-up gap to 2021 is cost per piece, not
 response.**

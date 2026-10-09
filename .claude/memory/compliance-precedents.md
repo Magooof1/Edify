@@ -1338,6 +1338,7 @@ The 2021 control says "over 15 years"; the 2025 proof says "over 20 years"; Janu
 carries a bracketed placeholder (`drafts/mailer-v6-control-rework.md`, the BIO line, marked
 CONFIRM). **The figure is Justin's to confirm with documentation.** This record does not say
 which is right.
+**[Pointer, 2026-10-09, later still: the 2021 "over 15 years" bio is the partner's 2020 bio with the name swapped, so it is not independent evidence of Justin's years. See the last entry in `growth-channels.md` and `reference/winning-mailers/README.md`, "2020 winter — NKU".]**
 
 ### Flagged against the existing record (not resolved, not overwritten)
 1. **"Names have changed since 2021" vs. "does not exist."** The winning-mailers README

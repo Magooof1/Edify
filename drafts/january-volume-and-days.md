@@ -49,7 +49,7 @@ knows**, so all three are shown.
 
 ## One day or two
 
-Saturday morning took **69% of sign-ups in 2020 and in 2023**, had the better show rate (78% against 50%), and
+Saturday morning took **69% of sign-ups in 2020 and in 2023** (2020 counted on its first Saturday plus the Tuesday series, 24 of 35, which is the like-for-like two-session basis; across all three 2020 dates, two Saturdays took 74%), had the better show rate (78% against 50%), and
 produced **3 of the 4 clients and $800K of the $1.05M** in 2023. Tuesday evening took **31% both times.**
 
 **Whether Tuesday people would simply have come Saturday is not known.** If they would, one day loses nothing. If
@@ -85,6 +85,14 @@ for the same odds, to save one evening.
   Thursday also puts an evening ending 8:45 pm about 12 hours before a Saturday 8:30 am room. Against Tuesday: the
   Presidents' Day weekend, and Retirement Planning University's Tuesday 6 pm habit at NKU. **Isla leans Tuesday 16,
   narrowly.** Either is defensible; it is Justin's call, and it must be settled before the panels are final.
+- **The 2020 piece is now on file** (`reference/winning-mailers/2020-winter-nku-5th-campaign-proof.*`, README
+  section "2020 winter — NKU"): **same venue (NKU Student Union), mailed in January, three dates**: Sat 2/29,
+  a two-evening Tuesday series 2/25 + 3/3, and Sat 3/7. Saturdays took 74% of the 43 units; **the second
+  Saturday, a week later, still drew 8** (if the "3/30" session is 3/7, as Isla reads it; Justin to confirm).
+  **So the 1.72 rate was earned with three sessions.** A two-session plan compares to Sat 2/29 + the Tuesday
+  series: **1.40 per 1,000.** The pattern in the one January drop on record is **two Saturdays plus a weekday**,
+  not Tuesday-or-Thursday. Whether NKU has a second Saturday free (27 February) is not known; a suggestion for
+  Justin, not part of the plan.
 - **Early in the year (Justin, 2026-10-09): this is the first drop since 2020 to mail in January.** 2020 is also the
   best rate on record (1.4 to 1.7 per 1,000). **Not priced in:** 2020 is confounded with a fresh market, pre-COVID
   conditions and a lower cost, and it is one year. Read it as an upside scenario, not a reason to cut volume.
