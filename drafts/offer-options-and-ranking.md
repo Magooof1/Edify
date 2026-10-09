@@ -40,7 +40,7 @@ different words. One of them may relocate the entire problem.
 | Harrison, Ohio | ~$10k | ~10,000 | 3 | **3** | April 2026 |
 | IWU West Chester | ~$10k | ~10,000 | 4 | **4** | April 2025 |
 | NKU, spring 2023 | **~$10k** *(Justin, 2026-10-06)* | **~12,000** | **13 units** (Sat 4/22: 9 units / 16 people; Tue 4/25: 4 units) | **9 units** (Sat 7, Tue 2) | Sat 4/22 and Tue 4/25/2023. **Thu 4/20 was on the mailer; Justin treats Sat and Tue as the whole 2023 result.** |
-| Thomas More, spring 2020 *(Justin's partner's campaign; Justin, 2026-10-08)* | **~$11k** | **~25,000** | **43 units** (Tue 2/25: 11; Sat 2/29: 24; 3/30: 8; 69 people) | **not known** | 2/25, 2/29 and 3/30/2020. **Whether the 25,000 and $11k cover one campaign or both is unconfirmed.** |
+| **NKU, winter 2020** *(Justin's partner's campaign; Justin, 2026-10-08; venue corrected 2026-10-09 from "Thomas More" when the NKU proof arrived)* | **~$11k** ("1 campaign") | **~25,000** | **43 units** (Tue series 2/25 + 3/3: 11; Sat 2/29: 24; "3/30": 8, read as Sat 3/7, Justin to confirm; 69 people) | **not known** | Mailed January 2020. See `reference/winning-mailers/README.md`, "2020 winter — NKU". |
 
 *2023, supplied by Justin 2026-10-06: **4 clients** (Sat 3, Tue 1), **$800K + $250K = $1.05M** assets.* That total equals the 2023 year-acquired figure already on record ($1.050M, growth-channels.md 2026-10-01) to the dollar, so for 2023 the vintage was entirely class-sourced. Thursday is covered in the note below.
 
