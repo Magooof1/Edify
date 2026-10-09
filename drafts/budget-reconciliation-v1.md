@@ -1,5 +1,10 @@
 # Budget reconciliation — one plan, not three (Isla, 2026-10-01)
 
+> **2026-10-09 SUPERSEDED on the 2026 $7K.** Justin chose the class, said nothing else claims the $7K, and said he
+> does not know the $1,500 batch day or the $800 flex: they were lines in this file, Isla's allocation, not his costs.
+> **Withdrawn, as is the "5,000 pieces" and every figure here that rests on a ~$1,937 fixed cost.** What the $7K
+> buys is in the last section of `drafts/offer-options-and-ranking.md`.
+
 **Written after Justin confirmed three facts that none of the three directors had when
 they planned.** Their revisions each claimed nearly the whole pot, so this is an
 allocation decision rather than a merge. **Isla's call, and the disagreements are named.**

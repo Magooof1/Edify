@@ -1,5 +1,11 @@
 # The offer — options, ranking, and what to check before spending anything
 
+> **2026-10-09 WARNING. The "~$1,937 fixed per drop" in this file is WITHDRAWN.** It was a residual
+> (a rounded ~$10k less Harrison's itemised $8,063), never a measured cost, and Justin has now said every
+> figure he gives is print and postage only. Every passage below that rests on it (the fixed-cost break-even,
+> the $0.524 "marginal piece", "under-mailing pays the fixed cost", the lever corrections) is **unsupported
+> until a High Note quote shows a real fixed cost.** Read the last section of this file first.
+
 **Jayme, 2026-09-28. Isla's verdict and amendments marked.**
 
 **Status: analysis. Nothing approved, nothing scheduled, no venue contacted, no copy
@@ -854,39 +860,61 @@ the lever that moved most was the one nobody had been pulling.
 2020 (Harrison's actual postage was $0.365 a piece). **The 2020 list's size and filters are not on record.** (An earlier version of this line called it probably broader because the piece said ages 50 to 70; the 2021 piece says the same, so that inference did not hold.) So $0.44 is not a price anyone can buy today.
 
 
-### 2020 scope confirmed, and the case for mailing more than $7K (2026-10-08, later)
+### 2020 scope confirmed, the "$1,937 fixed" premise withdrawn, and what $7K buys (2026-10-09)
 
-**Justin:** *"1 campaign. Postage and print and design."* So the 25,000 pieces and $11k are **one
-campaign, and the $11k covers postage, print and design.** Still unconfirmed: whether all three sign-up
-dates (2/25, 2/29, 3/30) belong to it.
+**What Justin said, 2026-10-08 and 09.**
+- 2020 was **one campaign; the $11k covers postage, print and design.**
+- **Nothing else claims the $7K.** *"I'm thinking we might have to mail more than the 7k,"* and if so *"I'd just cover the additional cost"*: his own money, so perk eligibility does not arise.
+- Of the roughly $1,937 the later drops were thought to carry outside print and postage, **design was none.** *"All costs I give you are print and postage. I've never added anything else."*
+- The $1,500 batch day and $800 flex *"I don't know what those are."* **They were lines in `budget-reconciliation-v1.md`, Isla's own allocation, from before he chose the class. They are not his costs and are withdrawn.**
 
-**This narrows one claim above, and the right number is a range.** The later drops' "~$10k" also carried roughly $1,937 outside print and postage (Harrison's breakdown lists list, design, venue and materials), which the 2020 figure may not: Justin says 2020's $11k covers postage, print and design. **If design sat inside that $1,937, then 2021 on a like-for-like basis (print, postage, design) costs more than the $0.81 I first used, and the gap widens back toward the original 2.27x. If none of it was design, it is about 1.8x.** So **cost accounts for roughly 58% to 65% of the 2020-to-2021 gap in cost per sign-up, and response for the rest**, and the cost-per-sign-up gap is **about 2.9x to 3.6x** depending on basis. Which end is right needs High Note or Justin: how much of the $1,937 was design. Direction unchanged: the cost lever is at least as big as response.
+**WITHDRAWN: the "~$1,937 fixed per drop."** The record derived it as about $10k (Justin's rounded total) less
+Harrison's itemised $8,063 of print and postage, and said so at the time (*"if the drop really ran ~$10,000"*).
+It was later carried as a measured fixed cost (list, design, venue, materials) and became the basis of the
+break-even correction, the $0.524 "marginal piece", and "under-mailing pays the fixed cost." **Justin's
+figures are print and postage, so the residual was a rounding gap, not a cost.** Whether a real fixed cost
+exists (plates, setup) is for a High Note quote to show.
 
-**Justin on the budget: "No [other claims on the $7K]. I'm thinking we might have to mail more than the 7k."**
+**What that does to the 2020 comparison: it settles it in the original direction.** 2020's $0.44 and the later
+drops' $0.70 to $1.00 are all print and postage, design bundled in the print price, so they **are** like for
+like. The two earlier "corrections" in this file (1.8x, then a 58 to 65% range) both rested on the $1,937
+and are **withdrawn.** The original reading stands: **2020 to 2021 cost per sign-up fell 3.6x, response 1.56x
+and cost per piece 2.27x, so cost per piece is about two-thirds of the gap.**
 
-**Arithmetic, at Harrison's actual unit costs ($0.695 a piece plus about $1,937 fixed).** A High Note quote
-will differ; volume breaks should lower the per-piece figure.
+**Open: which Harrison number.** The invoice itemises **$8,063** (11,597 pieces, $0.695); Justin has said
+about $10k. Cost per sign-up in 2026 is **$2,688** on the invoice and **$3,333** on $10k. Not known: whether
+the 2021, 2023 and 2025 totals are invoices or rounded.
 
-| Pieces | Cost | Per piece | Sign-ups at the 2023 rate (1.08 per 1,000) | At the Ohio rate (0.35) | Cost per sign-up, 2023 rate |
-|---|---|---|---|---|---|
-| 5,000 | $5,412 | $1.08 | 5.4 | 1.8 | $1,002 |
-| 7,000 | $6,802 | $0.97 | 7.6 | 2.5 | $900 |
-| 10,000 | $8,887 | $0.89 | 10.8 | 3.5 | $823 |
-| 15,000 | $12,362 | $0.82 | 16.2 | 5.2 | $763 |
-| 25,000 | $19,312 | $0.77 | 27.0 | 8.8 | $715 |
+**What $7K buys, with no fixed cost assumed** (cost = unit cost times pieces):
 
-**Marginal view:** each extra 1,000 pieces costs about $695 and, at the 2023 rate, brings about 1.1
-sign-ups ($643 each) and 0.33 clients ($2,100 each), about $88K of assets. **That assumes the added
-households respond like the average. They will not: a wider list is a less dense list, which is the real
-risk.** At the Ohio rate the same $8.9K buys 3.5 sign-ups, about $2,500 each.
+| Unit cost (print and postage) | Source | Pieces for $7,000 |
+|---|---|---|
+| $0.695 | Harrison, itemised | **about 10,070** |
+| $0.83 | 2023, $10k over 12,000 | about 8,430 |
+| $1.00 | 2021 and 2025, $10k over 10,000 | 7,000 |
 
-**The strongest reason to mail more is information, not yield.** January can tell us whether NKU still
-works (the 2023 rate) or the Ohio fall is the new normal (the Ohio rate). With a cut-off chosen to
-balance the two errors: **5,000 pieces calls it wrong about 1 time in 5 if NKU is still working and 1 in 10 if
-not; 10,000 pieces about 1 in 11 and 1 in 14; 15,000 about 1 in 25 each.** Poisson arithmetic on two
-assumed rates; it ignores list quality and the changed offer.
+So **$7K buys somewhere between 7,000 and 10,000 pieces.** The 5,000 in earlier plans came from the
+withdrawn fixed-cost model and the card's $0.55; it should not be quoted.
 
-**Not decided, all Justin's:** where money above $7K would come from (the 2026 $7K expires; 2027's $22K
-carries the spring mailer); **when High Note bills postage** (mail enters 12-19 January, so it may fall in
-2027 whatever the print invoice does); whether the DRA in-band count in OH/KY supports the volume; and
-that a larger January drop draws on the same households the spring drop planned to use.
+**Expected sign-ups by volume**, at three response rates (per 1,000 pieces: 2023 1.08, Ohio about 0.35, 2020
+1.72). Cost per sign-up is flat in volume once there is no fixed cost: **about $643 at the 2023 rate, $1,986
+at the Ohio rate, $404 at the 2020 rate**, at $0.695 a piece.
+
+| Pieces | Cost at $0.695 | 2023 rate | Ohio rate | 2020 rate |
+|---|---|---|---|---|
+| 5,000 | $3,475 | 5.4 | 1.8 | 8.6 |
+| 7,000 | $4,865 | 7.6 | 2.5 | 12.0 |
+| 10,000 | $6,950 | 10.8 | 3.5 | 17.2 |
+| 12,000 | $8,340 | 13.0 | 4.2 | 20.6 |
+| 15,000 | $10,425 | 16.2 | 5.2 | 25.8 |
+
+**The case for volume is information, not unit cost.** With a cut-off chosen to balance the two errors,
+telling "NKU still works" (2023 rate) from "the Ohio fall is the new normal" goes wrong about **1 time in 5 or
+1 in 10 at 5,000 pieces, 1 in 11 and 1 in 14 at 10,000, and about 1 in 25 each at 15,000.** Poisson on two
+assumed rates; it ignores list quality and the changed offer. **Added households will respond less than the
+average**, which is the real limit on mailing more.
+
+**Not decided, all Justin's:** the High Note quote at several quantities and **when they bill postage** (mail
+enters 12 to 19 January, so postage may fall in 2027 whatever the print invoice does); whether the DRA in-band
+count in OH/KY supports the volume; and that a larger January drop draws on the households the spring drop
+planned to use. The only non-mailing cost foreseen is the tracked phone line and URL, price unknown.
