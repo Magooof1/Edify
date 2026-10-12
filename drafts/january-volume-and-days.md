@@ -138,7 +138,8 @@ Source: `reference/lists/` (count file and README). Ages 52 to 65, 15 miles of N
   and the extra 3,440 are the weakest households in the pool. Not recommended unless Justin wants the margin.
 - **The list is new money.** $130 per 1,000 = **$1,820 at 14,000.** Justin's cost figures are print and
   postage only, so the drop is about **$10,360** ($8,540 + $1,820), unless the list was bundled in the past.
-- **Remove "excluding Asians/Indians."** An ethnicity exclusion nobody in this record asked for. Its upside
+- **DECIDED by Justin 2026-10-12: the exclusion comes off** ("I won't do the exclusion. They just did that, not sure why"). The vendor applied it unasked. Ask them to remove it as a standing default on his account, and whether it was on the 2021 and 2023 lists.
+- ~~**Remove "excluding Asians/Indians."**~~ An ethnicity exclusion nobody in this record asked for. Its upside
   is a small saving on a small share of households; its downside is an education brand that screened people
   out by ethnicity. Isla's recommendation is to drop it whatever it costs. **Justin's call; if he keeps it,
   it goes to Ed** (insurance unfair-discrimination rules in OH/KY are the question, and outside counsel's if

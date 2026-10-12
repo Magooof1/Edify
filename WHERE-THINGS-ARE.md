@@ -70,7 +70,7 @@ Tuesday 16 and Saturday 20 February (decided 2026-10-09).
 | The artboards | the Design canvas (Artifact) | Five surfaces at true print size. |
 | What competitors are running | `reference/competitors/` | RPU's Xavier ad (taxes) and Allworth's Roth webinar ad ($2M+), both October 2026 Facebook. Evidence about the field, not about what works. **Justin is feeding this as he sees pieces.** |
 
-**DRA count in, 2026-10-12** (`reference/lists/`): 17,440 dual-verified within 15 miles, so 14,000 fits; carries an "excluding Asians/Indians" selection Isla recommends removing. **Open, waiting on Justin:** the list questions in `drafts/january-volume-and-days.md` "The list" · High Note quote at 14,000 (Harrison's $0.61 is the working price) and the date they bill postage and December billing · the signed no-pitch note · a tracked phone and vanity URL
+**DRA count in, 2026-10-12** (`reference/lists/`): 17,440 dual-verified within 15 miles, so 14,000 fits; the vendor's unasked "excluding Asians/Indians" selection is **off, by Justin's decision 2026-10-12**. **Open, waiting on Justin:** the list questions in `drafts/january-volume-and-days.md` "The list" · High Note quote at 14,000 (Harrison's $0.61 is the working price) and the date they bill postage and December billing · the signed no-pitch note · a tracked phone and vanity URL
 (**not** the office line 513-505-4214) · provenance of the class photo · NKU's permission
 and Portfolio Medics' reply, both in writing.
 
