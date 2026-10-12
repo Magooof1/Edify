@@ -126,3 +126,26 @@ and every odds figure in this file assumes the 2023 rate, which was earned by a 
 
 **DECIDED 2026-10-09: revert to the 2023 face.** Done on the canvas (v38).
 - The sign-up counts are small; the arithmetic is exact and the inputs are not.
+
+## The list (added 2026-10-12, from the vendor's count)
+
+Source: `reference/lists/` (count file and README). Ages 52 to 65, 15 miles of NKU, one per address.
+
+- **14,000 fits.** The vendor's dual-verified pool (IPA and net worth both $100K to $1.99M) is **17,440**.
+  Recommendation: mail 14,000 of it, **dropping the 3,440 from the bottom IPA band ($100K to $249K, 6,858 in
+  the pool)**, so the drop goes to the households both sources rank highest. Ask the vendor to cut that way.
+- **Mailing all 17,440 instead:** about 96% for 12 at the 2023 rate (against 82%), for about $2,550 more,
+  and the extra 3,440 are the weakest households in the pool. Not recommended unless Justin wants the margin.
+- **The list is new money.** $130 per 1,000 = **$1,820 at 14,000.** Justin's cost figures are print and
+  postage only, so the drop is about **$10,360** ($8,540 + $1,820), unless the list was bundled in the past.
+- **Remove "excluding Asians/Indians."** An ethnicity exclusion nobody in this record asked for. Its upside
+  is a small saving on a small share of households; its downside is an education brand that screened people
+  out by ethnicity. Isla's recommendation is to drop it whatever it costs. **Justin's call; if he keeps it,
+  it goes to Ed** (insurance unfair-discrimination rules in OH/KY are the question, and outside counsel's if
+  ambiguous).
+- **Ask the vendor:** the count without the ethnicity exclusion; whether the $1.99M net-worth cap is meant
+  to drop 4,646 households where both sources say wealthy; and what selection the 2021 and 2023 NKU lists used.
+- **Suppression:** send the vendor the client, prospect and do-not-contact addresses. Justin does this
+  directly; no agent handles that file.
+- **The odds caveat stands, and gets one more line:** the 2023 rate was earned on a list whose selection is not
+  on record. If it was $250K+, a $100K floor pulls differently, direction unknown.
